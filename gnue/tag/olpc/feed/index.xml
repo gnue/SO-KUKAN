@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OLPC &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/olpc/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Apr 2007 05:43:34 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>OLPC の Live CD イメージ</title>
+		<link>/gnue/2007/04/11/olpc-%e3%81%ae-live-cd-%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 11 Apr 2007 05:43:34 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[live cd]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/11/olpc-%e3%81%ae-live-cd-%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8</guid>
+
+					<description><![CDATA[100ドルPC こと OLPC の Live CD イメージが redhat のダウンロードサーバで配布されています。とりあえずダウンロードして触ってみたところ MacBook + Parallels + Live CD [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>100ドルPC こと OLPC の Live CD イメージが redhat のダウンロードサーバで配布されています。<br />とりあえずダウンロードして触ってみたところ</p>
+<ul>
+<li>MacBook + Parallels + Live CD イメージ ⇒ 起動可、画面サイズが実画面よりも大きくなってしまう、LANに接続できず</li>
+<li>MacBook + Live CD ⇒ 起動できず</li>
+<li>FMV LOOX T50H + Live CD ⇒ 起動可、解像度の調整ができないので少し横長表示（ワイドディスプレイのため）、無線LANには接続できず（そもそも設定がわからない）、有線LANは試してません</li>
+</ul>
+<p>GUI のほうは「ふ〜ん」と感じだけど、gtk のオープン・セーブ・ダイアログをなんとかしないとちょっと子供には使わせられないかな。</p>
+<p>なお、ダウンロードサーバがむちゃ遅くてなかなか繋がりません(^^;</p>
+<p>⇒ <a href="http://olpc.download.redhat.com/olpc/streams/sdk/build1/livecd/">OLPC Live CD</a>（redhat）<br /> ⇒ <a href="http://japanese.engadget.com/2007/04/10/olpc-sugar-os-livecd/">OLPCの「Sugar OS」にLiveCD版登場</a>（Engadget）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OLPC ディスプレイの秘密</title>
+		<link>/gnue/2006/08/23/olpc-%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%ae%e7%a7%98%e5%af%86/</link>
+					<comments>/gnue/2006/08/23/olpc-%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%ae%e7%a7%98%e5%af%86/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2006 19:28:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/23/olpc-%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%ae%e7%a7%98%e5%af%86/</guid>
+
+					<description><![CDATA[100ドルPCプロジェクト（OLPC）では液晶ディスプレイとメッシュネットワークの２つが大きな技術的課題となっているのだが、そのうちの１つ液晶ディスプレイについて eWEEK（翻訳は ITmedia）が CTO のメアリ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				100ドルPCプロジェクト（OLPC）では液晶ディスプレイとメッシュネットワークの２つが大きな技術的課題となっているのだが、そのうちの１つ液晶ディスプレイについて eWEEK（翻訳は ITmedia）が CTO のメアリー・ルー・ジェプセン氏にインタビューしている。</p>
+<p>この記事を読むとどうやら OLPC の液晶ディスプレイは ClearType のようなソフトウェア技術をハードウェアで実現するようだ。OLPC の液晶ディスプレイの特徴としてモノクロモードとカラーモードで解像度が変わるわけだが、ClearType が RGB の１ピクセルを R, G, B のサブピクセルにわけて擬似的に３倍の解像度を実現していることを思い浮かべるといい。</p>
+<blockquote><p>
+「ピクセルのレイアウトをカラーの対角ストライプに変更しました。これにより、パネルの解像度を水平方向と垂直方向の両方に増減できるようになりました（標準のレイアウトでは、水平方向にしか増減できません）。」
+</p></blockquote>
+<p>というのはこのことだ。ClearType は通常の LCD を使用するため水平方向に対し解像度が３倍になる。縦横どちらにも解像度を引き延ばすために斜めにしたということらしい。もうひとつ肝なのが</p>
+<blockquote><p>
+「コストのかさむカラーフィルターの一部（あるいはすべて）を削除しました。」「ピクセルを常に特定のカラーに制限しないことにしました。どのピクセルも、あらかじめ色を指定しておくか、モノクロにしておくことができます。」
+</p></blockquote>
+<p>つまり RGB の各ピクセルの色を切換えることができるらしい。これによりカラーフィルタはいらなくなるし、ClearType のような擬似的な解像度の増加ではなくちゃんとした解像度の増加が可能ということらしい。いったいどういった技術によりそれが可能なのか私には皆目検討がつかないのだが非常に興味深いところである。</p>
+<p>さて気になるところが２点。</p>
+<p>ひとつはカラーモードの場合はいいとしてモノクロモードのとき対角ストライプによりソフトウェア的な問題は発生しないのか。結局解像度が増えると言っても ClearType のようにアンチエリアシングでしか効果を発しないのかもしれない。</p>
+<p>もうひとつは、この液晶を普通のノートPC用に売らないのかということである。もし喧伝されているようないいことづくめなら（普通デメリットはわざわざ言わないのですべてを真に受けるわけにはいかない）、当然 OLPC 以外のノートPCでもメーカーは使いたいと思うだろう。その場合、膨大なパテント収入が発生することが予想されるわけだがそれがどこに入るのか（たぶん MIT?）、また OLPC プロジェクトに還元されて価格をさらに安くできないのかなど気になるところである。</p>
+<p>⇒ <a href="http://www.itmedia.co.jp/news/articles/0608/22/news075.html" target="_blank" rel="noopener">100ドルPCプロジェクトのディスプレイ、どこが画期的なのか？</a>（ITmedia）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/23/olpc-%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%ae%e7%a7%98%e5%af%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ネグポン、大いに語る</title>
+		<link>/gnue/2006/06/06/%e3%83%8d%e3%82%b0%e3%83%9d%e3%83%b3%e3%80%81%e5%a4%a7%e3%81%84%e3%81%ab%e8%aa%9e%e3%82%8b/</link>
+					<comments>/gnue/2006/06/06/%e3%83%8d%e3%82%b0%e3%83%9d%e3%83%b3%e3%80%81%e5%a4%a7%e3%81%84%e3%81%ab%e8%aa%9e%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 06 Jun 2006 10:51:22 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/06/%e3%83%8d%e3%82%b0%e3%83%9d%e3%83%b3%e3%80%81%e5%a4%a7%e3%81%84%e3%81%ab%e8%aa%9e%e3%82%8b/</guid>
+
+					<description><![CDATA[ネゴロポンテのおっさんが Red Hatユーザーサミットの最終日で 100ドルPC（OLPC）についての講演を行ったそうです。 まぁ、Linuxユーザに対するリップサービスは置いといて、価格が 100ドルではなく 135 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ネゴロポンテのおっさんが Red Hatユーザーサミットの最終日で 100ドルPC（OLPC）についての講演を行ったそうです。</p>
+<p>まぁ、Linuxユーザに対するリップサービスは置いといて、価格が 100ドルではなく 135〜140ドル程度になるらしい。</p>
+<p>⇒ <a href="http://japan.cnet.com/news/ent/story/0,2000056022,20130647,00.htm" target="_blank" rel="noopener">「100ドルPCによってデスクトップLinuxは急拡大」&#8211;ネグロポンテ氏が講演</a>（c|net）</p>
+<p>追記：実際に動く OLPC のビデオが下記のサイトで見れます。</p>
+<p>⇒ <a href="http://www.siliconvalleysleuth.com/2006/06/first_video_of_.html" target="_blank" rel="noopener">First video of a working &#8220;One Laptop Per Child&#8221; laptop</a>（Silicon Valley Sleuth）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/06/06/%e3%83%8d%e3%82%b0%e3%83%9d%e3%83%b3%e3%80%81%e5%a4%a7%e3%81%84%e3%81%ab%e8%aa%9e%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OLPC 100ドルPC 稼働プロトタイプ</title>
+		<link>/gnue/2006/05/25/olpc-100%e3%83%89%e3%83%abpc-%e7%a8%bc%e5%83%8d%e3%83%97%e3%83%ad%e3%83%88%e3%82%bf%e3%82%a4%e3%83%97/</link>
+					<comments>/gnue/2006/05/25/olpc-100%e3%83%89%e3%83%abpc-%e7%a8%bc%e5%83%8d%e3%83%97%e3%83%ad%e3%83%88%e3%82%bf%e3%82%a4%e3%83%97/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 24 May 2006 21:52:08 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/05/25/olpc-100%e3%83%89%e3%83%abpc-%e7%a8%bc%e5%83%8d%e3%83%97%e3%83%ad%e3%83%88%e3%82%bf%e3%82%a4%e3%83%97/</guid>
+
+					<description><![CDATA[100ドルPC の稼働プロトタイプがお披露目になったようです。 写真を見るとディスプレイ上部横のパーツを回転させると USB などの端子が現れるようになっているようです。回転させたパーツがなにか鬼の角のようにも見えます。 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				100ドルPC の稼働プロトタイプがお披露目になったようです。</p>
+<p>写真を見るとディスプレイ上部横のパーツを回転させると USB などの端子が現れるようになっているようです。回転させたパーツがなにか鬼の角のようにも見えます。</p>
+<p>ディスプレイには Fedora(?) のデスクトップがうつってますね。</p>
+<p>残念ながら手回しクランクは廃止。</p>
+<p>⇒ <a href="http://japanese.engadget.com/2006/05/23/olpc-100-pc/" target="_blank" rel="noopener">OLPC 100ドルPC 稼働プロトタイプ</a>（Engadget Japanese）<br />
+⇒ <a href="http://laptop.org/" target="_blank" rel="noopener">One Laptop per Child</a><br />
+⇒ <a href="http://www.tanomi.com/metoo/naiyou.html?kid=53956" target="_blank" rel="noopener">MIT Media Lab:$100 Laptop の日本発売</a>（tanomi.com）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/05/25/olpc-100%e3%83%89%e3%83%abpc-%e7%a8%bc%e5%83%8d%e3%83%97%e3%83%ad%e3%83%88%e3%82%bf%e3%82%a4%e3%83%97/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>$100 Laptop の新デザイン</title>
+		<link>/gnue/2006/03/18/100-laptop-%e3%81%ae%e6%96%b0%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/</link>
+					<comments>/gnue/2006/03/18/100-laptop-%e3%81%ae%e6%96%b0%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 17 Mar 2006 18:04:10 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/03/18/100-laptop-%e3%81%ae%e6%96%b0%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/</guid>
+
+					<description><![CDATA[MIT の OLPC（$100 Laptop）の新デザインが発表されていますね。ホームページも新しく http://laptop.org/ でオープンしています。 ⇒ One Laptop per Child ⇒ MIT [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				MIT の OLPC（$100 Laptop）の新デザインが発表されていますね。ホームページも新しく <a href="http://laptop.org/" target="_blank" rel="noopener">http://laptop.org/</a> でオープンしています。</p>
+<p>⇒ <a href="http://laptop.org/" target="_blank" rel="noopener">One Laptop per Child</a><br />
+⇒ <a href="http://www.tanomi.com/metoo/naiyou.html?kid=53956" target="_blank" rel="noopener">MIT Media Lab:$100 Laptop の日本発売</a>（たのみこむ）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/03/18/100-laptop-%e3%81%ae%e6%96%b0%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>$100 Laptop の製造先が決定</title>
+		<link>/gnue/2005/12/15/100-laptop-%e3%81%ae%e8%a3%bd%e9%80%a0%e5%85%88%e3%81%8c%e6%b1%ba%e5%ae%9a/</link>
+					<comments>/gnue/2005/12/15/100-laptop-%e3%81%ae%e8%a3%bd%e9%80%a0%e5%85%88%e3%81%8c%e6%b1%ba%e5%ae%9a/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2005 01:28:32 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/15/100-laptop-%e3%81%ae%e8%a3%bd%e9%80%a0%e5%85%88%e3%81%8c%e6%b1%ba%e5%ae%9a/</guid>
+
+					<description><![CDATA[$100 Laptop の ODM（Original Design Manufacture）先として台湾の Quanta 社が選出されました。ODM先は製造だけでなく最終的な設計工程にも関わるそうです。 ⇒ あの100ド [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				$100 Laptop の ODM（Original Design Manufacture）先として台湾の Quanta 社が選出されました。ODM先は製造だけでなく最終的な設計工程にも関わるそうです。</p>
+<p>⇒ <a href="http://japan.cnet.com/news/tech/story/0,2000047674,20092972,00.htm" target="_blank" rel="noopener">あの100ドルノートPCがいよいよ実現へ&#8211;製造は台湾のクワンタに決定</a>（c|net）<br />
+⇒ <a href="http://www.tanomi.com/metoo/naiyou.html?kid=53956" target="_blank" rel="noopener">MIT Media Lab:$100 Laptop の日本発売</a>（tanomi.com）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/12/15/100-laptop-%e3%81%ae%e8%a3%bd%e9%80%a0%e5%85%88%e3%81%8c%e6%b1%ba%e5%ae%9a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alan Kay と $100 Laptop</title>
+		<link>/gnue/2005/11/11/alan-kay-%e3%81%a8-100-laptop/</link>
+					<comments>/gnue/2005/11/11/alan-kay-%e3%81%a8-100-laptop/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 11 Nov 2005 13:50:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/11/11/alan-kay-%e3%81%a8-100-laptop/</guid>
+
+					<description><![CDATA[アラン・ケイってまた日本に来てたんですね。「HPスーパーサイエンスキッズ」カンファレンスの講演で $100 Laptop の話題にも触れています。 ただ、どういうわけか PC Watch の記事では MIT の M の字 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				アラン・ケイってまた日本に来てたんですね。「HPスーパーサイエンスキッズ」カンファレンスの講演で $100 Laptop の話題にも触れています。</p>
+<p>ただ、どういうわけか PC Watch の記事では MIT の M の字も出てきません。うーん(^^;</p>
+<p>⇒ <a href="http://pc.watch.impress.co.jp/docs/2005/1111/hot392.htm" target="_blank" rel="noopener">アラン・ケイがSqueakで変える教育現場</a>（PC Watch）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/11/11/alan-kay-%e3%81%a8-100-laptop/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>「MIT Media Lab:$100 Laptop の日本発売」を tanomi.com</title>
+		<link>/gnue/2005/11/06/%e3%80%8cmit-media-lab100-laptop-%e3%81%ae%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2%e3%80%8d%e3%82%92-tanomicom/</link>
+					<comments>/gnue/2005/11/06/%e3%80%8cmit-media-lab100-laptop-%e3%81%ae%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2%e3%80%8d%e3%82%92-tanomicom/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 06 Nov 2005 04:05:57 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/11/06/%e3%80%8cmit-media-lab100-laptop-%e3%81%ae%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2%e3%80%8d%e3%82%92-tanomicom/</guid>
+
+					<description><![CDATA[だめもとで「たのみこむ」に $100 Laptop をリクエストしてみました。 11/6 現在：賛同者２名 11/7 現在：賛同者３名 11/8 現在：賛同者５名 11/11 現在：賛同者６名 11/18 現在：賛同者７ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				だめもとで<a href="http://www.tanomi.com/" target="_blank" rel="noopener">「たのみこむ」</a>に $100 Laptop  をリクエストしてみました。</p>
+<p>11/6 現在：賛同者２名<br />
+11/7 現在：賛同者３名<br />
+11/8 現在：賛同者５名<br />
+11/11 現在：賛同者６名<br />
+11/18 現在：賛同者７名<br />
+11/24 現在：賛同者８名</p>
+<p>⇒ <a href="http://www.tanomi.com/metoo/naiyou.html?kid=53956" target="_blank" rel="noopener">MIT Media Lab:$100 Laptop の日本発売</a>（たのみこむ）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/11/06/%e3%80%8cmit-media-lab100-laptop-%e3%81%ae%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2%e3%80%8d%e3%82%92-tanomicom/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ゼンマイ駆動の 100ドル・ノートPC</title>
+		<link>/gnue/2005/09/30/%e3%82%bc%e3%83%b3%e3%83%9e%e3%82%a4%e9%a7%86%e5%8b%95%e3%81%ae-100%e3%83%89%e3%83%ab%e3%83%bb%e3%83%8e%e3%83%bc%e3%83%88pc/</link>
+					<comments>/gnue/2005/09/30/%e3%82%bc%e3%83%b3%e3%83%9e%e3%82%a4%e9%a7%86%e5%8b%95%e3%81%ae-100%e3%83%89%e3%83%ab%e3%83%bb%e3%83%8e%e3%83%bc%e3%83%88pc/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2005 03:03:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/09/30/%e3%82%bc%e3%83%b3%e3%83%9e%e3%82%a4%e9%a7%86%e5%8b%95%e3%81%ae-100%e3%83%89%e3%83%ab%e3%83%bb%e3%83%8e%e3%83%bc%e3%83%88pc/</guid>
+
+					<description><![CDATA[MITのネグロポンテが発展途上国の子供向けに設計された低価格ノートPCの詳細を発表したらしい。 発展途上国向けの低価格PCというアイデアはいままで何度も出てきたが、いまのところどれひとつとして成功していない。正直なところ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				MITのネグロポンテが発展途上国の子供向けに設計された低価格ノートPCの詳細を発表したらしい。</p>
+<p>発展途上国向けの低価格PCというアイデアはいままで何度も出てきたが、いまのところどれひとつとして成功していない。正直なところ最初ネグロポンテの計画をネットニュースで見たときはそういう失敗例の１つになるだろうと話半分に思っていたのだけど、詳細が発表されたことでちょっと現実味が出てきた。さすが口八丁手八丁でメディアラボを創設したネグロポンテだけのことはある。</p>
+<p>さて、電源は通常のもの以外にノートPCの横に付いたハンドルからも供給できるそうだ。eMate 300 用のゼンマイ式充電器を彷彿させて面白い。</p>
+<p>ところで思うのだが「発展途上国のための」という枕詞はどうなのだろう。いままで失敗した（あるいは成功していない）この手のプロジェクトは「劣化した PC」を提供しようとしていることに敗因があると考える。なぜなら誰も「偽物」は欲しくないからだ。</p>
+<p>ネグロポンテの100ドル・ノートPCは発展途上国だけではなくアメリカや日本などの子供たちにも喜んで受け入れられる「本物」の予感がただよっている。期待してみたい。</p>
+<p>eMate の夢よ、ふたたび！</p>
+<p>⇒ <a href="http://japan.cnet.com/news/tech/story/0,2000047674,20087866,00.htm" target="_blank" rel="noopener">MITなど、100ドルノートPCの詳細を発表&#8211;ゼンマイ駆動も可能</a>（c|net）<br />
+⇒ <a href="http://japan.cnet.com/news/tech/story/0,2000047674,20087858,00.htm" target="_blank" rel="noopener">フォトレポート：ベールを脱いだ「100ドルPC」</a>（c|net）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/09/30/%e3%82%bc%e3%83%b3%e3%83%9e%e3%82%a4%e9%a7%86%e5%8b%95%e3%81%ae-100%e3%83%89%e3%83%ab%e3%83%bb%e3%83%8e%e3%83%bc%e3%83%88pc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

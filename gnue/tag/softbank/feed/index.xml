@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SoftBank &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/softbank/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 27 Apr 2009 22:54:00 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>iPhone for everybody に申込みしてきました</title>
+		<link>/gnue/2009/04/28/iphone-for-everybody-%e3%81%ab%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%97%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f/</link>
+					<comments>/gnue/2009/04/28/iphone-for-everybody-%e3%81%ab%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%97%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2009 22:54:00 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[SoftBank]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1695</guid>
+
+					<description><![CDATA[昨日遅ればせながら iPhone for everybody に申込みしてきました。私の契約は月末締めなので５月からの適用になります。 本人確認の証明書（運転免許証、保険証…etc）があればものの数分で手続きは完了します [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				昨日遅ればせながら iPhone for everybody に申込みしてきました。私の契約は月末締めなので５月からの適用になります。</p>
+<p>本人確認の証明書（運転免許証、保険証…etc）があればものの数分で手続きは完了します。ちなみにお約束の「新しい iPhone が出て買い換えした場合にどうなるか？」と聞いたところ「解約ではないので大丈夫だろう」とのことでした。</p>
+<p>締め日をまたいでしまうと適用が一ヶ月遅れてしまうので、月末締めの人はお忘れなく。</p>
+<p>⇒ <a href="http://mb.softbank.jp/mb/iphone/everybody/">iPhone for everybody</a>（SoftBank）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/04/28/iphone-for-everybody-%e3%81%ab%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%97%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

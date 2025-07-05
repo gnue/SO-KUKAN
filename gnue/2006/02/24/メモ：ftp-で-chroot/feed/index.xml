@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	メモ：ftp で chroot へのコメント	</title>
+	<atom:link href="/gnue/2006/02/24/%E3%83%A1%E3%83%A2%EF%BC%9Aftp-%E3%81%A7-chroot/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/02/24/%e3%83%a1%e3%83%a2%ef%bc%9aftp-%e3%81%a7-chroot/</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Feb 2006 01:20:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

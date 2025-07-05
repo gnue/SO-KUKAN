@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	メールサーバを Google にしてみる へのコメント	</title>
+	<atom:link href="/gnue/2007/02/26/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%82%92-google-%E3%81%AB%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2007/02/26/%e3%83%a1%e3%83%bc%e3%83%ab%e3%82%b5%e3%83%bc%e3%83%90%e3%82%92-google-%e3%81%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Nov 2008 04:49:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2007/02/26/%e3%83%a1%e3%83%bc%e3%83%ab%e3%82%b5%e3%83%bc%e3%83%90%e3%82%92-google-%e3%81%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/#comment-805</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2008 04:49:36 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/02/26/%e3%83%a1%e3%83%bc%e3%83%ab%e3%82%b5%e3%83%bc%e3%83%90%e3%82%92-google-%e3%81%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/#comment-805</guid>
+
+					<description><![CDATA[ホスト名1とホスト名2を逆にすれば大丈夫だと思います。
+
+　ホスト名1 *
+　ホスト名2 www
+
+》google側のドメインの確認にcnameかhtmlがありますが、これはどうされていますか？
+
+だいぶ前なのでどうやったのか忘れてますが、どこのことを指しているんでしょう。別に特別なことは何もしなかったように記憶してます。]]></description>
+			<content:encoded><![CDATA[<p>ホスト名1とホスト名2を逆にすれば大丈夫だと思います。</p>
+<p>　ホスト名1 *<br />
+　ホスト名2 www</p>
+<p>》google側のドメインの確認にcnameかhtmlがありますが、これはどうされていますか？</p>
+<p>だいぶ前なのでどうやったのか忘れてますが、どこのことを指しているんでしょう。別に特別なことは何もしなかったように記憶してます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		ぽん より		</title>
+		<link>/gnue/2007/02/26/%e3%83%a1%e3%83%bc%e3%83%ab%e3%82%b5%e3%83%bc%e3%83%90%e3%82%92-google-%e3%81%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/#comment-804</link>
+
+		<dc:creator><![CDATA[ぽん]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2008 04:26:55 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/02/26/%e3%83%a1%e3%83%bc%e3%83%ab%e3%82%b5%e3%83%bc%e3%83%90%e3%82%92-google-%e3%81%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/#comment-804</guid>
+
+					<description><![CDATA[私もmydns.jpを使ってGoogleappのメールサバを利用したいと思い
+ドメイン名　　xxxxxxxx.com
+ＭＸレコード ASPMX.L.GOOGLE.COM
+ホスト名1   www
+ホスト名2 *
+とやってみたら
+エラー:ドメイン、またはホスト名の入力が間違えています。
+となりました。
+どのように設定すれば上手くいくでしょうか？
+google側のドメインの確認にcnameかhtmlがありますが、これはどうされていますか？]]></description>
+			<content:encoded><![CDATA[<p>私もmydns.jpを使ってGoogleappのメールサバを利用したいと思い<br />
+ドメイン名　　xxxxxxxx.com<br />
+ＭＸレコード ASPMX.L.GOOGLE.COM<br />
+ホスト名1   www<br />
+ホスト名2 *<br />
+とやってみたら<br />
+エラー:ドメイン、またはホスト名の入力が間違えています。<br />
+となりました。<br />
+どのように設定すれば上手くいくでしょうか？<br />
+google側のドメインの確認にcnameかhtmlがありますが、これはどうされていますか？</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

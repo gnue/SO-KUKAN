@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	鵺的：創空間 へのコメント	</title>
+	<atom:link href="/products/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/products</link>
+	<description>Are Your Lights On?</description>
+	<lastBuildDate>Sun, 21 Feb 2021 15:41:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		鶴川 より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-216</link>
+
+		<dc:creator><![CDATA[鶴川]]></dc:creator>
+		<pubDate>Sun, 21 Feb 2021 15:41:24 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-216</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/products/receiptkeeper/#comment-215&quot;&gt;gnue&lt;/a&gt; への返信。
+
+そんな方法があったのですね...。
+うまく出来ました。
+ありがとうございます。]]></description>
+			<content:encoded><![CDATA[<p><a href="/products/receiptkeeper/#comment-215">gnue</a> への返信。</p>
+<p>そんな方法があったのですね&#8230;。<br />
+うまく出来ました。<br />
+ありがとうございます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		gnue より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-215</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 21 Feb 2021 06:49:08 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-215</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/products/receiptkeeper/#comment-214&quot;&gt;鶴川&lt;/a&gt; への返信。
+
+鶴川さん、こんにちは。
+
+アプリの機能ではありませんが
+
+① Finder から receiptsファイルを選択
+② コンテキストメニュー（マウスの右クリックまたは Control+クリック）で「パッケージの内容を表示」を選択
+③ パッケージの中身が見えるようになりますので、そのまま Finder で中の receiptファイル（実ファイル）を移動する
+
+ことにより一つにまとめることができます]]></description>
+			<content:encoded><![CDATA[<p><a href="/products/receiptkeeper/#comment-214">鶴川</a> への返信。</p>
+<p>鶴川さん、こんにちは。</p>
+<p>アプリの機能ではありませんが</p>
+<p>① Finder から receiptsファイルを選択<br />
+② コンテキストメニュー（マウスの右クリックまたは Control+クリック）で「パッケージの内容を表示」を選択<br />
+③ パッケージの中身が見えるようになりますので、そのまま Finder で中の receiptファイル（実ファイル）を移動する</p>
+<p>ことにより一つにまとめることができます</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		鶴川 より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-214</link>
+
+		<dc:creator><![CDATA[鶴川]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2021 04:14:40 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-214</guid>
+
+					<description><![CDATA[６年ぶりに書き込みます。10.15 Catalinaになっても便利に使わせて頂いています。
+メインのreceiptファイルに全カードを読み込んでいますが、長く使っていると更新で失効したカードや新規カードがどんどん増えて来ます。そこで
+1. メインreceiptファイルのコピーを作成
+2. コピー先のファイルで執行したカードのレシートを残して他のレシートを削除、履歴参照専用receiptファイルとする
+3. 履歴参照専用receiptファイルに残したレシートをメインreceiptファイルから削除し、メインreceiptファイルを有効カードだけにする
+の手順で整理をしていますが、整理の度に履歴参照専用receiptファイルが増えてしまいます。
+複数の履歴参照専用receiptファイルを一つのreceiptファイルにまとめられるとスッキリするのですが、そのような機能の追加は可能でしょうか？
+もしくは、他のコマンドやツールなどでr複数のeceiptファイルを結合出来る方法があったりすれば、是非教えて下さい。]]></description>
+			<content:encoded><![CDATA[<p>６年ぶりに書き込みます。10.15 Catalinaになっても便利に使わせて頂いています。<br />
+メインのreceiptファイルに全カードを読み込んでいますが、長く使っていると更新で失効したカードや新規カードがどんどん増えて来ます。そこで<br />
+1. メインreceiptファイルのコピーを作成<br />
+2. コピー先のファイルで執行したカードのレシートを残して他のレシートを削除、履歴参照専用receiptファイルとする<br />
+3. 履歴参照専用receiptファイルに残したレシートをメインreceiptファイルから削除し、メインreceiptファイルを有効カードだけにする<br />
+の手順で整理をしていますが、整理の度に履歴参照専用receiptファイルが増えてしまいます。<br />
+複数の履歴参照専用receiptファイルを一つのreceiptファイルにまとめられるとスッキリするのですが、そのような機能の追加は可能でしょうか？<br />
+もしくは、他のコマンドやツールなどでr複数のeceiptファイルを結合出来る方法があったりすれば、是非教えて下さい。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		mmm より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-213</link>
+
+		<dc:creator><![CDATA[mmm]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2019 10:56:58 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-213</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/products/receiptkeeper/#comment-212&quot;&gt;gnue&lt;/a&gt; への返信。
+
+返信有難うございます！
+メール拝見しました。
+添付メールで送ってもらえないでしょうか…とありましたが、
+ターミナルを実行したら、その後どうすればよいのでしょうか？
+[プロセスが完了しました]のあと、何をすればよいのでしょうか？
+プログラムは素人なので、お手数ですがご教示願います。
+よろしくおねがいします。]]></description>
+			<content:encoded><![CDATA[<p><a href="/products/receiptkeeper/#comment-212">gnue</a> への返信。</p>
+<p>返信有難うございます！<br />
+メール拝見しました。<br />
+添付メールで送ってもらえないでしょうか…とありましたが、<br />
+ターミナルを実行したら、その後どうすればよいのでしょうか？<br />
+[プロセスが完了しました]のあと、何をすればよいのでしょうか？<br />
+プログラムは素人なので、お手数ですがご教示願います。<br />
+よろしくおねがいします。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		gnue より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-212</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2019 02:03:08 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-212</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/products/receiptkeeper/#comment-211&quot;&gt;mmm&lt;/a&gt; への返信。
+
+mmm さん、こんにちは。
+
+プラスEXカードと組み合わせてお使いということで、もしかしたらこちらが想定していた連番とズレが生じたのかもしれません。データを確認するためにダンプを取って送ってもらいたいので、別途メールします。
+
+MFクラウドはマネーフォワードの事業者向けですよね。SFCard Viewer 2 のCSV形式はわかりますか？]]></description>
+			<content:encoded><![CDATA[<p><a href="/products/receiptkeeper/#comment-211">mmm</a> への返信。</p>
+<p>mmm さん、こんにちは。</p>
+<p>プラスEXカードと組み合わせてお使いということで、もしかしたらこちらが想定していた連番とズレが生じたのかもしれません。データを確認するためにダンプを取って送ってもらいたいので、別途メールします。</p>
+<p>MFクラウドはマネーフォワードの事業者向けですよね。SFCard Viewer 2 のCSV形式はわかりますか？</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		mmm より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-211</link>
+
+		<dc:creator><![CDATA[mmm]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2019 05:35:23 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-211</guid>
+
+					<description><![CDATA[こんにちは！
+便利でものすごく助かってます。
+この間、在来線（京王線 某駅→中央線 新宿駅→東京駅→JR東海新幹線）で新幹線乗換をした際に
+pasmo+plusEXカードの組み合わせで乗り換え改札通路を通ったのですが、
+その分が記録されておらず“！”マークが表示され合計残額がずれました。
+これは仕様でしょうか？ちなみに20件ルールは守って読み込みをしています。
+ご確認いただけますと幸いです。
+
+また、CSVの書き出し項目が選べたできるようになると嬉しいです。
+（例えば“ SFCard Viewer 2”と同じ項目で書き出せるようにできるとか）
+そうすると、書き出したCSVを後で加工せずに某会計ソフト（MFク○ウド）への
+インポートが容易にできたりするのです。
+ご検討いただけると嬉しいです！]]></description>
+			<content:encoded><![CDATA[<p>こんにちは！<br />
+便利でものすごく助かってます。<br />
+この間、在来線（京王線 某駅→中央線 新宿駅→東京駅→JR東海新幹線）で新幹線乗換をした際に<br />
+pasmo+plusEXカードの組み合わせで乗り換え改札通路を通ったのですが、<br />
+その分が記録されておらず“！”マークが表示され合計残額がずれました。<br />
+これは仕様でしょうか？ちなみに20件ルールは守って読み込みをしています。<br />
+ご確認いただけますと幸いです。</p>
+<p>また、CSVの書き出し項目が選べたできるようになると嬉しいです。<br />
+（例えば“ SFCard Viewer 2”と同じ項目で書き出せるようにできるとか）<br />
+そうすると、書き出したCSVを後で加工せずに某会計ソフト（MFク○ウド）への<br />
+インポートが容易にできたりするのです。<br />
+ご検討いただけると嬉しいです！</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		みち より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-210</link>
+
+		<dc:creator><![CDATA[みち]]></dc:creator>
+		<pubDate>Fri, 19 Apr 2019 12:42:10 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-210</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/products/receiptkeeper/#comment-209&quot;&gt;gnue&lt;/a&gt; への返信。
+
+早速のお返事ありがとうございます。
+購入します。]]></description>
+			<content:encoded><![CDATA[<p><a href="/products/receiptkeeper/#comment-209">gnue</a> への返信。</p>
+<p>早速のお返事ありがとうございます。<br />
+購入します。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		gnue より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-209</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 19 Apr 2019 11:14:11 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-209</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/products/receiptkeeper/#comment-208&quot;&gt;みち&lt;/a&gt; への返信。
+
+みちさん、こんにちは。
+
+はい、Mojave でも動作します。]]></description>
+			<content:encoded><![CDATA[<p><a href="/products/receiptkeeper/#comment-208">みち</a> への返信。</p>
+<p>みちさん、こんにちは。</p>
+<p>はい、Mojave でも動作します。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		みち より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-208</link>
+
+		<dc:creator><![CDATA[みち]]></dc:creator>
+		<pubDate>Fri, 19 Apr 2019 10:04:38 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-208</guid>
+
+					<description><![CDATA[こんにちは
+このソフトはmojaveで動作しますか？]]></description>
+			<content:encoded><![CDATA[<p>こんにちは<br />
+このソフトはmojaveで動作しますか？</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		ぺいくん より ReceiptKeeper へのコメント		</title>
+		<link>/products/receiptkeeper/#comment-207</link>
+
+		<dc:creator><![CDATA[ぺいくん]]></dc:creator>
+		<pubDate>Fri, 12 Oct 2018 01:17:41 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-207</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/products/receiptkeeper/#comment-206&quot;&gt;gnue&lt;/a&gt; への返信。
+
+ありがとうございました。なかなか難しいものなのですね。]]></description>
+			<content:encoded><![CDATA[<p><a href="/products/receiptkeeper/#comment-206">gnue</a> への返信。</p>
+<p>ありがとうございました。なかなか難しいものなのですね。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

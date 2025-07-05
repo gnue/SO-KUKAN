@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	load_plugin_textdomain の適切な指定方法 へのコメント	</title>
+	<atom:link href="/gnue/2009/05/12/load_plugin_textdomain-%E3%81%AE%E9%81%A9%E5%88%87%E3%81%AA%E6%8C%87%E5%AE%9A%E6%96%B9%E6%B3%95/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/05/12/load_plugin_textdomain-%e3%81%ae%e9%81%a9%e5%88%87%e3%81%aa%e6%8c%87%e5%ae%9a%e6%96%b9%e6%b3%95/</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 May 2009 21:22:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

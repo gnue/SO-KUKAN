@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>本 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E6%9C%AC/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 28 Aug 2006 02:42:07 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>QotD: 今から読みます</title>
+		<link>/gnue/2006/08/28/qotd-%e4%bb%8a%e3%81%8b%e3%82%89%e8%aa%ad%e3%81%bf%e3%81%be%e3%81%99/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 28 Aug 2006 02:42:07 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[on my nightstand]]></category>
+		<category><![CDATA[qotd]]></category>
+		<category><![CDATA[今から読みます]]></category>
+		<category><![CDATA[今日の質問]]></category>
+		<category><![CDATA[本]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/08/28/qotd-%e4%bb%8a%e3%81%8b%e3%82%89%e8%aa%ad%e3%81%bf%e3%81%be%e3%81%99</guid>
+
+					<description><![CDATA[今、読んでいる本もしくは今度読もうと思っている本は何ですか？ 塩野七生『ローマ人の物語』（文庫版）の 24~26巻「賢帝の世紀」が刊行されたみたいなので読まないわけにはいかないでしょう。]]></description>
+										<content:encoded><![CDATA[<blockquote>
+<p>今、読んでいる本もしくは今度読もうと思っている本は何ですか？</p>
+</blockquote>
+<p>塩野七生『ローマ人の物語』（文庫版）の 24~26巻「賢帝の世紀」が刊行されたみたいなので読まないわけにはいかないでしょう。                                                          </p>
+<div style="text-align:left">                             <!-- Error: rendering enclosure $VAR1 = {   'at:type' =&gt; 'asset',   'at:align' =&gt; 'center',   'at:format' =&gt; 'medium',   'at:xid' =&gt; '6a00c225220b198fdb00c22524afb88e1d' };  --> </p>
+<div style="text-align:center"></div>
+</p></div>
+<p></p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「GNU開発ツール」（西田亙 著）</title>
+		<link>/gnue/2006/08/24/%e3%80%8cgnu%e9%96%8b%e7%99%ba%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8d%ef%bc%88%e8%a5%bf%e7%94%b0%e4%ba%99-%e8%91%97%ef%bc%89/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2006 06:44:46 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[本]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/08/24/%e3%80%8cgnu%e9%96%8b%e7%99%ba%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8d%ef%bc%88%e8%a5%bf%e7%94%b0%e4%ba%99-%e8%91%97%ef%bc%89</guid>
+
+					<description><![CDATA[雑誌「UNIX USER」で「GCCプログラミング工房」を執筆していた西田氏が「GNU開発ツール」という書籍を自費出版するそうだ。読者ターゲットは「手順ではなく、仕組みを理解したい方」とのこと。価格が高め（4,500円） [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="font-family:Osaka;font-style:normal;font-variant:normal;font-weight:normal;font-size:12px;line-height:normal;margin:0"><span style="font-family:Monaco;font-style:normal;font-variant:normal;font-weight:normal;font-size:12px;line-height:normal">雑誌「UNIX USER」で「GCCプログラミング工房」を執筆していた西田氏が<span style="font-family:Monaco;font-style:normal;font-variant:normal;font-weight:normal;font-size:12px;line-height:normal">「GNU</span><span class="Apple-style-span" style="font-family:Osaka">開発ツール」という書籍を自費出版するそうだ。読者ターゲットは「手順ではなく、仕組みを理解したい方」とのこと。価格が高め（4,500円）だが面白そう。</span></span></p>
+<p style="font-family:Osaka;font-style:normal;font-variant:normal;font-weight:normal;font-size:12px;line-height:normal;margin:0"><br class="khtml-block-placeholder" /></p>
+<p style="font-family:Osaka;font-style:normal;font-variant:normal;font-weight:normal;font-size:12px;line-height:normal;margin:0"><span class="Apple-style-span">自費出版のため販路が限られている（奥さんのやっているフラワーショップと通販のみ）のがちょっと残念。ISBN を取得していれば <a href="http://journal.mycom.co.jp/news/2006/06/12/009.html">amazon の委託販売プログラム</a>（9,000円／年）を使うという手もあるように思うのだがどうなんだろう。</span></p>
+<p></p>
+<p style="font-family:Osaka;font-style:normal;font-variant:normal;font-weight:normal;font-size:12px;line-height:normal;margin:0">
+<pre><span style="font-size:1em">⇒ </span><span style="font-size:1em"><span style="font-size:1.25em"><span style="font-size:1em"><span style="font-size:.8em"><a href="http://www.oversea-pub.com/publications.htm">GNU開発ツール</a>（オーバーシー・パブリッシング）</span></span></span><br />⇒ <a href="http://www.wnishida.com/%7Ewmemo/?date=20060819#p01">GNU開発ツール・予約受付開始</a>（Wataru&#039;s memo）<br />⇒ <a href="http://www.perla-jp.com/pd/contact.htm">ペルラ　プラ・ディオ（Perla Pla-Dio）</a></span><br /><br /></pre></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

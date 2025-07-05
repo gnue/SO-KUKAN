@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>やりたい事リスト &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E4%BA%8B%E3%83%AA%E3%82%B9%E3%83%88/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 06 Oct 2006 06:22:52 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>QotD:やりたい事リスト</title>
+		<link>/gnue/2006/10/06/qotd%e3%82%84%e3%82%8a%e3%81%9f%e3%81%84%e4%ba%8b%e3%83%aa%e3%82%b9%e3%83%88/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2006 06:22:52 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[ambitious list]]></category>
+		<category><![CDATA[qotd]]></category>
+		<category><![CDATA[やりたい事リスト]]></category>
+		<category><![CDATA[今日の質問]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/10/06/qotd%e3%82%84%e3%82%8a%e3%81%9f%e3%81%84%e4%ba%8b%e3%83%aa%e3%82%b9%e3%83%88</guid>
+
+					<description><![CDATA[この5年の間にやり遂げたい5つの事を教えてください。 小説を書く。できれば SF&#38;F NEWT/0 の完成 Linux, *BSD で動作するビューシステムをフルスクラッチで書く FPGA, PIC の勉強 子供 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="asset-body">
+<blockquote>
+<p style="text-align:left"><span class="Apple-style-span" style="font-family:Trebuchet MS;line-height:16px">この5年の間にやり遂げたい5つの事を教えてください。</span></p>
+</blockquote>
+<ol>
+<li><span class="Apple-style-span" style="font-family:Trebuchet MS;line-height:16px">小説を書く。できれば SF&amp;F</span></li>
+<li>NEWT/0 の完成<br /><span class="Apple-style-span" style="font-family:Trebuchet MS;line-height:16px"></span></li>
+<li><span class="Apple-style-span" style="font-family:Trebuchet MS;line-height:16px">Linux, *BSD で動作するビューシステムをフルスクラッチで書く</span></li>
+<li>FPGA, PIC の勉強<span class="Apple-style-span" style="font-family:Trebuchet MS;line-height:16px"><br /></span></li>
+<li><span class="Apple-style-span" style="font-family:Trebuchet MS;line-height:16px">子供をつくる<br /></span></li>
+</ol>
+<p>小説、いつも三日坊主でなかなか書けない（根性なし）</p>
+<p>NEWT/0（NewtonScript インタプリタ）、とりあえずできてはいるのだけどちゃんと実用になるように育てたい。<br /><span class="Apple-style-span" style="font-family:Trebuchet MS;line-height:16px"><br />ビューシステム、</span>本当は Lightweight な GUI OSもつくりたいのだけどいっきにやろうと思うと大変だし、「自作OS入門」のハリボテOSみたいなわちゃわちゃな構造になるのが目に見えているので、まずはポータブルなビューシステムから。</p>
+<p>FGPA, PIC、いまさら４ビットCPUをつくる気力もないし FGPA や PIC あたりでハードをいじりたいなと。最終的にはロボット、、、、とはなかなかいかないだろうけど、雑誌 Make: みたいなハードウェア・ハックがしてみたい。</p>
+<p>子供、別に結婚はしなくてもいいけど子供ぐらいはつくっておきたいかな。『Papa told me』の知世ちゃんみたいのがいい（をいをい）</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

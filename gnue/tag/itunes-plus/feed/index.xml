@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iTunes Plus &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/itunes-plus/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 29 Oct 2007 18:14:10 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>iTunes Plus、価格据置の曲</title>
+		<link>/gnue/2007/10/30/itunes-plus-%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89%e3%81%ae%e5%af%be%e8%b1%a1%e6%9b%b2/</link>
+					<comments>/gnue/2007/10/30/itunes-plus-%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89%e3%81%ae%e5%af%be%e8%b1%a1%e6%9b%b2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 29 Oct 2007 18:14:10 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iTunes Plus]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/10/itunes-plus-%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89%e3%81%ae%e5%af%be%e8%b1%a1%e6%9b%b2/</guid>
+
+					<description><![CDATA[iTunes Plus のライブラリアップグレードって、価格据置のまま Plus になった曲ってアップグレード対象にならないんですね。なんか悲しい。 とりあえず、カスタマーサービスに質問を送っておく。 追記：とんだ勘違い [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<del datetime="2007-11-15T06:02:24+00:00">iTunes Plus のライブラリアップグレードって、価格据置のまま Plus になった曲ってアップグレード対象にならないんですね。なんか悲しい。</del></p>
+<p><del datetime="2007-11-15T06:02:24+00:00">とりあえず、カスタマーサービスに質問を送っておく。<br />
+</del></p>
+<p>追記：とんだ勘違い、既にアップグレードしていました。もっともそのときは差額が50円で、あとで値下げしたようです。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/10/30/itunes-plus-%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89%e3%81%ae%e5%af%be%e8%b1%a1%e6%9b%b2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

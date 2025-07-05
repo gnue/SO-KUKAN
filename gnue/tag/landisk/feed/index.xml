@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LANDISK &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/landisk/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 25 Apr 2008 17:57:58 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>HDL-GX300 のバックアップと復元</title>
+		<link>/gnue/2008/04/26/hdl-gx300-%e3%81%ae%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%81%a8%e5%be%a9%e5%85%83/</link>
+					<comments>/gnue/2008/04/26/hdl-gx300-%e3%81%ae%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%81%a8%e5%be%a9%e5%85%83/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 25 Apr 2008 17:57:58 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LANDISK]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1236</guid>
+
+					<description><![CDATA[HDL-GX300 のバックアップと復元方法をメモしておきます。 【バックアップ方法】 バックアップには分解して HDD を取出す方法と、分解せずに eSATA HDD を使う方法があります。分解方法は下記の ITmed [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				HDL-GX300 のバックアップと復元方法をメモしておきます。</p>
+<p><span id="more-1236"></span></p>
+<hr />
+<p>【バックアップ方法】</p>
+<p>バックアップには分解して HDD を取出す方法と、分解せずに eSATA HDD を使う方法があります。分解方法は下記の  ITmedia の記事がわかりやすい。なお、HDD は SATA なので SATA対応の外付けHDDケースを用意しておきます。これにはセンチュリーの「裸族のお立ち台」が便利。</p>
+<p>⇒ <a href="http://www.itmedia.co.jp/enterprise/articles/0508/31/news002_2.html">Hack！Hack！Hack！　Giga LANDISKをDebian化 (2/4)</a></p>
+<p>HDD を分解したくない場合は eSATA で接続できる 300GB以上の HDD が必要です。こいつを HDL-GX300 につないでミラーリングすればバックアップがとれます。</p>
+<p>次に取出した HDD またはミラーリングした eSATA HDD からバックアップファイルを作成します。基本は ITmedia の記事と同じですが、Mac OS X を使うのでデバイス・ファイル名とかが若干違います。</p>
+<ol>
+<li>Mac に USB で接続する</li>
+<li>読めないから初期化するかと聞いてくるので「初期化する」と応える</li>
+<li>ディスクユーティリティが起動するので、どういうデバイス・ファイル名で認識されているか確認する（わざわざコマンドを打つ必要はない）</li>
+<li>「ターミナル」を起動</li>
+<li>適当に作業用ディレクトリを作成して cd</li>
+<li>以下のコマンドでバックアップ・ファイルを作成する</li>
+</ol>
+<blockquote><p>
+$ dd if=/dev/disk1s1 | gzip -c &gt; disk1s1.dd.gz<br />
+$ dd if=/dev/disk1s2 | gzip -c &gt; disk1s2.dd.gz<br />
+$ dd if=/dev/disk1s5 | gzip -c &gt; disk1s5.dd.gz
+</p></blockquote>
+<p>disk1s1, disk1s2, disk1s5 の頭の disk1 は場合によっては disk2 や disk3 かもしれない（他のボリュームをマウントしているとそうなる）ので注意。ディスクユーティリティに表示されている名前を確認すること。</p>
+<div align="center">
+<a href='https://so-kukan.com/gnue/files/2008/04/disk1.png'><img fetchpriority="high" decoding="async" src="https://so-kukan.com/gnue/files/2008/04/disk1.png" alt="HDL-GX300 の HDD" width="300" height="260" class="aligncenter size-medium wp-image-1237" srcset="/gnue/wp-content/uploads/sites/2/2008/04/disk1.png 739w, /gnue/wp-content/uploads/sites/2/2008/04/disk1-300x261.png 300w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</div>
+<p>ITmedia の記事では圧縮せずにファイルを作成しているが、サイズがかなり違うので上記の例では圧縮をしている。disk1s3, disk1s4, disk1s6 は不要。</p>
+<blockquote><p>
+/dev/disk1s1　…　ブート用<br />
+/dev/disk1s2　…　Linuxシステム<br />
+/dev/disk1s3　…　スワップ<br />
+/dev/disk1s4　…　拡張領域<br />
+/dev/disk1s5　…　管理データ<br />
+/dev/disk1s6　…　ファイル共有のデータ領域
+</p></blockquote>
+<p>Mac OS X だと sfdisk が使えないので、HDL-GX300 で telnet/ssh が使えるようになったらリモートログインしたあとに sfdisk でパーティションテーブルのダンプを取っておく。</p>
+<blockquote><p>
+# sfdisk -d /dev/sda &gt; sda.sfdisk
+</p></blockquote>
+<hr />
+<p>【復元方法】</p>
+<p>復元方法はこの逆だがさすがにこのときは分解をする。復元のおまじないは</p>
+<blockquote><p>
+$ gzip -dc &lt; disk1s1.dd.gz | dd of=/dev/disk1s1<br />
+$ gzip -dc &lt; disk1s2.dd.gz | dd of=/dev/disk1s2<br />
+$ gzip -dc &lt; disk1s5.dd.gz | dd of=/dev/disk1s5
+</p></blockquote>
+<p>バックアップのときに圧縮をしているので解凍しながらリストアしている。通常は disk1s2 と disk1s5 をリストアするだけで充分である。disk1s6 が壊れた場合は HDL-GX300 の管理画面からフォーマットしてあげればいい。パーティションそのものがぶっ壊れた場合は ITmedia の記事を参考に Linuxマシンからパーティションを復元して下さい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/04/26/hdl-gx300-%e3%81%ae%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%81%a8%e5%be%a9%e5%85%83/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HDL-GX300、その後</title>
+		<link>/gnue/2008/04/26/hdl-gx300%e3%80%81%e3%81%9d%e3%81%ae%e5%be%8c/</link>
+					<comments>/gnue/2008/04/26/hdl-gx300%e3%80%81%e3%81%9d%e3%81%ae%e5%be%8c/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 25 Apr 2008 15:14:21 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LANDISK]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1235</guid>
+
+					<description><![CDATA[結局 avahi-daemon をあきらめて、ssh と subversion だけにしました。 debian のバージョンを etch にすれば avahi を入れられるのですが、そうすると HDL-GX300 のもと [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				結局 avahi-daemon をあきらめて、ssh と subversion だけにしました。</p>
+<p>debian のバージョンを etch にすれば avahi を入れられるのですが、そうすると HDL-GX300 のもともとの環境と相性が悪くなってしまいます。ということで etch も試しましたが最終的に sarge でインストールしなおしました（再度、初期化した(^^;）</p>
+<p>HDL-GX300 のもともとの環境をすっぱりと捨てて webmin で管理するという手(*1)もあるのですが、あんまりこんなところで時間をかけているのも何なのでひよっちゃいました。</p>
+<p>*1) 実際そうしている人達もいます。Linux系だけでなく BSD系にしちゃってる人もいるし		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/04/26/hdl-gx300%e3%80%81%e3%81%9d%e3%81%ae%e5%be%8c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HDL-GX300 に愛を注入？</title>
+		<link>/gnue/2008/04/14/hdl-gx300-%e3%81%ab%e6%84%9b%e3%82%92%e6%b3%a8%e5%85%a5%ef%bc%9f/</link>
+					<comments>/gnue/2008/04/14/hdl-gx300-%e3%81%ab%e6%84%9b%e3%82%92%e6%b3%a8%e5%85%a5%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 13 Apr 2008 19:01:42 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LANDISK]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1228</guid>
+
+					<description><![CDATA[LANDISK(HDL-GX300) を apt-get 可能なようにして、ssh と avahi-daemon（Bonjour互換）をインストールしてみました。 あと Subversion を入れるには入れたけど Se [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				LANDISK(HDL-GX300) を apt-get 可能なようにして、ssh と avahi-daemon（Bonjour互換）をインストールしてみました。</p>
+<p>あと Subversion を入れるには入れたけど Segmentation fault で動いてくれません。Subversion サーバにしたかったのに&#8230;orz</p>
+<p>追記 4/17：avahi-daemon を入れるためにバージョンを sid にしたのが悪かったみたい。HDD をリストアして最初からやりなおし&#8230;</p>
+<p>さてと、 Subversion は動くようになったけど今度は avahi-daemon が apt-get で入れられないんだよなぁ。どうしたものか。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/04/14/hdl-gx300-%e3%81%ab%e6%84%9b%e3%82%92%e6%b3%a8%e5%85%a5%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HDL-GX300(Giga LANDISK 300GB)</title>
+		<link>/gnue/2006/10/18/hdl-gx300giga-landisk-300gb/</link>
+					<comments>/gnue/2006/10/18/hdl-gx300giga-landisk-300gb/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 17 Oct 2006 19:54:11 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LANDISK]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/18/hdl-gx300giga-landisk-300gb/</guid>
+
+					<description><![CDATA[MacBook の HDDトラブルでやっぱバックアップ用の NAS が必要だなと Amazon で「ポチっ！ とな」しました。 バッファローの LS-300GL (LinkStation) とどっちにしようかと迷ったのだ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000EPAE4S/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000EPAE4S.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>MacBook の HDDトラブルでやっぱバックアップ用の NAS が必要だなと Amazon で「ポチっ！ とな」しました。</p>
+<p>バッファローの LS-300GL (LinkStation) とどっちにしようかと迷ったのだけど、eSATA でミラーリングできるので IOデータのほうにしました。玄箱はベースが一世代古いのでパス。</p>
+<p>debian を入れて遊ぶとかもできるらしい（LinkStation もだけど）。個人的には OS はそのままでもいいから Subversion を入れたいところ。</p>
+<p>ちなみに CPU は ARM9 400MHz（LinkStation のほうは PowerPC）。</p>
+<p>ネットで検索して気になるのはファンがうるさいとか HDDの書込みがうるさいとかの噂があること。まぁ、とりあえず使ってみてかな。</p>
+<p></p>
+<p>追記 10/20：HDL-GX300 到着。</p>
+<p>ひとこと、<font color="red">『うるさい！』であります</font>。机の上に置いたら、机がびりびり振動するってどういうことよ。ディスクの省電力モードに入ると静かになるので、<font color="blue">ディスクの省電力設定を１分後（デフォルトは１０分後）にすることはほぼ必須</font>。これやっとかないと絶えられません。</p>
+<p>静かな Mac mini (PowerPC G4) になれちゃってると、HDL-GX300 の五月蝿さ（つうか、騒音！）はほとんど罪と言ってもいい。なんか既に後悔モードかも。来年 Leopard (Mac OS X 10.5) が出たか、次の Mac mini が出たぐらいの時期で Mac mini に買い替えかな。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/18/hdl-gx300giga-landisk-300gb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+/*
+Theme Name: Newton Edition 2
+Theme URI: 
+Description: Newton Theme 2
+Version: 2.0
+Author: Newton Glavity
+Author URI: 
+Template: default
+Tags: blue, custom header, fixed width, two columns, widgets
+*/
+
+@import url(/gravity/wp-content/themes/default/style.css);
+
+.post h2, .post h3 {
+    padding-left: 18px;
+    background-image: url(/gravity/wp-content/themes/newton2/icon/note.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+#sidebar h2 {
+    margin: 5px 0 0;
+    padding: 0;
+    padding-left: 18px;
+    background-image: url(/gravity/wp-content/themes/newton2/icon/folder.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}

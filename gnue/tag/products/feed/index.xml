@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/products/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 06 Jun 2006 05:22:46 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>SMSUTILS を公開</title>
+		<link>/gnue/2006/06/06/smsutils-%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2006/06/06/smsutils-%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 06 Jun 2006 05:22:46 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Products]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/06/smsutils-%e3%82%92%e5%85%ac%e9%96%8b/</guid>
+
+					<description><![CDATA[MacBook, MacBook Pro それに 2005年以降に発売された PowerBook G4, iBook G4 に搭載されたSMS（緊急モーションセンサ）を利用するためのユーティリティ・コードを公開しました。 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				MacBook, MacBook Pro それに 2005年以降に発売された PowerBook G4, iBook G4 に搭載されたSMS（緊急モーションセンサ）を利用するためのユーティリティ・コードを公開しました。</p>
+<p>修正BSDライセンスですので SMS を使ったプログラムを書きたい人は是非使ってみてください。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/tools/wiki/SMSUTILS" target="_blank" rel="noopener">SMSUTILS</a>（trac）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/06/06/smsutils-%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.0.8_20050111_4</title>
+		<link>/gnue/2005/01/11/newt0_008_20050111_4/</link>
+					<comments>/gnue/2005/01/11/newt0_008_20050111_4/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2005 07:22:55 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<category><![CDATA[Products]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/01/11/newt0_008_20050111_4/</guid>
+
+					<description><![CDATA[NEWT0_0.0.8_20050111_4 を公開しました。 今回のトピックは不定長引数のサポートと作業ディレクトリ・オプションです。それとWin版バイナリは strip -x で小さくするようにしました。とりあえず問 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT0_0.0.8_20050111_4 を公開しました。<br />
+<span id="more-492"></span><br />
+今回のトピックは不定長引数のサポートと作業ディレクトリ・オプションです。それとWin版バイナリは strip -x で小さくするようにしました。とりあえず問題なく動作しているようです。</p>
+<p>不定長引数の宣言は３点リーダーを使用します。</p>
+<p>　例： func(a1, a2, args&#8230;) 〜</p>
+<p>C言語の stdarg に少し似ていますが、NEWT/0 では自動的に最後の仮引数に残りの引数が配列化されて束縛されます。</p>
+<p>[変更箇所]</p>
+<p> &#8211; 不定長引数のサポート（独自機能）<br />
+ &#8211; 作業ディレクトリ・オプション（-C directory）の追加<br />
+ &#8211; Win版バイナリを strip -x でサイズ縮小<br />
+ &#8211; 構文解析時のエラーメッセージのバグを修正<br />
+ &#8211; LoadLib の潜在的なバグを修正</p>
+<p>[実行環境]</p>
+<p> &#8211; Mac OS X 10.3 以上（フルスペック）<br />
+ &#8211; Mac OS X 10.2 （注意：外部ライブラリの読込みができません）<br />
+ &#8211; Linux （KNOPPIX 3.7 でコンパイル）<br />
+ &#8211; Windows （MinGW+MSYS でコンパイル、protoREGEX は未対応）</p>
+<p>⇒ NEWT0_20050111_4_src.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_src.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_macosx.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_macosx.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_linux.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_linux.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_win.zip (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_win.zip">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/01/11/newt0_008_20050111_4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

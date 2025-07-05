@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="ja"
+	>
+	<title type="text">鵺的：想空間</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2013-02-16T00:42:30Z</updated>
+
+	<link rel="alternate" type="text/html" href="/gnue" />
+	<id>/gnue/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="/gnue/feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="6.5.5">WordPress</generator>
+	<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[memorack の作例]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2013/02/16/memorack-%e3%81%ae%e4%bd%9c%e4%be%8b/" />
+
+		<id>http://so-kukan.com/gnue/?p=4894</id>
+		<updated>2013-02-16T00:42:30Z</updated>
+		<published>2013-02-16T00:42:30Z</published>
+		<category scheme="/gnue" term="未分類" /><category scheme="/gnue" term="memorack" /><category scheme="/gnue" term="RubyGems" />
+		<summary type="html"><![CDATA[自分が実際に使ってる memorack のキャプチャーを作例としてアップしました。 フォルダ内の markdownファイルが自動的にリストアップされてこんな風に表示されます。 * README にある Customiza [&#8230;]]]></summary>
+
+					<content type="html" xml:base="/gnue/2013/02/16/memorack-%e3%81%ae%e4%bd%9c%e4%be%8b/"><![CDATA[<p>				自分が実際に使ってる <a href="https://github.com/gnue/memorack" target="_blank" rel="noopener">memorack</a> のキャプチャーを作例としてアップしました。</p>
+<p>フォルダ内の markdownファイルが自動的にリストアップされてこんな風に表示されます。</p>
+
+<a href='/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/memorack_example/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2013/02/memorack_example-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>* README にある Customization の Logo と Syntax highlighting が適用されています。		</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2013/02/16/memorack-%e3%81%ae%e4%bd%9c%e4%be%8b/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2013/02/16/memorack-%e3%81%ae%e4%bd%9c%e4%be%8b/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[confgit と memorack を RubyGems に登録]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/" />
+
+		<id>http://so-kukan.com/gnue/?p=4883</id>
+		<updated>2013-02-15T06:34:43Z</updated>
+		<published>2013-02-15T06:34:43Z</published>
+		<category scheme="/gnue" term="未分類" /><category scheme="/gnue" term="confgit" /><category scheme="/gnue" term="git" /><category scheme="/gnue" term="markdown" /><category scheme="/gnue" term="memorack" /><category scheme="/gnue" term="RubyGems" />
+		<summary type="html"><![CDATA[Ruby で書いた２つのプログラムを RubyGems に登録しました。 * confgit 分散している設定ファイルを git を使ってバージョン管理するためのツール ( Ruby 1.9以上, git必須 ) * m [&#8230;]]]></summary>
+
+					<content type="html" xml:base="/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/"><![CDATA[<p>				Ruby で書いた２つのプログラムを <a href="https://rubygems.org/" target="_blank" rel="noopener">RubyGems</a> に登録しました。</p>
+<p>* <a href="https://github.com/gnue/confgit" target="_blank" rel="noopener">confgit</a></p>
+<p>分散している設定ファイルを git を使ってバージョン管理するためのツール<br />
+( Ruby 1.9以上, git必須 )</p>
+<p>* <a href="https://github.com/gnue/memorack" target="_blank" rel="noopener">memorack</a></p>
+<p>markdown記法で記述したファイルを簡単にWeb公開できる Rackアプリケーション<br />
+( Ruby 1.9以上 )</p>
+
+<a href='/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/memorack_example/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2013/02/memorack_example-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>どちらも gem でインストールできます。</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[NEWT/0 を github に移転]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/" />
+
+		<id>http://so-kukan.com/gnue/?p=4755</id>
+		<updated>2012-05-26T15:02:53Z</updated>
+		<published>2012-05-26T15:02:53Z</published>
+		<category scheme="/gnue" term="未分類" /><category scheme="/gnue" term="GitHub" /><category scheme="/gnue" term="NEWT/0" /><category scheme="/gnue" term="Trac" />
+		<summary type="html"><![CDATA[NEWT/0 を自宅サーバの Trac から github に移転しました。 Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。 ⇒ NEWT/0]]></summary>
+
+					<content type="html" xml:base="/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/"><![CDATA[<p>				NEWT/0 を自宅サーバの <a href="http://trac.so-kukan.com/" target="_blank" rel="noopener">Trac</a> から <a href="https://github.com/gnue" target="_blank" rel="noopener">github</a> に移転しました。<br />
+Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。</p>
+<p>⇒ <a href="http://gnue.github.com/NEWT0" target="_blank" rel="noopener">NEWT/0</a></p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[SMSUTILS, PasoriKit を github に移転]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/" />
+
+		<id>http://so-kukan.com/gnue/?p=4749</id>
+		<updated>2012-05-25T09:33:29Z</updated>
+		<published>2012-05-25T09:33:29Z</published>
+		<category scheme="/gnue" term="未分類" /><category scheme="/gnue" term="GitHub" /><category scheme="/gnue" term="PasoriKit" /><category scheme="/gnue" term="SMSUTILS" /><category scheme="/gnue" term="Trac" />
+		<summary type="html"><![CDATA[SMSUTILS, PasoriKit を自宅サーバの Trac から github に移転しました。 Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。 ⇒ SMSUTILS ⇒ P [&#8230;]]]></summary>
+
+					<content type="html" xml:base="/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/"><![CDATA[<p>				SMSUTILS, PasoriKit を自宅サーバの <a href="http://trac.so-kukan.com/tools" target="_blank" rel="noopener">Trac</a> から <a href="https://github.com/gnue" target="_blank" rel="noopener">github</a> に移転しました。<br />
+Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。</p>
+<p>⇒ <a href="https://github.com/gnue/SMSUTILS" target="_blank" rel="noopener">SMSUTILS</a><br />
+⇒ <a href="https://github.com/gnue/PasoriKit-1.0.x" target="_blank" rel="noopener">PasoriKit</a></p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[覚書き 2011年11月14日]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2011/11/14/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/" />
+
+		<id>http://so-kukan.com/gnue/2011/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/</id>
+		<updated>2011-11-13T20:33:56Z</updated>
+		<published>2011-11-13T20:33:56Z</published>
+		<category scheme="/gnue" term="memo" />
+		<summary type="html"><![CDATA[#memo INSTALL_PATH をデフォルトの &#8220;$(LOCAL_LIBRARY_DIR)/Frameworks&#8221; に変更して、DYLIB_INSTALL_NAME_BASE = &#822 [&#8230;]]]></summary>
+
+					<content type="html" xml:base="/gnue/2011/11/14/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/"><![CDATA[<ul class="scrd_digest">
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> INSTALL_PATH をデフォルトの &#8220;$(LOCAL_LIBRARY_DIR)/Frameworks&#8221; に変更して、DYLIB_INSTALL_NAME_BASE = &#8220;@<a href="http://twitter.com/loader_path">loader_path</a>/../Frameworks&#8221; を追加することによりアーカイブできる</li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://www.rssdigestpro.com/">RSS Digest</a></p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2011/11/14/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2011/11/14/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[覚書き 2011年8月11日]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2011/08/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%8811%e6%97%a5/" />
+
+		<id>http://so-kukan.com/gnue/2011/08/%e8%a6%9a%e6%9b%b8%e3%81%8d/</id>
+		<updated>2011-08-11T11:13:11Z</updated>
+		<published>2011-08-11T11:13:11Z</published>
+		<category scheme="/gnue" term="memo" />
+		<summary type="html"><![CDATA[#memo Lion Server で PostgreSQL を使うときは /System/Library/LaunchDaemons/org.postgresql.postgres.plist を編集して listen [&#8230;]]]></summary>
+
+					<content type="html" xml:base="/gnue/2011/08/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%8811%e6%97%a5/"><![CDATA[<ul class="scrd_digest">
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Lion Server で PostgreSQL を使うときは /System/Library/LaunchDaemons/org.postgresql.postgres.plist を編集して listen_addresses= に localhost 等を追加</li>
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Lion Server で PostgreSQL の管理コマンドを使う場合は sudo -u _postgres コマンド <a href="http://search.twitter.com/search?q=%23LionServer" title="#LionServer">#LionServer</a> <a href="http://search.twitter.com/search?q=%23PostgreSQL" title="#PostgreSQL">#PostgreSQL</a></li>
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Lion server では PostgreSQL は WikiサーバをONにしないと起動しないみたい。WikiサーバをOFFにしたままのときは
+<p>sudo serveradmin start postgres </p>
+<p>で起動  <a href="http://goo.gl/GfzwK">http://goo.gl/GfzwK</a></li>
+<p class="scrd_credit">Digest powered by <a href="http://www.rssdigestpro.com/">RSS Digest</a></p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2011/08/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%8811%e6%97%a5/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2011/08/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%8811%e6%97%a5/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[覚書き 2011年8月9日]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2011/08/09/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/" />
+
+		<id>http://so-kukan.com/gnue/2011/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/</id>
+		<updated>2011-08-08T20:30:50Z</updated>
+		<published>2011-08-08T20:30:50Z</published>
+		<category scheme="/gnue" term="memo" />
+		<summary type="html"><![CDATA[#memo Server.app でユーザを削除するとホームディレクトリが削除できない。これもシステム環境設定のほうならホームディレクトリの削除やアーカイブができる #LionServer #memo Server.ap [&#8230;]]]></summary>
+
+					<content type="html" xml:base="/gnue/2011/08/09/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/"><![CDATA[<ul class="scrd_digest">
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Server.app でユーザを削除するとホームディレクトリが削除できない。これもシステム環境設定のほうならホームディレクトリの削除やアーカイブができる <a href="http://search.twitter.com/search?q=%23LionServer" title="#LionServer">#LionServer</a></li>
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Server.app からは「共有のみ」ユーザを作成できない。システム環境設定から「共有のみ」ユーザを作成すること <a href="http://search.twitter.com/search?q=%23LionServer" title="#LionServer">#LionServer</a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2011/08/09/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2011/08/09/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[覚書き 2011年8月7日]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2011/08/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/" />
+
+		<id>http://so-kukan.com/gnue/2011/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/</id>
+		<updated>2011-08-06T20:30:39Z</updated>
+		<published>2011-08-06T20:30:39Z</published>
+		<category scheme="/gnue" term="memo" />
+		<summary type="html"><![CDATA[#memo Time Machine から Lion Server のシステムを復元すると Wiki の設定他が読み込みエラーになった。システムログを見るとこれと同じ現象 http://goo.gl/4ZlhH Dige [&#8230;]]]></summary>
+
+					<content type="html" xml:base="/gnue/2011/08/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/"><![CDATA[<ul class="scrd_digest">
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Time Machine から Lion Server のシステムを復元すると Wiki の設定他が読み込みエラーになった。システムログを見るとこれと同じ現象 <a href="http://goo.gl/4ZlhH">http://goo.gl/4ZlhH</a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2011/08/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2011/08/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[ハイパーアプリクリエイターズに登場]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2011/05/20/%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a2%e3%83%97%e3%83%aa%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ab%e7%99%bb%e5%a0%b4/" />
+
+		<id>http://so-kukan.com/gnue/?p=4713</id>
+		<updated>2011-05-20T00:46:37Z</updated>
+		<published>2011-05-20T00:46:37Z</published>
+		<category scheme="/gnue" term="未分類" /><category scheme="/gnue" term="App Store" /><category scheme="/gnue" term="Mac App Store" /><category scheme="/gnue" term="Podcast" />
+		<summary type="html"><![CDATA[１月に収録したPodcast ハイパーアプリクリエイターズの前編が公開されました。 ⇒ 第025回　W faceの作者、gnueさん登場！　前編（ハイパーアプリクリエイターズ） 追記：後編も公開されました]]></summary>
+
+					<content type="html" xml:base="/gnue/2011/05/20/%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a2%e3%83%97%e3%83%aa%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ab%e7%99%bb%e5%a0%b4/"><![CDATA[<p>				<a href="https://so-kukan.com/gnue/2011/01/ハイパーアプリクリエイターズにゲスト出演/">１月に収録した</a>Podcast ハイパーアプリクリエイターズの前編が公開されました。</p>
+<p>⇒ <a href="http://blog.hyper-app.net/archives/51801802.html">第025回　W faceの作者、gnueさん登場！　前編</a>（ハイパーアプリクリエイターズ）</p>
+<p>追記：<a href="http://blog.hyper-app.net/archives/51803057.html" target="_blank" rel="noopener">後編</a>も公開されました		</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2011/05/20/%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a2%e3%83%97%e3%83%aa%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ab%e7%99%bb%e5%a0%b4/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2011/05/20/%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a2%e3%83%97%e3%83%aa%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ab%e7%99%bb%e5%a0%b4/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>gnue</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[App Creator Night #1 チラシ]]></title>
+		<link rel="alternate" type="text/html" href="/gnue/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/" />
+
+		<id>http://so-kukan.com/gnue/?p=4708</id>
+		<updated>2011-05-01T10:16:48Z</updated>
+		<published>2011-05-01T10:16:48Z</published>
+		<category scheme="/gnue" term="未分類" /><category scheme="/gnue" term="Event" />
+		<summary type="html"><![CDATA[PENQE 永野さんによる App Creator Night #1 チラシのデザインができました。 ⇒ App Creator Night #1]]></summary>
+
+					<content type="html" xml:base="/gnue/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/"><![CDATA[<p>				PENQE 永野さんによる App Creator Night #1 チラシのデザインができました。</p>
+<p>⇒ <a href="https://so-kukan.com/appcreator" target="_blank" rel="noopener">App Creator Night #1</a></p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/gnue/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/gnue/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+	</feed>

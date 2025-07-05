@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	apache2ログのローテーション へのコメント	</title>
+	<atom:link href="/gnue/2009/05/06/apache2%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 May 2009 13:53:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	謹賀新年 へのコメント	</title>
+	<atom:link href="/gnue/2006/01/02/%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B4/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/01/02/%e8%ac%b9%e8%b3%80%e6%96%b0%e5%b9%b4/</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Jan 2006 00:14:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

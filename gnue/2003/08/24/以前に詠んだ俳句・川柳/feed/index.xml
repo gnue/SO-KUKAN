@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	以前に詠んだ俳句・川柳 へのコメント	</title>
+	<atom:link href="/gnue/2003/08/24/%E4%BB%A5%E5%89%8D%E3%81%AB%E8%A9%A0%E3%82%93%E3%81%A0%E4%BF%B3%E5%8F%A5%E3%83%BB%E5%B7%9D%E6%9F%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2003/08/24/%e4%bb%a5%e5%89%8d%e3%81%ab%e8%a9%a0%e3%82%93%e3%81%a0%e4%bf%b3%e5%8f%a5%e3%83%bb%e5%b7%9d%e6%9f%b3/</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Aug 2003 15:00:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

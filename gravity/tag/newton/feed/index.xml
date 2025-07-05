@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Newton &#8211; Newton Gravity</title>
+	<atom:link href="/gravity/tag/newton/feed/" rel="self" type="application/rss+xml" />
+	<link>/gravity</link>
+	<description>Newton の重力に引き寄せられて…</description>
+	<lastBuildDate>Fri, 13 Jun 2008 18:47:54 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/gravity/wp-content/uploads/sites/3/2024/06/cropped-newton-32x32.png</url>
+	<title>Newton &#8211; Newton Gravity</title>
+	<link>/gravity</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>iPhone</title>
+		<link>/gravity/2008/06/14/iphone/</link>
+					<comments>/gravity/2008/06/14/iphone/#comments</comments>
+		
+		<dc:creator><![CDATA[sai]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2008 18:47:54 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Newton]]></category>
+		<guid isPermaLink="false">http://newton.so-kukan.com/gravity/?p=86</guid>
+
+					<description><![CDATA[ひさびさの更新で申し訳ありません。 iPhoneきますです。泳げるころに。 ところで皆さんは、NewtonアプレットでiPhoneに移植してほしいものはなんですか？ 自分はやっぱりNotesです。  ]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center"><a href="http://newton.so-kukan.com/gravity/files/2008/06/e38394e382afe38381e383a3-1.png"><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-87" src="http://newton.so-kukan.com/gravity/files/2008/06/e38394e382afe38381e383a3-1.png" alt="" width="300" height="229" /></a></p>
+<p>ひさびさの更新で申し訳ありません。</p>
+<p><a href="http://www.apple.com/jp/iphone/" target="_blank" rel="noopener">iPhone</a>きますです。泳げるころに。</p>
+<p>ところで皆さんは、NewtonアプレットでiPhoneに移植してほしいものはなんですか？</p>
+<p>自分はやっぱりNotesです。</p>
+<p> 		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gravity/2008/06/14/iphone/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PaSoRi &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/pasori/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 06 Oct 2009 00:11:40 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>PasoriKit 1.0.1 を公開</title>
+		<link>/gnue/2009/10/06/pasorikit-1-0-1-%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2009/10/06/pasorikit-1-0-1-%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2009 00:11:40 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[PaSoRi]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2882</guid>
+
+					<description><![CDATA[Cocoaアプリで FeliCaリーダ “PaSoRi” を使うためのフレームワーク PasoriKit を 1.0.1 にアップデートしました。 ⇒ PasoriKit [2009-10-06] 1.0.1 動作環境を [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Cocoaアプリで FeliCaリーダ “PaSoRi” を使うためのフレームワーク PasoriKit を 1.0.1 にアップデートしました。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/tools/wiki/PasoriKit">PasoriKit</a></p>
+<p><span id="more-2882"></span></p>
+<p>[2009-10-06] 1.0.1</p>
+<ul>
+<li>動作環境を Mac OS X 10.5 以上に変更</li>
+<li>USBDeviceクラスに reopenメソッドを追加。<br />スリープ解除からの自動復帰サポート</li>
+<li>x86_64バイナリに対応</li>
+<li>PASORI_STATE_POLLING_DONE で処理をしなかったときに PASORI_STATE_IDLE に状態遷移しない問題を修正</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/10/06/pasorikit-1-0-1-%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SuicaExample, EdyExample の実行ファイルを公開</title>
+		<link>/gnue/2008/08/23/suicaexample-edyexample-%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2008/08/23/suicaexample-edyexample-%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 23 Aug 2008 14:58:39 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Edy]]></category>
+		<category><![CDATA[PaSoRi]]></category>
+		<category><![CDATA[Suica]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1389</guid>
+
+					<description><![CDATA[PasoriKit用サンプルコード SuicaExample, EdyExample の実行ファイルを公開しました。それぞれ Suica/PASORI と Edyカードの利用履歴を見ることができます。 本当はもっと実用的 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				PasoriKit用サンプルコード SuicaExample, EdyExample の実行ファイルを公開しました。それぞれ Suica/PASORI と Edyカードの利用履歴を見ることができます。</p>
+<p>本当はもっと実用的なものができたらと思っていたのですがそれだといつになるかわからないので、とりあえずサンプルコードをビルドしただけのものですが実行ファイルを公開しました。</p>
+<p>これによりデベロッパでなくても（Xcodeを使えなくても）サンプルの実行ファイルを試してみることができます。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/tools/wiki/PasoriKit">PasoriKit</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/08/23/suicaexample-edyexample-%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PasoriKit を公開</title>
+		<link>/gnue/2008/08/15/pasorikit-%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2008/08/15/pasorikit-%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 15 Aug 2008 04:23:49 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[PaSoRi]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1342</guid>
+
+					<description><![CDATA[Cocoaアプリで FeliCaリーダ &#8220;PaSoRi&#8221; を使うためのフレームワーク PasoriKit を公開しました。 ドキュメントは現在のところ Cocoa Life Vo.4 の記事とサン [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Cocoaアプリで FeliCaリーダ &#8220;PaSoRi&#8221; を使うためのフレームワーク PasoriKit を公開しました。</p>
+<p>ドキュメントは現在のところ Cocoa Life Vo.4 の記事とサンプルソースコードしかありません。Cocoa Life Vo.4 は明日のコミケ「8月16日（土）西-&#8220;く&#8221;13a　Cocoa勉強会」で販売していますので、コミケに行かれる方は是非手に取ってみて下さい。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/tools/wiki/PasoriKit">PasoriKit</a><br />
+⇒ <a href="http://www.cocoa-study.com/">Cocoa勉強会</a></p>
+<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0009YVAW4/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0009YVAW4.09.MZZZZZZZ.jpg"  /></div></a><br />
+<br class="clear" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/08/15/pasorikit-%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ゴールドポイントカードIC eLIO</title>
+		<link>/gnue/2007/03/27/%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%ab%e3%83%bc%e3%83%89ic-elio/</link>
+					<comments>/gnue/2007/03/27/%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%ab%e3%83%bc%e3%83%89ic-elio/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 26 Mar 2007 18:05:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[PaSoRi]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/03/27/%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%ab%e3%83%bc%e3%83%89ic-elio/</guid>
+
+					<description><![CDATA[PaSoRi（FeliCa リーダ・ライタ）が欲しかったので「ゴールドポイントカードIC eLIO」に申し込んでみる。 カードは遅れてもかまわないから PaSoRi だけ早くほしい&#8230;]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0009YVAW4/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0009YVAW4.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>PaSoRi（FeliCa リーダ・ライタ）が欲しかったので「ゴールドポイントカードIC eLIO」に申し込んでみる。</p>
+<p>カードは遅れてもかまわないから PaSoRi だけ早くほしい&#8230;</p>
+<p>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/03/27/%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%ab%e3%83%bc%e3%83%89ic-elio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

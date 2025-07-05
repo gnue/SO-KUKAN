@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	MacBook 復活 へのコメント	</title>
+	<atom:link href="/gnue/2006/07/03/macbook-%E5%BE%A9%E6%B4%BB/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/07/03/macbook-%e5%be%a9%e6%b4%bb/</link>
+	<description></description>
+	<lastBuildDate>Mon, 03 Jul 2006 12:44:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

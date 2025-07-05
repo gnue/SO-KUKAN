@@ -1,0 +1,168 @@
+/* SO-KUKAN index Style */
+
+#side-a, #side-b, #menubar {
+    display: inline; /* ie win bugfix */
+    position: relative;
+    float: left;
+    min-height: 1px;
+}
+
+#page.toppage {
+	width: 940px;
+	background: white url("/gnue/wp-content/themes/so_kukan2/images/toppage_back.png");
+	background-repeat: repeat;
+	background-position: left;
+}
+
+#menubar {
+	width: 180px;
+	float: left;
+	margin: 200px 0 0 25px;
+	padding: 0;
+}
+
+.toppage #header {
+	position: absolute;
+	background: none;
+	padding: 10px;
+	margin-left: 370px;
+	width: 180px;
+}
+
+.toppage h1 {
+	padding-top: 5px;
+	font-size: 2em;
+}
+
+.toppage h1, h1 a, h1 a:hover, .toppage h1 a:visited, .toppage #headerimg .description {
+	text-decoration: none;
+	color: #333;
+}
+
+.toppage #footer {
+	background: #eee;
+	width: 100%;
+	height: 40px;
+	border-top:1px dotted #bbb;
+}
+
+.toppage #footer p {
+	padding: 8px 0;
+	}
+
+#side-a .post {
+    position: static;
+}
+
+.toppage #sidebar {
+	margin-left: 0;
+	width: 180px;
+	padding: 10px;
+}
+
+.toppage #sidebar ul li:before {
+	content: '';
+}
+
+.toppage .widget {
+	text-align: center;
+	margin-bottom: 15px;
+	padding-top: 15px;
+	border-top:1px dotted #332;	
+}
+
+.toppage #content {
+	padding: 0 0 0 25px;
+	width: 900px;
+}
+
+.toppage #recent-posts ul li:before,
+.toppage #recent-comments ul li:before {
+	content: "\00BB \0020";
+}
+
+.toppage #recent-posts ul,
+.toppage #recent-comments ul {
+	text-align: left;
+	font-size: 0.8em;
+}
+
+.toppage h2 {
+	font-size: 1.4em;
+}
+
+.toppage #menubar h2 {
+	font-size: 1.2em;
+}
+
+/* SIDE-A */
+
+#side-a {
+	padding: 0;
+	width: 320px;
+}
+
+#side-a .post h2 {
+	padding-top:2px;
+	padding-left:2px;
+	border-left:8px solid #87e;
+	border-bottom:1px dotted #87e;	
+}
+
+#side-a .posted {
+	padding-top:2px;
+	padding-left:2px;
+	border-left:8px solid #cbf;
+}
+
+/* SIDE-B */
+
+#side-b {
+	padding: 0;
+	width: 320px;
+	float: right;
+}
+
+#side-b .post h2 {
+	padding-top:2px;
+	padding-left:2px;
+	border-left:8px solid #e78;
+	border-bottom:1px dotted #e78;
+}
+
+#side-b .posted {
+	padding-top:2px;
+	padding-left:2px;
+	border-left:8px solid #fbc;
+}
+
+/* LOGO */
+
+#logo {
+	background-image: url("/gnue/wp-content/themes/so_kukan2/images/gnue_l.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 128px;
+	width: 128px;
+	display: inline;
+}
+
+.toppage #logo {
+	width: 100%;
+	display: block;
+}
+
+/* post_list */
+
+.post_list {
+	margin: -20px 0 0;
+	clear: both;
+}
+
+body {
+	font-size: 10px;
+}
+
+.gallery-item {
+	clear: both;
+}

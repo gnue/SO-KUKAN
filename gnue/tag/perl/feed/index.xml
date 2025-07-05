@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Perl &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/perl/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Oct 2004 01:56:32 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>MT のプラグインと perl の関数定義</title>
+		<link>/gnue/2004/10/01/mt-%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a8-perl-%e3%81%ae%e9%96%a2%e6%95%b0%e5%ae%9a%e7%be%a9/</link>
+					<comments>/gnue/2004/10/01/mt-%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a8-perl-%e3%81%ae%e9%96%a2%e6%95%b0%e5%ae%9a%e7%be%a9/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2004 01:56:32 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Perl]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/01/mt-%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a8-perl-%e3%81%ae%e9%96%a2%e6%95%b0%e5%ae%9a%e7%be%a9/</guid>
+
+					<description><![CDATA[mod_perl を使用しているせいかもしれませんが、Movable Type のプラグインの中で関数定義していると最初はちゃんと動作するのですが何回か再構築を繰返すとうまく動かなくなるようです。昨日 mt-amazon [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				mod_perl を使用しているせいかもしれませんが、Movable Type のプラグインの中で関数定義していると最初はちゃんと動作するのですが何回か再構築を繰返すとうまく動かなくなるようです。昨日 mt-amazon-link を公開してすぐにとりやめたのはこれにひっかかってしまったためです。</p>
+<p>mod_perl の場合読込まれた環境が残っているために何度も同じ関数が再定義されておかしくなるのではと推測しています。しょうがないのであまりスマートではありませんが関数をクロージャで置き換えてみました。とりあえずこれでなんとか動いているみたい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/10/01/mt-%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a8-perl-%e3%81%ae%e9%96%a2%e6%95%b0%e5%ae%9a%e7%be%a9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

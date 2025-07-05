@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bbPress &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/bbpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 May 2009 11:56:23 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>WordPress MU と BuddyPress + bbPress</title>
+		<link>/gnue/2009/05/04/wordpress-mu-%e3%81%a8-buddypress-bbpress/</link>
+					<comments>/gnue/2009/05/04/wordpress-mu-%e3%81%a8-buddypress-bbpress/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 04 May 2009 11:56:23 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[bbPress]]></category>
+		<category><![CDATA[BuddyPress]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1715</guid>
+
+					<description><![CDATA[現在使ってる WordPress を WordPress MU にしようかといろいろと試してみました。 なんだけど、最初からポカしてつまづちまった。通常の WordPress みたいに wp-config.php を手作 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				現在使ってる WordPress を WordPress MU にしようかといろいろと試してみました。</p>
+<p>なんだけど、最初からポカしてつまづちまった。通常の WordPress みたいに wp-config.php を手作業で編集したのだがそれが失敗の原因。MU は wp-config.php ファイルが存在するとインストール作業を行ってくれません。</p>
+<p>以下、WordPress MU の注意事項</p>
+<ul>
+<li>wp-config.php を手作業でつくらない</li>
+<li>Apache の設定で .htaccess の使えるようにしておく</li>
+<li>wp-config.php, .htaccess を書換えられるようにディレクトリのパーミッションを変更</li>
+</ul>
+<p><span id="more-1715"></span></p>
+<p>さて、WordPres MU のついでに BuddyPress（SMS）と bbPress（会議室）も試してみました。BuddyPress はプラグインなので簡単にインストールできます。bbPress は BuddyPress との連携機能をうごかしてみました。</p>
+<p>以下、気がついた点</p>
+<ul>
+<li>bbPress で連携機能（ユーザ情報の共有）を使う場合はインストール時にちゃんと設定しないとダメ</li>
+<li>bbPress と WordPress のデータベースが違う場合は advanced database settings を設定する</li>
+<li>bbPress の設定で User Role Map を設定する</li>
+<li>bbPress の設定で Enable Pingbacks をチェックする（要注意！）</li>
+</ul>
+<p>Enable Pingbacks がくせ者でこれを忘れてるとちゃんと連携機能が動きません。しかも、ちゃんと動いてるかどうかの確認が BuddyPress のグループ作成のときにしかわからないので、何が原因なのかさっぱりわかりません <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>BuddyPress + bbPress のファーストインプレッションとしては「ちょっと微妙」という感じ。もうちょっと機能が追加されてこなれてくると違うのかもしれないけど、いまのままだとわざわざ使いたいとは思わないかな。</p>
+<p>追記：gmail が WordPress MU や bbPress からの通知メールを「迷惑メール」に分類しちゃうのにはまいった <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/04/wordpress-mu-%e3%81%a8-buddypress-bbpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

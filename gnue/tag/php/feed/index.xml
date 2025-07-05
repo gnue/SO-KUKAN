@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PHP &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/php/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 14 Mar 2006 07:25:59 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>WordPress の PDO 化と SQLite 対応（挑戦編）</title>
+		<link>/gnue/2006/03/14/wordpress-%e3%81%ae-pdo-%e5%8c%96%e3%81%a8-sqlite-%e5%af%be%e5%bf%9c%ef%bc%88%e6%8c%91%e6%88%a6%e7%b7%a8%ef%bc%89/</link>
+					<comments>/gnue/2006/03/14/wordpress-%e3%81%ae-pdo-%e5%8c%96%e3%81%a8-sqlite-%e5%af%be%e5%bf%9c%ef%bc%88%e6%8c%91%e6%88%a6%e7%b7%a8%ef%bc%89/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 14 Mar 2006 07:25:59 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[PDO]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/03/14/wordpress-%e3%81%ae-pdo-%e5%8c%96%e3%81%a8-sqlite-%e5%af%be%e5%bf%9c%ef%bc%88%e6%8c%91%e6%88%a6%e7%b7%a8%ef%bc%89/</guid>
+
+					<description><![CDATA[WordPress は MySQL ディペンドなブログ・システムだけれど、PHP 5.1 で標準サポートされた PDO（PHP のデータベース抽象化オブジェクト）で SQLite を使用できるようにできないかと挑戦してみ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				WordPress は MySQL ディペンドなブログ・システムだけれど、PHP 5.1 で標準サポートされた PDO（PHP のデータベース抽象化オブジェクト）で SQLite を使用できるようにできないかと挑戦してみた。</p>
+<p>結論からいうと PDO 化のメドはたちました。ただ SQLite 対応は SQLite が日付型を扱えないために日付関係の操作をいろいろと変更しないといけないので大変そう。</p>
+<p>以下、覚え書きです。<br />
+<span id="more-864"></span><br />
+[PDO 化]<br />
+&#8211; wp-includes/wp-db.php<br />
+&#8211; wp-includes/functions.php<br />
+の中の mysql_* 関数を PDO のメソッドで置換えること。functions.php　内の generic_ctp_number だけ wpdb クラスで抽象化されていないのがいや〜んな感じ。</p>
+<p>[SQL方言]<br />
+(wp-admin/upgrade-schema.php を変更)<br />
+&#8211; CREATE TABLE 文内の PRIMARY KEY() はカラム定義で PRIMARY KEY を指定するように置換え、そのカラム定義の NOT NULL は削除（NOT NULL だと省略して自動採番ができなくなるため）<br />
+&#8211; CREATE TABLE 文内の KEY 定義は CREATE INDEX 文で置換え<br />
+&#8211; UNSIGNED は SQL99標準にはないので削除<br />
+&#8211; BIGINT は SQL99標準の INTEGER に置換え</p>
+<p>(wp-admin/upgrade-functions.php)<br />
+&#8211; SHOW TABLE文はエラーがでるけどとりあえず無視（テーブル作成時に無駄な処理が行われる可能性があるだけでとりあえず実害はない）</p>
+<p>(その他ファイル）<br />
+&#8211; MD5() は SQL の外で md5 関数を使うように書き換え<br />
+&#8211; NOW() は SQL99標準の CURRENT_TIMESTAMP に置換え<br />
+&#8211; YEAR(), MONTH(), DAYOFMONTH(), HOUR(), MINUTE(), SECOND() も SQL99標準の EXTRACT (field FROM source) に置換えるべき。ただし SQLite は EXTRACT をサポートしていない(;_;)</p>
+<p>[SQLite 対応]<br />
+さて日付関連の操作をどうするべきかだが、考えられる対策としては以下の３つである。</p>
+<p>&#8211; 日付データを INTEGER 型で持つように変更する<br />
+&#8211; 日付関数を SUBSTR で代用<br />
+&#8211; PDO の SQLite ドライバをソースコードレベルで修正してなんちゃって日付関数を追加する</p>
+<p>うーむ、どれも一長一短(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/03/14/wordpress-%e3%81%ae-pdo-%e5%8c%96%e3%81%a8-sqlite-%e5%af%be%e5%bf%9c%ef%bc%88%e6%8c%91%e6%88%a6%e7%b7%a8%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

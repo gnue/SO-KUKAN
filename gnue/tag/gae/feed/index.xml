@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GAE &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/gae/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 19 Jun 2009 12:28:45 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Google App Engine 使えねぇ&#8230;</title>
+		<link>/gnue/2009/06/19/google-app-engine-%e4%bd%bf%e3%81%88%e3%81%ad%e3%81%87/</link>
+					<comments>/gnue/2009/06/19/google-app-engine-%e4%bd%bf%e3%81%88%e3%81%ad%e3%81%87/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2009 12:28:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GAE]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2580</guid>
+
+					<description><![CDATA[ちょっと思うところがあって Google App Engine を使ってみようと思ったのだけれど、socket や SSL が制限されてるんですねぇ。 OpenSSL が imort できない socket が impo [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ちょっと思うところがあって Google App Engine を使ってみようと思ったのだけれど、socket や SSL が制限されてるんですねぇ。</p>
+<ul>
+<li>OpenSSL が imort できない</li>
+<li>socket が import できてるけど使えない</li>
+<li>httplib.HTTPSConnection の key_file, cert_file がふさがれてる</li>
+</ul>
+<p>※Python の場合</p>
+<p>httplib.HTTPSConnection 使うとなんとかなるかなと思ったのだけれどそんな甘くなかった。うーん、打つ手なし <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/19/google-app-engine-%e4%bd%bf%e3%81%88%e3%81%ad%e3%81%87/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

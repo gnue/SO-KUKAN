@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NEWT/0 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/newt-0/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 26 May 2012 15:02:53 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>NEWT/0 を github に移転</title>
+		<link>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/</link>
+					<comments>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 26 May 2012 15:02:53 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4755</guid>
+
+					<description><![CDATA[NEWT/0 を自宅サーバの Trac から github に移転しました。 Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。 ⇒ NEWT/0]]></description>
+										<content:encoded><![CDATA[<p>				NEWT/0 を自宅サーバの <a href="http://trac.so-kukan.com/" target="_blank" rel="noopener">Trac</a> から <a href="https://github.com/gnue" target="_blank" rel="noopener">github</a> に移転しました。<br />
+Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。</p>
+<p>⇒ <a href="http://gnue.github.com/NEWT0" target="_blank" rel="noopener">NEWT/0</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0 の最終目標</title>
+		<link>/gnue/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/</link>
+					<comments>/gnue/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2005 14:07:40 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/</guid>
+
+					<description><![CDATA[まぁ、いろいろと考えていることはあるのだが STEP1) コマンドライン ターゲットは Mac OS X(Darwin), Linux(x86), FreeBSD(x86), Windows XP, Be(x86)、iP [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				まぁ、いろいろと考えていることはあるのだが</p>
+<p>STEP1) コマンドライン</p>
+<p>ターゲットは Mac OS X(Darwin), Linux(x86), FreeBSD(x86), Windows XP, Be(x86)、iPod Linux、それとまだ試していないけど Linux Zaurus。</p>
+<p>Perl, Ruby, Python の置換えが目標。でも文字列処理、正規表現、ライブラリの充実など問題が山積み。<br />
+<span id="more-790"></span><br />
+STEP2) Linux + NEWT/0 + Viewシステム</p>
+<p>Linux 上で NEWT/0 + Viewシステムを起動し、X11 や Qtopia を使わない GUI環境の構築。</p>
+<p>応用０：NEWT/0 on iPod Linux<br />
+応用１：KNOPPIX ベースで NEWT/0 + Viewシステムでブートするディストリビューションの作成<br />
+応用２：Linux Zaurus で Qtopia の代わりに NEWT/0 + Viewシステムを載せる<br />
+応用３：MIT Media Lab の <a href="http://laptop.media.mit.edu/" target="_blank" rel="noopener">$100 Laptop</a> に載せる</p>
+<p>STEP3) マルチプラットフォームの GUIアプリ統合開発環境</p>
+<p>NTK のように GUIアプリを開発し１ソースから Mac OS X, Linux, FreeBSD, Windows など各プラットフォーム用のランタイムバイナリを生成する。生成されたバイナリは各プラットフォームで実行可能。<a href="http://www.asciisolutions.com/products/rb/" target="_blank" rel="noopener">REALbasic</a> をイメージしてもらえるとわかりやすいと思う。</p>
+<p>そして最後には携帯電話の Java や Flash を置換えること（をいをい）</p>
+<p>&#8230;と、最終目標まで先は長いのであった(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0 &#8211; trac</title>
+		<link>/gnue/2005/07/09/newt0-trac/</link>
+					<comments>/gnue/2005/07/09/newt0-trac/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2005 08:56:42 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/07/09/newt0-trac/</guid>
+
+					<description><![CDATA[バージョン管理システムの trac を導入しました。まだ使い方がよくわかっていないのですが今後はこれを使っていこうと思っています。 ⇒ NEWT/0 &#8211; trac]]></description>
+										<content:encoded><![CDATA[<p>				バージョン管理システムの trac を導入しました。まだ使い方がよくわかっていないのですが今後はこれを使っていこうと思っています。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/newt/" target="_blank" rel="noopener">NEWT/0 &#8211; trac</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/07/09/newt0-trac/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0：Subversion リポジトリを公開</title>
+		<link>/gnue/2005/05/07/newt0%ef%bc%9asubversion-%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2005/05/07/newt0%ef%bc%9asubversion-%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 06 May 2005 16:59:11 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<category><![CDATA[Subversion]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/05/07/newt0%ef%bc%9asubversion-%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%82%92%e5%85%ac%e9%96%8b/</guid>
+
+					<description><![CDATA[試験的にバージョン管理ソフト “Subversion” のリポジトリを公開してみました。URL は 　svn://so-kukan.com/gnue/NEWT0/ です。Subversion のクライアント（通常は sv [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				試験的にバージョン管理ソフト “Subversion” のリポジトリを公開してみました。URL は</p>
+<p>　svn://so-kukan.com/gnue/NEWT0/</p>
+<p>です。Subversion のクライアント（通常は svn）でチェックアウトすることができます。</p>
+<p>例：<br />
+　svn co svn://so-kukan.com/gnue/NEWT0/trunk<br />
+　svn co svn://so-kukan.com/gnue/NEWT0/tags/0.0.9</p>
+<p>　※リポジトリには NativeCalls, NewtObjC は含まれていません。</p>
+<p>最新版の trunk で make する場合は ./configure が必要ですので注意してください。Xcode でコンパイルする場合は ./configure の必要はありません。</p>
+<p>参考：<br />
+⇒ <a href="http://subversion.tigris.org/" target="_blank" rel="noopener">Subversion</a><br />
+⇒ <a href="http://subversion.bluegate.org/" target="_blank" rel="noopener">Subversionによるバージョン管理(日本語訳)</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/05/07/newt0%ef%bc%9asubversion-%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.0.8_20050111_4</title>
+		<link>/gnue/2005/01/11/newt0_008_20050111_4/</link>
+					<comments>/gnue/2005/01/11/newt0_008_20050111_4/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2005 07:22:55 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<category><![CDATA[Products]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/01/11/newt0_008_20050111_4/</guid>
+
+					<description><![CDATA[NEWT0_0.0.8_20050111_4 を公開しました。 今回のトピックは不定長引数のサポートと作業ディレクトリ・オプションです。それとWin版バイナリは strip -x で小さくするようにしました。とりあえず問 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT0_0.0.8_20050111_4 を公開しました。<br />
+<span id="more-492"></span><br />
+今回のトピックは不定長引数のサポートと作業ディレクトリ・オプションです。それとWin版バイナリは strip -x で小さくするようにしました。とりあえず問題なく動作しているようです。</p>
+<p>不定長引数の宣言は３点リーダーを使用します。</p>
+<p>　例： func(a1, a2, args&#8230;) 〜</p>
+<p>C言語の stdarg に少し似ていますが、NEWT/0 では自動的に最後の仮引数に残りの引数が配列化されて束縛されます。</p>
+<p>[変更箇所]</p>
+<p> &#8211; 不定長引数のサポート（独自機能）<br />
+ &#8211; 作業ディレクトリ・オプション（-C directory）の追加<br />
+ &#8211; Win版バイナリを strip -x でサイズ縮小<br />
+ &#8211; 構文解析時のエラーメッセージのバグを修正<br />
+ &#8211; LoadLib の潜在的なバグを修正</p>
+<p>[実行環境]</p>
+<p> &#8211; Mac OS X 10.3 以上（フルスペック）<br />
+ &#8211; Mac OS X 10.2 （注意：外部ライブラリの読込みができません）<br />
+ &#8211; Linux （KNOPPIX 3.7 でコンパイル）<br />
+ &#8211; Windows （MinGW+MSYS でコンパイル、protoREGEX は未対応）</p>
+<p>⇒ NEWT0_20050111_4_src.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_src.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_macosx.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_macosx.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_linux.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_linux.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_win.zip (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_win.zip">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/01/11/newt0_008_20050111_4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0：To Do</title>
+		<link>/gnue/2004/10/31/newt0%ef%bc%9ato-do/</link>
+					<comments>/gnue/2004/10/31/newt0%ef%bc%9ato-do/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 30 Oct 2004 20:44:47 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/31/newt0%ef%bc%9ato-do/</guid>
+
+					<description><![CDATA[根性なしなのでなかなか開発が進んでないけど、とりあえず“やることメモ”を書いておきます。 &#8211; 基本データ型のラッパーオブジェクト（独自仕様） &#8211; 不定長引数（独自仕様） &#8211; デストラク [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				根性なしなのでなかなか開発が進んでないけど、とりあえず“やることメモ”を書いておきます。</p>
+<p> &#8211; 基本データ型のラッパーオブジェクト（独自仕様）<br />
+ &#8211; 不定長引数（独自仕様）<br />
+ &#8211; デストラクタ（独自仕様）<br />
+ &#8211; エンディアン対策<br />
+ &#8211; パッケージシステム（独自仕様）<br />
+ &#8211; 拡張ライブラリの強化<br />
+　（SOCKET, DBI, SYSTEM&#8230;etc）<br />
+ &#8211; 日本語対応<br />
+ &#8211; テストパターン<br />
+ &#8211; ドキュメント<br />
+ &#8211; サンプルスクリプト<br />
+ &#8211; View システムの研究<br />
+<span id="more-373"></span><br />
+&#8212;<br />
+分かり難いところだけ解説すると</p>
+<p> &#8211; 基本データ型のラッパーオブジェクト（独自仕様）</p>
+<p>　NewtonScript ではフレーム以外のオブジェクトはメソッドを持つことができません。この辺はすべてが均質でないための弱点なわけですが、これをカバーするためにフレーム以外のオブジェクトに特別なラッパーオブジェクトというものを導入します。同じような考え方は JavaScript が採用しています(*1)</p>
+<p>　具体的にはオブジェクトのクラス（クラス指向のクラスとは別物）に対応する名前付マジックポインタにメソッドをデリゲート（委譲）するような形になると思います。</p>
+<p> &#8211; 不定長引数（独自仕様）</p>
+<p>　Apple の仕様としては引数の数は固定なのですが、それだと print 関数などで非常に使いづらいものがあります。使いやすさ重視ということで不定長引数を使えるようにしたいと考えています。</p>
+<p> &#8211; デストラクタ（独自仕様）</p>
+<p>　拡張ライブラリが確保したリソースが GC のときにリークしてしまう問題を解決するため。</p>
+<p> &#8211; エンディアン対策</p>
+<p>　Mac と PC(x86) では CPU のエンディアンが違うため生成されるバイトコードやオブジェクトに互換性がありません（エンディアンが違う）。普通にスクリプトのソースコードを実行する場合はそれでもいいのですが、バイトコードやオブジェクトをファイルに保存して別のエンディアンの環境で実行しようとしたときに問題が発生してしまいます。</p>
+<p>　対策としてはエンディアンの統一、もしくは識別フラグをもうけてどちらのエンディアンにも対応するという方法が考えられますが、まだ方針は決まっていません。</p>
+<p> &#8211; パッケージシステム（独自仕様）</p>
+<p>　Apple の PDA “Newton” ではパッケージと呼ばれる単位でプログラムが管理されていました。コンパイルされたバイトコードとオブジェクトがいっしょになったようなものとイメージするといいでしょう。いまのところ Newton と互換性のあるものは考えていません。パソコンの OS で動作するときに最適化された仕様になると思います。</p>
+<p>　パッケージを使うと構文解析の時間が短縮できますし、構文解析のルーチンそのものが必要でなくなります。通常のスクリプト実行ではあまり意味がありませんが、REALbasic のように単体アプリを作成したときにランタイムを小さくし起動速度を速くできるというメリットがあります。それと Web のサーバプログラムにも活かせるかなと考えています。すぐにそういうものができるというわけではありませんが、そういったものも視野に入れているということです。</p>
+<p>　実際にはエンディアン問題やパッケージ内のシンボルやオブジェクト参照（マッピング）、パッケージを削除したときのメモリ解放など課題や山積みなのでかなり先の長い話になります(^^;</p>
+<p>*1) アイデア自体はずいぶん前から考えていたのですが、JavaScript の本を読んだら偶然同じような考え方が載っていました。名称としては JavaScript にならって「基本データ型のラッパーオブジェクト」とします		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/10/31/newt0%ef%bc%9ato-do/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ようやくソースコード公開</title>
+		<link>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 24 Jul 2004 22:08:09 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/</guid>
+
+					<description><![CDATA[なんだかんだ無為に時間だけが過ぎてしまった。 ライセンスを考えていたら知恵熱で頭が痛くなってしまい、結局 堂々巡りをした結果 ruby のマネをすることにしました。GPL には正直いろいろと抵抗があるので将来的にはちゃん [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				なんだかんだ無為に時間だけが過ぎてしまった。</p>
+<p>ライセンスを考えていたら知恵熱で頭が痛くなってしまい、結局 堂々巡りをした結果 ruby のマネをすることにしました。GPL には正直いろいろと抵抗があるので将来的にはちゃんとしたライセンスを考えたい。</p>
+<p>名称についてもいまいちしっくりくるものがなった。急いで変な名称にするぐらいならとりあえず NEWT/0 (*1) でいいかなと(^^;</p>
+<p>*1) PL/0 風		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.0.5_20040707_1_src</title>
+		<link>/gnue/2004/07/25/newt0_005_20040707_1_src/</link>
+					<comments>/gnue/2004/07/25/newt0_005_20040707_1_src/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 24 Jul 2004 21:49:04 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/newt0_005_20040707_1_src/</guid>
+
+					<description><![CDATA[NEWT0_0.0.5_20040707_1_src を公開しました。 ようやくソースコードの公開です。 名称： NEWT/0（仮） ライセンス：GPL と NEWT/0 ライセンス(*1)のデュアルライセンス *1)  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT0_0.0.5_20040707_1_src を公開しました。<br />
+ようやくソースコードの公開です。</p>
+<p>名称： NEWT/0（仮）<br />
+ライセンス：GPL と NEWT/0 ライセンス(*1)のデュアルライセンス</p>
+<p>*1) NEWT/0 ライセンス は ruby ライセンスと同じ内容（というかパクリです(^^;）</p>
+<p>⇒ NEWT0_20040707_1_src.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20040707_1_src.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/07/25/newt0_005_20040707_1_src/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

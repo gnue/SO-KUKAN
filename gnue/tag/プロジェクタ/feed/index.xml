@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>プロジェクタ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 25 Sep 2008 19:31:41 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>LED光源プロジェクタいろいろ</title>
+		<link>/gnue/2008/09/26/led%e5%85%89%e6%ba%90%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%82%bf%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/</link>
+					<comments>/gnue/2008/09/26/led%e5%85%89%e6%ba%90%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%82%bf%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2008 19:31:41 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[プロジェクタ]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1482</guid>
+
+					<description><![CDATA[LED光源のプロジェクタがいろいろ登場しますね。 （ただし DELL, 3M のは米国での発売） 【KG-PL105S】加賀コンポーネント 　SVGA（800×600） 　154×117×50mm 　約780g 　140 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				LED光源のプロジェクタがいろいろ登場しますね。<br />
+（ただし DELL, 3M のは米国での発売）</p>
+<p>【<a href="http://av.watch.impress.co.jp/docs/20080925/kaga.htm">KG-PL105S</a>】加賀コンポーネント<br />
+　SVGA（800×600）<br />
+　154×117×50mm<br />
+　約780g<br />
+　140ルーメン<br />
+　コントラスト比 1,400:1<br />
+　14万円前後（10月中旬発売予定）</p>
+<p>【<a href="http://japanese.engadget.com/2008/09/24/dell-dlp-m109s/">M109S</a>】DELL<br />
+　SVGA (858 x 600)<br />
+　92x105x37mm<br />
+　約360g<br />
+　50ルーメン<br />
+　コントラスト比 800:1<br />
+　US$499（米国で発売中）</p>
+<p>【<a href="http://japanese.engadget.com/2008/09/15/3m-mpro110-led/">MPro110</a>】3M<br />
+　VGA（640×480）？<br />
+　115x50x22mm<br />
+　約152g<br />
+　10ルーメン？<br />
+　US$359（米国で9月30日発売予定）</p>
+<p>DELL あたりが手頃なんですが日本でも発売して欲しいものです。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/09/26/led%e5%85%89%e6%ba%90%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%82%bf%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

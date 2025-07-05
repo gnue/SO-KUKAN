@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Download &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/download/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 29 Aug 2009 14:40:09 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>USBeep 0.9.1</title>
+		<link>/gnue/2009/08/29/usbeep-0-9-1/</link>
+					<comments>/gnue/2009/08/29/usbeep-0-9-1/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 29 Aug 2009 14:40:09 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[USBeep]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2790</guid>
+
+					<description><![CDATA[USBデバイスを挿したときおよび抜いたときに音声で知らせてくれるジョークソフトです。 ⇒ ダウンロード ■動作環境 ✓ Mac OS X 10.5(Leopard) 以上 ■更新履歴 2009-08-29 0.9.1 S [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				USBデバイスを挿したときおよび抜いたときに音声で知らせてくれるジョークソフトです。</p>
+<p>⇒ <a href="https://so-kukan.com/gnue/lib/mac/USBeep0.9.1.dmg">ダウンロード</a></p>
+<p>■動作環境<br />
+	✓	Mac OS X 10.5(Leopard) 以上</p>
+<p>■更新履歴<br />
+2009-08-29	0.9.1	Snow Leopard に対応。日本語ローカライズ<br />
+2009-04-13	0.9	最初の公開バージョン		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/08/29/usbeep-0-9-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BindUp! 0.1.0</title>
+		<link>/gnue/2006/10/10/bindup-010/</link>
+					<comments>/gnue/2006/10/10/bindup-010/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 09 Oct 2006 16:32:17 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[PDF]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/10/bindup-010/</guid>
+
+					<description><![CDATA[BindUp! は PDF のページを組み替えるためのソフトウェアです。 デジタル複合機MyMIO で作成した PDF を整理するために開発しました。片面スキャンの ADF しか持たない複合機で両面スキャンをしたと同じよ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				BindUp! は PDF のページを組み替えるためのソフトウェアです。</p>
+<p>デジタル複合機MyMIO で作成した PDF を整理するために開発しました。片面スキャンの ADF しか持たない複合機で両面スキャンをしたと同じようにひとつの PDF書類をつくるために「逆順＋丁合」で挿入するというユニークな機能を持っています。</p>
+<p>まだ未完成品ですが、今年いっぱいは手を入れられそうにないのでとりあえず公開。なお、アプリケーション・アイコン絶賛募集中。</p>
+<p>[特徴]<br />
+	1.	ドラッグ＆ドロップによるページの挿入（他の PDF または画像ファイル）<br />
+	2.	ドラッグ＆ドロップによるページの削除<br />
+	3.	ページの移動<br />
+	4.	ページ毎の回転<br />
+	5.	ファイル読込みの豊富なオプション（特に逆順＋丁合挿入）<br />
+	6.	プレビュー・ライクな操作感</p>
+<p>[動作環境]<br />
+	Mac OS X 10.4以上（Universal Binary）</p>
+<p>⇒ BindUp! 0.1.0 [<a href="https://so-kukan.com/gnue/lib/lab/BindUp!-0.1.0.dmg">Download</a>]</p>
+<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000EHRWD2/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000EHRWD2.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p><br class="clear" /></p>
+<p><font color="red">2006/10/24：【重要】</font> BindUp! のソースコードは MacBook の HDDトラブルで消失しました&#8230;orz		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/10/bindup-010/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop-tb_20050620</title>
+		<link>/gnue/2005/06/29/mt-spamstop-tb/</link>
+					<comments>/gnue/2005/06/29/mt-spamstop-tb/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2005 12:51:18 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/06/29/mt-spamstop-tb_20050620/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop-tb_20050620 を公開しました。 ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。 まだ数は [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop-tb_20050620 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p><span id="more-686"></span></p>
+<p>まだ数は多くありませんがトラックバックのブログ名に URL を入れてくる新種が来るようになってきたので対応しました。</p>
+<p>概　　要： &lt;A&gt;タグを含むトラックバックスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更： ブログ名が&lt;A&gt;タグを含む場合にも対応</p>
+<p>⇒ mt-spamstop-tb_20050620.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop-tb_20050620.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/06/29/mt-spamstop-tb/feed/</wfw:commentRss>
+			<slash:comments>40</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop_20050320</title>
+		<link>/gnue/2005/03/20/mtspamstop_2005_1/</link>
+					<comments>/gnue/2005/03/20/mtspamstop_2005_1/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2005 11:36:18 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/03/20/mt-spamstop_20050320/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop_20050320 を公開しました。 ベリー・ベリー・シンプルなコメントスパム対策用のプラグインです。mod_perl 環境でも使用可。 数は多くないのですが [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop_20050320 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなコメントスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p><span id="more-604"></span></p>
+<p>数は多くないのですがそろっと対応できないコメントスパムがちらほら来るようなのでトラックバックスパム対策と同様のブラックリスト機能を追加しました。デフォルトでうちに来たスパムの URL を登録してあります。</p>
+<p>概　　要： &lt;A&gt;タグを含むコメントスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更：<br />
+　ブラックリストをファイル最後尾に登録できるようにしました</p>
+<p>⇒ mt-spamstop_20050320.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop_20050320.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/03/20/mtspamstop_2005_1/feed/</wfw:commentRss>
+			<slash:comments>31</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-getimg_20041005</title>
+		<link>/gnue/2004/10/06/mt-getimg_20041005/</link>
+					<comments>/gnue/2004/10/06/mt-getimg_20041005/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2004 15:08:18 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/06/mt-getimg_20041005/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-getimg_20041005 を公開しました。 概　　要： 最初に登場する img タグのみ抽出する 利用方法： 　&#60;$MTEntryBody getimg=&#82 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-getimg_20041005 を公開しました。</p>
+<p><span id="more-330"></span></p>
+<p>概　　要： 最初に登場する img タグのみ抽出する<br />
+利用方法：<br />
+　&lt;$MTEntryBody getimg=&#8221;1&#8243; $&gt;<br />
+　&lt;$MTEntryBody getimg=&#8221;hspace=2 vspace=2&#8243; $&gt;<br />
+変　　更：<br />
+　align の他 hspace, vspace を取り除くように修正<br />
+　属性値に img タグに追加する属性値を記述できるように修正</p>
+<p>⇒ mt-getimg_20041005.tgz (<a href="/gnue/lib/mt-plugin/mt-getimg_20041005.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/10/06/mt-getimg_20041005/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-amazon-link_20041001</title>
+		<link>/gnue/2004/10/01/mt-amazon-link_20041001/</link>
+					<comments>/gnue/2004/10/01/mt-amazon-link_20041001/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2004 01:43:21 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/01/mt-amazon-link_20041001/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-amazon-link_20041001 を公開しました。 概　　要： &#8220;＆ASIN:12345678:テキスト;&#8221;（テキストリンクの場合）または &#038; [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-amazon-link_20041001 を公開しました。</p>
+<p><span id="more-318"></span></p>
+<p>概　　要： &#8220;＆ASIN:12345678:テキスト;&#8221;（テキストリンクの場合）または &#8220;＆ASIN:12345678;&#8221;（イメージリンクの場合）を Amazon へのリンクに置き換える<br />
+利用方法： &lt;$MTEntryBody amazon_link =&#8221;user-22&#8243; $&gt;<br />
+　&#8221;user-22&#8221; は自分のアソシエイトIDを記入します</p>
+<p>⇒ mt-amazon-link_20041001.tgz (<a href="/gnue/lib/mt-plugin/mt-amazon-link_20041001.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/10/01/mt-amazon-link_20041001/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>IconBank 1.01r2</title>
+		<link>/gnue/2004/09/25/iconbank-101r2/</link>
+					<comments>/gnue/2004/09/25/iconbank-101r2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2004 18:54:26 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Keyware]]></category>
+		<category><![CDATA[Mac OS 8/9]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/iconbank-101r2/</guid>
+
+					<description><![CDATA[for Mac OS 8.5 later アイコンを収集し、ドラッグ＆ドロップでファイルにカスタムアイコンをつけるためのユーティリティです。 ⇒ ダウンロード 価　　格：パーソナル・ライセンス　　…２００円（振込手数料別 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="for">for Mac OS 8.5 later</div>
+<p><img></p>
+<p><span id="more-306"></span></p>
+<p>アイコンを収集し、ドラッグ＆ドロップでファイルにカスタムアイコンをつけるためのユーティリティです。</p>
+<p>⇒ <a href="/gnue/lib/keyware/IconBank_1.01r2.sit">ダウンロード</a></p>
+<p>価　　格：<strike>パーソナル・ライセンス　　…２００円（振込手数料別）</strike><br />
+　　　　　<strike>パブリッシュ・ライセンス　…７００円（振込手数料別）</strike><br />
+　　　　　※販売は終了しました（FreeKey が添付されています）<br />
+試用期限：<strike>２週間</strike><br />
+圧縮解凍：StuffIt Expander が必要</p>
+<p><a HREF="/gnue/keyware/IconBank/history.txt" target="history" rel="noopener">■更新履歴</a></p>
+<p>v1.01r2</p>
+<ul>
+<li>Save As で保存したときにファイルアイコンの表示を更新するように変更
+</li>
+<li>読込み専用ファイルをドラッグスクロールしたときの描画の不具合を修正
+</li>
+</ul>
+<p>v1.01</p>
+<ul>
+<li>ファイルをアプリケーション切替にドラッグしてオープンできない問題を修正
+</li>
+<li>Save As で元ファイルにカスタムアイコンが付いていなくても、カスタムアイコンを付けて保存してしまう問題を修正
+</li>
+<li>Undo ができるようになりました
+</li>
+<li>ドラッグ＆amp;ドロップ時にアイコン・リストがスクロールするようになりました
+</li>
+</ul>
+<p><a HREF="/gnue/keyware/IconBank/savvy.txt" target="savvy" rel="noopener">■動作確認状況</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/09/25/iconbank-101r2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SideClip 1.05</title>
+		<link>/gnue/2004/09/25/sideclip-105/</link>
+					<comments>/gnue/2004/09/25/sideclip-105/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2004 18:42:42 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Keyware]]></category>
+		<category><![CDATA[Mac OS 8/9]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/sideclip-105/</guid>
+
+					<description><![CDATA[for Mac OS 8.1 later Macintosh において Newton OS ライクなマルチクリップボードを実現します。 画面の両端にアイテム（テキスト、画像&#8230;etc）をドラッグ＆ドロップするだ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="for">for Mac OS 8.1 later</div>
+<p><img></p>
+<p><span id="more-305"></span></p>
+<p>Macintosh において Newton OS ライクなマルチクリップボードを実現します。<br />
+画面の両端にアイテム（テキスト、画像&#8230;etc）をドラッグ＆ドロップするだけでクリッピングができます。</p>
+<p>Finder のクリッピング・ファイルのように邪魔にならず、スクラップブックのように起動が必要ありません。一時的に作業中のアイテムをちょっとクリッピングしておくのに便利です。</p>
+<p>⇒ <a href="/gnue/lib/keyware/SideClip_1.05.sit">ダウンロード</a></p>
+<p>価　　格：<strike>２００円（振込手数料別）</strike><br />
+　　　　　※販売は終了しました（FreeKey が添付されています）<br />
+試用期限：<strike>２週間</strike><br />
+圧縮解凍：StuffIt Expander が必要</p>
+<p><a HREF="/gnue/keyware/SideClip/history.txt" target="history" rel="noopener">■更新履歴</a></p>
+<p>v1.05</p>
+<ul>
+<li>スペルミスの修正（Extetion → Extension）<br />
+<font COLOR="red">ファイル名が変更されているので注意して下さい。アップデートは必ず古いファイルをゴミ箱に捨ててから、インストールして下さい。</font>
+</li>
+<li>複数アイテムを選択してドロップしたときに付箋が重なってしまわないように、自動位置調整機能を追加
+</li>
+<li>クリックしたときのリアクションを修正
+</li>
+</ul>
+<p><a HREF="/gnue/keyware/SideClip/savvy.txt" target="savvy" rel="noopener">■動作確認状況</a><br />
+<a HREF="/gnue/keyware/SideClip/faq.html" target="faq" rel="noopener">■Q&amp;A</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/09/25/sideclip-105/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

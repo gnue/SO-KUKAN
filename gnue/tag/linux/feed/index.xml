@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Linux &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Aug 2008 14:41:35 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Linuxに必要なものは美？</title>
+		<link>/gnue/2008/08/04/linux%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e3%82%82%e3%81%ae%e3%81%af%e7%be%8e%ef%bc%9f/</link>
+					<comments>/gnue/2008/08/04/linux%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e3%82%82%e3%81%ae%e3%81%af%e7%be%8e%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2008 14:41:35 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1330</guid>
+
+					<description><![CDATA[Ubuntu の創始者が「2年以内にLinuxをMac OS Xよりも見栄えの良いOSにする」と言っているそうだ。まぁ、美しいに越したことはないのだけれど Vista みたいに厚化粧になっちゃうと嫌だなぁ。Linux用の [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Ubuntu の創始者が「2年以内にLinuxをMac OS Xよりも見栄えの良いOSにする」と言っているそうだ。まぁ、美しいに越したことはないのだけれど Vista みたいに厚化粧になっちゃうと嫌だなぁ。Linux用の3Dデスクトップとかあるけどそれでユーザが増えました？ もっと本質を考えましょうや。</p>
+<p>本当に大切なのは何？ ユーザエクスペリエンスじゃないのかな。そのためには美しさも必要だけれども、本質を忘れたら意味がない。</p>
+<p>Ubuntu の創始者は iPhone を引き合いに出しているけど、Apple や iPhone ってたぶんすごく誤解されやすいんだと思う。Apple のなぜすぐれたデザインが出来るかというとばっさりと切り捨てが出来ているからである。それを勘違いしてはいけない。</p>
+<p>それにしても、せっかくライフハッカーというライフスタイルをハックするネットニュースが取り上げているのにユーザエクスペリエンスに言及しないのは残念である。Linux を Life Hacking の視点で Hack せよ。それが一番必要なことだ。</p>
+<p>⇒ <a href="http://www.lifehacker.jp/2008/07/linux.html">Linuxに今必要なのは美しい見映えなのか？</a>（ライフハッカー）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/08/04/linux%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e3%82%82%e3%81%ae%e3%81%af%e7%be%8e%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>chumby 日本上陸</title>
+		<link>/gnue/2008/06/14/chumby/</link>
+					<comments>/gnue/2008/06/14/chumby/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 14 Jun 2008 10:47:44 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Chumby]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1263</guid>
+
+					<description><![CDATA[ぬいるぐみのようにふにゃふにゃでネットと交感するなぞの電脳生物（？）chumby が日本に上陸するらしい。 機能はリンク先を見てもらうとして、類似のものには SONY のデジタルフォトフレーム「CP1」、Microsof [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ぬいるぐみのようにふにゃふにゃでネットと交感するなぞの電脳生物（？）chumby が日本に上陸するらしい。</p>
+<p>機能はリンク先を見てもらうとして、類似のものには SONY のデジタルフォトフレーム「<a href="http://www.vaio.sony.co.jp/Products/CP1/">CP1</a>」、Microsoft の数ある失敗作のひとつ SPOT などがある。</p>
+<p>さて chumby の実体は Flash Lite 3.0 が動作する Linux 端末（350MHz ARMプロセッサ）である。個々のパーツを見れば特別新しいものではない。ただ chumby を特徴付けているものとして、オープンハードウェア、オープンソフトウェア（ただし Flash は除く）というところだろう。ソフトもハードも自由にハックが可能だ。</p>
+<p>⇒ <a href="http://www.zyyx.jp/product/chumby.html">「chumby」遂に日本上陸</a> （株式会社ジークス）<br />
+⇒ <a href="http://www.itmedia.co.jp/news/articles/0806/13/news096.html">目覚まし、ゲーム機、YouTubeテレビ――多機能ネットガジェット「Chumby」日本上陸</a> （ITmedia）<br />
+⇒ <a href="http://www.itmedia.co.jp/enterprise/articles/0802/04/news009.html">chumby――米国生まれの情報端末に家電の未来を見る</a> （ITmedia）<br />
+⇒ <a href="http://www.yamdas.org/column/technique/chumbyj.html">Chumbyの誕生</a><br />
+⇒ <a href="http://chumbyjapan.com/">Chumby Japan チャンビー・ジャパン</a>(*1)</p>
+<p>*1) Chumby Japan は個人輸入代行をしていますが、ファンサイトであり正式な代理店ではありません</p>
+<p>⇒ <a href="http://chumbyjapan.com/blog/2008/03/post_8.html">オリジナルウィジェット作成　その１</a> （Chumby Japan）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/06/14/chumby/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Linux on W-ZERO3</title>
+		<link>/gnue/2007/06/26/linux-on-w-zero3/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 26 Jun 2007 02:20:49 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[w-zero3]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/06/26/linux-on-w-zero3</guid>
+
+					<description><![CDATA[2ch において W-ZERO3 で Linux を動かすプロジェクトがすすめられているようです。とりあえず Linux のブートができる模様。 ⇒ Linux on W-ZERO3（W-ZERO3 2chまとめ）]]></description>
+										<content:encoded><![CDATA[<p>2ch において W-ZERO3 で Linux を動かすプロジェクトがすすめられているようです。<br />とりあえず Linux のブートができる模様。</p>
+<p>⇒ <a href="http://w-zero3.org/?%A5%C0%A5%A6%A5%F3%A5%ED%A1%BC%A5%C9%2FLinux">Linux on W-ZERO3</a>（W-ZERO3 2chまとめ）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Linuxベースの Intel UMPC</title>
+		<link>/gnue/2007/04/17/linux%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae-intel-umpc/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 17 Apr 2007 01:29:47 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[hildon]]></category>
+		<category><![CDATA[intel]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[mid]]></category>
+		<category><![CDATA[umpc]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/17/linux%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae-intel-umpc</guid>
+
+					<description><![CDATA[Microsoft のオリガミと共にデビューした Intel の UMPC ですが、どうも今度は Linux を載せたバージョンをつくったようです。ま、中身が x86アーキテクチャの PC なので別に不思議でもなんでもな [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Microsoft のオリガミと共にデビューした Intel の UMPC ですが、どうも今度は Linux を載せたバージョンをつくったようです。ま、中身が x86アーキテクチャの PC なので別に不思議でもなんでもないんですけどね。</p>
+<p>路線的には NOKIA の Internet Tablet や SONY の Mylo よりのモバイルPC ってところでしょうか。Linux のディストリビューションは紅旗Linuxベースの MID Linux。紅旗Linuxって中国産というぐらいしか知らないんだけどどんな感じなんでしょ？</p>
+<p>ところで今回の MIDプラットフォームで目を引くのは Mac OS X の Dashbord っぽいアイコンの画面デザイン。多分に iPhone を意識してるんだろうなぁ。Apple デザインとの大きな違いは細かいところに気配りが行き届いていないので微妙にバランスが悪いところ。デザイン重要！（笑）</p>
+<p>さてちょっと面白いのが MIDプラットフォームの GUI が N800 と同じ Hildon Application Framework を採用していことだ。画面キャプチャで N800 っぽい画面が見えるのはそのため。ってことは将来 N800 でも iPhone っぽい GUI にできるかもしれない（Apple からクレームがこなければ :-P）</p>
+<p>⇒ <a href="http://japanese.engadget.com/2007/04/16/intel-linux-mid/">インテル、LinuxベースのウルトラモバイルプラットフォームMIDを発表</a>（engadget）<br />⇒ <a href="http://www.linuxdevices.com/news/NS8166710404.html">Intel debuts Linux-based &quot;Mobile Internet Device&quot;</a>（LinuxDevices.com）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Momonga Linux on PS3</title>
+		<link>/gnue/2006/12/09/momonga-linux-on-ps3/</link>
+					<comments>/gnue/2006/12/09/momonga-linux-on-ps3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 08 Dec 2006 18:34:41 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PS3]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/12/09/momonga-linux-on-ps3/</guid>
+
+					<description><![CDATA[Momonga Linux(PPC64) が PS3 で動くようです。Fedora Core 5用インストールスクリプトを改造しているそうです。 普通に 64bit の PowerPC x 8個のシステムとして見えてるん [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Momonga Linux(PPC64) が PS3 で動くようです。Fedora Core 5用インストールスクリプトを改造しているそうです。</p>
+<p>普通に 64bit の PowerPC x 8個のシステムとして見えてるんですね。Mac OS X を動かすのは（ライセンス的に）無理でも Darwin だったら動かせるかな。</p>
+<p>⇒ <a href="http://developer.momonga-linux.org/wiki/?PS3" target="_blank" rel="noopener"> PS3でMomonga Linuxを動かすための情報について</a>（Developer at Momonga Project）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/12/09/momonga-linux-on-ps3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ゆうこりん命名 wizpy ?</title>
+		<link>/gnue/2006/11/22/%e3%82%86%e3%81%86%e3%81%93%e3%82%8a%e3%82%93%e5%91%bd%e5%90%8d-wizpy/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 21 Nov 2006 18:58:59 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[ターボリナックス]]></category>
+		<category><![CDATA[メディアプレーヤー]]></category>
+		<category><![CDATA[ゆうこりん]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/11/22/%e3%82%86%e3%81%86%e3%81%93%e3%82%8a%e3%82%93%e5%91%bd%e5%90%8d-wizpy</guid>
+
+					<description><![CDATA[発表会にはアイドルの小倉優子さんがwizpyの命名者として出席。命名は、同デバイスがPersonal Computer、Portability、Privacy、Playerの4つのPを備えていることから「with p」、 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote>
+<p>発表会にはアイドルの小倉優子さんがwizpyの命名者として出席。命名は、同デバイスがPersonal Computer、Portability、Privacy、Playerの4つのPを備えていることから「with p」、転じてwizpyと名付けたという。</p>
+<p>⇒ <a href="http://pc.watch.impress.co.jp/docs/2006/1121/tlinux.htm">ターボリナックス、Linux環境を持ち運びできるメディアプレーヤー</a>（PC Watch）</p>
+</blockquote>
+<p>ってことなんだけど、本当？　このネーミング、なんか小倉優子ってイメージじゃない。いかにものりピー（酒井法子）世代のおっさん（ビジネス系コンピュータ業界）がつけたようなネーミングなんだけどなぁ。「こういうネーミングにしたので、そういうことでよろしくね」という業界にありがちなパターンっすか。</p>
+<p>それにしても製品そのものはターゲットが見えない。コアなユーザは iPod でだってなんとかしちゃうし、完全なエンドユーザがわざわざ Linux でブートするかなぁ。結局在庫の山を抱えて１年後には投げ売りが関の山という気が&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SONY mylo の国内発売</title>
+		<link>/gnue/2006/10/18/sony-mylo-%e3%81%ae%e5%9b%bd%e5%86%85%e7%99%ba%e5%a3%b2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2006 14:38:41 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[mylo]]></category>
+		<category><![CDATA[sony]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/10/18/sony-mylo-%e3%81%ae%e5%9b%bd%e5%86%85%e7%99%ba%e5%a3%b2</guid>
+
+					<description><![CDATA[SONY mylo の国内発売が発表されましたね。 予約販売１２月中旬、お届け予定日２月上旬だそうです。なんか微妙なタイムラグ。この辺 SONY の発表方法はいまいちかな。Apple だったら１２月発表にして「今日から予 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>SONY mylo の国内発売が発表されましたね。</p>
+<p>予約販売１２月中旬、お届け予定日２月上旬だそうです。なんか微妙なタイムラグ。この辺 SONY の発表方法はいまいちかな。Apple だったら１２月発表にして「今日から予約開始、お届けは２月」とかにしちゃうんだろうな。</p>
+<p>中身は Linux なわけだしソフトがつくれると面白いのだけど。ま、SONY が公開しなくてもすぐに誰かがハックしちゃうんだろうけどね。ここは太っ腹なところを見せて SDK とか公開して欲しいものだ。</p>
+<p>そうそう。mylo って「パーソナルコミュニケータ」という名称を冠しているんだね。もう覚えている人は少ないだろうけど SONY の MagicLink が PIC(Personal Intelligent Communicator) という名前だった。Intelligent はなくなったけど Internet につながるのでやはり PIC(Personal Internet Communicator) と呼んでいるサイトもあるみたい。これは偶然の一致か、それとも&#8230;</p>
+<p>⇒ <a href="http://www.jp.sonystyle.com/Company/Press/061018.html">mylo</a> (SONY)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Boot Camp + KNOPPIX 5.0 DVD</title>
+		<link>/gnue/2006/05/29/boot-camp-knoppix-50-dvd/</link>
+					<comments>/gnue/2006/05/29/boot-camp-knoppix-50-dvd/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 28 May 2006 21:11:26 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/05/29/boot-camp-knoppix-50-dvd/</guid>
+
+					<description><![CDATA[Windows XP はまだ手に入れていないので、とりあえず KNOPPIX 5.0 DVD（日本語版）を試してみたけどあっけないほど簡単に起動。ブート時には（デュアルコアなので）ペンギンが２匹表示されます。ただ Mac [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Windows XP はまだ手に入れていないので、とりあえず KNOPPIX 5.0 DVD（日本語版）を試してみたけどあっけないほど簡単に起動。ブート時には（デュアルコアなので）ペンギンが２匹表示されます。ただ MacBook はワイド画面なので横に引き延ばされちゃいます。もちろん WiFi, Bluetooth はＮＧ。</p>
+<p>ちなみに FreeSBIE 1.1 CD は起動途中でフリーズ。まぁ、最新の 1.1 でも 2004 年12月だからしょうがないか&#8230;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/05/29/boot-camp-knoppix-50-dvd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nokia の Linuxタブレット</title>
+		<link>/gnue/2005/11/08/nokia-%e3%81%ae-linux%e3%82%bf%e3%83%96%e3%83%ac%e3%83%83%e3%83%88/</link>
+					<comments>/gnue/2005/11/08/nokia-%e3%81%ae-linux%e3%82%bf%e3%83%96%e3%83%ac%e3%83%83%e3%83%88/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 08 Nov 2005 03:40:03 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/11/08/nokia-%e3%81%ae-linux%e3%82%bf%e3%83%96%e3%83%ac%e3%83%83%e3%83%88/</guid>
+
+					<description><![CDATA[Nokia の Linuxタブレットがヨーロッパで発売になったそうです。 約350ユーロっていくらだ？　413.35米ドルってことは日本円で５万円はしないってことか。アメリカでの出荷は来週からだそうです。 追記：CNET [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Nokia の Linuxタブレットがヨーロッパで発売になったそうです。</p>
+<p>約350ユーロっていくらだ？　413.35米ドルってことは日本円で５万円はしないってことか。アメリカでの出荷は来週からだそうです。</p>
+<p>追記：CNET Japan の記事によると CPU は TI の OMAP 1710(220MHz)。ARM コアですね。</p>
+<p>⇒ <a href="http://europe.nokia.com/nokia/0,,74866,00.html" target="_blank" rel="noopener">Nokia 770</a>（Nokia）<br />
+⇒ <a href="http://www.itmedia.co.jp/news/articles/0511/08/news016.html" target="_blank" rel="noopener">Nokia、Linuxタブレットを発売</a>（ITmedia）<br />
+⇒ <a href="http://japan.cnet.com/news/tech/story/0,2000047674,20090409,00.htm" target="_blank" rel="noopener">ノキア、Linuxベースのインターネット端末「Nokia 770」を発売</a>（c|net）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/11/08/nokia-%e3%81%ae-linux%e3%82%bf%e3%83%96%e3%83%ac%e3%83%83%e3%83%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iPod Linux と setjmp</title>
+		<link>/gnue/2005/09/01/ipod-linux-%e3%81%a8-setjmp/</link>
+					<comments>/gnue/2005/09/01/ipod-linux-%e3%81%a8-setjmp/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2005 00:09:56 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/09/01/ipod-linux-%e3%81%a8-setjmp/</guid>
+
+					<description><![CDATA[iPod Linux で PNG や TrueType/OpenType を使いたいので libpng, FreeType をコンパイルしようと思ったのだけど、コンパイルは通るのに実行中にどうも落ちてしまう。調べたらどう [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				iPod Linux で PNG や TrueType/OpenType を使いたいので libpng, FreeType をコンパイルしようと思ったのだけど、コンパイルは通るのに実行中にどうも落ちてしまう。調べたらどうも setjmp が原因らしい。</p>
+<p>libpng のほうは -DPNG_SETJMP_NOT_SUPPORTED でコンパイルすると setjmp/longjmp を使わないようにできるのでなんとか成功。</p>
+<p>FreeType のほうは setjmp を使わないというオプションがないのでどうしたもんだか。インターネットで uClinux arm setjmp で検索したところ uClinux-dev ML のログにそのものずばりの問題と解決方法を発見。どうも CVS のソースコードでは２年以上も前に直っている問題っぽい。一番いいのは最新コードで全部make し直すことだけど、現状の iPod Linux のバージョンと整合性がとれなくなっても嫌だしいろいろと必要なソースコードを揃えるのもめんどうなので setjmp がらみの部分のみコンパイルして libc.a の中身をすげ替えることにする。とりあえずこれで FreeType が使えるようになったみたい。つまり TrueType/OpenType の表示が可能（ヒラギノ角ゴ Pro W3 で検証）</p>
+<p>⇒ <a href="http://sourceforge.net/project/shownotes.php?release_id=226054" target="_blank" rel="noopener">MacOSX Arm-elf cross compiler</a>（問題あり）<br />
+⇒ <a href="http://cvs.uclinux.org/cgi-bin/cvsweb.cgi/uClinux-dist/uClibc/libc/sysdeps/linux/arm/" target="_blank" rel="noopener">[uClinux Local Repository] uClinux-dist/uClibc/libc/sysdeps/linux/arm/</a>（修正されている）<br />
+⇒ <a href="http://mailman.uclinux.org/pipermail/uclinux-dev/2003-February/015303.html" target="_blank" rel="noopener">[uClinux-dev] subtle bug in arm version of setjmp/longjmp</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/09/01/ipod-linux-%e3%81%a8-setjmp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

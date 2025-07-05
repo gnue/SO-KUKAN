@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	NEWT0_0.0.5_20040925_1 へのコメント	</title>
+	<atom:link href="/gnue/2004/09/25/newt0_005_20040925_1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/09/25/newt0_005_20040925_1/</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Sep 2004 08:18:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/25/newt0_005_20040925_1/#comment-113</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2004 08:18:56 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_005_20040925_1/#comment-113</guid>
+
+					<description><![CDATA[理髪さん、ありがとうございます。
+さっそく修正したソースコードをアップしました。
+これで Makefile のメンテナンスが楽になります :)]]></description>
+			<content:encoded><![CDATA[<p>理髪さん、ありがとうございます。<br />
+さっそく修正したソースコードをアップしました。<br />
+これで Makefile のメンテナンスが楽になります 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/09/25/newt0_005_20040925_1/#comment-112</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2004 06:28:30 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_005_20040925_1/#comment-112</guid>
+
+					<description><![CDATA[&#062; #ifdef _BEOS_ を追加しました
+有難うございます。しかし_BEOS_ではなく__BEOS__(アンダーバーが二個)です。次回修正おねがいします。
+
+&#062;Special Thanks に sumim さんと理髪さんを追加しました
+恐縮です。
+
+Makefileについて検討してみました。
+現在はOSごとに準備しているのでメンテナンスが面倒だと思います。見てみると大体マクロ定義の部分が違っているようなのでincludeで切替えるようにしてみてはどうかと思います。
+include platform/$(shell uname)
+てな感じで。unameはBeOSではBeOS、RedHatではLinuxでした。私の試したものをhomepage3.nifty.com/neuron/download/platformにBeOSとLinuxを置いときます。参考として。]]></description>
+			<content:encoded><![CDATA[<p>&gt; #ifdef _BEOS_ を追加しました<br />
+有難うございます。しかし_BEOS_ではなく__BEOS__(アンダーバーが二個)です。次回修正おねがいします。</p>
+<p>&gt;Special Thanks に sumim さんと理髪さんを追加しました<br />
+恐縮です。</p>
+<p>Makefileについて検討してみました。<br />
+現在はOSごとに準備しているのでメンテナンスが面倒だと思います。見てみると大体マクロ定義の部分が違っているようなのでincludeで切替えるようにしてみてはどうかと思います。<br />
+include platform/$(shell uname)<br />
+てな感じで。unameはBeOSではBeOS、RedHatではLinuxでした。私の試したものをhomepage3.nifty.com/neuron/download/platformにBeOSとLinuxを置いときます。参考として。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

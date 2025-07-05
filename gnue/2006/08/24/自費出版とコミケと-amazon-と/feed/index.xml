@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	自費出版とコミケと Amazon と へのコメント	</title>
+	<atom:link href="/gnue/2006/08/24/%E8%87%AA%E8%B2%BB%E5%87%BA%E7%89%88%E3%81%A8%E3%82%B3%E3%83%9F%E3%82%B1%E3%81%A8-amazon-%E3%81%A8/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/08/24/%e8%87%aa%e8%b2%bb%e5%87%ba%e7%89%88%e3%81%a8%e3%82%b3%e3%83%9f%e3%82%b1%e3%81%a8-amazon-%e3%81%a8/</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Aug 2006 07:31:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

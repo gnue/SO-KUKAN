@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>em・one &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/em%E3%83%BBone/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Apr 2007 23:18:15 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>イー・モバイル、ユーザの声</title>
+		<link>/gnue/2007/04/11/%e3%82%a4%e3%83%bc%e3%83%bb%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e3%80%81%e3%83%a6%e3%83%bc%e3%82%b6%e3%81%ae%e5%a3%b0/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2007 23:18:15 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[em・one]]></category>
+		<category><![CDATA[イー・モバイル]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/11/%e3%82%a4%e3%83%bc%e3%83%bb%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e3%80%81%e3%83%a6%e3%83%bc%e3%82%b6%e3%81%ae%e5%a3%b0</guid>
+
+					<description><![CDATA[ポッドキャスティングなので文字通りユーザの「声」が聞けます。それと、やはり EM・ONE には Skype 入れて使ってるんですね。 ⇒ Modern Syntax Radio Show 75回目（Modern Synt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>ポッドキャスティングなので文字通りユーザの「声」が聞けます。<br />それと、やはり EM・ONE には Skype 入れて使ってるんですね。</p>
+<p>⇒ <a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/2007/04/modern_syntax_r_71.html">Modern Syntax Radio Show 75回目</a>（Modern Syntax）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EM・ONEで音声通話</title>
+		<link>/gnue/2007/04/05/em%e3%83%bbone%e3%81%a7%e9%9f%b3%e5%a3%b0%e9%80%9a%e8%a9%b1/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 05 Apr 2007 06:18:14 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[em・one]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/05/em%e3%83%bbone%e3%81%a7%e9%9f%b3%e5%a3%b0%e9%80%9a%e8%a9%b1</guid>
+
+					<description><![CDATA[ようは SIP らしいが HSDPA のエリア外では無線LANに切換えてくれるらしい。ところで通話中に HSDPA と無線LANの自動切換え＆ハンドオーバーはやってくれるんだろうか。 それにしても固定電話を模したUIデザ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>ようは SIP らしいが HSDPA のエリア外では無線LANに切換えてくれるらしい。ところで通話中に HSDPA と無線LANの自動切換え＆ハンドオーバーはやってくれるんだろうか。</p>
+<p>それにしても固定電話を模したUIデザインは&#8230;.うーむ(^^;</p>
+<p>⇒ <a href="http://plusd.itmedia.co.jp/mobile/articles/0704/03/news122.html">EM・ONEで音声通話を可能に──ageetの「エイジフォン for WM5 EM・ONE」</a>（ITmedia）</p>
+<div><br class="khtml-block-placeholder" /></div>
+<div># 個人的には素直に Skype 載っければいいのにと思うのだがキャリア的にはそうもいかないのだろうか？</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

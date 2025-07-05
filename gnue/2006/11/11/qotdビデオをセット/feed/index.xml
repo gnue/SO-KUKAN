@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	QotD:ビデオをセット へのコメント	</title>
+	<atom:link href="/gnue/2006/11/11/qotd%E3%83%93%E3%83%87%E3%82%AA%E3%82%92%E3%82%BB%E3%83%83%E3%83%88/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/11/11/qotd%e3%83%93%e3%83%87%e3%82%aa%e3%82%92%e3%82%bb%e3%83%83%e3%83%88/</link>
+	<description></description>
+	<lastBuildDate>Sat, 11 Nov 2006 00:55:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

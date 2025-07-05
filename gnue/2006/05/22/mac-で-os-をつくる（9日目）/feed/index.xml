@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Mac で OS をつくる（9日目） へのコメント	</title>
+	<atom:link href="/gnue/2006/05/22/mac-%E3%81%A7-os-%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%EF%BC%889%E6%97%A5%E7%9B%AE%EF%BC%89/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/05/22/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%889%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+	<description></description>
+	<lastBuildDate>Mon, 29 May 2006 16:23:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		yaris より		</title>
+		<link>/gnue/2006/05/22/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%889%e6%97%a5%e7%9b%ae%ef%bc%89/#comment-713</link>
+
+		<dc:creator><![CDATA[yaris]]></dc:creator>
+		<pubDate>Mon, 29 May 2006 16:23:26 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/05/22/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%889%e6%97%a5%e7%9b%ae%ef%bc%89/#comment-713</guid>
+
+					<description><![CDATA[Lions&#039; Commentary on UNIXはなぜか本棚にありました。多分こういった本は初版で消えてしまうと思って購入していたのかも。]]></description>
+			<content:encoded><![CDATA[<p>Lions&#8217; Commentary on UNIXはなぜか本棚にありました。多分こういった本は初版で消えてしまうと思って購入していたのかも。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

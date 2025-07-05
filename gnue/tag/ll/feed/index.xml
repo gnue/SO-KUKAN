@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LL &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/ll/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Aug 2008 08:22:29 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>LL Future: Lightning Talk で発表します</title>
+		<link>/gnue/2008/08/06/ll-future-lightning-talk-%e3%81%a7%e7%99%ba%e8%a1%a8%e3%81%97%e3%81%be%e3%81%99/</link>
+					<comments>/gnue/2008/08/06/ll-future-lightning-talk-%e3%81%a7%e7%99%ba%e8%a1%a8%e3%81%97%e3%81%be%e3%81%99/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2008 08:22:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Lightning Talk]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1334</guid>
+
+					<description><![CDATA[LL Future の Lightning Talk の概要が発表されました。 で、私は NewtonScript ネタで発表します。内容としては NewtonScript(*1) を通したプロトタイプ指向の紹介。プロト [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				LL Future の Lightning Talk の概要が発表されました。</p>
+<p>で、私は NewtonScript ネタで発表します。内容としては NewtonScript(*1) を通したプロトタイプ指向の紹介。プロトタイプ指向はクラス指向なんかより全然シンプルでわかりやすいんだよぉという話をします。</p>
+<p>さてと、うまく 5分(300秒) で話せるだろうか。</p>
+<p>*1) Self でも JavaScript でもなく NewtonScript なのがミソ。純粋なオブジェクト指向言語ではないけれどプロトタイプ指向の本質を知ってもらうにはわかりやすくて最適でないかと思う</p>
+<p>⇒ <a href="http://ll.jus.or.jp/2008/program/lt">ライトニング・トーク</a> （Lightweight Language Future）</p>
+<p><a href='http://ll.jus.or.jp/2008/'><img decoding="async" src="https://so-kukan.com/gnue/files/2008/05/llfuture-bunner.jpg" alt="" width="200" height="40" class="alignnone size-medium wp-image-1252" /></a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/08/06/ll-future-lightning-talk-%e3%81%a7%e7%99%ba%e8%a1%a8%e3%81%97%e3%81%be%e3%81%99/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LL Future, Lightning Talk に応募してみた</title>
+		<link>/gnue/2008/07/18/ll-future-lightning-talk-%e3%81%ab%e5%bf%9c%e5%8b%9f%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/</link>
+					<comments>/gnue/2008/07/18/ll-future-lightning-talk-%e3%81%ab%e5%bf%9c%e5%8b%9f%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2008 14:17:24 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Lightning Talk]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1274</guid>
+
+					<description><![CDATA[今日〆切だったのでダメもとで応募してみました。 テーマを２つも送ってしまったのだけどよかったんだろうか(^^;]]></description>
+										<content:encoded><![CDATA[<p>				今日〆切だったのでダメもとで応募してみました。<br />
+テーマを２つも送ってしまったのだけどよかったんだろうか(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/07/18/ll-future-lightning-talk-%e3%81%ab%e5%bf%9c%e5%8b%9f%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LL Future, Lightning Talk発表者募集</title>
+		<link>/gnue/2008/06/13/ll-future-lightning-talk%e7%99%ba%e8%a1%a8%e8%80%85%e5%8b%9f%e9%9b%86/</link>
+					<comments>/gnue/2008/06/13/ll-future-lightning-talk%e7%99%ba%e8%a1%a8%e8%80%85%e5%8b%9f%e9%9b%86/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2008 12:04:36 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Lightning Talk]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1262</guid>
+
+					<description><![CDATA[LL Future が Lightning Talk の発表者を募集しています。 〆切は 7月18日(金)。 なんか発表してみたい。 ⇒ ライトニングトーク発表者、絶賛募集中 （Lightweight Language  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				LL Future が Lightning Talk の発表者を募集しています。<br />
+〆切は 7月18日(金)。</p>
+<p>なんか発表してみたい。</p>
+<p>⇒ <a href="http://ll.jus.or.jp/2008/blog/archives/19">ライトニングトーク発表者、絶賛募集中</a> （Lightweight Language Future）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/06/13/ll-future-lightning-talk%e7%99%ba%e8%a1%a8%e8%80%85%e5%8b%9f%e9%9b%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LL Future のチケット</title>
+		<link>/gnue/2008/05/30/ll-future-%e3%81%ae%e3%83%81%e3%82%b1%e3%83%83%e3%83%88/</link>
+					<comments>/gnue/2008/05/30/ll-future-%e3%81%ae%e3%83%81%e3%82%b1%e3%83%83%e3%83%88/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 30 May 2008 12:53:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Event]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1250</guid>
+
+					<description><![CDATA[Lightweight Language Future(LL Future) のチケットが今日から発売になったので、近くのローソンを探して買いに行った。いつのまにかローソンがあんなところに出来てたんだね。１年に１回ぐらい [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Lightweight Language Future(LL Future) のチケットが今日から発売になったので、近くのローソンを探して買いに行った。いつのまにかローソンがあんなところに出来てたんだね。１年に１回ぐらい（LL関連）しか使う機会がないけど近くなってうれしい。</p>
+<p>ちなみに ローチケ.com でも購入できるけど、決済方法が店頭支払のみなので結局ローソンに行かなきゃいけないので使うメリットなし。</p>
+<p><a href='http://ll.jus.or.jp/2008/'><img decoding="async" src="https://so-kukan.com/gnue/files/2008/05/llfuture-bunner.jpg" alt="" width="200" height="40" class="alignnone size-medium wp-image-1252" /></a></p>
+<p>⇒ <a href="http://ll.jus.or.jp/2008/">Lightweight Language Future</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/05/30/ll-future-%e3%81%ae%e3%83%81%e3%82%b1%e3%83%83%e3%83%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LL言語の浮動小数点数リテラルの扱いは正しいのか</title>
+		<link>/gnue/2007/08/16/ll%e8%a8%80%e8%aa%9e%e3%81%ae%e6%b5%ae%e5%8b%95%e5%b0%8f%e6%95%b0%e7%82%b9%e6%95%b0%e3%83%aa%e3%83%86%e3%83%a9%e3%83%ab%e3%81%ae%e6%89%b1%e3%81%84%e3%81%af%e6%ad%a3%e3%81%97%e3%81%84%e3%81%ae%e3%81%8b/</link>
+					<comments>/gnue/2007/08/16/ll%e8%a8%80%e8%aa%9e%e3%81%ae%e6%b5%ae%e5%8b%95%e5%b0%8f%e6%95%b0%e7%82%b9%e6%95%b0%e3%83%aa%e3%83%86%e3%83%a9%e3%83%ab%e3%81%ae%e6%89%b1%e3%81%84%e3%81%af%e6%ad%a3%e3%81%97%e3%81%84%e3%81%ae%e3%81%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 15:01:37 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LL]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/08/16/ll%e8%a8%80%e8%aa%9e%e3%81%ae%e6%b5%ae%e5%8b%95%e5%b0%8f%e6%95%b0%e7%82%b9%e6%95%b0%e3%83%aa%e3%83%86%e3%83%a9%e3%83%ab%e3%81%ae%e6%89%b1%e3%81%84%e3%81%af%e6%ad%a3%e3%81%97%e3%81%84%e3%81%ae%e3%81%</guid>
+
+					<description><![CDATA[将来のためにメモ。 ⇒ Rubyの浮動小数点数リテラルの扱いは正しいのか（hnwの日記）]]></description>
+										<content:encoded><![CDATA[<p>				将来のためにメモ。</p>
+<p>⇒ <a href="http://d.hatena.ne.jp/hnw/20070802" target="_blank" rel="noopener">Rubyの浮動小数点数リテラルの扱いは正しいのか</a>（hnwの日記）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/08/16/ll%e8%a8%80%e8%aa%9e%e3%81%ae%e6%b5%ae%e5%8b%95%e5%b0%8f%e6%95%b0%e7%82%b9%e6%95%b0%e3%83%aa%e3%83%86%e3%83%a9%e3%83%ab%e3%81%ae%e6%89%b1%e3%81%84%e3%81%af%e6%ad%a3%e3%81%97%e3%81%84%e3%81%ae%e3%81%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LL言語、予約語の数</title>
+		<link>/gnue/2007/08/09/ll%e8%a8%80%e8%aa%9e%e3%80%81%e4%ba%88%e7%b4%84%e8%aa%9e%e3%81%ae%e6%95%b0/</link>
+					<comments>/gnue/2007/08/09/ll%e8%a8%80%e8%aa%9e%e3%80%81%e4%ba%88%e7%b4%84%e8%aa%9e%e3%81%ae%e6%95%b0/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 09 Aug 2007 08:54:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/08/09/ll%e8%a8%80%e8%aa%9e%e3%80%81%e4%ba%88%e7%b4%84%e8%aa%9e%e3%81%ae%e6%95%b0/</guid>
+
+					<description><![CDATA[Lightweight Language Spirit（LL魂）のレポートが @IT に載っています。 これに予約語の数の比較が載ってるんだけど、Perl が 180? でダントツ一位、Ruby が 40、Python  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Lightweight Language Spirit（LL魂）のレポートが @IT に載っています。</p>
+<p>これに予約語の数の比較が載ってるんだけど、Perl が 180? でダントツ一位、Ruby が 40、Python がもっと少なくて 28、Smalltalk が 5、Io が 0 だそうだ。この比較では Lisp が載っていないのが残念。処理系によって違うだろうけど Lisp の予約語はかなり少ないはず。</p>
+<p>ちなみに NewtonScript の予約語を数えてみると 36個（TRUE, NIL を含む）だった。あれ、Ruby よりもちょっと少ないや。なんか意外な感じ。</p>
+<p>⇒ <a href="http://www.atmarkit.co.jp/news/200708/07/ll2.html" target="_blank" rel="noopener">Ruby2.0からオレ様言語まで、軽量言語のお祭りが開催</a>（@IT）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/08/09/ll%e8%a8%80%e8%aa%9e%e3%80%81%e4%ba%88%e7%b4%84%e8%aa%9e%e3%81%ae%e6%95%b0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dylan</title>
+		<link>/gnue/2006/02/21/dylan/</link>
+					<comments>/gnue/2006/02/21/dylan/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2006 21:40:54 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/02/21/dylan/</guid>
+
+					<description><![CDATA[るびマで Ruby のまつもとさんが Apple の Dylan（Newton Senior の開発言語 *1）を紹介しています。内容的にはいまいち喰い足りない感じがするけど。 そういえば Dylan にしろ Squea [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				るびマで Ruby のまつもとさんが Apple の Dylan（Newton Senior の開発言語 *1）を紹介しています。内容的にはいまいち喰い足りない感じがするけど。</p>
+<p>そういえば Dylan にしろ Squeak にしろ結局に Apple の製品に組込まれることはなかったけど結構長いこと続けてましたよね。</p>
+<p>*1) 実際に発売された Apple MessagePad は Junior と呼ばれるほう、Newton という名前はついているがシステム設計はまったくの別物</p>
+<p>⇒ <a href="http://jp.rubyist.net/magazine/?0013-Legwork" target="_blank" rel="noopener">Rubyist のための他言語探訪 【第 6 回】 Dylan</a>（Rubyist Magazine）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/02/21/dylan/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>メモ：スクリプト言語の比較</title>
+		<link>/gnue/2005/09/24/%e3%83%a1%e3%83%a2%ef%bc%9a%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88%e8%a8%80%e8%aa%9e%e3%81%ae%e6%af%94%e8%bc%83/</link>
+					<comments>/gnue/2005/09/24/%e3%83%a1%e3%83%a2%ef%bc%9a%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88%e8%a8%80%e8%aa%9e%e3%81%ae%e6%af%94%e8%bc%83/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2005 16:12:16 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/09/24/%e3%83%a1%e3%83%a2%ef%bc%9a%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88%e8%a8%80%e8%aa%9e%e3%81%ae%e6%af%94%e8%bc%83/</guid>
+
+					<description><![CDATA[clouds さんで参照されていたのでメモ。 こういう言語比較って各プログラミング言語の特徴が浮き彫りになって面白い。 個人的には Wiki ってあまり好みではないのだけどこの手のみんなで編集する目的ではいいかも。 ⇒  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://d.hatena.ne.jp/epcg/" target="_blank" rel="noopener">clouds</a> さんで参照されていたのでメモ。</p>
+<p>こういう言語比較って各プログラミング言語の特徴が浮き彫りになって面白い。</p>
+<p>個人的には Wiki ってあまり好みではないのだけどこの手のみんなで編集する目的ではいいかも。</p>
+<p>⇒ <a href="http://pub.cozmixng.org/~the-rwiki/rw-cgi.rb?cmd=view;name=%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8%B8%C0%B8%EC%A4%CE%C8%E6%B3%D3#footnote-6" target="_blank" rel="noopener">スクリプト言語の比較</a>（The RWiki）<br />
+⇒ <a href="http://homepage.mac.com/mkino2/oop/" target="_blank" rel="noopener">オブジェクト指向の言語比較論</a>（HMDT）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/09/24/%e3%83%a1%e3%83%a2%ef%bc%9a%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88%e8%a8%80%e8%aa%9e%e3%81%ae%e6%af%94%e8%bc%83/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>io Language 紹介の日本語ブログ</title>
+		<link>/gnue/2005/09/24/io-language-%e7%b4%b9%e4%bb%8b%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%83%96%e3%83%ad%e3%82%b0/</link>
+					<comments>/gnue/2005/09/24/io-language-%e7%b4%b9%e4%bb%8b%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%83%96%e3%83%ad%e3%82%b0/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2005 15:16:46 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/09/24/io-language-%e7%b4%b9%e4%bb%8b%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%83%96%e3%83%ad%e3%82%b0/</guid>
+
+					<description><![CDATA[io というプログラミング言語は昔 sumim さんから聞いて知っていたのだけど、Mac OS X 版のバイナリをダウンロードしてそれきりだった。 io の紹介をしているというブログ（clouds）が登場したというので少 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				io というプログラミング言語は昔 sumim さんから聞いて知っていたのだけど、Mac OS X 版のバイナリをダウンロードしてそれきりだった。</p>
+<p>io の紹介をしているというブログ（<a href="http://d.hatena.ne.jp/epcg/" target="_blank" rel="noopener">clouds</a>）が登場したというので少し前から見ていたのだけど最近すごく充実してきています。</p>
+<p>なお io は NewtonScript, Self などと同じプロトタイプ指向言語。構文とかは全然違うけど似ているところは多い。</p>
+<p>ふと先月の LLDN でなんかいまいち物足りないなぁと思ったら、メジャー系(*1)ばかりでマイナー言語が出てなかったことも原因のひとつかな。来年は io とかも参加するといいかも。</p>
+<p>*1) Squeak, Gauche, Haskell, ML もなんだかんだ言って露出度高いしメジャーもしくはビッグマイナー（？）</p>
+<p>⇒ <a href="http://d.hatena.ne.jp/epcg/" target="_blank" rel="noopener">clouds</a><br />
+⇒ <a href="http://www.iolanguage.com/" target="_blank" rel="noopener">io</a>（公式ホームページ）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/09/24/io-language-%e7%b4%b9%e4%bb%8b%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%83%96%e3%83%ad%e3%82%b0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LLDN 昼の部</title>
+		<link>/gnue/2005/08/28/lldn-%e6%98%bc%e3%81%ae%e9%83%a8/</link>
+					<comments>/gnue/2005/08/28/lldn-%e6%98%bc%e3%81%ae%e9%83%a8/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2005 14:22:54 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/08/28/lldn-%e6%98%bc%e3%81%ae%e9%83%a8/</guid>
+
+					<description><![CDATA[土曜日、LLDN の昼の部に行ってきました。 携帯の目覚ましをセットしておいたので一度は 7:30 に目を覚ましたのだけど、ついついまだ大丈夫だなと思って二度寝してしまいました。気がついたらもう１０時前（はじまる時間じゃ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				土曜日、LLDN の昼の部に行ってきました。</p>
+<p>携帯の目覚ましをセットしておいたので一度は 7:30 に目を覚ましたのだけど、ついついまだ大丈夫だなと思って二度寝してしまいました。気がついたらもう１０時前（はじまる時間じゃん(^^;）、急いでシャワーを浴びてから出発。</p>
+<p>会場の四谷区民ホールについたのが１時間遅れの１１時で、Language Update で ML の発表の途中でした。あ〜ぁ、Gauche とか Haskell とかも聞きたかった。Perl や Ruby に関してはメディアやインターネットでの露出が多いので知ってることばかりで新しみはなし。結局「Perl6 ってどうよ」って感じ。個人的に PHP ってあんまり趣味ではないのだけど、PHP 5.1 はなんか使えそうな感じ。でもお仕事で使ってる人たちは PHP 4 を使い続けるんだろうな。</p>
+<p>フレームワーク対決は Sledge, Ruby on Rails, Kahua。Sledge ってはじめて聞いたのだけど旧オン・ザ・エッジ（現ライブドア）が自社用につくった Perl用のフレームワークらしい。８割はアメリカに行っちゃったあの人が書いたらしいのだけど、あの人ってあの人のことだよね(^^;？<br />
+Ruby on Rails は以前 OSC2005 でも聞いたのでとりあえずスルー。<br />
+Kahua は“継続”(*1)を使うということで非常に興味深かった。Kahua のいいところは Webシステム（HTML）を意識せずに Scheme のプログラムで書けるということろ。まったく Webシステムを意識しなくていいかというとそうでもなさそうだが、普通にアプリケーションを書くように Webアプリケーション（？）が書けるというのは面白い。ただ、原理的に継続の実行環境がシステムに大量に生成され一定時間残ってしまうので、実験的なシステムならともかく実際のシステムではちょっと使えないかな。これに関しては質疑応答で「ページ遷移の流れの中で必要なくなったら自動的に一括削除できないか」(*2)という質問があったが、発表者がちゃんと質問意図を汲み取れていなくて期待した答えが得られなかった。個人的には一連のページ遷移の流れの中でセッションID等で継続にマークをつけて管理し、例えばログアウトしたらそのセッションIDで作成された継続は全て破棄する等の処理は可能なのではないかと考える。</p>
+<p>キミならどう書くは、ある発表（ぴー、自主規制）が非常に眠気をさそってしまってその後の○○さんの発表は朦朧としてあまり聞けなかった。全体的にそれぞれ個別の発表と言う感じで、せっかくいろんな言語の人たちが集まっているのにそれを活かせず残念。他の言語発表者からツッコミを必ず入れるようにしたりしたほうがよかったように思う。</p>
+<p>あと今年は Lightning Talk はなし、夜の部の「デモ自慢」がそれに相当するんだろうけど夜の部はチケットとれなかったんだよなぁ。。。</p>
+<p>追記：来年は是非 NEWT/0 on iPod Linux でもデモしてみたいものである</p>
+<p>*1) コンピュータ用語で continuation の訳。Scheme　などで実装されている。Kahua は Gauche という Scheme処理系を使っている<br />
+*2) 実際には質問者がこう言ったわけではないが、質問者の意図はこういう意味だったと思う</p>
+<p>⇒ <a href="http://ll.jus.or.jp/2005" target="_blank" rel="noopener">LLDN 開催のお知らせ</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/08/28/lldn-%e6%98%bc%e3%81%ae%e9%83%a8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

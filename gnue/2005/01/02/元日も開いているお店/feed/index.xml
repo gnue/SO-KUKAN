@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	元日も開いているお店 へのコメント	</title>
+	<atom:link href="/gnue/2005/01/02/%E5%85%83%E6%97%A5%E3%82%82%E9%96%8B%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8A%E5%BA%97/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/01/02/%e5%85%83%e6%97%a5%e3%82%82%e9%96%8b%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8a%e5%ba%97/</link>
+	<description></description>
+	<lastBuildDate>Sat, 01 Jan 2005 19:52:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

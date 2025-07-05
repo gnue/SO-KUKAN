@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	覚書：Mac OS X で NTK を起動する へのコメント	</title>
+	<atom:link href="/gnue/2004/06/08/%E8%A6%9A%E6%9B%B8%EF%BC%9Amac-os-x-%E3%81%A7-ntk-%E3%82%92%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/06/08/%e8%a6%9a%e6%9b%b8%ef%bc%9amac-os-x-%e3%81%a7-ntk-%e3%82%92%e8%b5%b7%e5%8b%95%e3%81%99%e3%82%8b/</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Jun 2004 20:42:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

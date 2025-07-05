@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Computer &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/computer/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 31 Aug 2007 14:57:34 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>光センサー内蔵システム液晶</title>
+		<link>/gnue/2007/08/31/%e5%85%89%e3%82%bb%e3%83%b3%e3%82%b5%e3%83%bc%e5%86%85%e8%94%b5%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e6%b6%b2%e6%99%b6/</link>
+					<comments>/gnue/2007/08/31/%e5%85%89%e3%82%bb%e3%83%b3%e3%82%b5%e3%83%bc%e5%86%85%e8%94%b5%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e6%b6%b2%e6%99%b6/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 31 Aug 2007 14:57:34 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/08/31/%e5%85%89%e3%82%bb%e3%83%b3%e3%82%b5%e3%83%bc%e5%86%85%e8%94%b5%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e6%b6%b2%e6%99%b6/</guid>
+
+					<description><![CDATA[シャープがタッチパネルやスキャナなどの入力機能を搭載した光センサー内蔵システム液晶を発表したそうです。これを使うと MERL の LucidTouch(*1) なんかもスマートにつくれそう。 *1) 試作品は QCAM  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				シャープがタッチパネルやスキャナなどの入力機能を搭載した光センサー内蔵システム液晶を発表したそうです。これを使うと MERL の LucidTouch(*1) なんかもスマートにつくれそう。</p>
+<p>*1) 試作品は QCAM をアームでマウントして裏側の手を撮影しています</p>
+<p>⇒ <a href="http://journal.mycom.co.jp/news/2007/08/31/022/index.html" target="_blank" rel="noopener">シャープ、タッチパネルやスキャナになる光センサー液晶を開発</a>（マイコミジャーナル）<br />
+⇒ <a href="http://pc.watch.impress.co.jp/docs/2007/0831/sharp.htm" target="_blank" rel="noopener"> シャープ、タッチパネル用フィルムが不要の新UI搭載液晶を開発</a>（PC Watch）<br />
+⇒ <a href="http://japan.cnet.com/news/tech/story/0,2000056025,20355535,00.htm" target="_blank" rel="noopener">シャープ、タッチパネルなど入力機能を搭載した光センサー内蔵システム液晶を量産</a>（c|net）</p>
+<p>⇒ <a href="http://japanese.engadget.com/2007/08/24/microsoft-research-lucidtouch/" target="_blank" rel="noopener">Microsoft Research の「両面」マルチタッチパネル: LucidTouch</a>（Engadget）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/08/31/%e5%85%89%e3%82%bb%e3%83%b3%e3%82%b5%e3%83%bc%e5%86%85%e8%94%b5%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e6%b6%b2%e6%99%b6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>トルクスドライバ</title>
+		<link>/gnue/2007/06/23/%e3%83%88%e3%83%ab%e3%82%af%e3%82%b9%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90/</link>
+					<comments>/gnue/2007/06/23/%e3%83%88%e3%83%ab%e3%82%af%e3%82%b9%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 23 Jun 2007 12:04:33 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/06/23/%e3%83%88%e3%83%ab%e3%82%af%e3%82%b9%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90/</guid>
+
+					<description><![CDATA[160GB HDD(SATA) が届いたので MacBook の HDD を交換しようと思ったら、トルクスドライバがなかった&#8230;.とほほ。T8 というサイズが必要らしい。 しょうがないので明日買いに行こう。 追 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				160GB HDD(SATA) が届いたので MacBook の HDD を交換しようと思ったら、トルクスドライバがなかった&#8230;.とほほ。T8 というサイズが必要らしい。</p>
+<p>しょうがないので明日買いに行こう。</p>
+<p>追記 6/24：新宿の東急ハンズにて TORX 本家のやつを購入		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/06/23/%e3%83%88%e3%83%ab%e3%82%af%e3%82%b9%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>malloc のアライメント</title>
+		<link>/gnue/2007/03/28/malloc-%e3%81%ae%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%a1%e3%83%b3%e3%83%88/</link>
+					<comments>/gnue/2007/03/28/malloc-%e3%81%ae%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%a1%e3%83%b3%e3%83%88/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 28 Mar 2007 13:40:32 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/03/28/malloc-%e3%81%ae%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%a1%e3%83%b3%e3%83%88/</guid>
+
+					<description><![CDATA[GNU libc … 8 byte ⇒ Manpage of POSIX_MEMALIGN（日本の Linux 情報） Visual C++ … 16 byte ⇒ malloc アライメント（MSDN） Mac OS  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				GNU libc … 8 byte<br />
+⇒ <a href="http://www.linux.or.jp/JM/html/LDP_man-pages/man3/posix_memalign.3.html" target="_blank" rel="noopener">Manpage of POSIX_MEMALIGN</a>（日本の Linux 情報）</p>
+<p>Visual C++ … 16 byte<br />
+⇒ <a href="http://msdn2.microsoft.com/ja-jp/library/ycsb6wwf(VS.80).aspx" target="_blank" rel="noopener">malloc アライメント</a>（MSDN）</p>
+<p>Mac OS X, Linux, *BSD, Windows の malloc のアライメントが知りたかったので調べてみました。Visual C++ が 16 byte アライメントだったというのが驚き。</p>
+<p>とりあえず普通の環境なら 8 byte アライメントが保証されるみたいなので一安心。</p>
+<p>追記 5/4：Apple のドキュメントによると Mac OS X の malloc は 16バイト単位だそうです（参照：<a href="http://developer.apple.com/documentation/Performance/Conceptual/ManagingMemory/Articles/MemoryAlloc.html" target="_blank" rel="noopener">Optimizing Your Memory Allocations</a>）<br />
+<a href="http://park15.wakwak.com/~concordia/cocoa_break/" target="_blank" rel="noopener">Cocoa Break!</a> の神吉さん、お知らせありがとうございます。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/03/28/malloc-%e3%81%ae%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%a1%e3%83%b3%e3%83%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JIS2004</title>
+		<link>/gnue/2006/12/20/jis2004/</link>
+					<comments>/gnue/2006/12/20/jis2004/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2006 16:45:23 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/12/20/jis2004/</guid>
+
+					<description><![CDATA[JIS2004 の問題は単に Unicode を使えば解決するという問題ではないので先のエントリは取り下げました。]]></description>
+										<content:encoded><![CDATA[<p>				JIS2004 の問題は単に Unicode を使えば解決するという問題ではないので先のエントリは取り下げました。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/12/20/jis2004/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>es オペレーティングシステム</title>
+		<link>/gnue/2006/11/24/es-%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0/</link>
+					<comments>/gnue/2006/11/24/es-%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 24 Nov 2006 07:36:02 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/11/24/es-%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0/</guid>
+
+					<description><![CDATA[任天堂が研究システムとして開発している es オペレーティングシステムを SourceForge.jp でオープンソースとして公開しているようです。 名前が es で DS に似ていますが、ARM ではなく x86 で動 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				任天堂が研究システムとして開発している es オペレーティングシステムを SourceForge.jp でオープンソースとして公開しているようです。</p>
+<p>名前が es で DS に似ていますが、ARM ではなく x86 で動作するようです（残念）。「研究システム」なので実用としてはどの程度のものかわかりませんが、SMP サポートや ELF サポートをしているようなので OS の勉強にはいいかもしれません。</p>
+<p>あと、Squeak が動くようです。Squeak だとホストの GUI とか（POSIX も？）関係なしに動くから移植しやすいんでしょうか。</p>
+<p>⇒ <a href="http://nes.sourceforge.jp/" target="_blank" rel="noopener">es オペレーティングシステム</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/11/24/es-%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>カーネル読書会：glibc malloc について</title>
+		<link>/gnue/2006/10/01/%e3%82%ab%e3%83%bc%e3%83%8d%e3%83%ab%e8%aa%ad%e6%9b%b8%e4%bc%9a%ef%bc%9aglibc-malloc-%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/</link>
+					<comments>/gnue/2006/10/01/%e3%82%ab%e3%83%bc%e3%83%8d%e3%83%ab%e8%aa%ad%e6%9b%b8%e4%bc%9a%ef%bc%9aglibc-malloc-%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 01 Oct 2006 08:34:28 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/01/%e3%82%ab%e3%83%bc%e3%83%8d%e3%83%ab%e8%aa%ad%e6%9b%b8%e4%bc%9a%ef%bc%9aglibc-malloc-%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/</guid>
+
+					<description><![CDATA[これもMatzにっき経由。Yokohama Linux Users Group(YLUG) の第67回カーネル読書会「glibc malloc について」のビデオと資料が公開されているそうです。なかなか面白い内容なので、 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				これも<a href="http://www.rubyist.net/~matz/20060925.html#p01" target="_blank" rel="noopener">Matzにっき</a>経由。Yokohama Linux Users Group(YLUG) の第67回カーネル読書会「glibc malloc について」のビデオと資料が公開されているそうです。なかなか面白い内容なので、こういうのに興味がある人は是非見ましょう。</p>
+<p>NEWT/0 のために自前の malloc を実装したいと思っているので参考になります(*1)。いろいろやりたいことは多いのだけど今年いっぱいはそっち方面には手がつけられそうにない&#8230;</p>
+<p>ビデオの編集に関してですがスライドをメインに発表者を小さくインポーズ（PinP?）しているのがいいですね。ほんとは Newton Einstein Night のビデオでもこういうふうにしたかったのだけど iMovie の機能だとできなかったんです(*2)</p>
+<p>あと Google Video とか YouTube にアップするというのは自前サーバの容量とか負荷を気にしなくていい方法ですね。これで Google Video や YouTube がポッドキャスティングもできれば最高なのだけど&#8230;</p>
+<p>*1) 実は「OS自作入門」でも OS だけではなく NEWT/0 への応用を意識しながら読んでました<br />
+*2) iMovie って家庭内でのビデオ編集しか考えてないんですよね。子供の映像のビデオ編集とかなら十分以上の機能なんだけどセミナーとかのビデオ編集には向かない。Final Cut を買えということか&#8230;.</p>
+<p>⇒ <a href="http://video.google.com/videoplay?docid=2914803742593360351" target="_blank" rel="noopener">The 67th kernel reading party</a>（Google Video）<br />
+⇒ <a href="http://www.ylug.jp/modules/mydownloads/visit.php?cid=1&amp;lid=42">glibc malloc について</a>（YLUG会合・読書会資料）<br />
+⇒ <a href="http://www.ylug.jp/" target="_blank" rel="noopener">YLUG</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/01/%e3%82%ab%e3%83%bc%e3%83%8d%e3%83%ab%e8%aa%ad%e6%9b%b8%e4%bc%9a%ef%bc%9aglibc-malloc-%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ObjectiveView</title>
+		<link>/gnue/2006/10/01/objectiveview/</link>
+					<comments>/gnue/2006/10/01/objectiveview/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 01 Oct 2006 07:26:26 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/01/objectiveview/</guid>
+
+					<description><![CDATA[Matzにっきによると ObjectiveView という OOP の雑誌があって、その Back Issues が PDF で公開されているらしい（メモ） ⇒ ObjectiveView – Current and B [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.rubyist.net/~matz/20060925.html#p02" target="_blank" rel="noopener">Matzにっき</a>によると ObjectiveView という OOP の雑誌があって、その Back Issues が PDF で公開されているらしい（メモ）</p>
+<p>⇒ <a href="http://www.ratio.co.uk/objectiveview.html" target="_blank" rel="noopener">ObjectiveView – Current and Back Issues</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/01/objectiveview/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>バックアップ、重要</title>
+		<link>/gnue/2006/06/30/%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%80%81%e9%87%8d%e8%a6%81/</link>
+					<comments>/gnue/2006/06/30/%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%80%81%e9%87%8d%e8%a6%81/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2006 14:38:13 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/30/%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%80%81%e9%87%8d%e8%a6%81/</guid>
+
+					<description><![CDATA[なんどもなんども電源落ちの憂き目に遭いながら MacBook のデータをなんとかバックアップしたよ。バックアップ、重要（はぁ、ため息） あと、サポートセンターでの作業のために &#8211; パスワードのない管理者アカウ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				なんどもなんども電源落ちの憂き目に遭いながら MacBook のデータをなんとかバックアップしたよ。バックアップ、重要（はぁ、ため息）</p>
+<p>あと、サポートセンターでの作業のために</p>
+<p>&#8211; パスワードのない管理者アカウントを作成<br />
+&#8211; iTMS のコンピュータ認証を解除<br />
+&#8211; マイアカウントは FileVault 化して保護<br />
+&#8211; 仕事関係のファイルは暗号化したイメージファイルに保存		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/06/30/%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%80%81%e9%87%8d%e8%a6%81/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Longhorn, 長過ぎた角</title>
+		<link>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/</link>
+					<comments>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 28 Jun 2006 17:56:44 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/</guid>
+
+					<description><![CDATA[WinFS 自体はとうの昔に Vista から切り捨てられていたのでいまさらの感はあるけど、Longhorn → Vista の顛末をみるにつけ軽いデジャヴュを覚える。10年前の Copland と Gershwin&# [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				WinFS 自体はとうの昔に Vista から切り捨てられていたのでいまさらの感はあるけど、Longhorn → Vista の顛末をみるにつけ軽いデジャヴュを覚える。10年前の Copland と Gershwin&#8230;.</p>
+<p>遅れに遅れて年末にはようやく登場する（はずの） Vista だけれど、Microsoft も何かと大変だ。</p>
+<p>⇒ <a href="http://pc.watch.impress.co.jp/docs/2006/0628/hot434.htm" target="_blank" rel="noopener"> Microsoft、WinFSの開発中止を表明</a>（PC Watch）<br />
+⇒ <a href="http://www.itmedia.co.jp/news/articles/0606/28/news057.html" target="_blank" rel="noopener">Microsoft、WinFSを分割</a>（ITmedia）</p>
+<p>追記：<br />
+⇒ <a href="http://pc.watch.impress.co.jp/docs/2006/0629/mobile347.htm" target="_blank" rel="noopener">失われたWinFSへの落胆の大きさ</a>（PC Watch）</p>
+<p>この記事を読む限りでは Tiger の Spotlight がいちばん近いような印象。もっととんがったものかと思ってたのでがっかり。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Matz meets Alan Kay</title>
+		<link>/gnue/2006/06/10/matz-meets-alan-kay/</link>
+					<comments>/gnue/2006/06/10/matz-meets-alan-kay/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2006 08:14:58 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Computer]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/10/matz-meets-alan-kay/</guid>
+
+					<description><![CDATA[Ruby のまつもとさんと Alan Kay が会食したそうです。 ⇒ Alan Kayといっしょ（Matzにっき） ⇒ Rubyな人々とお食事（大島芳樹のカリフォルニア日記） この会食の中で登場したプログラミング言語を [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Ruby のまつもとさんと Alan Kay が会食したそうです。</p>
+<p>⇒ <a href="http://www.rubyist.net/~matz/20060608.html#p01" target="_blank" rel="noopener">Alan Kayといっしょ</a>（Matzにっき）<br />
+⇒ <a href="http://d.hatena.ne.jp/squeaker/20060608#p3" target="_blank" rel="noopener">Rubyな人々とお食事</a>（大島芳樹のカリフォルニア日記）</p>
+<p>この会食の中で登場したプログラミング言語をインターネットで調べてみた。</p>
+<p>IMP（インプ：小鬼のこと）って古い言語と最近っぽい言語の２つを見つけたのだけどどっちのことだろう。古いほうの IMP は 1960年代につくられた systems programming language だそうだ。ALGOL系。新しいほうの IMP は new direction in imperative languages ということだ。文法的には C言語に近い。</p>
+<p>⇒ <a href="http://en.wikipedia.org/wiki/IMP_programming_language" target="_blank" rel="noopener">IMP programming language</a>（Wikipedia）<br />
+⇒ <a href="http://implanguage.com/" target="_blank" rel="noopener">Imp: The Language</a></p>
+<p>Lucid（ルシッド）は関数型データフロー言語。データフロー・モデルというと、（もはや古典に入るのかな）かつての非ノイマン型コンピュータの雄「データフローマシン」のモデルである。なかなか興味深い。</p>
+<p>⇒ <a href="http://i.csc.uvic.ca/home/hei/hei.ise%3Ctop:lucid%3E" target="_blank" rel="noopener">Lucid</a>（Bill Wadge）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/06/10/matz-meets-alan-kay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

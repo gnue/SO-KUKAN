@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	MacBook とマウスの接続が切れる へのコメント	</title>
+	<atom:link href="/gnue/2009/06/24/macbook-%E3%81%A8%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E6%8E%A5%E7%B6%9A%E3%81%8C%E5%88%87%E3%82%8C%E3%82%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/06/24/macbook-%e3%81%a8%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jun 2009 01:25:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2009/06/24/macbook-%e3%81%a8%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/#comment-891</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2009 01:25:54 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2665#comment-891</guid>
+
+					<description><![CDATA[なるほど、裏蓋の金具ですか。ありそうですねぇ。
+ちょっとこれで試してみます。
+Yaris さん、Thanks(^^)！]]></description>
+			<content:encoded><![CDATA[<p>なるほど、裏蓋の金具ですか。ありそうですねぇ。<br />
+ちょっとこれで試してみます。<br />
+Yaris さん、Thanks(^^)！</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		yaris より		</title>
+		<link>/gnue/2009/06/24/macbook-%e3%81%a8%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/#comment-890</link>
+
+		<dc:creator><![CDATA[yaris]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2009 01:10:07 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2665#comment-890</guid>
+
+					<description><![CDATA[どもども。
+
+ちょっと的外れかなとは思いますが、僕もしっぽのないMighty Mouseで接続が切れる現象が、過去にありました。
+ただ、Macと接続していたわけではなく、Windows XP on Think Pad X60と接続していました。
+症状はGnueさんとまったく同じで、暫くつかっていると接続が突然切れ、Mouse側の電源をOFF/ONすると、また暫く使えるようになるというものでした。
+
+この症状はだんだん進行していき、最終的には、ひとつアクションをするたびに接続が切れる状態となってしまいました。そのとき、Apple Wireless Keyboardも同時につかっているので、PC側のBluetoothがおかしいわけでは無さそうと判断し、Googleさまの教えを紐解いていたところ、「Wireless Mighty Mouseの裏蓋にある金具を少しだけ曲げると良い」という記述を発見しました。#どこかは失念しました。
+
+で、教えのごとく曲げてみたところ、いままでバシバシ切れていた接続がうそのようになくなりました。でも今度は、OFFにしても電源は切れなくなったので-SWをオフにしてもグリーンのランプが点灯する-曲げの加減が難しいのかもしれません。
+
+状況が異なりますので、あまり参考にならないかもしれませんが．．．]]></description>
+			<content:encoded><![CDATA[<p>どもども。</p>
+<p>ちょっと的外れかなとは思いますが、僕もしっぽのないMighty Mouseで接続が切れる現象が、過去にありました。<br />
+ただ、Macと接続していたわけではなく、Windows XP on Think Pad X60と接続していました。<br />
+症状はGnueさんとまったく同じで、暫くつかっていると接続が突然切れ、Mouse側の電源をOFF/ONすると、また暫く使えるようになるというものでした。</p>
+<p>この症状はだんだん進行していき、最終的には、ひとつアクションをするたびに接続が切れる状態となってしまいました。そのとき、Apple Wireless Keyboardも同時につかっているので、PC側のBluetoothがおかしいわけでは無さそうと判断し、Googleさまの教えを紐解いていたところ、「Wireless Mighty Mouseの裏蓋にある金具を少しだけ曲げると良い」という記述を発見しました。#どこかは失念しました。</p>
+<p>で、教えのごとく曲げてみたところ、いままでバシバシ切れていた接続がうそのようになくなりました。でも今度は、OFFにしても電源は切れなくなったので-SWをオフにしてもグリーンのランプが点灯する-曲げの加減が難しいのかもしれません。</p>
+<p>状況が異なりますので、あまり参考にならないかもしれませんが．．．</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	VOXで書いた記事を移転 へのコメント	</title>
+	<atom:link href="/gnue/2010/09/06/vox%E3%81%A7%E6%9B%B8%E3%81%84%E3%81%9F%E8%A8%98%E4%BA%8B%E3%82%92%E7%A7%BB%E8%BB%A2/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2010/09/06/vox%e3%81%a7%e6%9b%b8%e3%81%84%e3%81%9f%e8%a8%98%e4%ba%8b%e3%82%92%e7%a7%bb%e8%bb%a2/</link>
+	<description></description>
+	<lastBuildDate>Mon, 06 Sep 2010 06:47:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

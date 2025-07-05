@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Keyboard &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/keyboard/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 Sep 2004 04:15:24 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Happy Hacking Keyboard Lite2 USB US</title>
+		<link>/gnue/2004/09/30/happy-hacking-keyboard-lite2-usb-us/</link>
+					<comments>/gnue/2004/09/30/happy-hacking-keyboard-lite2-usb-us/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 30 Sep 2004 04:15:24 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Keyboard]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/30/happy-hacking-keyboard-lite2-usb-us/</guid>
+
+					<description><![CDATA[Happy Hacking Keyboard Lite2 USB US を購入。実際に購入したのは白。]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0000BW01X/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0000BW01X.09.MZZZZZZZ.jpg"  /></div></a> <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0000BW01X/gnue-22" target="_blank">Happy Hacking Keyboard Lite2 USB US</a> を購入。実際に購入したのは白。<br />
+		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/09/30/happy-hacking-keyboard-lite2-usb-us/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

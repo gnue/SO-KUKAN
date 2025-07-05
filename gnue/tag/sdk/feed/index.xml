@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SDK &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/sdk/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 12 Nov 2007 18:41:07 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Android SDK</title>
+		<link>/gnue/2007/11/13/android-sdk/</link>
+					<comments>/gnue/2007/11/13/android-sdk/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2007 18:41:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[SDK]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/android-sdk/</guid>
+
+					<description><![CDATA[Android SDK が公開された。 ダウンロードした。 エミュレータを動かしてみた。 Mac だと zip を解凍して tools の下の emulator を実行するだけ。非常に簡単。 アプリは XML+Java  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Android SDK が公開された。<br />
+ダウンロードした。<br />
+エミュレータを動かしてみた。<br />
+Mac だと zip を解凍して tools の下の emulator を実行するだけ。非常に簡単。</p>
+<p>アプリは XML+Java というありがちなスタイル。</p>
+<p>うーん、まとまっているとは思うのだけどどうもエモーショナルな部分が足りない。ひとことでいうとビビッとこない。</p>
+<p>⇒ <a href="http://www.openhandsetalliance.com/developers.html">Android SDK</a> （open handset alliance）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/13/android-sdk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iPhone SDK は来年２月</title>
+		<link>/gnue/2007/10/18/iphone-sdk-%e3%81%af%e6%9d%a5%e5%b9%b4%ef%bc%92%e6%9c%88/</link>
+					<comments>/gnue/2007/10/18/iphone-sdk-%e3%81%af%e6%9d%a5%e5%b9%b4%ef%bc%92%e6%9c%88/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 17:14:55 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPod touch]]></category>
+		<category><![CDATA[SDK]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/10/18/iphone-sdk-%e3%81%af%e6%9d%a5%e5%b9%b4%ef%bc%92%e6%9c%88/</guid>
+
+					<description><![CDATA[apple.com のホットニュースに Jobs からのメッセージが掲載されました。 ⇒ http://www.apple.com/hotnews/ Apple は iPhone SDK を来年２月にデベロッパーに提供す [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				apple.com のホットニュースに Jobs からのメッセージが掲載されました。</p>
+<p>⇒ <a href="http://www.apple.com/hotnews/">http://www.apple.com/hotnews/</a></p>
+<p>Apple は iPhone SDK を来年２月にデベロッパーに提供するそうです。これでイリーガルな方法を使わずに iPhone ネイティブアプリの開発ができます。もちろん iPod touchも <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>来年２月まで Apple はいろいろやらなければいけないこと(*1)もあるでしょうけど、いろいろと楽しくなりそうです。</p>
+<p>*1) セキュリティ強化は必須。iPhone/iPod touch のアプリが root で動作していることは周知の事実だけどこれはあんまりだし、シグネチャの導入等もあり得るかもしれない		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/10/18/iphone-sdk-%e3%81%af%e6%9d%a5%e5%b9%b4%ef%bc%92%e6%9c%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

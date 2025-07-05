@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wwnc2007 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/wwnc2007/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 03 Jul 2007 02:06:47 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>WWNC2007, Conference Program</title>
+		<link>/gnue/2007/07/03/wwnc2007-conference-program-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 03 Jul 2007 02:06:47 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Newton]]></category>
+		<category><![CDATA[wwnc2007]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/07/03/wwnc2007-conference-program</guid>
+
+					<description><![CDATA[遅くなりましたが、WWNC2007 のカンファレンスプログラムが Webサイトにアップされました。 Linux Zaurus(SL-C700) で動作する Einstein に触ることができます 古いハードウェアをリフレ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>遅くなりましたが、WWNC2007 のカンファレンスプログラムが Webサイトにアップされました。</p>
+<div><br class="khtml-block-placeholder" /></div>
+<ul>
+<li><span class="Apple-style-span">Linux Zaurus(SL-C700) で動作する Einstein に触ることができます<br /></span></li>
+<li><span class="Apple-style-span">古いハードウェアをリフレッシュ<br /></span></li>
+<li><span class="Apple-style-span">Newtonによる手書きWeb<br /></span></li>
+<li><span class="Apple-style-span">次世代開発ツール DyneTK<br /></span></li>
+<li><span class="Apple-style-span">Newton DNA(NEWT/0 and more)<br /></span></li>
+<li><span class="Apple-style-span">Einstein エミュレータ</span></li>
+</ul>
+<div style="text-align:left">⇒ <a href="http://newton.so-kukan.com/gravity/wwnc2007/conference-program/">Conference Program</a>（WWNC2007）<br />⇒ <a href="http://newton.so-kukan.com/gravity/wwnc2007/">WWNC2007</a>（日本）<br />⇒ <a href="http://wwnc.newtontalk.net/">WWNC2007</a>（海外）</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WWNC2007 開催のご案内</title>
+		<link>/gnue/2007/06/26/wwnc2007-%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 26 Jun 2007 02:26:06 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Newton]]></category>
+		<category><![CDATA[wwnc2007]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/06/26/wwnc2007-%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85</guid>
+
+					<description><![CDATA[「WWNC2007 開催のご案内」 このたび PDAの元祖 Apple Newton の世界的なイベント WWNC2007(Worldwide Newton Conference 2007)(*1) を日本において開催す [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div style="text-align:center"><span style="font-size:1.95312em"><strong>「WWNC2007 開催のご案内」</strong></span></div>
+</p>
+<p>このたび PDAの元祖 Apple Newton の世界的なイベント WWNC2007(Worldwide Newton Conference 2007)(*1) を日本において開催することとなりました。銀座　Salon de G にて7月7日(土)・8日(日)の２日間開催いたします。</p>
+<p>WWNC は Newtonユーザのためのイベントです。Newtonテクノロジに関する講演、ワークショップ、情報交換などを行います。Paul Guyot氏、Matthias Melcher氏、GNUE(鵺) 氏(*2)による講演ほか多くの企画を予定しております。当日はじゃんけん大会などお楽しみ企画や Newton バックライト記念撮影などもございます。</p>
+<p>なおWebサイトより参加登録を行うことができます。イベント運営をスムーズに行うためにも事前登録にご協力下さい。</p>
+<p>Apple iPhone が発売間近の今日この頃ですが Apple には Newton があったことを忘れてはいけません。Newtonに興味のある多くの人々のご参加をお待ちしております。</p>
+<p>*1) WWNC は 2004年にパリ（フランス）、2006年にサンフランシスコ（アメリカ）で開催されました<br />*2) スピーカーについて</p>
+<p>&#160;&#160; Paul Guyot &#8212; Newtonエミュレータ『Einstein』の開発者<br />&#160;&#160; Matthias Melcher &#8211;&#160; NTKクローン『DyneTK』の開発者<br />&#160;&#160; GNUE(鵺) &#8212; NewtonScriptインタプリタ『NEWT/0』の開発者</p>
+<p>■開催概要</p>
+<p>　日　時： 2007年7月7日(土)・8日(日)<br />　会　場： 銀座 Salon de G<br />　参加費： 3,500円（二日間共通）<br />　主　催： WWNC2007実行委員会<br />　共　催： Worldwide Newton Association<br />　協　力： Newton Gravity<br />　　　　　 Newton Japan</p>
+<p>■Webサイト</p>
+<p>　</p>
+<p><a href="http://newton.so-kukan.com/gravity/wwnc2007/">http://newton.so-kukan.com/gravity/wwnc2007/</a><br />　<a href="http://wwnc.newtontalk.net/">http://wwnc.newtontalk.net/</a></p>
+<p>■お問合せ先</p>
+<p>　wwnc2007@so-kukan.com</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

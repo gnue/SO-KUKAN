@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	iPod Linux 雑感 へのコメント	</title>
+	<atom:link href="/gnue/2005/08/10/ipod-linux-%E9%9B%91%E6%84%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/08/10/ipod-linux-%e9%9b%91%e6%84%9f/</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 May 2006 05:06:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		koik:af:e より		</title>
+		<link>/gnue/2005/08/10/ipod-linux-%e9%9b%91%e6%84%9f/#comment-517</link>
+
+		<dc:creator><![CDATA[koik:af:e]]></dc:creator>
+		<pubDate>Sat, 20 May 2006 05:06:24 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/08/10/ipod-linux-%e9%9b%91%e6%84%9f/#comment-517</guid>
+
+					<description><![CDATA[&lt;strong&gt;iPod-Linuxで動画再生にトライ&lt;/strong&gt;
+
+リンク: Main Page - wikiPodLinux. リンク: iPod]]></description>
+			<content:encoded><![CDATA[<p><strong>iPod-Linuxで動画再生にトライ</strong></p>
+<p>リンク: Main Page &#8211; wikiPodLinux. リンク: iPod</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

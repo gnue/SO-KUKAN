@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	EFI は普及するか？ へのコメント	</title>
+	<atom:link href="/gnue/2006/01/12/efi-%E3%81%AF%E6%99%AE%E5%8F%8A%E3%81%99%E3%82%8B%E3%81%8B%EF%BC%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/01/12/efi-%e3%81%af%e6%99%ae%e5%8f%8a%e3%81%99%e3%82%8b%e3%81%8b%ef%bc%9f/</link>
+	<description></description>
+	<lastBuildDate>Thu, 12 Jan 2006 08:20:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

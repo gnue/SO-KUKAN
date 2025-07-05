@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	WordPressプラグイン一覧 へのコメント	</title>
+	<atom:link href="/gnue/wordpress_plugins/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jan 2010 06:25:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		使ってるWordPressプラグイン一覧 &#171; 鵺的：想空間 より		</title>
+		<link>/gnue/wordpress_plugins/#comment-7</link>
+
+		<dc:creator><![CDATA[使ってるWordPressプラグイン一覧 &#171; 鵺的：想空間]]></dc:creator>
+		<pubDate>Sun, 03 Jan 2010 06:25:34 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?page_id=2968#comment-7</guid>
+
+					<description><![CDATA[[...] 使ってるWordPressプラグイン一覧  ⇒ WordPressプラグイン一覧 [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 使ってるWordPressプラグイン一覧  ⇒ WordPressプラグイン一覧 [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>開発 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E9%96%8B%E7%99%BA/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 31 Aug 2009 02:21:21 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>.prefPane の Snow Leopard 対応</title>
+		<link>/gnue/2009/08/31/prefpane-%e3%81%ae-snow-leopard-%e5%af%be%e5%bf%9c/</link>
+					<comments>/gnue/2009/08/31/prefpane-%e3%81%ae-snow-leopard-%e5%af%be%e5%bf%9c/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2009 02:21:21 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[開発]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2806</guid>
+
+					<description><![CDATA[システム環境設定で Snow Leopard 非対応の環境設定パネルを開こうとすると 「〜環境設定パネルを使用するには、&#8221;システム環境設定&#8221;を終了してから起動し直す必要があります。」 というアラー [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				システム環境設定で Snow Leopard 非対応の環境設定パネルを開こうとすると</p>
+<blockquote><p>「〜環境設定パネルを使用するには、&#8221;システム環境設定&#8221;を終了してから起動し直す必要があります。」
+</p></blockquote>
+<p>というアラートが出て、OKボタンをクリックするとシステム環境設定が 32bit モードで再起動されます。なんともいや〜んな感じ。</p>
+<p>ということで環境設定パネル（.prefPane）を Snow Leopard に対応させる方法。</p>
+<ol>
+<li>プロジェクトのアーキテクチャを &#8220;Standard (32/64-bit Universal)&#8221; に変更</li>
+<li>Objective-Cガベージコレクションを &#8220;サポートあり [-fobjc-gc]&#8221; に変更</li>
+</ol>
+<p>ガベージコレクションのサポートありを忘れないように。これで再ビルドすれば大丈夫のはず。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/08/31/prefpane-%e3%81%ae-snow-leopard-%e5%af%be%e5%bf%9c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

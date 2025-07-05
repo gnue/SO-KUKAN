@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vaio &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/vaio/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 01 Nov 2006 07:50:50 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>VAIO type G</title>
+		<link>/gnue/2006/11/01/vaio-type-g/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 01 Nov 2006 07:50:50 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[vaio]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/11/01/vaio-type-g</guid>
+
+					<description><![CDATA[SONY からひさびさの 1スピンドルPC が出るみたいです。898g かぁ、軽くていいなぁ。 Apple も&#160;1スピンドル MacBook 出さないものか。MacBook Lite もしくは MacBook  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span class="Apple-style-span">SONY からひさびさの 1スピンドルPC が出るみたいです。898g かぁ、軽くていいなぁ。</span></p>
+<div>Apple も&#160;1スピンドル MacBook 出さないものか。MacBook Lite もしくは MacBook Slim&#8230;</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>⇒&#160;<a href="http://www.vaio.sony.co.jp/Products/G1/"><span class="Apple-style-span" style="font-family:Monaco;font-size:12px">VAIO | type G</span></a></div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Google Friend Connect を設置 へのコメント	</title>
+	<atom:link href="/gnue/2008/12/18/google-friend-connect-%E3%82%92%E8%A8%AD%E7%BD%AE/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2008/12/18/google-friend-connect-%e3%82%92%e8%a8%ad%e7%bd%ae/</link>
+	<description></description>
+	<lastBuildDate>Wed, 17 Dec 2008 21:50:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

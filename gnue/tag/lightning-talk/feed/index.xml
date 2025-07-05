@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lightning Talk &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/lightning-talk/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Aug 2008 08:22:29 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>LL Future: Lightning Talk で発表します</title>
+		<link>/gnue/2008/08/06/ll-future-lightning-talk-%e3%81%a7%e7%99%ba%e8%a1%a8%e3%81%97%e3%81%be%e3%81%99/</link>
+					<comments>/gnue/2008/08/06/ll-future-lightning-talk-%e3%81%a7%e7%99%ba%e8%a1%a8%e3%81%97%e3%81%be%e3%81%99/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2008 08:22:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Lightning Talk]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1334</guid>
+
+					<description><![CDATA[LL Future の Lightning Talk の概要が発表されました。 で、私は NewtonScript ネタで発表します。内容としては NewtonScript(*1) を通したプロトタイプ指向の紹介。プロト [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				LL Future の Lightning Talk の概要が発表されました。</p>
+<p>で、私は NewtonScript ネタで発表します。内容としては NewtonScript(*1) を通したプロトタイプ指向の紹介。プロトタイプ指向はクラス指向なんかより全然シンプルでわかりやすいんだよぉという話をします。</p>
+<p>さてと、うまく 5分(300秒) で話せるだろうか。</p>
+<p>*1) Self でも JavaScript でもなく NewtonScript なのがミソ。純粋なオブジェクト指向言語ではないけれどプロトタイプ指向の本質を知ってもらうにはわかりやすくて最適でないかと思う</p>
+<p>⇒ <a href="http://ll.jus.or.jp/2008/program/lt">ライトニング・トーク</a> （Lightweight Language Future）</p>
+<p><a href='http://ll.jus.or.jp/2008/'><img decoding="async" src="https://so-kukan.com/gnue/files/2008/05/llfuture-bunner.jpg" alt="" width="200" height="40" class="alignnone size-medium wp-image-1252" /></a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/08/06/ll-future-lightning-talk-%e3%81%a7%e7%99%ba%e8%a1%a8%e3%81%97%e3%81%be%e3%81%99/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LL Future, Lightning Talk に応募してみた</title>
+		<link>/gnue/2008/07/18/ll-future-lightning-talk-%e3%81%ab%e5%bf%9c%e5%8b%9f%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/</link>
+					<comments>/gnue/2008/07/18/ll-future-lightning-talk-%e3%81%ab%e5%bf%9c%e5%8b%9f%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2008 14:17:24 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Lightning Talk]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1274</guid>
+
+					<description><![CDATA[今日〆切だったのでダメもとで応募してみました。 テーマを２つも送ってしまったのだけどよかったんだろうか(^^;]]></description>
+										<content:encoded><![CDATA[<p>				今日〆切だったのでダメもとで応募してみました。<br />
+テーマを２つも送ってしまったのだけどよかったんだろうか(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/07/18/ll-future-lightning-talk-%e3%81%ab%e5%bf%9c%e5%8b%9f%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LL Future, Lightning Talk発表者募集</title>
+		<link>/gnue/2008/06/13/ll-future-lightning-talk%e7%99%ba%e8%a1%a8%e8%80%85%e5%8b%9f%e9%9b%86/</link>
+					<comments>/gnue/2008/06/13/ll-future-lightning-talk%e7%99%ba%e8%a1%a8%e8%80%85%e5%8b%9f%e9%9b%86/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2008 12:04:36 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Lightning Talk]]></category>
+		<category><![CDATA[LL]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1262</guid>
+
+					<description><![CDATA[LL Future が Lightning Talk の発表者を募集しています。 〆切は 7月18日(金)。 なんか発表してみたい。 ⇒ ライトニングトーク発表者、絶賛募集中 （Lightweight Language  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				LL Future が Lightning Talk の発表者を募集しています。<br />
+〆切は 7月18日(金)。</p>
+<p>なんか発表してみたい。</p>
+<p>⇒ <a href="http://ll.jus.or.jp/2008/blog/archives/19">ライトニングトーク発表者、絶賛募集中</a> （Lightweight Language Future）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/06/13/ll-future-lightning-talk%e7%99%ba%e8%a1%a8%e8%80%85%e5%8b%9f%e9%9b%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

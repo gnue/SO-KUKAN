@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	NEWT0_20040925_2_src へのコメント	</title>
+	<atom:link href="/gnue/2004/09/25/newt0_20040925_2_src/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/09/25/newt0_20040925_2_src/</link>
+	<description></description>
+	<lastBuildDate>Sun, 17 Oct 2004 02:10:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-128</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sun, 17 Oct 2004 02:10:52 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-128</guid>
+
+					<description><![CDATA[NewtFgets() ですが fgetln をシミュレートする方法ではなく、文字オブジェクトに随時追加する方法にしました。インプリメント済みなので次のバージョンに入ります。]]></description>
+			<content:encoded><![CDATA[<p>NewtFgets() ですが fgetln をシミュレートする方法ではなく、文字オブジェクトに随時追加する方法にしました。インプリメント済みなので次のバージョンに入ります。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-127</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2004 22:25:05 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-127</guid>
+
+					<description><![CDATA[改行を含めるとうまくいかないのは newt.l で１行毎に処理するようにしているためです。
+; と else でひとつの else とする方法はよい方法なのですが、単純に正規表現だけでやろうとするとコメントが途中に入る場合に対応できません。うーん、字句解析は lex を使わない方法に変更したほうがいいのかも(^^;]]></description>
+			<content:encoded><![CDATA[<p>改行を含めるとうまくいかないのは newt.l で１行毎に処理するようにしているためです。<br />
+; と else でひとつの else とする方法はよい方法なのですが、単純に正規表現だけでやろうとするとコメントが途中に入る場合に対応できません。うーん、字句解析は lex を使わない方法に変更したほうがいいのかも(^^;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-126</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2004 13:09:00 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-126</guid>
+
+					<description><![CDATA[documents/03_problem.txtにあるセミコロンについて調べてみました。PROGRAMMING FOR THE NEWTONによればif文のセミコロンは文法的なものではなく移植性を考慮したもののようです。そこでセミコロンの後に0個以上の空白(改行も含む)の後にelseがくるならelseとするようにsrc/parser/newt.lに
+&quot;;&quot;{SPACE}*[Ee][Ll][Ss][Ee]	{ return lex_makesymbol(&quot;else&quot;, false); }
+を追加してみました。(改行も含めると正規表現がまずいのかうまく行かないので空白のみ)
+
+try 文で onexception が複数ある場合途中の onexception では ; が使えないは文法もそうなっていると思います。(プログラミング言語 NewtonScript ver.1.0.0 斎藤くにひろ氏 翻訳より)]]></description>
+			<content:encoded><![CDATA[<p>documents/03_problem.txtにあるセミコロンについて調べてみました。PROGRAMMING FOR THE NEWTONによればif文のセミコロンは文法的なものではなく移植性を考慮したもののようです。そこでセミコロンの後に0個以上の空白(改行も含む)の後にelseがくるならelseとするようにsrc/parser/newt.lに<br />
+&#8220;;&#8221;{SPACE}*[Ee][Ll][Ss][Ee]	{ return lex_makesymbol(&#8220;else&#8221;, false); }<br />
+を追加してみました。(改行も含めると正規表現がまずいのかうまく行かないので空白のみ)</p>
+<p>try 文で onexception が複数ある場合途中の onexception では ; が使えないは文法もそうなっていると思います。(プログラミング言語 NewtonScript ver.1.0.0 斎藤くにひろ氏 翻訳より)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-125</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2004 11:34:37 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-125</guid>
+
+					<description><![CDATA[HEX-DIGIT....恥ずかしい，その通りです(^^;
+修正します。
+
+ちなみに、近日中にマジックポインタをサポートしたバージョンを公開するつもりでいます。]]></description>
+			<content:encoded><![CDATA[<p>HEX-DIGIT&#8230;.恥ずかしい，その通りです(^^;<br />
+修正します。</p>
+<p>ちなみに、近日中にマジックポインタをサポートしたバージョンを公開するつもりでいます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-124</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2004 11:32:11 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-124</guid>
+
+					<description><![CDATA[NewtFgets()、手抜きです(^^;
+本当はコメントアウトしてある fgetln を使うほうのインプリメントならいいのですが、プラットフォームによって fgetln を使えないみたいなので fgets を使ってます。
+理髪さんのコードを参考に fgetln をシミュレートする方向で修正したいと思います。]]></description>
+			<content:encoded><![CDATA[<p>NewtFgets()、手抜きです(^^;<br />
+本当はコメントアウトしてある fgetln を使うほうのインプリメントならいいのですが、プラットフォームによって fgetln を使えないみたいなので fgets を使ってます。<br />
+理髪さんのコードを参考に fgetln をシミュレートする方向で修正したいと思います。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-123</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2004 09:14:11 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-123</guid>
+
+					<description><![CDATA[src/parserのnewt.lでHEX-DIGITが
+[A-Ha-h]
+となってますが
+[A-Fa-f]ではないのでしょか]]></description>
+			<content:encoded><![CDATA[<p>src/parserのnewt.lでHEX-DIGITが<br />
+[A-Ha-h]<br />
+となってますが<br />
+[A-Fa-f]ではないのでしょか</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-122</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2004 05:20:09 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-122</guid>
+
+					<description><![CDATA[NewtIO.cのNewtFgets()でbuffに入り切らなかった場合にreallocで入り切るまで拡張するCodeを書いてみました。
+	if (str != NULL)
+	{
+		if (strlen(str) == sizeof(buff)-1) {
+			char *temp = strdup(str);
+			int   size = sizeof(buff);
+			int length = 0;
+			while (str &#038;&#038; strlen(str) == size-1) {
+				length += strlen(str);
+				temp = (char*)realloc(temp, length+size);
+				str  = fgets(temp+length, size, stream);
+			}
+			str = temp;
+		}
+
+//	str[sizeof(buff) - 1] = &#039;\0&#039;;
+		result = NewtMakeString(str, false);
+		if (str != buff) free(str);
+	}
+無制限に拡張するのってセキュリティホールになっちゃうんのかなぁ。]]></description>
+			<content:encoded><![CDATA[<p>NewtIO.cのNewtFgets()でbuffに入り切らなかった場合にreallocで入り切るまで拡張するCodeを書いてみました。<br />
+	if (str != NULL)<br />
+	{<br />
+		if (strlen(str) == sizeof(buff)-1) {<br />
+			char *temp = strdup(str);<br />
+			int   size = sizeof(buff);<br />
+			int length = 0;<br />
+			while (str &amp;&amp; strlen(str) == size-1) {<br />
+				length += strlen(str);<br />
+				temp = (char*)realloc(temp, length+size);<br />
+				str  = fgets(temp+length, size, stream);<br />
+			}<br />
+			str = temp;<br />
+		}</p>
+<p>//	str[sizeof(buff) &#8211; 1] = &#8216;\0&#8217;;<br />
+		result = NewtMakeString(str, false);<br />
+		if (str != buff) free(str);<br />
+	}<br />
+無制限に拡張するのってセキュリティホールになっちゃうんのかなぁ。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-121</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2004 04:52:26 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-121</guid>
+
+					<description><![CDATA[documents/01_howto.txtに
+『P(obj) 旧来の Print 関数に相当』
+ときちんと載ってました。当初はPrint()があるのに、なぜP()もあるのかわからなかったのですが使用目的が違うということで理解しました。]]></description>
+			<content:encoded><![CDATA[<p>documents/01_howto.txtに<br />
+『P(obj) 旧来の Print 関数に相当』<br />
+ときちんと載ってました。当初はPrint()があるのに、なぜP()もあるのかわからなかったのですが使用目的が違うということで理解しました。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-120</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 15 Oct 2004 04:24:09 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-120</guid>
+
+					<description><![CDATA[NewtPrint は print 関数に相当するのですが、想定する使用目的の関係で文字列に還元できないデータは出力しないようにしています。フレームや配列をプリントしたい場合は p 関数とそれに相当する C 言語の NSPrt, NewtPrintObject を使用して下さい。]]></description>
+			<content:encoded><![CDATA[<p>NewtPrint は print 関数に相当するのですが、想定する使用目的の関係で文字列に還元できないデータは出力しないようにしています。フレームや配列をプリントしたい場合は p 関数とそれに相当する C 言語の NSPrt, NewtPrintObject を使用して下さい。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/09/25/newt0_20040925_2_src/#comment-119</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Fri, 15 Oct 2004 03:59:55 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/newt0_20040925_2_src/#comment-119</guid>
+
+					<description><![CDATA[print()で配列やフレームが出力されません。
+NewtObj.cのNewtPrint()にあるswitchで
+        case kNewtBinary:
+        case kNewtArray:
+        case kNewtFrame:
+が何もせずにbreak;してます。
+試しにNewtPrintObject(f, r);を追加したら出力されるようになったのですが、これでいいんでしょうか。]]></description>
+			<content:encoded><![CDATA[<p>print()で配列やフレームが出力されません。<br />
+NewtObj.cのNewtPrint()にあるswitchで<br />
+        case kNewtBinary:<br />
+        case kNewtArray:<br />
+        case kNewtFrame:<br />
+が何もせずにbreak;してます。<br />
+試しにNewtPrintObject(f, r);を追加したら出力されるようになったのですが、これでいいんでしょうか。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

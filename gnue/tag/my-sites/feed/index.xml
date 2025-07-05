@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>My Sites &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/my-sites/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 21 Aug 2010 15:03:20 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>公式Tweet Button</title>
+		<link>/gnue/2010/08/22/%e5%85%ac%e5%bc%8ftweet-button/</link>
+					<comments>/gnue/2010/08/22/%e5%85%ac%e5%bc%8ftweet-button/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 21 Aug 2010 15:03:20 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=3113</guid>
+
+					<description><![CDATA[試験的に Twitter 公式Tweet Buttonを貼ってみました。 プラグインは &#8220;WP Tweet Button&#8221; を使用。 追記：う〜ん、カウンタがうまく表示できてないみたい。なぜ？？？]]></description>
+										<content:encoded><![CDATA[<p>				試験的に Twitter 公式Tweet Buttonを貼ってみました。<br />
+プラグインは &#8220;WP Tweet Button&#8221; を使用。</p>
+<p>追記：う〜ん、カウンタがうまく表示できてないみたい。なぜ？？？		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/08/22/%e5%85%ac%e5%bc%8ftweet-button/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trac 0.12 の不確かなアップデート備忘録</title>
+		<link>/gnue/2010/06/27/trac-0-12%e3%81%ae%e4%b8%8d%e7%a2%ba%e3%81%8b%e3%81%aa%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%82%99%e5%bf%98%e9%8c%b2/</link>
+					<comments>/gnue/2010/06/27/trac-0-12%e3%81%ae%e4%b8%8d%e7%a2%ba%e3%81%8b%e3%81%aa%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%82%99%e5%bf%98%e9%8c%b2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 26 Jun 2010 19:35:28 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=3097</guid>
+
+					<description><![CDATA[Trac 0.12 が出てたのでアップデートしました。 今回のバージョンで i18n 対応してます。 最初は tar ball をダウンロードしてきて sudo python setup.py install でインスト [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Trac 0.12 が出てたのでアップデートしました。<br />
+今回のバージョンで i18n 対応してます。</p>
+<p><span id="more-3097"></span></p>
+<p>最初は tar ball をダウンロードしてきて sudo python setup.py install でインストールしたのですがうまく i18n で動いてくれませんでした（つまり表示が英語のまま）。</p>
+<p>次は <a href="http://takanory.net/takalog/1235" target="_blank" rel="noopener">http://takanory.net/takalog/1235</a> を参考にして</p>
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ sudo easy_install -UZ pysqlite<br />
+$ sudo easy_install -UZ Babel<br />
+$ sudo easy_install -UZ docutils<br />
+$ sudo easy_install -UZ Pygments<br />
+$ sudo easy_install -UZ Genshi<br />
+$ sudo easy_install -UZ Trac<br />
+$ sudo apachectl restart<br />
+<br />
+(*1)</div></div>
+<p>としたところ、trac/locale で内部エラー。しょうがないので手作業で trac/locale をコピーして参照できるように httpd.conf (*2) を編集しました。最初 trac 関係の設定の最後に Alias を記述したらうまく表示されず、次に設定の前のほうに記述したらなんとかうまく表示されるようになりました。</p>
+<p>ほんとうだったらこれで「よかった、よかった」なのですが、ちょっと trac/locale を置き場所を変えてみようかとして？な状態に。 なんと trac/locale を削除してもちゃんと表示されてる。mod_python 使ってるのでキャッシュに残ってるのかなと再起動してみてもちゃんと表示されてる。いったい何がおこってるのやら <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>PYTHON_EGG_CACHE (*3)が関係しているのかと設定をいじっては見たけど変化なし。どうもこの設定自体が有効に機能してないっぽいのでコメントアウト。それでもちゃんと動作してる感じ。</p>
+<p>結局、何が問題でうまく表示されず、何がよくってうまく表示されるようになったのかがわからず気持ちが悪いのだけど、とりあえず次のときのために起きたことをそのままメモしておきます。</p>
+<p>*1) <a href="http://trac.edgewall.org/milestone/0.12" target="_blank" rel="noopener">http://trac.edgewall.org/milestone/0.12</a> によると Genshi&#8217;s 0.6, Babel  0.9.5 が必要だったみたい<br />
+*2) 実際には違うファイル。環境依存<br />
+*3) 結局 eggファイルのキャッシュがどこに展開されていて trac/locale がちゃんと apache から参照されているのかって問題なんだとは思うのだけど		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/06/27/trac-0-12%e3%81%ae%e4%b8%8d%e7%a2%ba%e3%81%8b%e3%81%aa%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%82%99%e5%bf%98%e9%8c%b2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WordPress 3.0日本語版移行メモ</title>
+		<link>/gnue/2010/06/23/wordpress-3-0%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%e7%a7%bb%e8%a1%8c%e3%83%a1%e3%83%a2/</link>
+					<comments>/gnue/2010/06/23/wordpress-3-0%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%e7%a7%bb%e8%a1%8c%e3%83%a1%e3%83%a2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 22 Jun 2010 16:53:56 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=3088</guid>
+
+					<description><![CDATA[WordPress 3.0日本語版がリリースされましたので、さっそくアップデートしました。3.0 から MU （マルチユーザ）バージョンが本家に統合されています。いままで MU を使っていたので MU からの移行になりま [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				WordPress 3.0日本語版がリリースされましたので、さっそくアップデートしました。3.0 から MU （マルチユーザ）バージョンが本家に統合されています。いままで MU を使っていたので MU からの移行になります。</p>
+<p><span id="more-3088"></span></p>
+<ol>
+<li>MU 2.9.x＋日本語リソースから直接 3.0日本語版に自動アップデートしようとするとエラーになる</li>
+<li>MU 2.9.x＋日本語リソース→3.0英語版→3.0日本語版の順番で自動アップデートするとエラーにならない</li>
+<li>アップデートのため wp-config.php に手作業で１行追加する必要あり（指示あり）</li>
+<li>rewriteが古いと言われるので .htaccess を手作業で修正。でも、アラートが消えない</li>
+<li>これは wp-content/blogs.php の存在をチェックしてアラートを出してるため。4 の修正後にファイルを削除</li>
+</ol>
+<p>うちは MU だったのでこんな感じでしたが、普通の WordPress だともっとあっさり移行できるかと思います。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/06/23/wordpress-3-0%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%e7%a7%bb%e8%a1%8c%e3%83%a1%e3%83%a2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>使ってるWordPressプラグイン一覧</title>
+		<link>/gnue/2010/01/03/%e4%bd%bf%e3%81%a3%e3%81%a6%e3%82%8bwordpress%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e4%b8%80%e8%a6%a7/</link>
+					<comments>/gnue/2010/01/03/%e4%bd%bf%e3%81%a3%e3%81%a6%e3%82%8bwordpress%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e4%b8%80%e8%a6%a7/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 03 Jan 2010 06:23:09 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2971</guid>
+
+					<description><![CDATA[⇒ WordPressプラグイン一覧]]></description>
+										<content:encoded><![CDATA[<p>				⇒ <a href="https://so-kukan.com/gnue/wordpress_plugins/">WordPressプラグイン一覧</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/01/03/%e4%bd%bf%e3%81%a3%e3%81%a6%e3%82%8bwordpress%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e4%b8%80%e8%a6%a7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>一時的にドメインにアクセスできなくなっていました</title>
+		<link>/gnue/2009/07/08/%e4%b8%80%e6%99%82%e7%9a%84%e3%81%ab%e3%83%89%e3%83%a1%e3%82%a4%e3%83%b3%e3%81%ab%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be/</link>
+					<comments>/gnue/2009/07/08/%e4%b8%80%e6%99%82%e7%9a%84%e3%81%ab%e3%83%89%e3%83%a1%e3%82%a4%e3%83%b3%e3%81%ab%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2009 15:03:28 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2693</guid>
+
+					<description><![CDATA[うちのサイトは MyDNS.JP のダイナミックDNSサービスを使っているのですが、IPアドレスの更新用のスクリプトが実行されていなかったみたいで（最後に実行されたのが１週間前）、DNSのデータが生成されなくなっていまし [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				うちのサイトは MyDNS.JP のダイナミックDNSサービスを使っているのですが、IPアドレスの更新用のスクリプトが実行されていなかったみたいで（最後に実行されたのが１週間前）、DNSのデータが生成されなくなっていました。</p>
+<p>そのため今日の 18:00 〜 23:55 までの約６時間ほどドメインから IPアドレスがひけなくなっていました。</p>
+<p>launchd(*1)(*2) で30分に１回実行するようになってる（いままではそれでちゃんと動いてた）のに、なんでこの１週間実行されなかったのか謎(*3)。とりあえず再起動して様子をみます。</p>
+<p>*1) うちのサーバは Mac OS X 10.5 なので。launchd が使えるようになる前は普通の UNIX のように cron 使ってた<br />
+*2) ちなみに launchd の設定を手書きすると大変なので Lingon というツールを使ってる<br />
+*3) 再起動なしのシステムアップデートのときにでも止まってしまった？？？		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/07/08/%e4%b8%80%e6%99%82%e7%9a%84%e3%81%ab%e3%83%89%e3%83%a1%e3%82%a4%e3%83%b3%e3%81%ab%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>アーカイブを年単位に変更</title>
+		<link>/gnue/2009/05/11/%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96%e3%82%92%e5%b9%b4%e5%8d%98%e4%bd%8d%e3%81%ab%e5%a4%89%e6%9b%b4/</link>
+					<comments>/gnue/2009/05/11/%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96%e3%82%92%e5%b9%b4%e5%8d%98%e4%bd%8d%e3%81%ab%e5%a4%89%e6%9b%b4/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 10 May 2009 18:36:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2202</guid>
+
+					<description><![CDATA[アーカイブを年単位に変更しました。 うちみたいに更新頻度が少ないところは年単位でも充分という感じ。ちなみに BLOG前史でやってるような表示スタイルにしてみました。なお、左サイドに表示されるサムネイルは WordPres [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				アーカイブを年単位に変更しました。</p>
+<p>うちみたいに更新頻度が少ないところは年単位でも充分という感じ。ちなみに BLOG前史でやってるような表示スタイルにしてみました。なお、左サイドに表示されるサムネイルは WordPress上で管理されている写真のみ。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/11/%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96%e3%82%92%e5%b9%b4%e5%8d%98%e4%bd%8d%e3%81%ab%e5%a4%89%e6%9b%b4/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Friend Connect 削除</title>
+		<link>/gnue/2009/05/11/google-friend-connect-%e5%89%8a%e9%99%a4/</link>
+					<comments>/gnue/2009/05/11/google-friend-connect-%e5%89%8a%e9%99%a4/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 10 May 2009 16:03:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2198</guid>
+
+					<description><![CDATA[このサイトに貼ってあった Google Friend Connect の Widget を取り除きました。 WordPress MU に変更した関係でブログ直下に rpc_relay.html と canvas.html [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				このサイトに貼ってあった Google Friend Connect の Widget を取り除きました。</p>
+<p>WordPress MU に変更した関係でブログ直下に rpc_relay.html と canvas.html に置けなくなったのが理由です。ま、.htaccess で Alias 使うって手もありますが、全然活用されてなかったしそこまでする必要もないかなとサクっと削除。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/11/google-friend-connect-%e5%89%8a%e9%99%a4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>自宅サーバの調子悪し！</title>
+		<link>/gnue/2009/05/09/%e8%87%aa%e5%ae%85%e3%82%b5%e3%83%bc%e3%83%90%e3%81%ae%e8%aa%bf%e5%ad%90%e6%82%aa%e3%81%97%ef%bc%81/</link>
+					<comments>/gnue/2009/05/09/%e8%87%aa%e5%ae%85%e3%82%b5%e3%83%bc%e3%83%90%e3%81%ae%e8%aa%bf%e5%ad%90%e6%82%aa%e3%81%97%ef%bc%81/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 09 May 2009 05:37:57 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2176</guid>
+
+					<description><![CDATA[うーむ、WordPress MU にしたあたりから自宅サーバの調子が悪くなってます。再起動して１日もたたないのに ssh でログインできないくらい重くなったりします（ちなみに ping のレスポンスはあるので死んでるわけ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				うーむ、WordPress MU にしたあたりから自宅サーバの調子が悪くなってます。再起動して１日もたたないのに ssh でログインできないくらい重くなったりします（ちなみに ping のレスポンスはあるので死んでるわけではないらしい）</p>
+<p>MU にするのにあたり httpd.conf（正確には httpd.conf から呼ばれるファイル）を修正したのでそれが影響しているのか、それとも WordPress MU と何か相性が悪いのか、あるいはたまたま時期が重なっただけでまったく別の原因なのか。</p>
+<p>apache2 の access_log や error_log は見てみたけれど特に不審なところはなさそう。気になるところとしては最近 httpd〜.crash が出来てることだけど、頻度と時間が一致しないので直接関係があるかどうかは不明。ちなみに EXC_BAD_ACCESS (SIGSEGV) で落ちてるのね <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>つうことでしばらく不安定で繋がらないことがあるかもしれませんがご容赦を。</p>
+<p># もっともちゃんと動いてるときは前よりもレスポンスがよくて快適なんだけどね</p>
+<p>追記：あ、ひとつ思いついたことが。前の WordPress からのデータ引越のために .htaccess で PHP の上限設定をいじってるんだけどこれが悪さしてるかも。とりあえずこれをコメントアウトしてみる</p>
+<p>追記２：どうも apache2 の子プロセスが大量に発生（数えたら 102 あった）してメモリを喰らいつぶしているようなので、とりあえず prefork と worker の MaxClients をデフォルトの 150 から 10 に変更してみました。これで問題が解決するといいのだけれど</p>
+<p>追記３：MU にしたときに URL から www を抜いたのだけれど、その変更によって発生しているリダイレクトが関係しているのかも		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/09/%e8%87%aa%e5%ae%85%e3%82%b5%e3%83%bc%e3%83%90%e3%81%ae%e8%aa%bf%e5%ad%90%e6%82%aa%e3%81%97%ef%bc%81/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WordPress MU を試験運用</title>
+		<link>/gnue/2009/05/05/wordpress-mu-%e3%82%92%e8%a9%a6%e9%a8%93%e9%81%8b%e7%94%a8/</link>
+					<comments>/gnue/2009/05/05/wordpress-mu-%e3%82%92%e8%a9%a6%e9%a8%93%e9%81%8b%e7%94%a8/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 04 May 2009 21:07:08 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2009/05/wordpress-mu-%e3%82%92%e8%a9%a6%e9%a8%93%e9%81%8b%e7%94%a8/</guid>
+
+					<description><![CDATA[とりあえず WordPress MU で試験運用をはじめました。 ちなみに MU は一度決めた URL を変更するのが大変。というか基本できない 🙁 。URL 変えてもアップロードしたファイルの URL を置換えてくれな [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				とりあえず WordPress MU で試験運用をはじめました。</p>
+<p>ちなみに MU は一度決めた URL を変更するのが大変。というか基本できない <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 。URL 変えてもアップロードしたファイルの URL を置換えてくれないので、バックアップした SQLデータの中身をテキストエディタで一括置換して再度DBに上書きするという強引な方法を使いました。</p>
+<p>追記 5/22：MU になって &lt;br clear=&#8221;all&#8221; /&gt; が強制的に &lt;br /&gt; に書換えられてしまって一部レイアウトが崩れてしまったので、気がついたところから修正している。ちなみにスタイルシートを変更して &lt;br class=&#8221;clear&#8221; /&gt; で clear=&#8221;all&#8221; と同じ効果を出せるようにした		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/05/wordpress-mu-%e3%82%92%e8%a9%a6%e9%a8%93%e9%81%8b%e7%94%a8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4/28-5/2 のコメントを消失</title>
+		<link>/gnue/2009/05/03/428-52-%e3%81%ae%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%82%92%e6%b6%88%e5%a4%b1/</link>
+					<comments>/gnue/2009/05/03/428-52-%e3%81%ae%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%82%92%e6%b6%88%e5%a4%b1/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 02 May 2009 23:44:25 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1713</guid>
+
+					<description><![CDATA[もうしわけない。ちょっと勘違いで MySQL のテーブルを消しちゃって 4/28-5/2 のデータを消しちゃいました。投稿のほうは RSS のデータからなんとか復元しましたが、コメントのほうが復元できませんでした。 コメ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				もうしわけない。ちょっと勘違いで MySQL のテーブルを消しちゃって 4/28-5/2 のデータを消しちゃいました。投稿のほうは RSS のデータからなんとか復元しましたが、コメントのほうが復元できませんでした。</p>
+<p>コメントいただいた方、ほんとうに申し訳ないです(_ _)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/03/428-52-%e3%81%ae%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%82%92%e6%b6%88%e5%a4%b1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

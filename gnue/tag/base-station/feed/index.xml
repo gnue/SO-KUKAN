@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>base station &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/base-station/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Mar 2007 23:55:09 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Nokia N800 と AirMac Extreme Base Station</title>
+		<link>/gnue/2007/03/15/nokia-n800-%e3%81%a8-airmac-extreme-base-station-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 14 Mar 2007 23:55:09 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[airmac]]></category>
+		<category><![CDATA[base station]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[N800]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/03/15/nokia-n800-%e3%81%a8-airmac-extreme-base-station</guid>
+
+					<description><![CDATA[ようやくFedEx の荷物を受け取りました。そう、Nokia N800 です。 ところがさっそく壁にぶちあたってます。表題にあるとおり AirMac Extreme Base Station（IEEE802.11n対応） [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>ようやくFedEx の荷物を受け取りました。そう、Nokia N800 です。</p>
+<p>ところがさっそく壁にぶちあたってます。表題にあるとおり AirMac Extreme Base Station（IEEE802.11n対応）経由でインターネットに繋がらない&#8230;orz </p>
+<p>まず、最初にひっかかったのが WDS によるネットワーク拡張。こいつが ON になっていると N800 が Base Station を見つけてくれません。こいつは何とか気がついて解決した（OFF にするようにした）のですが、こんどは Base Station に接続できているのにインターネットにアクセスできません。状況としては LAN 側にはアクセスできているのに WAN側にアクセスできてません。手動でルータ（つまり Base Station 自身）の IPアドレスを入れたにも関わらず接続時の表示は (none) のまま。うーん、行き詰まってしまった。</p>
+<p>誰かこの辺の情報を持っている人がいたらタレコミよろしく。</p>
+<p>さてと、せっかくのインターネットタブレットがインーネットに繋がらないって、、、とほほ。</p>
+<p>追記 3/23：なんとか解決しました<br />⇒ <a href="http://gnue.vox.com/library/post/%C3%A3%C2%82%C2%A4%C3%A3%C2%83%C2%B3%C3%A3%C2%82%C2%BF%C3%A3%C2%83%C2%BC%C3%A3%C2%83%C2%8D%C3%A3%C2%83%C2%83%C3%A3%C2%83%C2%88%C3%A3%C2%81%C2%AB%C3%A7%C2%B9%C2%8B%C3%A3%C2%81%C2%8C%C3%A3%C2%82%C2%89%C3%A3%C2%81%C2%AA%C3%A3%C2%81%C2%84-n800%C3%A8%C2%A7%C2%A3%C3%A6%C2%B1%C2%BA%C3%A7%C2%B7%C2%A8.html">「インターネットに繋がらない N800（解決編）」</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

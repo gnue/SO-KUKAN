@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GC &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/gc/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 26 Jun 2024 09:55:42 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>ガベージコレクションのアルゴリズムと実装（中村成洋, 相川光　著）</title>
+		<link>/gnue/2010/03/13/%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0%e3%81%a8%e5%ae%9f%e8%a3%85/</link>
+					<comments>/gnue/2010/03/13/%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0%e3%81%a8%e5%ae%9f%e8%a3%85/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 13 Mar 2010 12:35:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[GC]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=3018</guid>
+
+					<description><![CDATA[TwitterでGCの本が出るというのを見てさっそく予約してみました（3/18発売予定） 追記 3/21：今朝Amazonから届いた（ほんとうは昨日届いてたんだけど不在だった） Amazonでは在庫がきれているみたい。マ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798025623/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/4798025623.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>TwitterでGCの本が出るというのを見てさっそく予約してみました（3/18発売予定）</p>
+<p>追記 3/21：今朝Amazonから届いた（ほんとうは昨日届いてたんだけど不在だった）</p>
+<p>Amazonでは在庫がきれているみたい。マニアックな本なのに結構売れてるらしい</p>
+<p><br class="clear" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/03/13/%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0%e3%81%a8%e5%ae%9f%e8%a3%85/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

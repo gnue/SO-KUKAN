@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Misc &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/misc/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 May 2007 02:23:01 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Cocoa勉強会、プレゼンの自己反省</title>
+		<link>/gnue/2007/05/14/cocoa%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%81%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%81%ae%e8%87%aa%e5%b7%b1%e5%8f%8d%e7%9c%81/</link>
+					<comments>/gnue/2007/05/14/cocoa%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%81%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%81%ae%e8%87%aa%e5%b7%b1%e5%8f%8d%e7%9c%81/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 02:23:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/05/14/cocoa%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%81%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%81%ae%e8%87%aa%e5%b7%b1%e5%8f%8d%e7%9c%81/</guid>
+
+					<description><![CDATA[先週の土曜日にあった Cocoa勉強会で「PaSoRi x IOKit」ネタで発表しました。その自己反省。 ・予定より大幅に長くなってしまった ・スライドのほうばかり見ていた 出掛ける間際まで発表資料をつくっていたせいも [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				先週の土曜日にあった Cocoa勉強会で「PaSoRi x IOKit」ネタで発表しました。その自己反省。</p>
+<p>・予定より大幅に長くなってしまった<br />
+・スライドのほうばかり見ていた</p>
+<p>出掛ける間際まで発表資料をつくっていたせいもあるけど時間配分が全然できてなかった。いくらなんでも予定時間の倍になっちゃマズイだろ(^^;</p>
+<p>スライドのほうばかり見ていたというのはいつもの悪い癖。基本的に話すことで、いっぱい、いっぱいで余裕がないんだよな。もっと聴衆を見て聴衆の空気をよみながら話せるようにならないと。</p>
+<p>あと、他人のプレゼン方法でいいなと思ったことのメモ</p>
+<p>・発表内容のアウトラインを最初に提示<br />
+・パソコン操作をあらかじめムービーにしておく</p>
+<p>発表内容のアウトラインを見せてくれたのは DarwiinRemote の Hiroaki さん（今回のゲストスピーカー）。Hiroaki さんは大学院の学生さん。Paul もそうだけど学会で発表慣れしてる人はプレゼンがうまい。</p>
+<p>パソコン操作をあらかじめムービーにしておく手法は RubyCocoa の藤本さん。パソコン操作でつっかえるとこがないのと、話すことに集中できるのがいい。</p>
+<p>そうそう、ちょうど今回のゲストの Hiroaki さんが効果的なプレゼンについて BLOG に書いてます。</p>
+<p>⇒ <a href="http://blog.hiroaki.jp/2007/05/000457.html" target="_blank" rel="noopener">効果的なプレゼンの方法って？</a>（Hirolog）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/05/14/cocoa%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%81%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%81%ae%e8%87%aa%e5%b7%b1%e5%8f%8d%e7%9c%81/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>天才になるのに遅すぎるということはない？</title>
+		<link>/gnue/2007/02/28/%e5%a4%a9%e6%89%8d%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%ae%e3%81%ab%e9%81%85%e3%81%99%e3%81%8e%e3%82%8b%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84%ef%bc%9f/</link>
+					<comments>/gnue/2007/02/28/%e5%a4%a9%e6%89%8d%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%ae%e3%81%ab%e9%81%85%e3%81%99%e3%81%8e%e3%82%8b%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 27 Feb 2007 22:37:11 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/02/28/%e5%a4%a9%e6%89%8d%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%ae%e3%81%ab%e9%81%85%e3%81%99%e3%81%8e%e3%82%8b%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84%ef%bc%9f/</guid>
+
+					<description><![CDATA[Matzにっき 経由、Kathy Sierra（青木靖 訳）。 ふむ、まだ希望は持てるということか。 でも、まつもとさんのいう「巨人の肩に乗る」のは苦手だな。 ⇒ 天才になるのに遅すぎるということはない（Fine Sof [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.rubyist.net/~matz/20070220.html#p01" target="_blank" rel="noopener">Matzにっき</a> 経由、Kathy Sierra（青木靖 訳）。</p>
+<p>ふむ、まだ希望は持てるということか。<br />
+でも、まつもとさんのいう「巨人の肩に乗る」のは苦手だな。</p>
+<p>⇒ <a href="http://www.aoky.net/articles/kathy_sierra/its_not_too_lat.htm" target="_blank" rel="noopener">天才になるのに遅すぎるということはない</a>（Fine Software Writings）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/02/28/%e5%a4%a9%e6%89%8d%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%ae%e3%81%ab%e9%81%85%e3%81%99%e3%81%8e%e3%82%8b%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ロケーションフリー標準装備のマンション</title>
+		<link>/gnue/2007/01/25/%e3%83%ad%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%95%e3%83%aa%e3%83%bc%e6%a8%99%e6%ba%96%e8%a3%85%e5%82%99%e3%81%ae%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+					<comments>/gnue/2007/01/25/%e3%83%ad%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%95%e3%83%aa%e3%83%bc%e6%a8%99%e6%ba%96%e8%a3%85%e5%82%99%e3%81%ae%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 24 Jan 2007 19:16:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/01/25/%e3%83%ad%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%95%e3%83%aa%e3%83%bc%e6%a8%99%e6%ba%96%e8%a3%85%e5%82%99%e3%81%ae%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3/</guid>
+
+					<description><![CDATA[マンションのチラシが郵便受けに入っていたのだけど、このマンション“「ロケーションフリー」TVシステム導入”とあり PSP の写真載っている。どうやら SONY のロケーションフリーとクライアントとして PSP がついてく [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				マンションのチラシが郵便受けに入っていたのだけど、このマンション“「ロケーションフリー」TVシステム導入”とあり PSP の写真載っている。どうやら SONY のロケーションフリーとクライアントとして PSP がついてくるらしい。「ロケーションフリー」がマンション購入の決め手になるとは到底思えないけどネタかな(^^;？		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/01/25/%e3%83%ad%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%95%e3%83%aa%e3%83%bc%e6%a8%99%e6%ba%96%e8%a3%85%e5%82%99%e3%81%ae%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>「気になるイベント」をGoogle カレンダーで公開</title>
+		<link>/gnue/2006/10/12/%e3%80%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8d%e3%82%92google-%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%81%a7%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2006/10/12/%e3%80%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8d%e3%82%92google-%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%81%a7%e5%85%ac%e9%96%8b/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2006 10:13:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/12/%e3%80%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8d%e3%82%92google-%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%81%a7%e5%85%ac%e9%96%8b/</guid>
+
+					<description><![CDATA[個人的に気になっているイベントを Google カレンダーで公開してみました。いまのところ登録されているのは「オープンソースカンファレンス」や「ロケットまつり」など。偏ってます（笑） 【注意】残念ながら Google カ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				個人的に気になっているイベントを Google カレンダーで公開してみました。いまのところ登録されているのは「オープンソースカンファレンス」や「ロケットまつり」など。偏ってます（笑）</p>
+<p><a target="_blank" href="http://www.google.com/calendar/render?cid=uu4sd5q7hqd344nvb7dhrd0gdg%40group.calendar.google.com" rel="noopener"><img decoding="async" src="http://www.google.com/calendar/images/ext/gc_button1_ja.gif" border="0/"></a></p>
+<p><strike>【注意】残念ながら Google カレンダーは WebCore系ブラウザ（Safari, シイラ）では見れません。Firefox をお使い下さい。</strike></p>
+<p>訂正：Safari, Firefox で見れます。<br />
+追記：シイラでもアラートで「Cancel」ボタンを押せば使えました		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/12/%e3%80%8c%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8d%e3%82%92google-%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%81%a7%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>うざい、Bフレッツのセールス</title>
+		<link>/gnue/2006/10/08/%e3%81%86%e3%81%96%e3%81%84%e3%80%81b%e3%83%95%e3%83%ac%e3%83%83%e3%83%84%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab%e3%82%b9/</link>
+					<comments>/gnue/2006/10/08/%e3%81%86%e3%81%96%e3%81%84%e3%80%81b%e3%83%95%e3%83%ac%e3%83%83%e3%83%84%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab%e3%82%b9/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 07 Oct 2006 16:01:57 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/08/%e3%81%86%e3%81%96%e3%81%84%e3%80%81b%e3%83%95%e3%83%ac%e3%83%83%e3%83%84%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab%e3%82%b9/</guid>
+
+					<description><![CDATA[ピンポーン♪　とドア・ベルがなったので何かと思ったら Bフレッツのセールスだった。をいをい、いったい何度目だよ。USEN 入ってるから Bフレッツには入らないっちゅーに！ まぁ、NTT も必死なのはわかるけどうざいったら [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ピンポーン♪　とドア・ベルがなったので何かと思ったら Bフレッツのセールスだった。をいをい、いったい何度目だよ。USEN 入ってるから Bフレッツには入らないっちゅーに！</p>
+<p>まぁ、NTT も必死なのはわかるけどうざいったらありゃしない :-{</p>
+<p>それにしてもセールス攻勢かけて顧客を増やすのはいいけど、この前みたいに IP電話のサービスをダウンさせているようじゃマズイだろ。なんか地に足がついてない感じで今の NTT は不安だよ。</p>
+<p>追記 10/14：今日も来た		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/08/%e3%81%86%e3%81%96%e3%81%84%e3%80%81b%e3%83%95%e3%83%ac%e3%83%83%e3%83%84%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab%e3%82%b9/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>アクセント辞典</title>
+		<link>/gnue/2006/10/07/%e3%82%a2%e3%82%af%e3%82%bb%e3%83%b3%e3%83%88%e8%be%9e%e5%85%b8/</link>
+					<comments>/gnue/2006/10/07/%e3%82%a2%e3%82%af%e3%82%bb%e3%83%b3%e3%83%88%e8%be%9e%e5%85%b8/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2006 16:47:57 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/07/%e3%82%a2%e3%82%af%e3%82%bb%e3%83%b3%e3%83%88%e8%be%9e%e5%85%b8/</guid>
+
+					<description><![CDATA[へぇ、アクセント辞典なんてあるんだ。専用機ではなく PDA なら簡単に電子辞典をつくれるのに。 ⇒ アクセントを電子辞書で（スタパブログ）]]></description>
+										<content:encoded><![CDATA[<p>				へぇ、アクセント辞典なんてあるんだ。専用機ではなく PDA なら簡単に電子辞典をつくれるのに。</p>
+<p>⇒ <a href="http://bb.watch.impress.co.jp/stapa_blog/archives/2006/10/post_97.html" target="_blank" rel="noopener">アクセントを電子辞書で</a>（スタパブログ）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/07/%e3%82%a2%e3%82%af%e3%82%bb%e3%83%b3%e3%83%88%e8%be%9e%e5%85%b8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>禅コンピュータ</title>
+		<link>/gnue/2006/10/06/%e7%a6%85%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf/</link>
+					<comments>/gnue/2006/10/06/%e7%a6%85%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2006 14:48:12 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/06/%e7%a6%85%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf/</guid>
+
+					<description><![CDATA[奈良県立図書情報館が開館１周年を記念して「ゼネティック・コンピュータ（禅コンピュータ）と電子図書街」というトークセッションを開くそうです。 『ゼネティック・コンピュータ（禅コンピュータ）』って何だ？　マンダラ・シンセサイ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				奈良県立図書情報館が開館１周年を記念して「ゼネティック・コンピュータ（禅コンピュータ）と電子図書街」というトークセッションを開くそうです。</p>
+<p>『ゼネティック・コンピュータ（禅コンピュータ）』って何だ？　マンダラ・シンセサイザー(by 佐藤史生「ワン・ゼロ」)でもできたのかと思ったら、単に水彩画の仮想空間で禅問答や俳句を体験するだけみたい。残念。</p>
+<p>⇒ <a href="http://www.library.pref.nara.jp/oshirase/first-anniversary.html" target="_blank" rel="noopener">「ゼネティック・コンピュータ（禅コンピュータ）と電子図書街」の開催について</a>（奈良県立図書情報館）</p>
+<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4091911145/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/4091911145.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/06/%e7%a6%85%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>何もかもがすばらしい数学の回答</title>
+		<link>/gnue/2006/09/23/%e4%bd%95%e3%82%82%e3%81%8b%e3%82%82%e3%81%8c%e3%81%99%e3%81%b0%e3%82%89%e3%81%97%e3%81%84%e6%95%b0%e5%ad%a6%e3%81%ae%e5%9b%9e%e7%ad%94/</link>
+					<comments>/gnue/2006/09/23/%e4%bd%95%e3%82%82%e3%81%8b%e3%82%82%e3%81%8c%e3%81%99%e3%81%b0%e3%82%89%e3%81%97%e3%81%84%e6%95%b0%e5%ad%a6%e3%81%ae%e5%9b%9e%e7%ad%94/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 23 Sep 2006 03:36:27 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/09/23/%e4%bd%95%e3%82%82%e3%81%8b%e3%82%82%e3%81%8c%e3%81%99%e3%81%b0%e3%82%89%e3%81%97%e3%81%84%e6%95%b0%e5%ad%a6%e3%81%ae%e5%9b%9e%e7%ad%94/</guid>
+
+					<description><![CDATA[ヒビノアワさん経由のネタ。数学のおもしろ解答例なんだけど、、、 この解答を見てどう感じるかはひと様々だと思うけど、私は素直に『すばらしい』と思っちゃいました（いや、教師とか親は嘆いているのかも(^^;）私なんて中途半端に [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://cheebow.info/chemt/archives/2006/09/cheebow20060922.html" target="_blank" rel="noopener">ヒビノアワ</a>さん経由のネタ。数学のおもしろ解答例なんだけど、、、</p>
+<p>この解答を見てどう感じるかはひと様々だと思うけど、私は素直に『すばらしい』と思っちゃいました（いや、教師とか親は嘆いているのかも(^^;）私なんて中途半端に数学とかできちゃったほうなのでこういう発想ってなかなか思い浮かびません。正直うらやましい。もしかしたらこういう子供たちの中からアインシュタインやエジソンが生まれちゃうのかもしれません。</p>
+<p>それとこの解答をみていて思い出したのが三原順の『はみだしっ子』、ジャックに引き取られた彼らが復学するための学力テストの結果。って、わかる人にしかわからないか。</p>
+<p>⇒ <a href="http://gigazine.net/index.php?/news/comments/20060916_mathematics_genius/" target="_blank" rel="noopener">何もかもが間違っている数学の回答</a>（GIGAZINE）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/09/23/%e4%bd%95%e3%82%82%e3%81%8b%e3%82%82%e3%81%8c%e3%81%99%e3%81%b0%e3%82%89%e3%81%97%e3%81%84%e6%95%b0%e5%ad%a6%e3%81%ae%e5%9b%9e%e7%ad%94/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>大人の科学？　火炎放射器の作り方</title>
+		<link>/gnue/2006/08/22/%e5%a4%a7%e4%ba%ba%e3%81%ae%e7%a7%91%e5%ad%a6%ef%bc%9f%e3%80%80%e7%81%ab%e7%82%8e%e6%94%be%e5%b0%84%e5%99%a8%e3%81%ae%e4%bd%9c%e3%82%8a%e6%96%b9/</link>
+					<comments>/gnue/2006/08/22/%e5%a4%a7%e4%ba%ba%e3%81%ae%e7%a7%91%e5%ad%a6%ef%bc%9f%e3%80%80%e7%81%ab%e7%82%8e%e6%94%be%e5%b0%84%e5%99%a8%e3%81%ae%e4%bd%9c%e3%82%8a%e6%96%b9/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2006 13:11:44 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/22/%e5%a4%a7%e4%ba%ba%e3%81%ae%e7%a7%91%e5%ad%a6%ef%bc%9f%e3%80%80%e7%81%ab%e7%82%8e%e6%94%be%e5%b0%84%e5%99%a8%e3%81%ae%e4%bd%9c%e3%82%8a%e6%96%b9/</guid>
+
+					<description><![CDATA[う、そんなのつくっちゃいますか。小さなお友達、および、大きなお友達はくれぐれま真似しないように&#8230;(^^; ⇒ 火炎放射器（Gizmodo Japan）]]></description>
+										<content:encoded><![CDATA[<p>				う、そんなのつくっちゃいますか。小さなお友達、および、大きなお友達はくれぐれま真似しないように&#8230;(^^;</p>
+<p>⇒ <a href="http://www.gizmodo.jp/2006/08/post_106.html" target="_blank" rel="noopener">火炎放射器</a>（Gizmodo Japan）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/22/%e5%a4%a7%e4%ba%ba%e3%81%ae%e7%a7%91%e5%ad%a6%ef%bc%9f%e3%80%80%e7%81%ab%e7%82%8e%e6%94%be%e5%b0%84%e5%99%a8%e3%81%ae%e4%bd%9c%e3%82%8a%e6%96%b9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>コスプレサミットって</title>
+		<link>/gnue/2006/08/06/%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b5%e3%83%9f%e3%83%83%e3%83%88%e3%81%a3%e3%81%a6/</link>
+					<comments>/gnue/2006/08/06/%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b5%e3%83%9f%e3%83%83%e3%83%88%e3%81%a3%e3%81%a6/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2006 05:11:43 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Misc]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/06/%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b5%e3%83%9f%e3%83%83%e3%83%88%e3%81%a3%e3%81%a6/</guid>
+
+					<description><![CDATA[コスプレサミットって外務省と国土交通省が後援(*1)してるんですね。 TVニュースで外務省の副大臣室（かな？）に海外の代表を招いて副大臣のありがたぁ〜〜くもださださなお言葉を賜われる様子が流れていた。しかも海外のコスプレ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				コスプレサミットって外務省と国土交通省が後援(*1)してるんですね。</p>
+<p>TVニュースで外務省の副大臣室（かな？）に海外の代表を招いて副大臣のありがたぁ〜〜くもださださなお言葉を賜われる様子が流れていた。しかも海外のコスプレイヤーにわざわざカメラに向かって「Japan is Cool」と言わせる姿はまったくもって Cool じゃない。</p>
+<p>*1) 外務省と国土交通省の後援は今年かららしい		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/06/%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b5%e3%83%9f%e3%83%83%e3%83%88%e3%81%a3%e3%81%a6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>覚書き &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E8%A6%9A%E6%9B%B8%E3%81%8D/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Oct 2010 17:27:12 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Mac OS X で gitosis</title>
+		<link>/gnue/2010/10/22/mac-os-x-%e3%81%a7-gitosis/</link>
+					<comments>/gnue/2010/10/22/mac-os-x-%e3%81%a7-gitosis/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2010 17:27:12 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4559</guid>
+
+					<description><![CDATA[gitosis インストールの覚書き。 gitosis を少し使った感想としては新しいプロジェクトを追加するたびに設定を追加しなければいけないのでちょっとめんどうというところかな。 ユーザ git を作成 システム環境設 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				gitosis インストールの覚書き。</p>
+<p>gitosis を少し使った感想としては新しいプロジェクトを追加するたびに設定を追加しなければいけないのでちょっとめんどうというところかな。</p>
+<p><span id="more-4559"></span></p>
+<ol>
+<li>ユーザ git を作成</li>
+<ol>
+<li>システム環境設定でユーザ git を作成</li>
+<li>システム環境設定→共有→リモートログインを入にする</li>
+<li>システム環境設定→共有→リモートログインでユーザ git がリモートログインできるようにする</li>
+<li>.bashrc で gitコマンドのあるディレクトリを PATH に追加する</li>
+</ol>
+<li>gitosis のインストール
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br />2<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ <span style="color: #c20cb9; font-weight: bold;">git clone</span> git:<span style="color: #000000; font-weight: bold;">//</span>eagain.net<span style="color: #000000; font-weight: bold;">/</span>gitosis.git<br />
+$ <span style="color: #c20cb9; font-weight: bold;">sudo</span> python setup.py <span style="color: #c20cb9; font-weight: bold;">install</span></div></td></tr></tbody></table></div>
+</li>
+<li>gitosis の初期化
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;"><span style="color: #666666;">$ </span><span style="color: #c20cb9; font-weight: bold;">sudo</span> <span style="color: #660033;">-H</span> <span style="color: #660033;">-u</span> <span style="color: #c20cb9; font-weight: bold;">git</span> gitosis-init <span style="color: #000000; font-weight: bold;">&amp;</span>lt; id_rsa.pub</div></td></tr></tbody></table></div>
+<p>※ ssh の公開鍵はあらかじめ用意しておくこと
+	</li>
+<li>hooks/post-update のパーミッション変更
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;"><span style="color: #666666;">$ </span><span style="color: #c20cb9; font-weight: bold;">sudo</span> <span style="color: #c20cb9; font-weight: bold;">chmod</span> <span style="color: #000000;">755</span> ~git<span style="color: #000000; font-weight: bold;">/</span>repositories<span style="color: #000000; font-weight: bold;">/</span>gitosis-admin.git<span style="color: #000000; font-weight: bold;">/</span>hooks<span style="color: #000000; font-weight: bold;">/</span>post-update</div></td></tr></tbody></table></div>
+</li>
+<li>管理用リポジトリをローカルに持ってくる
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;"><span style="color: #666666;">$ </span><span style="color: #c20cb9; font-weight: bold;">git clone</span> <span style="color: #c20cb9; font-weight: bold;">git</span><span style="color: #000000; font-weight: bold;">@</span>hostname:gitosis-admin.git</div></td></tr></tbody></table></div>
+</li>
+<li>gitosis の設定<br />
+	よそのサイトを参考（例：<a href="http://progit.org/book/ja/ch4-7.html">Git Pro</a>）
+	</li>
+<li>GitWeb で公開したい場合はグループを変更
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br />2<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ <span style="color: #c20cb9; font-weight: bold;">mkdir</span> ~git<span style="color: #000000; font-weight: bold;">/</span>repositories<span style="color: #000000; font-weight: bold;">/</span>hogehoge<br />
+$ <span style="color: #c20cb9; font-weight: bold;">chown</span> git:_www ~git<span style="color: #000000; font-weight: bold;">/</span>repositories<span style="color: #000000; font-weight: bold;">/</span>hogehoge</div></td></tr></tbody></table></div>
+<p>※ Mac OS X では _www がWebサーバのグループ
+	</li>
+</ol>
+<p>Mac OS X 固有のところに特化して書きました。抜けがあるかもしれませんが、gitosis の細かい設定は他のサイトを参考にして下さい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/10/22/mac-os-x-%e3%81%a7-gitosis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac OS X の git daemon 設定</title>
+		<link>/gnue/2010/10/22/mac-os-x-%e3%81%ae-git-daemon-%e8%a8%ad%e5%ae%9a/</link>
+					<comments>/gnue/2010/10/22/mac-os-x-%e3%81%ae-git-daemon-%e8%a8%ad%e5%ae%9a/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2010 16:37:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4497</guid>
+
+					<description><![CDATA[Mac OS X 10.6 では /Library/LaunchDaemons に plist をつくります。 OnDemandキーを に設定することがキモ。 123456789101112&#160; &#160; L [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Mac OS X 10.6 では /Library/LaunchDaemons に plist をつくります。<br />
+OnDemandキーを  に設定することがキモ。</p>
+<p><span id="more-4497"></span></p>
+<div class="codecolorer-container xml default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br />8<br />9<br />10<br />11<br />12<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">&nbsp; &nbsp; Label<br />
+&nbsp; &nbsp; local.git.daemon<br />
+&nbsp; &nbsp; OnDemand<br />
+&nbsp; &nbsp; <br />
+&nbsp; &nbsp; ProgramArguments<br />
+&nbsp; &nbsp; <br />
+&nbsp; &nbsp; &nbsp; &nbsp; /usr/local/git/bin/git<br />
+&nbsp; &nbsp; &nbsp; &nbsp; daemon<br />
+&nbsp; &nbsp; &nbsp; &nbsp; --user=git<br />
+&nbsp; &nbsp; &nbsp; &nbsp; --group=staff<br />
+&nbsp; &nbsp; &nbsp; &nbsp; --reuseaddr<br />
+&nbsp; &nbsp; &nbsp; &nbsp; --base-path=公開するリポジトリを置く絶対パス</div></td></tr></tbody></table></div>
+<p>※ よそのサイトではEnvironmentVariablesキーで環境変数PATHを設定しなければいけないようなことが書いてあるが、 git-daemon を呼出していることから古いバージョンの git の場合と思われる。</p>
+<p>ファイルを置いただけではすぐに起動されないので次のコマンドで起動（たぶんマシンの再起動でも可）</p>
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;"><span style="color: #666666;">$ </span><span style="color: #c20cb9; font-weight: bold;">sudo</span> launchctl load <span style="color: #660033;">-w</span> <span style="color: #000000; font-weight: bold;">/</span>Library<span style="color: #000000; font-weight: bold;">/</span>LaunchDaemons<span style="color: #000000; font-weight: bold;">/</span>local.git.daemon.plist</div></td></tr></tbody></table></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/10/22/mac-os-x-%e3%81%ae-git-daemon-%e8%a8%ad%e5%ae%9a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>git clone するときのURLいろいろ</title>
+		<link>/gnue/2010/10/22/git-clone-%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%aeurl%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/</link>
+					<comments>/gnue/2010/10/22/git-clone-%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%aeurl%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2010 15:36:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4473</guid>
+
+					<description><![CDATA[git clone するときのURLで混乱したので覚書き 素で ssh 先から &#160;username@hostname:path ※ path は ~username から ※ path の前は / でないので注 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				git clone するときのURLで混乱したので覚書き</p>
+<p><span id="more-4473"></span></p>
+<ul>
+<li>素で ssh 先から
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">&nbsp;username@hostname:path<br />
+※ path は ~username から<br />
+※ path の前は / でないので注意</div></div>
+</li>
+<li>gitosis の場合
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">&nbsp;ssh://git@hostname/path<br />
+※ path は ~git/repositories から</div></div>
+</li>
+<li>git daemon の場合
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">&nbsp;git://hostname/path<br />
+※ path は --base-path で指定したディレクトリから</div></div>
+</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/10/22/git-clone-%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%aeurl%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac OS X用に OpenCV.framework を作成する</title>
+		<link>/gnue/2009/06/22/mac-os-x%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/</link>
+					<comments>/gnue/2009/06/22/mac-os-x%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2009 18:48:36 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OpenCV]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2584</guid>
+
+					<description><![CDATA[Mac OS X用の OpenCV.framework を作成するための覚書き。 autotools/darwin をどこから持って来ればいいのかわからなくて悩んでしまった。 opencv-1.1pre1.tar.gz  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Mac OS X用の OpenCV.framework を作成するための覚書き。<br />
+autotools/darwin をどこから持って来ればいいのかわからなくて悩んでしまった。</p>
+<p><span id="more-2584"></span></p>
+<ol>
+<li><a href="http://sourceforge.net/project/showfiles.php?group_id=22870&amp;package_id=16948&amp;release_id=634504">opencv-1.1pre1.tar.gz</a> をダウンロード</li>
+<li>tar xzf opencv-1.1pre1.tar.gz</li>
+<li>ml/src/ml_inner_functions.cpp を編集。cvCompleteSymm関数を無効にする
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">#ifndef __APPLE__<br />
+void cvCompleteSymm( CvMat* matrix, int lower_to_upper )<br />
+{<br />
+&nbsp; &nbsp; 〜<br />
+}<br />
+#endif</div></div>
+</li>
+<li>autotools の下に必要なファイルを持ってくる
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ pushd autotools<br />
+$ svn export http://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/tags/latest_tested_snapshot/opencv/autotools/darwin<br />
+$ popd</div></div>
+</li>
+<li>OpenCV.framework をビルドする
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ ./configure<br />
+$ export FRAMEWORK_ARCH=i386<br />
+$ export FRAMEWORK_INSTALL_PATH=@loader_path/../Frameworks<br />
+$ make framework</div></div>
+</li>
+</ol>
+<p>samples/MacOSX/FaceTracker をコンパイルしてちゃんと動くか確認する（Releaseコンパイルする場合はターゲットのビルド設定でアーキテクチャから ppc を削除）。</p>
+<p>※ このビルドでは i386 でしかコンパイルしていないので注意</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/22/mac-os-x%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き：WordPress テーマのフォルダ名</title>
+		<link>/gnue/2009/05/12/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9awordpress-%e3%83%86%e3%83%bc%e3%83%9e%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e5%90%8d/</link>
+					<comments>/gnue/2009/05/12/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9awordpress-%e3%83%86%e3%83%bc%e3%83%9e%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e5%90%8d/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 11 May 2009 23:25:12 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Theme]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2393</guid>
+
+					<description><![CDATA[WordPress でテーマをつくるときフォルダ名にハイフン（-）が入っているとテーマを選択したときの確認画面が真っ白になっちゃいます。どうもバグっぽいけど、とりあえずフォルダ名にハイフンを使わないようにする（代わりにア [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				WordPress でテーマをつくるときフォルダ名にハイフン（-）が入っているとテーマを選択したときの確認画面が真っ白になっちゃいます。どうもバグっぽいけど、とりあえずフォルダ名にハイフンを使わないようにする（代わりにアンダーバーを使う）とこの問題が回避できるようです（2.7.1 現在）</p>
+<p>おなじ問題につきあたる人がいるかもしれないし、とりあえずメモ。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/12/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9awordpress-%e3%83%86%e3%83%bc%e3%83%9e%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e5%90%8d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mod_python のインストール</title>
+		<link>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/</link>
+					<comments>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 13:47:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[mod_python]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2151</guid>
+
+					<description><![CDATA[Trac 0.11 がめっちゃ遅いので mod_python を自宅サーバ（Mac mini）に入れてみた。 最初は MacPort でサクっと入れようと思ったのだがエラーであえなく撃沈。次はソースコードから make  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Trac 0.11 がめっちゃ遅いので mod_python を自宅サーバ（Mac mini）に入れてみた。</p>
+<p>最初は MacPort でサクっと入れようと思ったのだがエラーであえなく撃沈。次はソースコードから make しようと思ったらコンパイル＆インストールは問題なかったのに実際に apache2 で LoadModule しようとするとエラーになってダメ。ネットで調べるとどうも Makefile(*1) が x86_64 に対応してないのが問題らしい。</p>
+<p>ということで、下記のサイトを参考に Makefile を修正したら問題なく動くようになりました。Trac も体感速度３倍ぐらい速くなった感じ。</p>
+<p>⇒ <a href="http://www.rokujyouhitoma.com/javapg/2008/08/leopardmod-python.html">Leopardでmod_pythonの設定</a>（rokujyouhitomaのぷろぐらま日誌）</p>
+<p>*1) 本来は configure でなんとかするべき		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WordPress 2.7 の画像サムネイル</title>
+		<link>/gnue/2009/01/01/wordpress-27-%e3%81%ae%e7%94%bb%e5%83%8f%e3%82%b5%e3%83%a0%e3%83%8d%e3%82%a4%e3%83%ab/</link>
+					<comments>/gnue/2009/01/01/wordpress-27-%e3%81%ae%e7%94%bb%e5%83%8f%e3%82%b5%e3%83%a0%e3%83%8d%e3%82%a4%e3%83%ab/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2008 16:14:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1615</guid>
+
+					<description><![CDATA[WordPress 2.7 よりなんちゃってサムネイルではなくちゃんとリサイズした画像を生成するようになったのはいいのですが、php5-gd が入ってないとこの機能が有効になってくれません。 Leopard (Mac O [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				WordPress 2.7 よりなんちゃってサムネイルではなくちゃんとリサイズした画像を生成するようになったのはいいのですが、php5-gd が入ってないとこの機能が有効になってくれません。</p>
+<p>Leopard (Mac OS X 10.5) に標準で入っている PHP5 には GD が入っていないのでこれを自力でインストールする必要があります。</p>
+<p><a href="http://aeolus.jp/higuma/2008/10/d_12.html">風ブログ</a>さんと <a href="http://rikanet.com/2008/09/11/gd/">Wing World</a> さんのやり方を参考にさせてもらったのですが、私の場合は両方のやり方をちゃんぽんにした感じになりました。</p>
+<ol>
+<li><a href="http://ethan.tira-thompson.com/Mac%20OS%20X%20Ports.html">ココ</a>から libjpeg6b のバイナリをダウンロードしてインストール(*1)</li>
+<li><a href="http://www.opensource.apple.com/darwinsource/10.5.5/apache_mod_php-44.1/">darwinsorce</a> より php-5.2.6.tar.bz2 をダウンロードして解凍</li>
+<li>$ cd php-5.2.6/ext/gd</li>
+<li>$ phpize</li>
+<li>$ MACOSX_DEPLOYMENT_TARGET=10.5 CFLAGS=&#8221;-arch ppc -arch ppc64 -arch i386 -arch x86_64 -g -Os -pipe -no-cpp-precomp&#8221; CCFLAGS=&#8221;-arch ppc -arch ppc64 -arch i386 -arch x86_64 -g -Os -pipe&#8221; CXXFLAGS=&#8221;-arch ppc -arch ppc64 -arch i386 -arch x86_64 -g -Os -pipe&#8221; LDFLAGS=&#8221;-arch ppc -arch ppc64 -arch i386 -arch x86_64 -bind_at_load&#8221; ./configure &#8211;with-zlib-dir=/usr &#8211;with-jpeg-dir=/usr/local/lib &#8211;with-png-dir=/usr/X11R6 &#8211;with-freetype-dir=/usr/X11R6 &#8211;with-xpm-dir=/usr/X11R6
+<li>$ make</li>
+<li>$ make test</li>
+<li>$ sudo make install</li>
+<li>/etc/php.ini を編集して次の２行を追加<br />
+<blockquote><p>
+extension_dir = &#8220;/usr/lib/php/extensions/no-debug-non-zts-20060613&#8221;<br />
+extension=gd.so
+</p></blockquote>
+</li>
+<li>apache2 を再起動</li>
+</ol>
+<p>*1) MacPorts の libjpeg だとうまくいかない<br />
+*2) libpng は X11R6 のものを使用するのでインストールは不要<br />
+*3) /etc/php.ini を編集して gd を組込済みの場合は make test に失敗する</p>
+<p>なお、画像ファイルをアップロードするときにリサイズされるので既にアップロード済みの画像ファイルのサムネイルまたは小・中・大画像は作成できません。最初これに気がつかずに GD を入れたのになんでサムネイルが選択できないんだろうと悩んでしまいました。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/01/01/wordpress-27-%e3%81%ae%e7%94%bb%e5%83%8f%e3%82%b5%e3%83%a0%e3%83%8d%e3%82%a4%e3%83%ab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac mini で DVD の強制排出</title>
+		<link>/gnue/2008/01/02/mac-mini-%e3%81%a7-dvd-%e3%81%ae%e5%bc%b7%e5%88%b6%e6%8e%92%e5%87%ba/</link>
+					<comments>/gnue/2008/01/02/mac-mini-%e3%81%a7-dvd-%e3%81%ae%e5%bc%b7%e5%88%b6%e6%8e%92%e5%87%ba/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2008 13:16:31 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac mini]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/mac-mini-%e3%81%a7-dvd-%e3%81%ae%e5%bc%b7%e5%88%b6%e6%8e%92%e5%87%ba/</guid>
+
+					<description><![CDATA[マウス・キーを押しながら Mac mini を起動、DVD を強制排出。 キーボードに USB を繋いでいるとうまくいかないことがあるようなので、だめな場合は本体にマウスの USB を直挿しする。]]></description>
+										<content:encoded><![CDATA[<p>				マウス・キーを押しながら Mac mini を起動、DVD を強制排出。</p>
+<p>キーボードに USB を繋いでいるとうまくいかないことがあるようなので、だめな場合は本体にマウスの USB を直挿しする。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/02/mac-mini-%e3%81%a7-dvd-%e3%81%ae%e5%bc%b7%e5%88%b6%e6%8e%92%e5%87%ba/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LLVM</title>
+		<link>/gnue/2007/07/15/llvm/</link>
+					<comments>/gnue/2007/07/15/llvm/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 15 Jul 2007 10:15:05 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LLVM]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/07/15/llvm/</guid>
+
+					<description><![CDATA[Paul に教えてもらった LLVM をインターネットで調べてみたので、とりあえず簡単な覚書き。 Java, Ruby(YARV), Perl6(Parrot) それに NewtonScript の VM ってかなりそれ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Paul に教えてもらった LLVM をインターネットで調べてみたので、とりあえず簡単な覚書き。</p>
+<p>Java, Ruby(YARV), Perl6(Parrot) それに NewtonScript の VM ってかなりそれぞれの言語やオブジェクトシステムにべったりなんだけれど、LLVM はそれらと全然違いもっとローレベル（機械に近い）の VM らしい。平たく言うと仮想の RISCチップの VM。高級言語の VM のように GC やオブジェクトシステムのようなものは持たない。</p>
+<p>なお、Leopard(Mac OS X 10.5) では OpenGLスタックに LLVM の技術が使われているそうだ。</p>
+<p>うーん、どういうふうに LLVM が使えるものか&#8230;</p>
+<p>⇒ <a href="http://llvm.org/">The LLVM Compiler Infrastructure</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/07/15/llvm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き：Xcode と Subversion</title>
+		<link>/gnue/2006/06/20/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9axcode-%e3%81%a8-subversion/</link>
+					<comments>/gnue/2006/06/20/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9axcode-%e3%81%a8-subversion/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 19 Jun 2006 18:45:22 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Subversion]]></category>
+		<category><![CDATA[Xcode]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/20/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9axcode-%e3%81%a8-subversion/</guid>
+
+					<description><![CDATA[Xcode のプロジェクトはユーザ毎の情報を &#60;username&#62;.mode1, &#60;username&#62;.pbxuser という名前で持っている。Subversion で公開して複数ユーザでプロジェ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Xcode のプロジェクトはユーザ毎の情報を &lt;username&gt;.mode1, &lt;username&gt;.pbxuser という名前で持っている。Subversion で公開して複数ユーザでプロジェクト管理する場合にはこれらのファイルが邪魔である。</p>
+<p>svn pe svn:ignore で無視するように設定してもいいがいちいち設定するのはめんどうなので ~/.subversion/config　ファイルを修正して global-ignores に *.mode1 *.pbxuser を追加する。build フォルダもじゃまなので build も追加しておくといいだろう。</p>
+<p>ただ、そうするとビルドディレクトリを変更したいときに困る。その場合は &lt;username&gt;.pbxuser を default.pbxuser にリネームして svn add するとよい。</p>
+<p>※実はビルドディレクトリを変更して送ったつもりで相手先で変更されていなくてこの問題に気がついた(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/06/20/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9axcode-%e3%81%a8-subversion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

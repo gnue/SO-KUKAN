@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	携帯用スクリプト言語 へのコメント	</title>
+	<atom:link href="/gnue/2005/02/03/%E6%90%BA%E5%B8%AF%E7%94%A8%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E8%A8%80%E8%AA%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/02/03/%e6%90%ba%e5%b8%af%e7%94%a8%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88%e8%a8%80%e8%aa%9e/</link>
+	<description></description>
+	<lastBuildDate>Wed, 02 Feb 2005 16:23:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

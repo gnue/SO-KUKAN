@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>映画 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E6%98%A0%E7%94%BB/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 13 Jun 2004 09:37:22 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>映画 I, ROBOT</title>
+		<link>/gnue/2004/06/13/%e6%98%a0%e7%94%bb-i-robot/</link>
+					<comments>/gnue/2004/06/13/%e6%98%a0%e7%94%bb-i-robot/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2004 09:37:22 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[SF]]></category>
+		<category><![CDATA[映画]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/06/13/%e6%98%a0%e7%94%bb-i-robot/</guid>
+
+					<description><![CDATA[アジモフのロボットシリーズにインスパイアされたアクション・スリラーだそうだ。アジモフのロボットシリーズ（短編集“I, Robot” *1）ではおなじみのスーザン・カルヴィン博士も登場する。 最初 Apple の Quic [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				アジモフのロボットシリーズにインスパイアされたアクション・スリラーだそうだ。アジモフのロボットシリーズ（短編集“I, Robot” *1）ではおなじみのスーザン・カルヴィン博士も登場する。</p>
+<p>最初 Apple の QuickTime Movie Trailers で予告編を見た時は主人公が刑事ということで「え、イライジャ・ベイリ？　でも、イライジャはこんなにかっこよくないよなぁ」と思ったけど別にイライジャ・ベイリというわけではないらしい。</p>
+<p>個人的にロボットシリーズではスーザン・カルヴィン博士の登場する短編シリーズのほうが好きなのでちょっと期待。映画を機にアジモフの“I, Robot”も読みなおしてみようかな。</p>
+<p>そういえば浦沢直樹が『鉄腕アトム：地上最大のロボット』を原案に「PLUTO」というマンガを連載中だけど、あれって手塚治虫というよりも非常にアジモフ的な作品ですね。</p>
+<p>⇒ <a href="http://www.foxjapan.com/movies/irobot/" target="_blank" rel="noopener">I, ROBOT</a></p>
+<p>*1) 日本では「われはロボット」ハヤカワSF文庫、「わたしはロボット」創元SF文庫		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/06/13/%e6%98%a0%e7%94%bb-i-robot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

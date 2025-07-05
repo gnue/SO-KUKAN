@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	携帯Sync for Mac 2 へのコメント	</title>
+	<atom:link href="/gnue/2004/12/03/%E6%90%BA%E5%B8%AFsync-for-mac-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/12/03/%e6%90%ba%e5%b8%afsync-for-mac-2/</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Dec 2004 14:20:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

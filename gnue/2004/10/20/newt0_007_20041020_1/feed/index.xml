@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	NEWT0_0.0.7_20041020_1 へのコメント	</title>
+	<atom:link href="/gnue/2004/10/20/newt0_007_20041020_1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/10/20/newt0_007_20041020_1/</link>
+	<description></description>
+	<lastBuildDate>Fri, 22 Oct 2004 13:21:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/10/20/newt0_007_20041020_1/#comment-149</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Fri, 22 Oct 2004 13:21:41 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/20/newt0_007_20041020_1/#comment-149</guid>
+
+					<description><![CDATA[protoREGEXの返す値についてですがrubyでも同じ結果でした。
+私のregexに対する認識が間違っているようです。
+re := /ba/;
+rm := re:match(&quot;bababebibabebuba&quot;);
+で全てのbaがリストアップされるものと思ってたものですから。]]></description>
+			<content:encoded><![CDATA[<p>protoREGEXの返す値についてですがrubyでも同じ結果でした。<br />
+私のregexに対する認識が間違っているようです。<br />
+re := /ba/;<br />
+rm := re:match(&#8220;bababebibabebuba&#8221;);<br />
+で全てのbaがリストアップされるものと思ってたものですから。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/10/20/newt0_007_20041020_1/#comment-148</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 22 Oct 2004 03:28:41 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/20/newt0_007_20041020_1/#comment-148</guid>
+
+					<description><![CDATA[protoREGEX の match で NIL を渡した場合の挙動ですが、確かにエラーにならないほうが便利そうですね。次の修正でそうします。]]></description>
+			<content:encoded><![CDATA[<p>protoREGEX の match で NIL を渡した場合の挙動ですが、確かにエラーにならないほうが便利そうですね。次の修正でそうします。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/10/20/newt0_007_20041020_1/#comment-147</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 22 Oct 2004 03:24:17 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/20/newt0_007_20041020_1/#comment-147</guid>
+
+					<description><![CDATA[gnu の regex は複数あっても一つしか返さないということですが、これはグループ化（括弧で囲まれ部分）していないからではないでしょうか。
+
+考え方としては perl や ruby の $1, $2, ... が matchs[1], matchs[2], ... （matchs は match メソッドの戻り値）に相当します。matchs[0] はマッチした全体の文字列で ruby では $&#038; になります。]]></description>
+			<content:encoded><![CDATA[<p>gnu の regex は複数あっても一つしか返さないということですが、これはグループ化（括弧で囲まれ部分）していないからではないでしょうか。</p>
+<p>考え方としては perl や ruby の $1, $2, &#8230; が matchs[1], matchs[2], &#8230; （matchs は match メソッドの戻り値）に相当します。matchs[0] はマッチした全体の文字列で ruby では $&amp; になります。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/10/20/newt0_007_20041020_1/#comment-146</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 22 Oct 2004 03:11:24 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/20/newt0_007_20041020_1/#comment-146</guid>
+
+					<description><![CDATA[そうですね、拡張ライブラリの Make もメイン１発でできるようにします。
+&quot;documents/04_library.txt&quot; のタイポミス、次の更新で修正します。]]></description>
+			<content:encoded><![CDATA[<p>そうですね、拡張ライブラリの Make もメイン１発でできるようにします。<br />
+&#8220;documents/04_library.txt&#8221; のタイポミス、次の更新で修正します。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/10/20/newt0_007_20041020_1/#comment-145</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2004 06:53:02 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/20/newt0_007_20041020_1/#comment-145</guid>
+
+					<description><![CDATA[protoREGEXのmatchでNULLを渡してもエラーにして欲しくない。]]></description>
+			<content:encoded><![CDATA[<p>protoREGEXのmatchでNULLを渡してもエラーにして欲しくない。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/10/20/newt0_007_20041020_1/#comment-144</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2004 06:49:34 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/20/newt0_007_20041020_1/#comment-144</guid>
+
+					<description><![CDATA[今後もライブラリーが増えるようであればメインのMakefileで一緒にmakeして欲しいです。
+私案。
+PROTO =  extLibs/protoFILE extLibs/protoREGEX
+
+all: $(build) $(NEWT) $(PROTO)
+
+$(PROTO)::
+	$(MAKE) -C $@
+
+documebts/04_library.txtで
+file:cleanup();となってます。
+
+gnuのregexは複数あっても一つしか返さないようです。]]></description>
+			<content:encoded><![CDATA[<p>今後もライブラリーが増えるようであればメインのMakefileで一緒にmakeして欲しいです。<br />
+私案。<br />
+PROTO =  extLibs/protoFILE extLibs/protoREGEX</p>
+<p>all: $(build) $(NEWT) $(PROTO)</p>
+<p>$(PROTO)::<br />
+	$(MAKE) -C $@</p>
+<p>documebts/04_library.txtで<br />
+file:cleanup();となってます。</p>
+<p>gnuのregexは複数あっても一つしか返さないようです。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

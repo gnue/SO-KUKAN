@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	NTE_1.1_prefs へのコメント	</title>
+	<atom:link href="/gnue/1997/11/26/nte_11_prefs/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/1997/11/26/nte_11_prefs/</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Nov 1997 15:00:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

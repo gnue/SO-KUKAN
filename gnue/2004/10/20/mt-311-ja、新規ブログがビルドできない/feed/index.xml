@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	MT 3.11-ja、新規ブログがビルドできない へのコメント	</title>
+	<atom:link href="/gnue/2004/10/20/mt-311-ja%E3%80%81%E6%96%B0%E8%A6%8F%E3%83%96%E3%83%AD%E3%82%B0%E3%81%8C%E3%83%93%E3%83%AB%E3%83%89%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/10/20/mt-311-ja%e3%80%81%e6%96%b0%e8%a6%8f%e3%83%96%e3%83%ad%e3%82%b0%e3%81%8c%e3%83%93%e3%83%ab%e3%83%89%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84/</link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Oct 2004 11:31:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		のまのしわざ より		</title>
+		<link>/gnue/2004/10/20/mt-311-ja%e3%80%81%e6%96%b0%e8%a6%8f%e3%83%96%e3%83%ad%e3%82%b0%e3%81%8c%e3%83%93%e3%83%ab%e3%83%89%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84/#comment-143</link>
+
+		<dc:creator><![CDATA[のまのしわざ]]></dc:creator>
+		<pubDate>Tue, 26 Oct 2004 11:31:40 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/20/mt-311-ja%e3%80%81%e6%96%b0%e8%a6%8f%e3%83%96%e3%83%ad%e3%82%b0%e3%81%8c%e3%83%93%e3%83%ab%e3%83%89%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84/#comment-143</guid>
+
+					<description><![CDATA[&lt;strong&gt;MT3.1のmod_perl化メモ&lt;/strong&gt;
+
+BLOG HACKS#56 p.244を参考にしながら設定。 Blog Hacks ―プロが教えるテクニック&#038;ツール100選宮川 達彦 ， 伊藤 直也発売日　2...]]></description>
+			<content:encoded><![CDATA[<p><strong>MT3.1のmod_perl化メモ</strong></p>
+<p>BLOG HACKS#56 p.244を参考にしながら設定。 Blog Hacks ―プロが教えるテクニック&amp;ツール100選宮川 達彦 ， 伊藤 直也発売日　2&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>私の本 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E7%A7%81%E3%81%AE%E6%9C%AC/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Sep 2006 03:00:22 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>QotD: 処女作</title>
+		<link>/gnue/2006/09/06/qotd-%e5%87%a6%e5%a5%b3%e4%bd%9c/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 Sep 2006 03:00:22 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[my book]]></category>
+		<category><![CDATA[qotd]]></category>
+		<category><![CDATA[今日の質問]]></category>
+		<category><![CDATA[私の本]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/09/06/qotd-%e5%87%a6%e5%a5%b3%e4%bd%9c</guid>
+
+					<description><![CDATA[本を書くとしたらどういう本を書きますか？ やはり小説（SF&#38;F）、または O&#039;Reilly の動物本。できれば英語訳を世界販売（笑） でも小説のぼんやりとしたプロットは昔から持っていてもなかなかまとまっ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote>
+<p>本を書くとしたらどういう本を書きますか？</p>
+</blockquote>
+<blockquote></blockquote>
+<p>やはり小説（SF&amp;F）、または O&#039;Reilly の動物本。できれば英語訳を世界販売（笑）</p>
+<p>でも小説のぼんやりとしたプロットは昔から持っていてもなかなかまとまった文章として書けないんですよね。ようは根性なしということか。子供の頃から〆切がないと宿題が終わらない性格なので、〆切が必要なのかも。。。</p>
+<p>それはそうと、昔と違い今の世の中必ずしも「本」として「出版」することに魅力は感じない。単に自分の作品を読んでもらいたいだけならインターネットでぽつぽつと発表すればいい。読む人もいれば、読まない人もいる。すべからく世は事もなげ事もなし。インターネットの大海で読者との邂逅を待つのもまた一興。</p>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

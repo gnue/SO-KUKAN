@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Event &#8211; App Creator Night</title>
+	<atom:link href="/appcreator/category/event/feed/" rel="self" type="application/rss+xml" />
+	<link>/appcreator</link>
+	<description>iPhone/iPad/Macのアプリ作家によるデモ・イベント</description>
+	<lastBuildDate>Sun, 01 May 2011 10:02:10 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>App Creator Night #1 チラシ</title>
+		<link>/appcreator/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/</link>
+					<comments>/appcreator/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 01 May 2011 10:02:10 +0000</pubDate>
+				<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/appcreator/?p=356</guid>
+
+					<description><![CDATA[PENQE 永野さんによる App Creator Night #1 チラシのデザインができました。 チラシ(PDF)]]></description>
+										<content:encoded><![CDATA[<p>				PENQE 永野さんによる App Creator Night #1 チラシのデザインができました。</p>
+<p><a href="http://www.penqe.com/AppCreatorNight1.pdf" target="_blank" rel="noopener">チラシ(PDF)</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/appcreator/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>開発者自身による自作アプリ・デモイベント</title>
+		<link>/appcreator/2011/04/08/%e9%96%8b%e7%99%ba%e8%80%85%e8%87%aa%e8%ba%ab%e3%81%ab%e3%82%88%e3%82%8b%e8%87%aa%e4%bd%9c%e3%82%a2%e3%83%97%e3%83%aa%e3%83%bb%e3%83%87%e3%83%a2%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 08 Apr 2011 00:27:08 +0000</pubDate>
+				<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/appcreator/?p=7</guid>
+
+					<description><![CDATA[いま、開発者自身による自作アプリ・デモイベントができないかと画策しています。 コンセプトとしては 開発者（またはデザイナ）自身が自作アプリをアピール ライトニングトーク形式による弾丸デモ メディアの人がアプリを紹介すると <a href='/appcreator/2011/04/08/%e9%96%8b%e7%99%ba%e8%80%85%e8%87%aa%e8%ba%ab%e3%81%ab%e3%82%88%e3%82%8b%e8%87%aa%e4%bd%9c%e3%82%a2%e3%83%97%e3%83%aa%e3%83%bb%e3%83%87%e3%83%a2%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/' class='excerpt-more'>[...]</a>]]></description>
+										<content:encoded><![CDATA[<p>				いま、開発者自身による自作アプリ・デモイベントができないかと画策しています。</p>
+<p>コンセプトとしては</p>
+<ul>
+<li>開発者（またはデザイナ）自身が自作アプリをアピール</li>
+<li>ライトニングトーク形式による弾丸デモ</li>
+</ul>
+<p>メディアの人がアプリを紹介するとかではなくて、「作者自身が」というのが特徴です。<br />
+詳細は追ってアップします。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

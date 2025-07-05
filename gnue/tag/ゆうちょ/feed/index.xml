@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ゆうちょ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%86%E3%81%86%E3%81%A1%E3%82%87/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 17 Nov 2008 11:07:51 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>新ゆうちょカード</title>
+		<link>/gnue/2008/11/17/%e6%96%b0%e3%82%86%e3%81%86%e3%81%a1%e3%82%87%e3%82%ab%e3%83%bc%e3%83%89/</link>
+					<comments>/gnue/2008/11/17/%e6%96%b0%e3%82%86%e3%81%86%e3%81%a1%e3%82%87%e3%82%ab%e3%83%bc%e3%83%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2008 11:07:51 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[セキュリティ]]></category>
+		<category><![CDATA[ゆうちょ]]></category>
+		<category><![CDATA[生体認証]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1522</guid>
+
+					<description><![CDATA[某クレジットカードのゆうちょ共用カードが終了するため新しいゆうちょカードが送られてきた。 新しいゆうちょカードは ICカードになっていて指静脈認証(*1)が使えるということなので、さっそく郵便局へ静脈パターンの登録に行っ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				某クレジットカードのゆうちょ共用カードが終了するため新しいゆうちょカードが送られてきた。</p>
+<p>新しいゆうちょカードは ICカードになっていて指静脈認証(*1)が使えるということなので、さっそく郵便局へ静脈パターンの登録に行ってきました。</p>
+<p>ゆうちょの場合、ちょっと変わっているのは ICカード（指静脈認証あり）、磁気ストライプ、通帳の３種類で ATM引出しの上限金額が個別に設定できること。ICカードでもICカードの使えない ATM からだと（たぶん）磁気ストライプ扱いで指静脈認証なしで引出しが出来る。</p>
+<p>以前、三井住友銀行のICカードで地方のコンビニで引出そうとしてできなかったので、非対応ATM からも引出しできるのは便利といえば便利だがセキュリティ的には痛し痒しといったところか。ゆうちょでは通帳だけでも ATM から引出しができるのでその兼ね合いもあるのかもしれない。</p>
+<p>ただ、上限金額は個別の設定できるのに引出し回数は個別に設定できないらしい。もし、生体認証のない磁気ストライプ、通帳の上限金額が小さくても何度かに分けて引出せるのではセキィリティ的にはちょっと疑問。</p>
+<p>*1) 指静脈認証は三井住友銀行でも使っている。一度、手のひら静脈のほうも使ってみたいのだがなかなかその機会がないですね		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/11/17/%e6%96%b0%e3%82%86%e3%81%86%e3%81%a1%e3%82%87%e3%82%ab%e3%83%bc%e3%83%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>JIT &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/jit/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 15 Jul 2007 11:10:33 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>GNU lightning</title>
+		<link>/gnue/2007/07/15/gnu-lightning/</link>
+					<comments>/gnue/2007/07/15/gnu-lightning/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 15 Jul 2007 11:10:33 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[JIT]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/07/15/gnu-lightning/</guid>
+
+					<description><![CDATA[もうちょっとベタに JIT をつくるためのソフトウェア。 ⇒ GNU lightning]]></description>
+										<content:encoded><![CDATA[<p>				もうちょっとベタに JIT をつくるためのソフトウェア。</p>
+<p>⇒ <a href="http://www.gnu.org/software/lightning/" target="_blank" rel="noopener">GNU lightning</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/07/15/gnu-lightning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

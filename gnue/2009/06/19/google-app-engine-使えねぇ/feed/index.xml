@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Google App Engine 使えねぇ&#8230; へのコメント	</title>
+	<atom:link href="/gnue/2009/06/19/google-app-engine-%E4%BD%BF%E3%81%88%E3%81%AD%E3%81%87/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/06/19/google-app-engine-%e4%bd%bf%e3%81%88%e3%81%ad%e3%81%87/</link>
+	<description></description>
+	<lastBuildDate>Fri, 19 Jun 2009 12:28:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

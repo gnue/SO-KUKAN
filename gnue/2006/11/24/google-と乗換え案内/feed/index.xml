@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Google と乗換え案内 へのコメント	</title>
+	<atom:link href="/gnue/2006/11/24/google-%E3%81%A8%E4%B9%97%E6%8F%9B%E3%81%88%E6%A1%88%E5%86%85/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/11/24/google-%e3%81%a8%e4%b9%97%e6%8f%9b%e3%81%88%e6%a1%88%e5%86%85/</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Nov 2006 05:37:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

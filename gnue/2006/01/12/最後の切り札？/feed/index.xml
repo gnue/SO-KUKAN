@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	最後の切り札？ へのコメント	</title>
+	<atom:link href="/gnue/2006/01/12/%E6%9C%80%E5%BE%8C%E3%81%AE%E5%88%87%E3%82%8A%E6%9C%AD%EF%BC%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/01/12/%e6%9c%80%e5%be%8c%e3%81%ae%e5%88%87%e3%82%8a%e6%9c%ad%ef%bc%9f/</link>
+	<description></description>
+	<lastBuildDate>Fri, 13 Jan 2006 00:52:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2006/01/12/%e6%9c%80%e5%be%8c%e3%81%ae%e5%88%87%e3%82%8a%e6%9c%ad%ef%bc%9f/#comment-644</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Fri, 13 Jan 2006 00:52:23 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/01/12/%e6%9c%80%e5%be%8c%e3%81%ae%e5%88%87%e3%82%8a%e6%9c%ad%ef%bc%9f/#comment-644</guid>
+
+					<description><![CDATA[なるほど。これはすごい。６８KエミュじゃなくてPPCエミュなんですね。今のところMacOSX版は設定が大変そうですね。とはいえ、これならIntel版への対応は早そう。まだまだ行けそうかも。]]></description>
+			<content:encoded><![CDATA[<p>なるほど。これはすごい。６８KエミュじゃなくてPPCエミュなんですね。今のところMacOSX版は設定が大変そうですね。とはいえ、これならIntel版への対応は早そう。まだまだ行けそうかも。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2006/01/12/%e6%9c%80%e5%be%8c%e3%81%ae%e5%88%87%e3%82%8a%e6%9c%ad%ef%bc%9f/#comment-643</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2006 15:05:11 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/01/12/%e6%9c%80%e5%be%8c%e3%81%ae%e5%88%87%e3%82%8a%e6%9c%ad%ef%bc%9f/#comment-643</guid>
+
+					<description><![CDATA[Mac-on-Mac はどうかわからないけど、SheepShaver が既に PPC 対応なんですよ。]]></description>
+			<content:encoded><![CDATA[<p>Mac-on-Mac はどうかわからないけど、SheepShaver が既に PPC 対応なんですよ。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2006/01/12/%e6%9c%80%e5%be%8c%e3%81%ae%e5%88%87%e3%82%8a%e6%9c%ad%ef%bc%9f/#comment-642</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2006 14:04:07 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/01/12/%e6%9c%80%e5%be%8c%e3%81%ae%e5%88%87%e3%82%8a%e6%9c%ad%ef%bc%9f/#comment-642</guid>
+
+					<description><![CDATA[あとMac-on-Macはどうでしょうね。実はMacOSXに融合した形で動作しているClassicより、動作環境的にはこちらの方が好みなんです。メモリの割当とか、具体的に把握しやすくて。まあ、要はは旧OSのTipsが生かしやすいという事ですが。
+「Intel移ってる」Macだと、PPCのエミュレーションが入る事になるから、無理でしょうかね。かなり大規模な回収になるのかもしれないですね。
+IntelMac上でPPCMacか……（w。]]></description>
+			<content:encoded><![CDATA[<p>あとMac-on-Macはどうでしょうね。実はMacOSXに融合した形で動作しているClassicより、動作環境的にはこちらの方が好みなんです。メモリの割当とか、具体的に把握しやすくて。まあ、要はは旧OSのTipsが生かしやすいという事ですが。<br />
+「Intel移ってる」Macだと、PPCのエミュレーションが入る事になるから、無理でしょうかね。かなり大規模な回収になるのかもしれないですね。<br />
+IntelMac上でPPCMacか……（w。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

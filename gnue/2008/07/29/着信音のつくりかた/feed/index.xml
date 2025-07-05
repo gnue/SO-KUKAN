@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	着信音のつくりかた へのコメント	</title>
+	<atom:link href="/gnue/2008/07/29/%E7%9D%80%E4%BF%A1%E9%9F%B3%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%8B%E3%81%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2008/07/29/%e7%9d%80%e4%bf%a1%e9%9f%b3%e3%81%ae%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%8b%e3%81%9f/</link>
+	<description></description>
+	<lastBuildDate>Thu, 31 Jul 2008 13:46:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2008/07/29/%e7%9d%80%e4%bf%a1%e9%9f%b3%e3%81%ae%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%8b%e3%81%9f/#comment-852</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2008 13:46:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1307#comment-852</guid>
+
+					<description><![CDATA[なるほどそういう罠もあるんですね。
+いまのところAACソースで問題は発生していませんが気をつけておきます。]]></description>
+			<content:encoded><![CDATA[<p>なるほどそういう罠もあるんですね。<br />
+いまのところAACソースで問題は発生していませんが気をつけておきます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		【めのう】 より		</title>
+		<link>/gnue/2008/07/29/%e7%9d%80%e4%bf%a1%e9%9f%b3%e3%81%ae%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%8b%e3%81%9f/#comment-851</link>
+
+		<dc:creator><![CDATA[【めのう】]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2008 09:33:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1307#comment-851</guid>
+
+					<description><![CDATA[気をつけないといけないのは、元になる楽曲ファイルがAACでは失敗するケースがあると言うことッスね。
+
+iTunesPLUSや無料の曲でも、iTunesStoreから購入して、情報で購入曲になってるような場合は、一度MP3に変換してからでないとダメだったりするですよ(^_^)]]></description>
+			<content:encoded><![CDATA[<p>気をつけないといけないのは、元になる楽曲ファイルがAACでは失敗するケースがあると言うことッスね。</p>
+<p>iTunesPLUSや無料の曲でも、iTunesStoreから購入して、情報で購入曲になってるような場合は、一度MP3に変換してからでないとダメだったりするですよ(^_^)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

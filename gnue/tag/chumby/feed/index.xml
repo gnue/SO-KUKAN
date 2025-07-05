@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chumby &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/chumby/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 14 Jun 2008 10:47:44 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>chumby 日本上陸</title>
+		<link>/gnue/2008/06/14/chumby/</link>
+					<comments>/gnue/2008/06/14/chumby/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 14 Jun 2008 10:47:44 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Chumby]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1263</guid>
+
+					<description><![CDATA[ぬいるぐみのようにふにゃふにゃでネットと交感するなぞの電脳生物（？）chumby が日本に上陸するらしい。 機能はリンク先を見てもらうとして、類似のものには SONY のデジタルフォトフレーム「CP1」、Microsof [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ぬいるぐみのようにふにゃふにゃでネットと交感するなぞの電脳生物（？）chumby が日本に上陸するらしい。</p>
+<p>機能はリンク先を見てもらうとして、類似のものには SONY のデジタルフォトフレーム「<a href="http://www.vaio.sony.co.jp/Products/CP1/">CP1</a>」、Microsoft の数ある失敗作のひとつ SPOT などがある。</p>
+<p>さて chumby の実体は Flash Lite 3.0 が動作する Linux 端末（350MHz ARMプロセッサ）である。個々のパーツを見れば特別新しいものではない。ただ chumby を特徴付けているものとして、オープンハードウェア、オープンソフトウェア（ただし Flash は除く）というところだろう。ソフトもハードも自由にハックが可能だ。</p>
+<p>⇒ <a href="http://www.zyyx.jp/product/chumby.html">「chumby」遂に日本上陸</a> （株式会社ジークス）<br />
+⇒ <a href="http://www.itmedia.co.jp/news/articles/0806/13/news096.html">目覚まし、ゲーム機、YouTubeテレビ――多機能ネットガジェット「Chumby」日本上陸</a> （ITmedia）<br />
+⇒ <a href="http://www.itmedia.co.jp/enterprise/articles/0802/04/news009.html">chumby――米国生まれの情報端末に家電の未来を見る</a> （ITmedia）<br />
+⇒ <a href="http://www.yamdas.org/column/technique/chumbyj.html">Chumbyの誕生</a><br />
+⇒ <a href="http://chumbyjapan.com/">Chumby Japan チャンビー・ジャパン</a>(*1)</p>
+<p>*1) Chumby Japan は個人輸入代行をしていますが、ファンサイトであり正式な代理店ではありません</p>
+<p>⇒ <a href="http://chumbyjapan.com/blog/2008/03/post_8.html">オリジナルウィジェット作成　その１</a> （Chumby Japan）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/06/14/chumby/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	カーネル読書会：glibc malloc について へのコメント	</title>
+	<atom:link href="/gnue/2006/10/01/%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E8%AA%AD%E6%9B%B8%E4%BC%9A%EF%BC%9Aglibc-malloc-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/10/01/%e3%82%ab%e3%83%bc%e3%83%8d%e3%83%ab%e8%aa%ad%e6%9b%b8%e4%bc%9a%ef%bc%9aglibc-malloc-%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/</link>
+	<description></description>
+	<lastBuildDate>Sun, 01 Oct 2006 08:34:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

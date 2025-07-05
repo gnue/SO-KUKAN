@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Spam &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/spam/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 27 Jun 2009 15:45:53 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>iPhone に迷惑メールが&#8230;</title>
+		<link>/gnue/2009/06/28/iphone-%e3%81%ab%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%8c/</link>
+					<comments>/gnue/2009/06/28/iphone-%e3%81%ab%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%8c/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 27 Jun 2009 15:45:53 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2671</guid>
+
+					<description><![CDATA[今日、iPhone の MMS に迷惑メールが届きました。 iPhone OS 3.0 になって MMS に対応したのはいいけど、softbank.ne.jp が使えるようになったので同時にケータイ向け迷惑メールのターゲ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				今日、iPhone の MMS に迷惑メールが届きました。</p>
+<p>iPhone OS 3.0 になって MMS に対応したのはいいけど、softbank.ne.jp が使えるようになったので同時にケータイ向け迷惑メールのターゲットにもなってしまったという罠 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>追記 7/7：yahoo.co.jp からの迷惑メールが多いので迷惑メールブロックの設定で yahoo.co.jp ドメインからの送信はまるごと拒否に設定した。知合いに Yahoo! のフリーメールを使ってる人はいないし問題なし		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/28/iphone-%e3%81%ab%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%8c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gmail フィルターの「迷惑メールにしない」オプション</title>
+		<link>/gnue/2009/06/14/gmail-%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc%e3%81%ae%e3%80%8c%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%97%e3%81%aa%e3%81%84%e3%80%8d%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7/</link>
+					<comments>/gnue/2009/06/14/gmail-%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc%e3%81%ae%e3%80%8c%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%97%e3%81%aa%e3%81%84%e3%80%8d%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2009 10:40:10 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2569</guid>
+
+					<description><![CDATA[Twitter で教えてもらったのですが、Gmail のフィルターに「迷惑メールにしない」ってチェックボックスがあったんですね。 うーん、こんなのあったかなぁと思ってぐぐってみたらどうも去年の８月ぐらいに追加された機能だ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Twitter で教えてもらったのですが、Gmail のフィルターに「迷惑メールにしない」ってチェックボックスがあったんですね。</p>
+<p>うーん、こんなのあったかなぁと思ってぐぐってみたらどうも去年の８月ぐらいに追加された機能だったらしい。１年近く気がつかなかったよぉ&#8230;&#8230;orz</p>
+<p>WordPress MU にして以来、どうも WordPressからのコメント通知メールがスパムメールに誤判定されていて困っていたのだけれど、これで少しは強力（凶悪の間違い？）と噂の Gmail スパムフィルターの誤検知に対策できそう。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/14/gmail-%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc%e3%81%ae%e3%80%8c%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%97%e3%81%aa%e3%81%84%e3%80%8d%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gmail とスパムフィルタ</title>
+		<link>/gnue/2008/03/16/gmail-%e3%81%a8%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf/</link>
+					<comments>/gnue/2008/03/16/gmail-%e3%81%a8%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 16 Mar 2008 06:21:58 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/03/gmail-%e3%81%a8%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf/</guid>
+
+					<description><![CDATA[どうもここ数日 Gmail(*1) のスパムフィルタで何通かメールが止められていたみみたい。メーリングリストに欠番があったので「もしかして」と気がついたからよかったものの、なんてこった。 スパム扱いされたメールは今までは [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				どうもここ数日 Gmail(*1) のスパムフィルタで何通かメールが止められていたみみたい。メーリングリストに欠番があったので「もしかして」と気がついたからよかったものの、なんてこった。</p>
+<p>スパム扱いされたメールは今までは問題のなかったような内容なのに何故急に。Google がスパムフィルタのアルゴリズムかパラメータを変更したんだろうか。</p>
+<p>スパムが数通間違ってすり抜けるよりも、大事なメールがスパム扱いされて届かないほうが被害重大である。もっと保守的なほうにパラメータをふってもらいたいものである。できればユーザが自分でスパムフィルタのレベルを設定できるのがいい。いまは Google まかせなのであまりにも融通が効かなすぎ。</p>
+<p>*1) 正確には Google Apps のメール機能だけど、実質的には Gmail のエンジン（本家Gmailよりはバージョンが古い？）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/03/16/gmail-%e3%81%a8%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>trac 0.10dev と Spam Filter</title>
+		<link>/gnue/2006/08/10/trac-010dev-%e3%81%a8-spam-filter/</link>
+					<comments>/gnue/2006/08/10/trac-010dev-%e3%81%a8-spam-filter/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2006 19:53:25 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Spam]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/10/trac-010dev-%e3%81%a8-spam-filter/</guid>
+
+					<description><![CDATA[最近 trac へのスパムが多くてうんざり。 0.10 で Spam Filter のためのフックが用意されて Spam Filter のプラグインが使えるようになるのだけど、いつまでたっても 0.10 の正式版が出てき [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				最近 trac へのスパムが多くてうんざり。</p>
+<p>0.10 で Spam Filter のためのフックが用意されて Spam Filter のプラグインが使えるようになるのだけど、いつまでたっても 0.10 の正式版が出てきそうにないので開発バージョンをインストールすることにした。開発バージョンは svn でチェックアウトする。</p>
+<p>$ svn co http://svn.edgewall.com/repos/trac/trunk trac-0.10dev<br />
+$ svn co http://svn.edgewall.com/repos/trac/sandbox/spam-filter</p>
+<p>スパムフィルタは Akismet というサービスを使うらしいのだが、こいつが WordPress API key を必要としている。しょうがないのでこの API key を取得するために WordPress.com に登録する。</p>
+<p>さてと、これで SPAM がちゃんとブロックされるといいな。</p>
+<p>追記 8/15：また SPAM がチケットに登録されてしまった。。。。。うーん、設定が悪いのか???		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/10/trac-010dev-%e3%81%a8-spam-filter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>スパムメール対策</title>
+		<link>/gnue/2006/08/01/%e3%82%b9%e3%83%91%e3%83%a0%e3%83%a1%e3%83%bc%e3%83%ab%e5%af%be%e7%ad%96/</link>
+					<comments>/gnue/2006/08/01/%e3%82%b9%e3%83%91%e3%83%a0%e3%83%a1%e3%83%bc%e3%83%ab%e5%af%be%e7%ad%96/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2006 07:53:03 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/01/%e3%82%b9%e3%83%91%e3%83%a0%e3%83%a1%e3%83%bc%e3%83%ab%e5%af%be%e7%ad%96/</guid>
+
+					<description><![CDATA[プロバイダのフィルターのおかげで数は少ないとはいえそれでも毎日何通かはかならずスパムメールが届く。 いい加減うざくてしょうがないので、スパムメール送信元トップ３ yahoo.co.jp, infoseek.jp, liv [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				プロバイダのフィルターのおかげで数は少ないとはいえそれでも毎日何通かはかならずスパムメールが届く。</p>
+<p>いい加減うざくてしょうがないので、スパムメール送信元トップ３ yahoo.co.jp, infoseek.jp, livedoor.com をプロバイダレベルでデフォルト拒否することにした。ということで、上記３つのメールアドレスを使用している人はご注意を。</p>
+<p>これでスパムメールに煩わせることが少なくなるといいのだけど。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/01/%e3%82%b9%e3%83%91%e3%83%a0%e3%83%a1%e3%83%bc%e3%83%ab%e5%af%be%e7%ad%96/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop-tb_20050620</title>
+		<link>/gnue/2005/06/29/mt-spamstop-tb/</link>
+					<comments>/gnue/2005/06/29/mt-spamstop-tb/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2005 12:51:18 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/06/29/mt-spamstop-tb_20050620/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop-tb_20050620 を公開しました。 ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。 まだ数は [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop-tb_20050620 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p><span id="more-686"></span></p>
+<p>まだ数は多くありませんがトラックバックのブログ名に URL を入れてくる新種が来るようになってきたので対応しました。</p>
+<p>概　　要： &lt;A&gt;タグを含むトラックバックスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更： ブログ名が&lt;A&gt;タグを含む場合にも対応</p>
+<p>⇒ mt-spamstop-tb_20050620.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop-tb_20050620.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/06/29/mt-spamstop-tb/feed/</wfw:commentRss>
+			<slash:comments>40</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop_20050320</title>
+		<link>/gnue/2005/03/20/mtspamstop_2005_1/</link>
+					<comments>/gnue/2005/03/20/mtspamstop_2005_1/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2005 11:36:18 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/03/20/mt-spamstop_20050320/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop_20050320 を公開しました。 ベリー・ベリー・シンプルなコメントスパム対策用のプラグインです。mod_perl 環境でも使用可。 数は多くないのですが [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop_20050320 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなコメントスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p><span id="more-604"></span></p>
+<p>数は多くないのですがそろっと対応できないコメントスパムがちらほら来るようなのでトラックバックスパム対策と同様のブラックリスト機能を追加しました。デフォルトでうちに来たスパムの URL を登録してあります。</p>
+<p>概　　要： &lt;A&gt;タグを含むコメントスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更：<br />
+　ブラックリストをファイル最後尾に登録できるようにしました</p>
+<p>⇒ mt-spamstop_20050320.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop_20050320.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/03/20/mtspamstop_2005_1/feed/</wfw:commentRss>
+			<slash:comments>31</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop-tb_20050224</title>
+		<link>/gnue/2005/02/24/mtspamstoptb_20_2/</link>
+					<comments>/gnue/2005/02/24/mtspamstoptb_20_2/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 23 Feb 2005 18:04:24 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/02/24/mt-spamstop-tb_20050224/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop-tb_20050224 を公開しました。 ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。 いままで [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop-tb_20050224 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p>いままでのものでは対応しきれなくなってきたので簡単なブラックリスト機能をつけました。デフォルトでうちによく来るスパムの URL を１つ登録済み。</p>
+<p>概　　要： &lt;A&gt;タグを含むトラックバックスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更：<br />
+　ブラックリストをファイル最後尾に登録できるようにしました</p>
+<p>⇒ mt-spamstop-tb_20050224.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop-tb_20050224.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/02/24/mtspamstoptb_20_2/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop_20050213</title>
+		<link>/gnue/2005/02/15/mtspamstop_2005/</link>
+					<comments>/gnue/2005/02/15/mtspamstop_2005/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2005 10:34:46 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/02/15/mt-spamstop_20050213/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop_20050213 を公開しました。 ベリー・ベリー・シンプルなコメントスパム対策用のプラグインです。mod_perl 環境でも使用可。 今回の修正ではスパム [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop_20050213 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなコメントスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p>今回の修正ではスパムをブロックした記録をログに残すようにしました。</p>
+<p>概　　要： &lt;A&gt;タグを含むコメントスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更：<br />
+　スパムをブロックした記録をログに残すようにしました</p>
+<p>⇒ mt-spamstop_20050213.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop_20050213.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/02/15/mtspamstop_2005/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>スパムほいほい</title>
+		<link>/gnue/2005/02/15/%e3%82%b9%e3%83%91%e3%83%a0%e3%81%bb%e3%81%84%e3%81%bb%e3%81%84/</link>
+					<comments>/gnue/2005/02/15/%e3%82%b9%e3%83%91%e3%83%a0%e3%81%bb%e3%81%84%e3%81%bb%e3%81%84/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2005 00:38:10 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/02/15/%e3%82%b9%e3%83%91%e3%83%a0%e3%81%bb%e3%81%84%e3%81%bb%e3%81%84/</guid>
+
+					<description><![CDATA[ブロックしたスパムをログに記録する(*1)ようにしたら「おお、獲れてる、獲れてる」（笑） ログを見るとプラグインがちゃんと働いているのが実感できてちょっと嬉しい 🙂 *1) 公開してないけどうちではコメントのほうもログを [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ブロックしたスパムをログに記録する(*1)ようにしたら「おお、獲れてる、獲れてる」（笑）</p>
+<p>ログを見るとプラグインがちゃんと働いているのが実感できてちょっと嬉しい <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>*1) <strike>公開してないけどうちではコメントのほうもログを記録するようにした</strike>　mt-spamstop_20050213 を公開しました		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/02/15/%e3%82%b9%e3%83%91%e3%83%a0%e3%81%bb%e3%81%84%e3%81%bb%e3%81%84/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

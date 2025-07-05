@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	覚書き：grub が表示の途中でフリーズする へのコメント	</title>
+	<atom:link href="/gnue/2004/07/29/%E8%A6%9A%E6%9B%B8%E3%81%8D%EF%BC%9Agrub-%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%AE%E9%80%94%E4%B8%AD%E3%81%A7%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%99%E3%82%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/07/29/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9agrub-%e3%81%8c%e8%a1%a8%e7%a4%ba%e3%81%ae%e9%80%94%e4%b8%ad%e3%81%a7%e3%83%95%e3%83%aa%e3%83%bc%e3%82%ba%e3%81%99%e3%82%8b/</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Jul 2004 17:35:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

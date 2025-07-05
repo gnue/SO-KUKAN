@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	○○本 へのコメント	</title>
+	<atom:link href="/gnue/2003/12/28/%E2%97%8B%E2%97%8B%E6%9C%AC/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2003/12/28/%e2%97%8b%e2%97%8b%e6%9c%ac/</link>
+	<description></description>
+	<lastBuildDate>Sat, 27 Dec 2003 21:42:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

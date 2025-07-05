@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>x-lab &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/x-lab/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 17 Nov 2007 15:57:50 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>x-lab終了のお知らせ</title>
+		<link>/gnue/2007/11/18/x-lab%e7%b5%82%e4%ba%86%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/</link>
+					<comments>/gnue/2007/11/18/x-lab%e7%b5%82%e4%ba%86%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 17 Nov 2007 15:57:50 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[x-lab]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/x-lab%e7%b5%82%e4%ba%86%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/</guid>
+
+					<description><![CDATA[最近ずっと開店休業中の状態だった x-lab ですが、ドメインの失効を機会に終了することにしました。ML のメンバーにはメールで連絡をしましたが、ここでもお知らせを載せておきます。 ⇒ x-lab終了のお知らせ]]></description>
+										<content:encoded><![CDATA[<p>				最近ずっと開店休業中の状態だった x-lab ですが、ドメインの失効を機会に終了することにしました。ML のメンバーにはメールで連絡をしましたが、ここでもお知らせを載せておきます。</p>
+<p><a href="https://so-kukan.com/announce/x-lab_closed.html"><img decoding="async" src="/gnue/img/x-lab_closed.gif" alt="x-lab closed" /></a></p>
+<p>⇒ <a href="https://so-kukan.com/announce/x-lab_closed.html">x-lab終了のお知らせ</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/18/x-lab%e7%b5%82%e4%ba%86%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

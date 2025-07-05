@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gphone &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/gphone/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Nov 2007 19:21:21 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>open handset alliance/Android</title>
+		<link>/gnue/2007/11/06/open-handset-allianceandroid/</link>
+					<comments>/gnue/2007/11/06/open-handset-allianceandroid/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 19:21:21 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Gphone]]></category>
+		<category><![CDATA[open handset alliance]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/open-handset-allianceandroid/</guid>
+
+					<description><![CDATA[噂の Gphone(Google Phone) が現実のものになるらしい。open handset alliance というベタな名前の Gphone連合と Android というプラットフォームが発表になった。 この手 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				噂の Gphone(Google Phone) が現実のものになるらしい。open handset alliance というベタな名前の Gphone連合と Android というプラットフォームが発表になった。</p>
+<p>この手の alliance は死屍累々と前例が転がっているのだけれど、Google はどういったお手並みを見せてくれるのか楽しみだ。</p>
+<p>いまのところ Android の具体像が見えないのだけれど、SDK が November 12, 2007 に公開されるそうなのでそれを待つことにしたい。</p>
+<p>⇒ <a href="http://www.openhandsetalliance.com/index.html">open handset alliance</a><br />
+⇒ <a href="http://www.openhandsetalliance.com/android_overview.html">Android</a> （open handset alliance）<br />
+⇒ <a href="http://www.openhandsetalliance.com/developers.html">Android SDK</a> （open handset alliance）</p>
+<p>⇒ <a href="http://japanese.engadget.com/2007/11/05/google-34-android/">Googleほか34社、オープン携帯プラットフォーム「Android」を発表</a> （engadget）<br />
+⇒ <a href="http://japanese.engadget.com/2007/11/05/google-android-oha/">Googleプレスカンファレンス速報：Android・OHA質疑応答</a> （engadget）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/06/open-handset-allianceandroid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Suica &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/suica/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Aug 2008 14:58:39 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>SuicaExample, EdyExample の実行ファイルを公開</title>
+		<link>/gnue/2008/08/23/suicaexample-edyexample-%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2008/08/23/suicaexample-edyexample-%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 23 Aug 2008 14:58:39 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Edy]]></category>
+		<category><![CDATA[PaSoRi]]></category>
+		<category><![CDATA[Suica]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1389</guid>
+
+					<description><![CDATA[PasoriKit用サンプルコード SuicaExample, EdyExample の実行ファイルを公開しました。それぞれ Suica/PASORI と Edyカードの利用履歴を見ることができます。 本当はもっと実用的 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				PasoriKit用サンプルコード SuicaExample, EdyExample の実行ファイルを公開しました。それぞれ Suica/PASORI と Edyカードの利用履歴を見ることができます。</p>
+<p>本当はもっと実用的なものができたらと思っていたのですがそれだといつになるかわからないので、とりあえずサンプルコードをビルドしただけのものですが実行ファイルを公開しました。</p>
+<p>これによりデベロッパでなくても（Xcodeを使えなくても）サンプルの実行ファイルを試してみることができます。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/tools/wiki/PasoriKit">PasoriKit</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/08/23/suicaexample-edyexample-%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ビックポイントを Suica に交換</title>
+		<link>/gnue/2007/05/21/%e3%83%93%e3%83%83%e3%82%af%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%92-suica-%e3%81%ab%e4%ba%a4%e6%8f%9b/</link>
+					<comments>/gnue/2007/05/21/%e3%83%93%e3%83%83%e3%82%af%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%92-suica-%e3%81%ab%e4%ba%a4%e6%8f%9b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 21 May 2007 13:24:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Point]]></category>
+		<category><![CDATA[Suica]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/05/21/%e3%83%93%e3%83%83%e3%82%af%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%92-suica-%e3%81%ab%e4%ba%a4%e6%8f%9b/</guid>
+
+					<description><![CDATA[ビックポイントを Suica に交換してみました。 上限が２万円ということなので上限の２万円を交換したんだけど、Suica の上限が２万円ということらしく結局１万８，０００円までしかチャージできませんでした。２，０００円 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ビックポイントを  Suica に交換してみました。</p>
+<p>上限が２万円ということなので上限の２万円を交換したんだけど、Suica の上限が２万円ということらしく結局１万８，０００円までしかチャージできませんでした。２，０００円分がちゅうぶらりん。忘れて失効しないようにしないと&#8230;</p>
+<p>それにしてもユーザの利便性をまったく考えていないこのポイント交換方法、なんとかならないものでしょうか。</p>
+<p>・ポイント交換してから実際に受取り（チャージ）できるようになるまで１６〜３０日必要<br />
+・PC + PaSoRi で受取り（チャージ）ができない<br />
+・翌年度末までに受取り（チャージ）しないとで失効</p>
+<p>Edyギフトの場合、</p>
+<p>・４営業日で受取り（チャージ）できるようになる<br />
+・PC + PaSoRi で受取り（チャージ）ができる<br />
+・eLIO の場合60日で失効（有効期限は各サービスでまちまち）</p>
+<p>Edyの４営業日ですら長いと思うのに１６〜３０日はいくらなんでもないだろうという感じ。有効期限が少し長いのはいいけど気をつけないとうっかり忘れちゃいそう。</p>
+<p>あと Edy は PC + PaSoRi でチャージできるのだから技術的な問題はないはず。いまどきバッチ処理でもしているんだろうか（さ、寒い）。是非 Suica も PC + PaSoRi でチャージできるようにしてもらいたいものである。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/05/21/%e3%83%93%e3%83%83%e3%82%af%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%92-suica-%e3%81%ab%e4%ba%a4%e6%8f%9b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ソフマップ買取＋ビックカード＋Suicaチャージ</title>
+		<link>/gnue/2007/04/30/%e3%82%bd%e3%83%95%e3%83%9e%e3%83%83%e3%83%97%e8%b2%b7%e5%8f%96%ef%bc%8b%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%bc%e3%83%89%ef%bc%8bsuica%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b8/</link>
+					<comments>/gnue/2007/04/30/%e3%82%bd%e3%83%95%e3%83%9e%e3%83%83%e3%83%97%e8%b2%b7%e5%8f%96%ef%bc%8b%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%bc%e3%83%89%ef%bc%8bsuica%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b8/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 07:30:44 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Point]]></category>
+		<category><![CDATA[Suica]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/04/30/%e3%82%bd%e3%83%95%e3%83%9e%e3%83%83%e3%83%97%e8%b2%b7%e5%8f%96%ef%bc%8b%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%bc%e3%83%89%ef%bc%8bsuica%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b8/</guid>
+
+					<description><![CDATA[昔からときどきソフマップの買取サービスを利用しているのだけどいままではずっと現金買取でした。だって、ソフマップで買い物をすることがほとんどないからね(^^; ソフマップがビックカメラに助けてもらって再建してから、買取金が [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				昔からときどきソフマップの買取サービスを利用しているのだけどいままではずっと現金買取でした。だって、ソフマップで買い物をすることがほとんどないからね(^^;</p>
+<p>ソフマップがビックカメラに助けてもらって再建してから、買取金がビックカードで受け取れるようにできたら便利なのになと思っていたんだけど、いつのまにかビックカードで受け取れるようになったんですね（もちろん 10%増し）</p>
+<p>それと、去年 Suica が使えるというので「ビックカメラSuicaカード」をつくったのだけれど、これだとビックポイントを Suica にチャージすることができます。</p>
+<p>ということは</p>
+<p>　ソフマップ買取⇒ ビックカメラSuicaカード⇒Suicaチャージ</p>
+<p>というふうにソフマップ買取の金額を Suica のほうに持って行くことができるということです。</p>
+<p>欠点はビックポイントから Suica への入金方法がめんどうなことでしょうか。入金申込みが月末締め、次月16日以降に Suica チャージ、それと 20,000円までの上限あり。鶏頭だから半月以上あいだが空いたら忘れちゃいそう <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/04/30/%e3%82%bd%e3%83%95%e3%83%9e%e3%83%83%e3%83%97%e8%b2%b7%e5%8f%96%ef%bc%8b%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%bc%e3%83%89%ef%bc%8bsuica%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>私鉄もバスも Suica でスイスイ！？</title>
+		<link>/gnue/2005/08/01/%e7%a7%81%e9%89%84%e3%82%82%e3%83%90%e3%82%b9%e3%82%82-suica-%e3%81%a7%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%ef%bc%81%ef%bc%9f/</link>
+					<comments>/gnue/2005/08/01/%e7%a7%81%e9%89%84%e3%82%82%e3%83%90%e3%82%b9%e3%82%82-suica-%e3%81%a7%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%ef%bc%81%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2005 09:04:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[PASMO]]></category>
+		<category><![CDATA[Suica]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/08/01/%e7%a7%81%e9%89%84%e3%82%82%e3%83%90%e3%82%b9%e3%82%82-suica-%e3%81%a7%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%ef%bc%81%ef%bc%9f/</guid>
+
+					<description><![CDATA[ようやく首都圏のＪＲ・私鉄／地下鉄・バスの共通乗車カードが具体的になってきたみたいです。 構想そのものはず〜〜〜〜いぶん昔に少し報道されたことがあったけど、最近は全然聞かなかったのでまだまだ先なのかなと思ってました。これ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ようやく首都圏のＪＲ・私鉄／地下鉄・バスの共通乗車カードが具体的になってきたみたいです。</p>
+<p>構想そのものはず〜〜〜〜いぶん昔に少し報道されたことがあったけど、最近は全然聞かなかったのでまだまだ先なのかなと思ってました。これで首都圏の移動がかなり便利になります。</p>
+<p>記事にある電子マネーの勢力地図云々はなんだかなぁという感じ。対応する小売店が JR系列だけの現状だと全然魅力感じません。カードの発行枚数と電子マネーの利用度とは必ずしもリンクしないんじゃないでしょうか。</p>
+<p>⇒ <a href="http://www.yomiuri.co.jp/atmoney/news/20050729it01.htm" target="_blank" rel="noopener">私鉄・バスも「スイカ」…５３社が共通ＩＣ発行へ</a>（YOMIURI ONLINE）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/08/01/%e7%a7%81%e9%89%84%e3%82%82%e3%83%90%e3%82%b9%e3%82%82-suica-%e3%81%a7%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%ef%bc%81%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

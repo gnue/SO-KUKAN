@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	新しい MacBook と MacBook Pro へのコメント	</title>
+	<atom:link href="/gnue/2008/02/26/%E6%96%B0%E3%81%97%E3%81%84-macbook-%E3%81%A8-macbook-pro/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2008/02/26/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/</link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Feb 2008 14:22:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

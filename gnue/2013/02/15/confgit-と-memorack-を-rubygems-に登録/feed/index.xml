@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	confgit と memorack を RubyGems に登録 へのコメント	</title>
+	<atom:link href="/gnue/2013/02/15/confgit-%E3%81%A8-memorack-%E3%82%92-rubygems-%E3%81%AB%E7%99%BB%E9%8C%B2/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Feb 2013 06:34:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

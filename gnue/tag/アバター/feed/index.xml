@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>アバター &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 21 May 2008 09:15:00 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>コメントとアバター</title>
+		<link>/gnue/2008/05/21/%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%81%a8%e3%82%a2%e3%83%90%e3%82%bf%e3%83%bc/</link>
+					<comments>/gnue/2008/05/21/%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%81%a8%e3%82%a2%e3%83%90%e3%82%bf%e3%83%bc/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 21 May 2008 09:15:00 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Gravatar]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WP-SnapAvatar]]></category>
+		<category><![CDATA[アバター]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1244</guid>
+
+					<description><![CDATA[コメントにアバターを表示できるようにしてみました。 もともと WordPress 2.5 には標準で装備されている機能なんだけれど、テーマのほうが対応していなかったのでタグを自分で追加しました。Gravatar というサ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				コメントにアバターを表示できるようにしてみました。</p>
+<p>もともと WordPress 2.5 には標準で装備されている機能なんだけれど、テーマのほうが対応していなかったのでタグを自分で追加しました。Gravatar というサービスに登録してメールアドレスとアバターを紐付けします。</p>
+<p>それと WP-SnapAvatar というプラグインを入れたので、Gravatar に登録していなくてもコメント入力でホームページの URL を記入していればアバターの代わりにホームページのキャプチャーが表示されるようになります。</p>
+<p>⇒ <a href="http://gravatar.com/">Gravatar</a><br />
+⇒ <a href="http://darkx-studios.com/?p=286">WP-SnapAvatar</a>（DarkX-Studios Blog）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/05/21/%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%81%a8%e3%82%a2%e3%83%90%e3%82%bf%e3%83%bc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

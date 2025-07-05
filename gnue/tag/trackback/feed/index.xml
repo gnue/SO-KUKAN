@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trackback &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/trackback/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Oct 2004 18:17:38 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>トラックバックの重複</title>
+		<link>/gnue/2004/10/02/%e3%83%88%e3%83%a9%e3%83%83%e3%82%af%e3%83%90%e3%83%83%e3%82%af%e3%81%ae%e9%87%8d%e8%a4%87/</link>
+					<comments>/gnue/2004/10/02/%e3%83%88%e3%83%a9%e3%83%83%e3%82%af%e3%83%90%e3%83%83%e3%82%af%e3%81%ae%e9%87%8d%e8%a4%87/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2004 18:17:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Trackback]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/02/%e3%83%88%e3%83%a9%e3%83%83%e3%82%af%e3%83%90%e3%83%83%e3%82%af%e3%81%ae%e9%87%8d%e8%a4%87/</guid>
+
+					<description><![CDATA[トラックバックというのは相手先があることもあり相手先からのレスポンスが遅いとエラーと表示されることがある。その場合、実際には相手先に登録されているのだけど Movable Type 的にはエラーで終わったことになっている [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				トラックバックというのは相手先があることもあり相手先からのレスポンスが遅いとエラーと表示されることがある。その場合、実際には相手先に登録されているのだけど Movable Type 的にはエラーで終わったことになっているのでエントリーを修正して保存するとまたトラックバックの ping を２重に送ってしまうことがよくある。しかもまたエラーになると&#8230;.</p>
+<p>まぁ、この送るほうの Movable Type の動作もどうにかして欲しいのだが、受取る側も重複するトラックバックは最新のもののみイキにするとかして欲しいものである。幸いにもいまのところトラックバックスパムに遭遇したことがないのだけどトラックバックの重複除去はスパム対策にも多少は有効だと思う。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/10/02/%e3%83%88%e3%83%a9%e3%83%83%e3%82%af%e3%83%90%e3%83%83%e3%82%af%e3%81%ae%e9%87%8d%e8%a4%87/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

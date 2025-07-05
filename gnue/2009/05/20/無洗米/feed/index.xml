@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	無洗米 へのコメント	</title>
+	<atom:link href="/gnue/2009/05/20/%E7%84%A1%E6%B4%97%E7%B1%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/05/20/%e7%84%a1%e6%b4%97%e7%b1%b3/</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 May 2009 19:11:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	WordPress 3.0日本語版移行メモ へのコメント	</title>
+	<atom:link href="/gnue/2010/06/23/wordpress-3-0%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E7%A7%BB%E8%A1%8C%E3%83%A1%E3%83%A2/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2010/06/23/wordpress-3-0%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%e7%a7%bb%e8%a1%8c%e3%83%a1%e3%83%a2/</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Jun 2010 16:53:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

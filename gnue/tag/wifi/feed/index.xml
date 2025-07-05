@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WiFi &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/wifi/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 22 Mar 2007 13:17:56 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>インターネットに繋がらない N800（解決編）</title>
+		<link>/gnue/2007/03/22/%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%8d%e3%83%83%e3%83%88%e3%81%ab%e7%b9%8b%e3%81%8c%e3%82%89%e3%81%aa%e3%81%84-n800%ef%bc%88%e8%a7%a3%e6%b1%ba%e7%b7%a8%ef%bc%89-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 22 Mar 2007 13:17:56 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[N800]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[WiFi]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/03/22/%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%8d%e3%83%83%e3%83%88%e3%81%ab%e7%b9%8b%e3%81%8c%e3%82%89%e3%81%aa%e3%81%84-n800%ef%bc%88%e8%a7%a3%e6%b1%ba%e7%b7%a8%ef%bc%89</guid>
+
+					<description><![CDATA[N800 がインターネットに繋がらない（default router が設定されない）問題だが、maemo-users（メーリングリスト？）のログに同様の事例を見つけた。 ⇒ [maemo-users] How to d [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>N800 がインターネットに繋がらない（default router が設定されない）問題だが、maemo-users（メーリングリスト？）のログに同様の事例を見つけた。</p>
+<p>⇒ <a href="http://maemo.org/pipermail/maemo-users/2007-January/002738.html">[maemo-users] How to debug WLAN connection problem in N800?</a></p>
+<p>結局、この人は N800 を初期化することにより解決したらしい。ということで私も N800 を初期化してみた。</p>
+<p>初期化の方法は</p>
+<ol>
+<li><a href="http://www.nokia.com/n800">N800 のサポートページ</a>から「Nokia Internet Tablet Software Update Wizard」をダウンロード</li>
+<li>「Nokia Internet Tablet Software Update Wizard」を Windows にインストール</li>
+<li>「Nokia Internet Tablet Software Update Wizard」を起動</li>
+<li>N800 を電源 OFF</li>
+<li>N800 と Windowsマシンを USBケーブルで接続</li>
+<li>N800 を HOMEキーを押しながら電源ON（Update モードで起動）</li>
+<li>「Nokia Internet Tablet Software Update Wizard」の指示でアップデート</li>
+</ol>
+<p>ひとつハマったのが Update モードの起動で、何度やってもうまくいかなかった。実は電源ケーブルをつけっぱなしにしていたのがいけなかったみたいなのだけれど、一旦電源ケーブルを抜いて完全な OFF 状態にしてから起動したら簡単に Updateモードで起動できました。</p>
+<p>さて、インターネットに繋がらない問題だが、何のことはないあっさり繋がるようになりました。根本的な原因はわからないのだけれど結局ハードや相性の問題ではなく N800 側のシステムに問題があったようだ。システムのアップデートをかけたとはいえもともと最新版が入っていたので上書きしたシステムは実は同じバージョンである。どこがどうおかしかったのかさっぱりわかりません。出荷時のシステムの状態に何か問題があったのか、あるいは何かの拍子にシステムがおかしくなったのか、、、</p>
+<p>何はともあれ何とか解決して一安心（ほっ）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>無線LAN ルータ</title>
+		<link>/gnue/2003/12/09/%e7%84%a1%e7%b7%9alan-%e3%83%ab%e3%83%bc%e3%82%bf/</link>
+					<comments>/gnue/2003/12/09/%e7%84%a1%e7%b7%9alan-%e3%83%ab%e3%83%bc%e3%82%bf/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2003 18:34:50 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[WiFi]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2003/12/09/%e7%84%a1%e7%b7%9alan-%e3%83%ab%e3%83%bc%e3%82%bf/</guid>
+
+					<description><![CDATA[先週購入したばかりの無線LANルータの新製品が発表になった。定価で5,000円も安い(^^;　スループットとか見ると新製品のほうが低いのでどうも廉価版という位置づけらしい。少しほっとする。 ところで自宅サーバの構築のため [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				先週購入したばかりの<a href="http://www.corega.co.jp/product/list/router/wlbargt.htm" target="_blank" rel="noopener">無線LANルータ</a>の新製品が<a href="http://ascii24.com/news/i/hard/article/2003/12/08/647267-000.html" target="_blank" rel="noopener">発表</a>になった。定価で5,000円も安い(^^;　スループットとか見ると新製品のほうが低いのでどうも廉価版という位置づけらしい。少しほっとする。</p>
+<p>ところで自宅サーバの構築のために新しい無線LANルータの到着を待っていたのには理由がある。以前使っていたルータだと LAN側（自宅）からグローバルアドレスでバーチャルサーバ（ポートマッピング、ポートフォワード、アドレス変換）で自宅サーバにアクセスできなかった。もともと WAN側（外部）から LAN側（内部）のサーバにアドレス変換するための機能だから内側からアクセスできないルータが多いらしいのだが、Movable Type を使っているとグローバルアドレスでアクセスできないといろいろとまずい。ちょうど IEEE802.11g の無線LANルータをどうしようかと思っていたのだけど、<a href="http://www.wandaba.com/ayashii/" target="_blank" rel="noopener">いいぬまさん</a>から「うちはこれで（グローバルアドレスで）使えてるよ」と教えてもらったのが購入の決め手になった。</p>
+<p>現在は LAN側（自宅）から問題なく Movable Type が使えている。自宅サーバを運用する場合、スペック表ではわからない（わかりにくい）こういうところがルータ選びのキーポイントのひとつではないだろうか。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2003/12/09/%e7%84%a1%e7%b7%9alan-%e3%83%ab%e3%83%bc%e3%82%bf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

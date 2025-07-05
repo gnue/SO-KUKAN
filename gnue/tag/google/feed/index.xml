@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/google/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 19 Jun 2009 12:28:45 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Google App Engine 使えねぇ&#8230;</title>
+		<link>/gnue/2009/06/19/google-app-engine-%e4%bd%bf%e3%81%88%e3%81%ad%e3%81%87/</link>
+					<comments>/gnue/2009/06/19/google-app-engine-%e4%bd%bf%e3%81%88%e3%81%ad%e3%81%87/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2009 12:28:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GAE]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2580</guid>
+
+					<description><![CDATA[ちょっと思うところがあって Google App Engine を使ってみようと思ったのだけれど、socket や SSL が制限されてるんですねぇ。 OpenSSL が imort できない socket が impo [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ちょっと思うところがあって Google App Engine を使ってみようと思ったのだけれど、socket や SSL が制限されてるんですねぇ。</p>
+<ul>
+<li>OpenSSL が imort できない</li>
+<li>socket が import できてるけど使えない</li>
+<li>httplib.HTTPSConnection の key_file, cert_file がふさがれてる</li>
+</ul>
+<p>※Python の場合</p>
+<p>httplib.HTTPSConnection 使うとなんとかなるかなと思ったのだけれどそんな甘くなかった。うーん、打つ手なし <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/19/google-app-engine-%e4%bd%bf%e3%81%88%e3%81%ad%e3%81%87/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google翻訳、iPhone = イメージ？</title>
+		<link>/gnue/2008/06/02/google%e7%bf%bb%e8%a8%b3%e3%80%81iphone-%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8%ef%bc%9f/</link>
+					<comments>/gnue/2008/06/02/google%e7%bf%bb%e8%a8%b3%e3%80%81iphone-%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 01 Jun 2008 21:45:35 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1256</guid>
+
+					<description><![CDATA[Google翻訳、、、、なぜに “iPhone” を “イメージ” と訳する？？？]]></description>
+										<content:encoded><![CDATA[<p>				Google翻訳、、、、なぜに “iPhone” を “イメージ” と訳する？？？		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/06/02/google%e7%bf%bb%e8%a8%b3%e3%80%81iphone-%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>open handset alliance/Android</title>
+		<link>/gnue/2007/11/06/open-handset-allianceandroid/</link>
+					<comments>/gnue/2007/11/06/open-handset-allianceandroid/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 19:21:21 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Gphone]]></category>
+		<category><![CDATA[open handset alliance]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/open-handset-allianceandroid/</guid>
+
+					<description><![CDATA[噂の Gphone(Google Phone) が現実のものになるらしい。open handset alliance というベタな名前の Gphone連合と Android というプラットフォームが発表になった。 この手 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				噂の Gphone(Google Phone) が現実のものになるらしい。open handset alliance というベタな名前の Gphone連合と Android というプラットフォームが発表になった。</p>
+<p>この手の alliance は死屍累々と前例が転がっているのだけれど、Google はどういったお手並みを見せてくれるのか楽しみだ。</p>
+<p>いまのところ Android の具体像が見えないのだけれど、SDK が November 12, 2007 に公開されるそうなのでそれを待つことにしたい。</p>
+<p>⇒ <a href="http://www.openhandsetalliance.com/index.html">open handset alliance</a><br />
+⇒ <a href="http://www.openhandsetalliance.com/android_overview.html">Android</a> （open handset alliance）<br />
+⇒ <a href="http://www.openhandsetalliance.com/developers.html">Android SDK</a> （open handset alliance）</p>
+<p>⇒ <a href="http://japanese.engadget.com/2007/11/05/google-34-android/">Googleほか34社、オープン携帯プラットフォーム「Android」を発表</a> （engadget）<br />
+⇒ <a href="http://japanese.engadget.com/2007/11/05/google-android-oha/">Googleプレスカンファレンス速報：Android・OHA質疑応答</a> （engadget）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/06/open-handset-allianceandroid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google と乗換え案内</title>
+		<link>/gnue/2006/11/24/google-%e3%81%a8%e4%b9%97%e6%8f%9b%e3%81%88%e6%a1%88%e5%86%85/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 24 Nov 2006 05:37:17 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/11/24/google-%e3%81%a8%e4%b9%97%e6%8f%9b%e3%81%88%e6%a1%88%e5%86%85</guid>
+
+					<description><![CDATA[以前は Google で「○○から××」で乗換え案内の検索ができたのにいつの間にかできなくなってる。Google のヘルプではできることになっているのに何でだろう。乗換え案内サービスとの契約が切れたのか、契約継続でもめて [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>以前は Google で「○○から××」で乗換え案内の検索ができたのにいつの間にかできなくなってる。Google のヘルプではできることになっているのに何でだろう。乗換え案内サービスとの契約が切れたのか、契約継続でもめているのか？？？</p>
+<div><br class="khtml-block-placeholder" /></div>
+<div>
+<div>何にしても不便になったことだけは確かだ。</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

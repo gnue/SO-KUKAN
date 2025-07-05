@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Doxygen &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/doxygen/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 14 Apr 2007 18:08:12 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Doxygen 1.5.2</title>
+		<link>/gnue/2007/04/15/doxygen-152/</link>
+					<comments>/gnue/2007/04/15/doxygen-152/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 14 Apr 2007 18:08:12 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Doxygen]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/04/15/doxygen-152/</guid>
+
+					<description><![CDATA[Doxygen のバージョン 1.5.2 がリリースされました。 待望の UTF-8 対応がなされています。 DOXYFILE_ENCODING = UTF-8 INPUT_ENCODING = UTF-8 で入出力のエ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Doxygen のバージョン 1.5.2 がリリースされました。<br />
+待望の UTF-8 対応がなされています。</p>
+<p>DOXYFILE_ENCODING      = UTF-8<br />
+INPUT_ENCODING         = UTF-8</p>
+<p>で入出力のエンコーディングを指定すると libiconv により文字コードを自動的に処理してくれます。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/04/15/doxygen-152/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Doxygen の UTF-8 パッチ</title>
+		<link>/gnue/2007/03/29/doxygen-%e3%81%ae-utf-8-%e3%83%91%e3%83%83%e3%83%81/</link>
+					<comments>/gnue/2007/03/29/doxygen-%e3%81%ae-utf-8-%e3%83%91%e3%83%83%e3%83%81/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 29 Mar 2007 10:23:59 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Doxygen]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/03/29/doxygen-%e3%81%ae-utf-8-%e3%83%91%e3%83%83%e3%83%81/</guid>
+
+					<description><![CDATA[誰かがやってそうなものだけどインターネットで検索してもみつけることができなかったので、Doxygen の UTF-8対応（ただし日本語出力のみ）のパッチを trac で公開しました。 あんまり使ってないのでちゃんと使える [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				誰かがやってそうなものだけどインターネットで検索してもみつけることができなかったので、Doxygen の UTF-8対応（ただし日本語出力のみ）のパッチを trac で公開しました。</p>
+<p>あんまり使ってないのでちゃんと使えるのかわからないけど、興味がある人は使ってみて下さい。</p>
+<p><strike>⇒ DOXYGEN-JP_UTF8（鵺的：創空間）</strike></p>
+<p>※ Doxygen 1.5.2 で UTF-8 がサポートされたのでパッチは削除しました		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/03/29/doxygen-%e3%81%ae-utf-8-%e3%83%91%e3%83%83%e3%83%81/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

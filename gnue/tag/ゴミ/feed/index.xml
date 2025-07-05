@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ゴミ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%B4%E3%83%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Dec 2007 12:21:54 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>今年最後の資源ゴミを出したのに&#8230;</title>
+		<link>/gnue/2007/12/27/%e4%bb%8a%e5%b9%b4%e6%9c%80%e5%be%8c%e3%81%ae%e8%b3%87%e6%ba%90%e3%82%b4%e3%83%9f%e3%82%92%e5%87%ba%e3%81%97%e3%81%9f%e3%81%ae%e3%81%ab/</link>
+					<comments>/gnue/2007/12/27/%e4%bb%8a%e5%b9%b4%e6%9c%80%e5%be%8c%e3%81%ae%e8%b3%87%e6%ba%90%e3%82%b4%e3%83%9f%e3%82%92%e5%87%ba%e3%81%97%e3%81%9f%e3%81%ae%e3%81%ab/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 27 Dec 2007 12:21:54 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[ゴミ]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/12/%e4%bb%8a%e5%b9%b4%e6%9c%80%e5%be%8c%e3%81%ae%e8%b3%87%e6%ba%90%e3%82%b4%e3%83%9f%e3%82%92%e5%87%ba%e3%81%97%e3%81%9f%e3%81%ae%e3%81%ab/</guid>
+
+					<description><![CDATA[今朝、今年最後の資源ゴミを出したばかりなのに&#8230;&#8230;ポストに共産党のチラシが入ってた。なんてこった。]]></description>
+										<content:encoded><![CDATA[<p>				今朝、今年最後の資源ゴミを出したばかりなのに&#8230;&#8230;ポストに共産党のチラシが入ってた。なんてこった。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/12/27/%e4%bb%8a%e5%b9%b4%e6%9c%80%e5%be%8c%e3%81%ae%e8%b3%87%e6%ba%90%e3%82%b4%e3%83%9f%e3%82%92%e5%87%ba%e3%81%97%e3%81%9f%e3%81%ae%e3%81%ab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

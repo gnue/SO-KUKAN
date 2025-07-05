@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apple TV &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/apple-tv/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 12 Sep 2006 23:13:17 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Apple iTV、さてその送信側は？</title>
+		<link>/gnue/2006/09/13/apple-itv%e3%80%81%e3%81%95%e3%81%a6%e3%81%9d%e3%81%ae%e9%80%81%e4%bf%a1%e5%81%b4%e3%81%af%ef%bc%9f/</link>
+					<comments>/gnue/2006/09/13/apple-itv%e3%80%81%e3%81%95%e3%81%a6%e3%81%9d%e3%81%ae%e9%80%81%e4%bf%a1%e5%81%b4%e3%81%af%ef%bc%9f/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 12 Sep 2006 23:13:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/09/13/apple-itv%e3%80%81%e3%81%95%e3%81%a6%e3%81%9d%e3%81%ae%e9%80%81%e4%bf%a1%e5%81%b4%e3%81%af%ef%bc%9f/</guid>
+
+					<description><![CDATA[思わせぶりな Apple の It&#8217;s Showtime イベントで姿を見せた iTV(*1) ですが、これって受信側だけなんですよね。そうすると素朴な疑問として送信側はどうなるのかと気になります。考えられる [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				思わせぶりな Apple の It&#8217;s Showtime イベントで姿を見せた iTV(*1) ですが、これって受信側だけなんですよね。そうすると素朴な疑問として送信側はどうなるのかと気になります。考えられることとしては</p>
+<p>&#8211; Mac からストリーミングする<br />
+&#8211; Apple がストリーミングの有料サービスを始める<br />
+&#8211; Sony のロケーションフリーのような送信用の周辺機器が登場する<br />
+&#8211; 無線LAN内蔵の HDDレコーダーが登場する</p>
+<p>あたりでしょうか。iTV の登場はまだ半年ぐらい先ですから何かサプライズを用意しているのかもしれません。</p>
+<p>あと、iTV の後の USB 2.0 コネクタも気になります。iPod, USB キーボード, カードリーダー, 外付けHDD, TVチューナー&#8230;？？？</p>
+<p>*1) 正式名称じゃないそうです。商標関係でどこかが取ってそうな気がするし正式発表のときには別の名称になるのかも		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/09/13/apple-itv%e3%80%81%e3%81%95%e3%81%a6%e3%81%9d%e3%81%ae%e9%80%81%e4%bf%a1%e5%81%b4%e3%81%af%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

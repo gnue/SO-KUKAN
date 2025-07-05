@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	OLPC 100ドルPC 稼働プロトタイプ へのコメント	</title>
+	<atom:link href="/gnue/2006/05/25/olpc-100%E3%83%89%E3%83%ABpc-%E7%A8%BC%E5%83%8D%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/05/25/olpc-100%e3%83%89%e3%83%abpc-%e7%a8%bc%e5%83%8d%e3%83%97%e3%83%ad%e3%83%88%e3%82%bf%e3%82%a4%e3%83%97/</link>
+	<description></description>
+	<lastBuildDate>Thu, 25 May 2006 09:04:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2006/05/25/olpc-100%e3%83%89%e3%83%abpc-%e7%a8%bc%e5%83%8d%e3%83%97%e3%83%ad%e3%83%88%e3%82%bf%e3%82%a4%e3%83%97/#comment-718</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Thu, 25 May 2006 09:04:34 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/05/25/olpc-100%e3%83%89%e3%83%abpc-%e7%a8%bc%e5%83%8d%e3%83%97%e3%83%ad%e3%83%88%e3%82%bf%e3%82%a4%e3%83%97/#comment-718</guid>
+
+					<description><![CDATA[東京新聞でも100＄PCについて先日取り上げられていましたが、「先進国では倍の値段で売って、それを資金にできないか」という意見もあるとかありました。みんな考える事は同じですね。]]></description>
+			<content:encoded><![CDATA[<p>東京新聞でも100＄PCについて先日取り上げられていましたが、「先進国では倍の値段で売って、それを資金にできないか」という意見もあるとかありました。みんな考える事は同じですね。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

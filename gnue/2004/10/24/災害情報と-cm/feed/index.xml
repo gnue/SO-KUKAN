@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	災害情報と CM へのコメント	</title>
+	<atom:link href="/gnue/2004/10/24/%E7%81%BD%E5%AE%B3%E6%83%85%E5%A0%B1%E3%81%A8-cm/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/10/24/%e7%81%bd%e5%ae%b3%e6%83%85%e5%a0%b1%e3%81%a8-cm/</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Oct 2004 22:24:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

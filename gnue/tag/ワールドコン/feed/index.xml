@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ワールドコン &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B3%E3%83%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 23 May 2007 10:44:55 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Nippon 2007と今日の早川さん</title>
+		<link>/gnue/2007/05/23/nippon-2007%e3%81%a8%e4%bb%8a%e6%97%a5%e3%81%ae%e6%97%a9%e5%b7%9d%e3%81%95%e3%82%93/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 23 May 2007 10:44:55 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[nippon 2007]]></category>
+		<category><![CDATA[SF]]></category>
+		<category><![CDATA[ワールドコン]]></category>
+		<category><![CDATA[今日の早川さん]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/05/23/nippon-2007%e3%81%a8%e4%bb%8a%e6%97%a5%e3%81%ae%e6%97%a9%e5%b7%9d%e3%81%95%e3%82%93</guid>
+
+					<description><![CDATA[早川さんはNippon 2007を応援しているらしい。 ⇒ 早川さんはNippon 2007を応援しています（coco&#039;s bloblog）]]></description>
+										<content:encoded><![CDATA[<p>早川さんはNippon 2007を応援しているらしい。</p>
+<p>⇒ <a href="http://horror.g.hatena.ne.jp/COCO/20070523#p2">早川さんはNippon 2007を応援しています</a>（coco&#039;s bloblog）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

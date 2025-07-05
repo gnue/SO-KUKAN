@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GAINER &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/gainer/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Apr 2008 11:27:58 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Make: Tokyo Meeting 4/20</title>
+		<link>/gnue/2008/04/17/make-tokyo-meeting-420/</link>
+					<comments>/gnue/2008/04/17/make-tokyo-meeting-420/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 17 Apr 2008 11:27:58 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Event]]></category>
+		<category><![CDATA[GAINER]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1230</guid>
+
+					<description><![CDATA[今度の日曜日は自作系技術雑誌「Make:」の Tokyo Meeting です。 私も見に行くつもり、、、っていうか GAINER のワークショップに参加してきます。 ⇒ Make: Tokyo Meeting開催概要  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				今度の日曜日は自作系技術雑誌「Make:」の Tokyo Meeting です。 私も見に行くつもり、、、っていうか GAINER のワークショップに参加してきます。</p>
+<p>⇒ <a href="http://jp.makezine.com/blog/2008/04/make_tokyo_meeting.html">Make: Tokyo Meeting開催概要</a><br />
+⇒ <a href="http://jp.makezine.com/blog/2008/04/gainer_workshop.html">ゲイナーワークショップ［満員御礼］@ Make: Tokyo Meeting </a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/04/17/make-tokyo-meeting-420/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	NEWT/0 の最終目標 へのコメント	</title>
+	<atom:link href="/gnue/2005/10/28/newt0-%E3%81%AE%E6%9C%80%E7%B5%82%E7%9B%AE%E6%A8%99/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/</link>
+	<description></description>
+	<lastBuildDate>Fri, 28 Oct 2005 14:07:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Leopard と Wide-Area Bonjour サーバ へのコメント	</title>
+	<atom:link href="/gnue/2008/01/04/leopard-%E3%81%A8-wide-area-bonjour-%E3%82%B5%E3%83%BC%E3%83%90/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2008/01/04/leopard-%e3%81%a8-wide-area-bonjour-%e3%82%b5%e3%83%bc%e3%83%90/</link>
+	<description></description>
+	<lastBuildDate>Thu, 03 Jan 2008 16:02:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

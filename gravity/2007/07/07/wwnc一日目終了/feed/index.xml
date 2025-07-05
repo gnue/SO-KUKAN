@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	WWNC一日目終了 へのコメント	</title>
+	<atom:link href="/gravity/2007/07/07/wwnc%E4%B8%80%E6%97%A5%E7%9B%AE%E7%B5%82%E4%BA%86/feed/" rel="self" type="application/rss+xml" />
+	<link>/gravity/2007/07/07/wwnc%e4%b8%80%e6%97%a5%e7%9b%ae%e7%b5%82%e4%ba%86/</link>
+	<description>Newton の重力に引き寄せられて…</description>
+	<lastBuildDate>Sat, 07 Jul 2007 14:43:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

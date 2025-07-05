@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mac &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/mac/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 May 2009 13:53:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>apache2ログのローテーション</title>
+		<link>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+					<comments>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 13:53:31 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[apache2]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2153</guid>
+
+					<description><![CDATA[なぜか昨日から自宅サーバがよく固まるので apache2 のログを見ようと思ったら、Leopard のデフォルトでは apache2 のログがローテーションしてない（ずっと同じファイルに追加されている）のね。 ということ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				なぜか昨日から自宅サーバがよく固まるので apache2 のログを見ようと思ったら、Leopard のデフォルトでは apache2 のログがローテーションしてない（ずっと同じファイルに追加されている）のね。</p>
+<p>ということで下記のサイトを参考に /etc/newsyslog.conf を編集してローテーションさせるようにしました。</p>
+<p>⇒ <a href="http://earlybirds.ddo.jp/namahage/inegalog/article.php?id=64">Web共有機能のログをローテーションさせよう</a> （MacOSXでサーバー稼業）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mod_python のインストール</title>
+		<link>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/</link>
+					<comments>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 13:47:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[mod_python]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2151</guid>
+
+					<description><![CDATA[Trac 0.11 がめっちゃ遅いので mod_python を自宅サーバ（Mac mini）に入れてみた。 最初は MacPort でサクっと入れようと思ったのだがエラーであえなく撃沈。次はソースコードから make  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Trac 0.11 がめっちゃ遅いので mod_python を自宅サーバ（Mac mini）に入れてみた。</p>
+<p>最初は MacPort でサクっと入れようと思ったのだがエラーであえなく撃沈。次はソースコードから make しようと思ったらコンパイル＆インストールは問題なかったのに実際に apache2 で LoadModule しようとするとエラーになってダメ。ネットで調べるとどうも Makefile(*1) が x86_64 に対応してないのが問題らしい。</p>
+<p>ということで、下記のサイトを参考に Makefile を修正したら問題なく動くようになりました。Trac も体感速度３倍ぐらい速くなった感じ。</p>
+<p>⇒ <a href="http://www.rokujyouhitoma.com/javapg/2008/08/leopardmod-python.html">Leopardでmod_pythonの設定</a>（rokujyouhitomaのぷろぐらま日誌）</p>
+<p>*1) 本来は configure でなんとかするべき		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AirDisk と Time Machine</title>
+		<link>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/</link>
+					<comments>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2008 06:44:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[AirDisk]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1222</guid>
+
+					<description><![CDATA[ソフトウェアアップデートによって AirMac Extremeベースステーションに接続した HDD にも Time Machine のバックアップができるようになったというのでさっそく試してみました。 最初どうやっても  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ソフトウェアアップデートによって AirMac Extremeベースステーションに接続した HDD にも Time Machine のバックアップができるようになったというのでさっそく試してみました。</p>
+<p>最初どうやっても Time Machine の「ディスクを変更&#8230;」のリストに表示されずなんでだろうと悩んでしまいましたが、どうやら AirMac の「共有ディスクのセキュリティ保護」を『アカウント』にしていたのがいけなかったようです。設定を『ディスクパスワード』または『AirMac Extremeパスワード』に変更したらリストに表示されるようになりました。</p>
+<p>というわけで、しばらくはこの状態で Time Machine を使おうかと思います。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Happy New Year! 2008</title>
+		<link>/gnue/2008/01/02/a-happy-new-year-2008/</link>
+					<comments>/gnue/2008/01/02/a-happy-new-year-2008/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2008 12:06:16 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[自宅サーバ]]></category>
+		<category><![CDATA[謹賀新年]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/a-happy-new-year-2008/</guid>
+
+					<description><![CDATA[あけましておめでとうございます 🙂 新年早々サーバ等のメンテナンスをやっています。いま自宅サーバは暫定で Mac mini(Core 2 Duo) になっていますがちゃんと見えているでしょうか。 前にサーバ環境をつくった [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				あけましておめでとうございます <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>新年早々サーバ等のメンテナンスをやっています。いま自宅サーバは暫定で Mac mini(Core 2 Duo) になっていますがちゃんと見えているでしょうか。</p>
+<p>前にサーバ環境をつくったときのことをすっかり忘れているのと、Leopard でかなり環境が変わってしまったので大変。なお、時間がないので Movable Type は動くようにしてありません。</p>
+<p>それと iBook G4(800MHz) も Leopard(*1) にしました。対象機種ではないのだけどインターネットで検索したらやり方が載ってました。</p>
+<p>あとは古い Mac mini(PPC) に Leopard を入れて自宅サーバ（外用）に復帰すればとりあえずは一段落します。はぁ、年末年始をマシンメンテで終わってしまいそう。なんてこった(^^;</p>
+<p>さてさて、それでは今年もよろしくお願いいたいます。</p>
+<p>*1) ファミリーパックを購入してある		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/02/a-happy-new-year-2008/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ことえり恐るべし！</title>
+		<link>/gnue/2007/12/26/%e3%81%93%e3%81%a8%e3%81%88%e3%82%8a%e6%81%90%e3%82%8b%e3%81%b9%e3%81%97%ef%bc%81/</link>
+					<comments>/gnue/2007/12/26/%e3%81%93%e3%81%a8%e3%81%88%e3%82%8a%e6%81%90%e3%82%8b%e3%81%b9%e3%81%97%ef%bc%81/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 25 Dec 2007 16:01:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ことえり]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/12/%e3%81%93%e3%81%a8%e3%81%88%e3%82%8a%e6%81%90%e3%82%8b%e3%81%b9%e3%81%97%ef%bc%81/</guid>
+
+					<description><![CDATA[ことえりで「もーにんぐむすめ」で変換すると「モーニング娘。」としっかり「。」付で変換してくれます。そんなのユーザ登録してないっす(^^;]]></description>
+										<content:encoded><![CDATA[<p>				ことえりで「もーにんぐむすめ」で変換すると「モーニング娘。」としっかり「。」付で変換してくれます。そんなのユーザ登録してないっす(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/12/26/%e3%81%93%e3%81%a8%e3%81%88%e3%82%8a%e6%81%90%e3%82%8b%e3%81%b9%e3%81%97%ef%bc%81/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>タイムマシンにお願い</title>
+		<link>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/</link>
+					<comments>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 04 Nov 2007 10:08:16 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/</guid>
+
+					<description><![CDATA[Leopard の売りのひとつ Time Machine 機能、出てみたら AirMacDisk に非対応になったので非常にがっかりしてたけど追打ちをかけるように FileVault とも相性が悪いことがわかった。Fil [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Leopard の売りのひとつ Time Machine 機能、出てみたら AirMacDisk に非対応になったので非常にがっかりしてたけど追打ちをかけるように FileVault とも相性が悪いことがわかった。FileVault を ON にしているとホームディレクトリ単位でしか遡れないのである。嬉しくねぇ :-{</p>
+<p>FileVault を使わないのがいいのだろうけど、いまの MacBook は３度も修理に出したトラウマがあるのでサービスセンターの人にホームディレクトリを見られたくないし（個人情報＆仕事のファイルがある）そういうわけにはいかないんだよなぁ。</p>
+<p>FileVault のマスターパスワードを変更していない場合は自動的にイメージディスクをマウントしてファイル単位で遡れるようにしてもらいたものである。</p>
+<p>それと、やはり MacBook ユーザとしては外付けHDDをいちいち繋げるのはわずらわしい。なんとかネットワーク経由（AirMacDisk or NAS）で Time Machine を動かせるようにして欲しい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook HDD 交換</title>
+		<link>/gnue/2007/06/25/macbook-hdd-%e4%ba%a4%e6%8f%9b/</link>
+					<comments>/gnue/2007/06/25/macbook-hdd-%e4%ba%a4%e6%8f%9b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 24 Jun 2007 16:50:06 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/06/25/macbook-hdd-%e4%ba%a4%e6%8f%9b/</guid>
+
+					<description><![CDATA[MacBook の HDD を 100GB から 160GB(Fujitsu MHW2160BH) に交換。 平均シークタイムは HITACHI HTS541616J9SA00 のほうが速いのだけどネットで見るとうるさい [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				MacBook の HDD を 100GB から 160GB(Fujitsu MHW2160BH) に交換。</p>
+<p>平均シークタイムは HITACHI HTS541616J9SA00 のほうが速いのだけどネットで見るとうるさいと評判なので（静穏モードにすると少しはましになるらしい）、静かとだという Fujitsu のほうを選択した。</p>
+<p>MacBook から取出した HDD を入れるケースはセンチュリーの 1分BOX。USB 2.0 と eSATA の両方に対応しているのがいい。ただし、フックボタンが硬すぎてなかなか開けられない。みんなこれで苦労しているらしい。こんなに開けづらいんだったらネジ止め式のほうが簡単かも（ちょっと企画倒れ(^^;？）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/06/25/macbook-hdd-%e4%ba%a4%e6%8f%9b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nokia Media Transfer</title>
+		<link>/gnue/2007/06/09/nokia-media-transfer/</link>
+					<comments>/gnue/2007/06/09/nokia-media-transfer/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 09 Jun 2007 06:09:22 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/06/09/nokia-media-transfer/</guid>
+
+					<description><![CDATA[若旦那の独り言さん経由、Nokia の Bluetooth携帯と Mac OS X の iTunes, iPhoto をシンクさせるためのツール Nokia Media Transfer。 個人的には「どうやってるのか」 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.himajin.jp/mt/ei/2007/06/nokia_media_transfer.html" target="_blank" rel="noopener">若旦那の独り言</a>さん経由、Nokia の Bluetooth携帯と Mac OS X の iTunes, iPhoto をシンクさせるためのツール Nokia Media Transfer。</p>
+<p>個人的には「どうやってるのか」のほうが興味がある（笑）</p>
+<p>ムービーを見て iTunes のほうはなんとなく想像がついた。なるほど、こういう手があったか。これなら危ないハックをしなくても大丈夫そうだ。</p>
+<p>いまは時間がないのでやれないけど、WWNC が終わって時間ができたらこの手法を使って何か作ってみたい。</p>
+<p>⇒ <a href="http://europe.nokia.com/A4423134" target="_blank" rel="noopener">Nokia Media Transfer</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/06/09/nokia-media-transfer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>GPS-CS1K with Mac</title>
+		<link>/gnue/2007/03/18/gps-cs1k-with-mac/</link>
+					<comments>/gnue/2007/03/18/gps-cs1k-with-mac/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 18 Mar 2007 13:32:40 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GPS]]></category>
+		<category><![CDATA[Mac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/03/18/gps-cs1k-with-mac/</guid>
+
+					<description><![CDATA[Mac ではUSBマスストレージとして認識してくれない(*1)と言われていた GPS-CS1K ですが、Mac OS X 10.4.9 のアップデートで Intel Mac では使えるようになったようです（PPC の U [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000HDR6UW/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000HDR6UW.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>Mac ではUSBマスストレージとして認識してくれない(*1)と言われていた GPS-CS1K ですが、Mac  OS X 10.4.9 のアップデートで Intel Mac では使えるようになったようです（PPC の USBドライバはアップデートされなかった？）</p>
+<p>*1) 正確には最近 Mac Pro では認識される（ドライバのリビジョンが新しい）という話があって、10.4.9 によるUSBドライバのアップデートが待ち望まれていました</p>
+<p>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/03/18/gps-cs1k-with-mac/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Safari と Firefox の色味</title>
+		<link>/gnue/2007/02/06/safari-%e3%81%a8-firefox-%e3%81%ae%e8%89%b2%e5%91%b3/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 06 Feb 2007 01:38:00 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[safari]]></category>
+		<category><![CDATA[webcore]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/02/06/safari-%e3%81%a8-firefox-%e3%81%ae%e8%89%b2%e5%91%b3</guid>
+
+					<description><![CDATA[前々から Firefox って色が薄いなと思っていたのだけど同じ画像でも Safari(WebCore) とはこんなに色が違うんですね&#8230;orz ちなみに比較用の画像は Mac でキャプチャーしたので PNG  [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<a href='/gnue/2007/02/06/safari-%e3%81%a8-firefox-%e3%81%ae%e8%89%b2%e5%91%b3/safari-%e3%81%a8-firefox-%e3%81%ae%e8%89%b2%e5%91%b3-2/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2007/02/Safari-と-Firefox-の色味-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>前々から Firefox って色が薄いなと思っていたのだけど同じ画像でも Safari(WebCore) とはこんなに色が違うんですね&#8230;orz</p>
+<p>ちなみに比較用の画像は Mac でキャプチャーしたので PNG なんだけどこちらはちゃんと表示されていますね。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

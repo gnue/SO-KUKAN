@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	PSX, フリーズ へのコメント	</title>
+	<atom:link href="/gnue/2004/05/27/psx-%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BA/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/05/27/psx-%e3%83%95%e3%83%aa%e3%83%bc%e3%82%ba/</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 May 2004 01:28:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ゆうこりん &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%86%E3%81%86%E3%81%93%E3%82%8A%E3%82%93/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 21 Nov 2006 18:58:59 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>ゆうこりん命名 wizpy ?</title>
+		<link>/gnue/2006/11/22/%e3%82%86%e3%81%86%e3%81%93%e3%82%8a%e3%82%93%e5%91%bd%e5%90%8d-wizpy/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 21 Nov 2006 18:58:59 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[ターボリナックス]]></category>
+		<category><![CDATA[メディアプレーヤー]]></category>
+		<category><![CDATA[ゆうこりん]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/11/22/%e3%82%86%e3%81%86%e3%81%93%e3%82%8a%e3%82%93%e5%91%bd%e5%90%8d-wizpy</guid>
+
+					<description><![CDATA[発表会にはアイドルの小倉優子さんがwizpyの命名者として出席。命名は、同デバイスがPersonal Computer、Portability、Privacy、Playerの4つのPを備えていることから「with p」、 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote>
+<p>発表会にはアイドルの小倉優子さんがwizpyの命名者として出席。命名は、同デバイスがPersonal Computer、Portability、Privacy、Playerの4つのPを備えていることから「with p」、転じてwizpyと名付けたという。</p>
+<p>⇒ <a href="http://pc.watch.impress.co.jp/docs/2006/1121/tlinux.htm">ターボリナックス、Linux環境を持ち運びできるメディアプレーヤー</a>（PC Watch）</p>
+</blockquote>
+<p>ってことなんだけど、本当？　このネーミング、なんか小倉優子ってイメージじゃない。いかにものりピー（酒井法子）世代のおっさん（ビジネス系コンピュータ業界）がつけたようなネーミングなんだけどなぁ。「こういうネーミングにしたので、そういうことでよろしくね」という業界にありがちなパターンっすか。</p>
+<p>それにしても製品そのものはターゲットが見えない。コアなユーザは iPod でだってなんとかしちゃうし、完全なエンドユーザがわざわざ Linux でブートするかなぁ。結局在庫の山を抱えて１年後には投げ売りが関の山という気が&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

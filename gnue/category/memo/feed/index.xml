@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>memo &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/category/memo/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 13 Nov 2011 20:33:56 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>覚書き 2011年11月14日</title>
+		<link>/gnue/2011/11/14/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/</link>
+					<comments>/gnue/2011/11/14/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 13 Nov 2011 20:33:56 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/</guid>
+
+					<description><![CDATA[#memo INSTALL_PATH をデフォルトの &#8220;$(LOCAL_LIBRARY_DIR)/Frameworks&#8221; に変更して、DYLIB_INSTALL_NAME_BASE = &#822 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> INSTALL_PATH をデフォルトの &#8220;$(LOCAL_LIBRARY_DIR)/Frameworks&#8221; に変更して、DYLIB_INSTALL_NAME_BASE = &#8220;@<a href="http://twitter.com/loader_path">loader_path</a>/../Frameworks&#8221; を追加することによりアーカイブできる</li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://www.rssdigestpro.com/">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/11/14/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b411%e6%9c%8814%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年8月11日</title>
+		<link>/gnue/2011/08/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%8811%e6%97%a5/</link>
+					<comments>/gnue/2011/08/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%8811%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2011 11:13:11 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/08/%e8%a6%9a%e6%9b%b8%e3%81%8d/</guid>
+
+					<description><![CDATA[#memo Lion Server で PostgreSQL を使うときは /System/Library/LaunchDaemons/org.postgresql.postgres.plist を編集して listen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Lion Server で PostgreSQL を使うときは /System/Library/LaunchDaemons/org.postgresql.postgres.plist を編集して listen_addresses= に localhost 等を追加</li>
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Lion Server で PostgreSQL の管理コマンドを使う場合は sudo -u _postgres コマンド <a href="http://search.twitter.com/search?q=%23LionServer" title="#LionServer">#LionServer</a> <a href="http://search.twitter.com/search?q=%23PostgreSQL" title="#PostgreSQL">#PostgreSQL</a></li>
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Lion server では PostgreSQL は WikiサーバをONにしないと起動しないみたい。WikiサーバをOFFにしたままのときは
+<p>sudo serveradmin start postgres </p>
+<p>で起動  <a href="http://goo.gl/GfzwK">http://goo.gl/GfzwK</a></li>
+<p class="scrd_credit">Digest powered by <a href="http://www.rssdigestpro.com/">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/08/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%8811%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年8月9日</title>
+		<link>/gnue/2011/08/09/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/</link>
+					<comments>/gnue/2011/08/09/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2011 20:30:50 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/</guid>
+
+					<description><![CDATA[#memo Server.app でユーザを削除するとホームディレクトリが削除できない。これもシステム環境設定のほうならホームディレクトリの削除やアーカイブができる #LionServer #memo Server.ap [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Server.app でユーザを削除するとホームディレクトリが削除できない。これもシステム環境設定のほうならホームディレクトリの削除やアーカイブができる <a href="http://search.twitter.com/search?q=%23LionServer" title="#LionServer">#LionServer</a></li>
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Server.app からは「共有のみ」ユーザを作成できない。システム環境設定から「共有のみ」ユーザを作成すること <a href="http://search.twitter.com/search?q=%23LionServer" title="#LionServer">#LionServer</a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/08/09/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%889%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年8月7日</title>
+		<link>/gnue/2011/08/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/</link>
+					<comments>/gnue/2011/08/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 06 Aug 2011 20:30:39 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/</guid>
+
+					<description><![CDATA[#memo Time Machine から Lion Server のシステムを復元すると Wiki の設定他が読み込みエラーになった。システムログを見るとこれと同じ現象 http://goo.gl/4ZlhH Dige [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li><em><a href="http://search.twitter.com/search?q=%23memo" title="#memo">#memo</a></em> Time Machine から Lion Server のシステムを復元すると Wiki の設定他が読み込みエラーになった。システムログを見るとこれと同じ現象 <a href="http://goo.gl/4ZlhH">http://goo.gl/4ZlhH</a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/08/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b48%e6%9c%887%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年4月24日</title>
+		<link>/gnue/2011/04/24/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b44%e6%9c%8824%e6%97%a5/</link>
+					<comments>/gnue/2011/04/24/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b44%e6%9c%8824%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 23 Apr 2011 20:30:54 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/04/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b44%e6%9c%8824%e6%97%a5/</guid>
+
+					<description><![CDATA[Xcode 4 の TemplateInfo.plist を記述するときの参考になる http://www.wexion.net/yonishin_about_xcode_4_project_template.txt # [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li>Xcode 4 の TemplateInfo.plist を記述するときの参考になる <a href="http://www.wexion.net/yonishin_about_xcode_4_project_template.txt">http://www.wexion.net/yonishin_about_xcode_4_project_template.txt</a> <a href="http://search.twitter.com/search?q=%23memo"><b>#memo</b></a></li>
+<li>Xcode 4のスクリプトフェーズでxcodebuildを使う時のおまじない xcodebuild BUILD_DIR=&quot;${BUILD_DIR}&quot; SYMROOT=&quot;${SYMROOT}&quot; PROJECT_TEMP_DIR=&quot;${PROJECT_TEMP_DIR}&quot; <a href="http://search.twitter.com/search?q=%23memo"><b>#memo</b></a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/04/24/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b44%e6%9c%8824%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年4月8日</title>
+		<link>/gnue/2011/04/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b44%e6%9c%888%e6%97%a5/</link>
+					<comments>/gnue/2011/04/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b44%e6%9c%888%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2011 20:31:25 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/04/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b44%e6%9c%888%e6%97%a5/</guid>
+
+					<description><![CDATA[シングルトンの初期化に便利な dispatch_once ってこれか。Blocks使ってるから Mac OS X 10.6 と iOS 4以上でないと使えないのね http://bit.ly/dS48bd #memo D [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li>シングルトンの初期化に便利な dispatch_once ってこれか。Blocks使ってるから Mac OS X 10.6 と iOS 4以上でないと使えないのね <a href="http://bit.ly/dS48bd">http://bit.ly/dS48bd</a> <a href="http://search.twitter.com/search?q=%23memo"><b>#memo</b></a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/04/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b44%e6%9c%888%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年3月11日</title>
+		<link>/gnue/2011/03/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b43%e6%9c%8811%e6%97%a5/</link>
+					<comments>/gnue/2011/03/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b43%e6%9c%8811%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 10 Mar 2011 20:32:25 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/03/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b43%e6%9c%8811%e6%97%a5/</guid>
+
+					<description><![CDATA[iTunes が「シンクサービスからデータクラス情報を読み込めませんでした 。」とほざいてiPhone/iPadのバックアップできなくなってしまった。対処方法はこれ http://bit.ly/bvPJ1T #memo  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li>iTunes が「シンクサービスからデータクラス情報を読み込めませんでした 。」とほざいてiPhone/iPadのバックアップできなくなってしまった。対処方法はこれ <a href="http://bit.ly/bvPJ1T">http://bit.ly/bvPJ1T</a> <a href="http://search.twitter.com/search?q=%23memo"><b>#memo</b></a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/03/11/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b43%e6%9c%8811%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年2月8日</title>
+		<link>/gnue/2011/02/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%888%e6%97%a5/</link>
+					<comments>/gnue/2011/02/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%888%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2011 20:33:01 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/02/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%888%e6%97%a5/</guid>
+
+					<description><![CDATA[プロモーションコードはカードに印刷してイベント等で配ることもできる。次に何か App Store に出せたらこれをやってみる #memo Digest powered by RSS Digest]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li>プロモーションコードはカードに印刷してイベント等で配ることもできる。次に何か App Store に出せたらこれをやってみる <a href="http://search.twitter.com/search?q=%23memo"><b>#memo</b></a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/02/08/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%888%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年2月7日</title>
+		<link>/gnue/2011/02/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%887%e6%97%a5/</link>
+					<comments>/gnue/2011/02/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%887%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 06 Feb 2011 20:30:21 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/02/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%887%e6%97%a5/</guid>
+
+					<description><![CDATA[ふむ、Python 3.0って関数アノテーションがあるのね。オレオレ言語つくるときの参考になりそう http://bit.ly/eYnify http://ibm.co/hvuZKQ http://bit.ly/gr1w [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li>ふむ、Python 3.0って関数アノテーションがあるのね。オレオレ言語つくるときの参考になりそう <a href="http://bit.ly/eYnify">http://bit.ly/eYnify</a> <a href="http://ibm.co/hvuZKQ">http://ibm.co/hvuZKQ</a>  <a href="http://bit.ly/gr1wbt">http://bit.ly/gr1wbt</a> <a href="http://search.twitter.com/search?q=%23memo"><b>#memo</b></a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/02/07/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%887%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き 2011年2月2日</title>
+		<link>/gnue/2011/02/02/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%882%e6%97%a5/</link>
+					<comments>/gnue/2011/02/02/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%882%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 01 Feb 2011 20:30:25 +0000</pubDate>
+				<category><![CDATA[memo]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2011/02/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%882%e6%97%a5/</guid>
+
+					<description><![CDATA[【告知】AdHocビルドのipaファイルからiOSデバイスに直接インストールするための plist と HTML を生成するスクリプトをgithubに公開しました。よかったら使ってみて下さい https://github/ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="scrd_digest">
+<li>【告知】AdHocビルドのipaファイルからiOSデバイスに直接インストールするための plist と HTML を生成するスクリプトをgithubに公開しました。よかったら使ってみて下さい <a href="https://github.com/gnue/ipa2adhoc/">https://github.com/gnue/ipa2adhoc/</a> <a href="http://search.twitter.com/search?q=%23memo"><b>#memo</b></a></li>
+</ul>
+<p class="scrd_credit">Digest powered by <a href="http://geekfactor.charrington.com/projects/rss-digest">RSS Digest</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/02/02/%e8%a6%9a%e6%9b%b8%e3%81%8d-2011%e5%b9%b42%e6%9c%882%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

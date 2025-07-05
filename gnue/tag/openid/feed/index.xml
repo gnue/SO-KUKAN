@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpenID &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/openid/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Aug 2008 08:43:17 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>mixi OpenID に対応</title>
+		<link>/gnue/2008/08/25/mixi-openid-%e3%81%ab%e5%af%be%e5%bf%9c/</link>
+					<comments>/gnue/2008/08/25/mixi-openid-%e3%81%ab%e5%af%be%e5%bf%9c/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2008 08:43:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[mixi]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<category><![CDATA[OpenID]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1393</guid>
+
+					<description><![CDATA[といっても、コメントを入力するときに mixi の OpenID が入力できるだけですが。 なお FAQ として blogシステム（WordPress等）で cURL を使っている場合、デフォルトでルート証明書が入ってい [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				といっても、コメントを入力するときに mixi の OpenID が入力できるだけですが。</p>
+<p>なお FAQ として blogシステム（WordPress等）で cURL を使っている場合、デフォルトでルート証明書が入っていないため HTTPS を使っている mixi OpenID はサーバ証明書のベリファイに失敗してしまいます。</p>
+<p>私は下記のサイトを参考に mixi のサーバ証明書を追加しました。ちなみに Mac OS X の場合は /usr/share/curl/curl-ca-bundle.crt に追加します。</p>
+<p>⇒ <a href="http://insilico.jognote.com/blog/2008/08/13/curl-に-https-でアクセスできるように証明書を追加する/">cURL に HTTPS でアクセスできるように証明書を追加する</a>（jognote in silico）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/08/25/mixi-openid-%e3%81%ab%e5%af%be%e5%bf%9c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

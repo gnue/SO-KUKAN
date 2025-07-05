@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>アップル &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 13 Oct 2006 02:23:55 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>赤いヤツが来る</title>
+		<link>/gnue/2006/10/13/%e8%b5%a4%e3%81%84%e3%83%a4%e3%83%84%e3%81%8c%e6%9d%a5%e3%82%8b/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2006 02:23:55 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[アップル]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/10/13/%e8%b5%a4%e3%81%84%e3%83%a4%e3%83%84%e3%81%8c%e6%9d%a5%e3%82%8b</guid>
+
+					<description><![CDATA[アップルから赤い iPod nano が登場。シャア専用 iPod nano っすか(^^;？ 別に通常の３倍速く（再生され）てユーザがニュータイプでないと聴けない iPod nano というわけではなくて、チャリティ用 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>アップルから赤い iPod nano が登場。シャア専用 iPod nano っすか(^^;？</p>
+<p>別に通常の３倍速く（再生され）てユーザがニュータイプでないと聴けない iPod nano というわけではなくて、チャリティ用の限定カラーということらしい。言うなれば３倍社会貢献のできる iPod nano といったところか。</p>
+<div>追記：どうやらこのキャンペーン Apple 単独ではないようです。Motrola も携帯電話で参戦。</div>
+<div>⇒&#160;<strong><a href="http://www.apple.com/jp/ipodnano/red/">iPod nano <span style="font-size:1.5625em"><span style="color:#ff0000">(<span style="font-size:.64em">PRODUCT</span>)<span style="font-size:.64em">RED</span></span></span></a></strong><br />⇒ <a href="http://direct.motorola.com/hellomoto/red/">Motorola &amp; (PRODUCT) RED</a></div>
+<div></p>
+<div><br class="khtml-block-placeholder" /></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>skype &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/skype/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 13 Jul 2007 05:05:38 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Skype on N800</title>
+		<link>/gnue/2007/07/13/skype-on-n800-3/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 13 Jul 2007 05:05:38 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[N800]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[skype]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/07/13/skype-on-n800</guid>
+
+					<description><![CDATA[ようやく Nokia N800用の Skype がリリースされました。N800 で Skype を使うためには OS を&#160;Edition 2007 (version 4.2007.26-8) にアップデートする [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>ようやく Nokia N800用の Skype がリリースされました。N800 で Skype を使うためには OS を&#160;Edition 2007 (version 4.2007.26-8) にアップデートする必要があります。</p>
+<div><br class="khtml-block-placeholder" /></div>
+<div>OS をアップデートすると、Extras の下に Skype というのが入っているのでこれを選択するとネットからダウンロードしてインストールしてくれる。</p>
+<p>とりあえず自分の Mac とひとりSkypeしてみたけど何とか使えそう。<br />気になったところ。</p>
+<ul>
+<li>ビデオチャットには対応していません</li>
+<li>ステータスバーには対応していません</li>
+<li>常に起動していないといけません</li>
+<li>音声通話中はテキストチャットができません（モーダルダイアログが画面を隠してしまうため、ださぁ）</li>
+</ul>
+</div>
+<div><br class="khtml-block-placeholder" /></div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Skype on N800</title>
+		<link>/gnue/2007/06/30/skype-on-n800-2-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 30 Jun 2007 02:07:36 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[N800]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[skype]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/06/30/skype-on-n800-2</guid>
+
+					<description><![CDATA[iPhone フィーバーの陰に隠れてあまり（ほとんど？）報道されていませんが Digital Experience show の NOKIAブースにて N800 で Skype が動作していたようです。 もう約束の上半期 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>iPhone フィーバーの陰に隠れてあまり（ほとんど？）報道されていませんが Digital Experience show の NOKIAブースにて N800 で Skype が動作していたようです。</p>
+<p>もう約束の上半期を過ぎてしまいましたが、７月中にはなんとかリリースしそうな雰囲気ですね。</p>
+<p>⇒ <a href="http://jkontherun.blogs.com/jkontherun/2007/06/skype-on-the-no.html">Skype on the Nokia N800: it&#039;s alive, it&#039;s ALIVE!</a>（jkOnTheRun）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

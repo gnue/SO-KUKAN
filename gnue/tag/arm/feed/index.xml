@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ARM &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/arm/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 12 Apr 2008 22:47:20 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Design Wave 2008年 05月号</title>
+		<link>/gnue/2008/04/13/design-wave-2008%e5%b9%b4-05%e6%9c%88%e5%8f%b7/</link>
+					<comments>/gnue/2008/04/13/design-wave-2008%e5%b9%b4-05%e6%9c%88%e5%8f%b7/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 12 Apr 2008 22:47:20 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[ARM]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[書籍付録]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1227</guid>
+
+					<description><![CDATA[付録に ARM Cortex-M3 基板がついてくる。3軸加速度センサもついてる。気の迷いで入手済み。 でも開発環境が Windows なんだよね。Macだけでなんとかならないものか。とりあえず、以下のサイトが参考になり [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00166B0M4/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B00166B0M4.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>付録に ARM Cortex-M3 基板がついてくる。3軸加速度センサもついてる。気の迷いで入手済み。<br />
+</p>
+<p>でも開発環境が Windows なんだよね。Macだけでなんとかならないものか。とりあえず、以下のサイトが参考になりそうなのでメモしておく。</p>
+<p>⇒ <a href="http://www.siwawi.arubi.uni-kl.de/avr_projects/arm_projects/index_cortex.html">ARMv7 Cortex-M3 Projects</a><br />
+⇒ <a href="http://moteprime.org/article.php?id=27">Using the LM3S811 Evaluation Board under Linux</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/04/13/design-wave-2008%e5%b9%b4-05%e6%9c%88%e5%8f%b7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iPhone は３つの ARM プロセッサを搭載</title>
+		<link>/gnue/2007/02/10/iphone-%e3%81%af%ef%bc%93%e3%81%a4%e3%81%ae-arm-%e3%83%97%e3%83%ad%e3%82%bb%e3%83%83%e3%82%b5%e3%82%92%e6%90%ad%e8%bc%89/</link>
+					<comments>/gnue/2007/02/10/iphone-%e3%81%af%ef%bc%93%e3%81%a4%e3%81%ae-arm-%e3%83%97%e3%83%ad%e3%82%bb%e3%83%83%e3%82%b5%e3%82%92%e6%90%ad%e8%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 09 Feb 2007 15:30:11 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[ARM]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/02/10/iphone-%e3%81%af%ef%bc%93%e3%81%a4%e3%81%ae-arm-%e3%83%97%e3%83%ad%e3%82%bb%e3%83%83%e3%82%b5%e3%82%92%e6%90%ad%e8%bc%89/</guid>
+
+					<description><![CDATA[(via Modern Syntax) 英ARM社の CEO によると iPhone には少なくとも３つの ARM プロセッサを搭載しているそうです。 ひとつはPXA320（Marvell に買収された Xscale の [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				(via <a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/2007/02/appleiphonearm.html" target="_blank" rel="noopener">Modern Syntax</a>) 英ARM社の CEO によると iPhone には少なくとも３つの ARM プロセッサを搭載しているそうです。</p>
+<p>ひとつは<a href="http://www.marvell.com/products/cellular/application/pxa320.jsp" target="_blank" rel="noopener">PXA320</a>（Marvell に買収された Xscale の後継）。「iPhone には Intel チップが搭載されている／されていない」という噂がありましたがある意味どちらも正解だったということですね。</p>
+<p>⇒ <a href="http://www.informationweek.com/news/showArticle.jhtml?articleID=197003973&amp;subSection=Breaking%20News" target="_blank" rel="noopener">What&#8217;s Inside Apple&#8217;s iPhone? Three ARM Processors</a>（InformationWeek）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/02/10/iphone-%e3%81%af%ef%bc%93%e3%81%a4%e3%81%ae-arm-%e3%83%97%e3%83%ad%e3%82%bb%e3%83%83%e3%82%b5%e3%82%92%e6%90%ad%e8%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

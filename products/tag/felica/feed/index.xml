@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FeliCa &#8211; 鵺的：創空間</title>
+	<atom:link href="/products/tag/felica/feed/" rel="self" type="application/rss+xml" />
+	<link>/products</link>
+	<description>Are Your Lights On?</description>
+	<lastBuildDate>Thu, 10 Feb 2011 05:34:25 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>ReceiptKeeper 1.0リリース</title>
+		<link>/products/2011/02/10/receiptkeeper/</link>
+					<comments>/products/2011/02/10/receiptkeeper/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 10 Feb 2011 05:34:25 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Edy]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[PaSoRi]]></category>
+		<category><![CDATA[Suica]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/products/?p=245</guid>
+
+					<description><![CDATA[Available on the App Store ReceiptKeeper を Mac App Store からリリースしました。ReceiptKeeperを Mac App Store からリリースしました。]]></description>
+										<content:encoded><![CDATA[<p>				<!--:ja--><a href="https://so-kukan.com/products/receiptkeeper/"><img decoding="async" src="https://so-kukan.com/products/files/2011/01/ReceiptKeeper-150x150.png" alt="" title="ReceiptKeeper" width="150" height="150" class="alignnone size-thumbnail wp-image-163" srcset="/products/wp-content/uploads/sites/4/2011/01/ReceiptKeeper-150x150.png 150w, /products/wp-content/uploads/sites/4/2011/01/ReceiptKeeper.png 256w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p><a href="http://itunes.apple.com/jp/app/receiptkeeper/id413449473?mt=12" class="button">Available on the App Store</a></p>
+<p><a href="https://so-kukan.com/products/receiptkeeper/">ReceiptKeeper</a> を Mac App Store からリリースしました。<!--:--><!--:en--><a href="https://so-kukan.com/products/receiptkeeper/">ReceiptKeeper</a>を Mac App Store からリリースしました。<!--:-->		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/products/2011/02/10/receiptkeeper/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

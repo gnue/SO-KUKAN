@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	SheepShaver on Intel Mac へのコメント	</title>
+	<atom:link href="/gnue/2006/01/17/sheepshaver-on-intel-mac/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/01/17/sheepshaver-on-intel-mac/</link>
+	<description></description>
+	<lastBuildDate>Sat, 18 Feb 2006 13:30:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		こんなことあるんだよね より		</title>
+		<link>/gnue/2006/01/17/sheepshaver-on-intel-mac/#comment-646</link>
+
+		<dc:creator><![CDATA[こんなことあるんだよね]]></dc:creator>
+		<pubDate>Sat, 18 Feb 2006 13:30:17 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/01/17/sheepshaver-on-intel-mac/#comment-646</guid>
+
+					<description><![CDATA[&lt;strong&gt;SheepShaver&lt;/strong&gt;
+
+エミュレーターなので、カテゴリーがアプリではないような気がしないでもないけど、あまり気にせずにアプリにエントリーさせた「SheepShaver」は、M...]]></description>
+			<content:encoded><![CDATA[<p><strong>SheepShaver</strong></p>
+<p>エミュレーターなので、カテゴリーがアプリではないような気がしないでもないけど、あまり気にせずにアプリにエントリーさせた「SheepShaver」は、M&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

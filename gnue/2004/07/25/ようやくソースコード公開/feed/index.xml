@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	ようやくソースコード公開 へのコメント	</title>
+	<atom:link href="/gnue/2004/07/25/%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E5%85%AC%E9%96%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/</link>
+	<description></description>
+	<lastBuildDate>Tue, 21 Sep 2004 13:39:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-74</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Tue, 21 Sep 2004 13:39:25 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-74</guid>
+
+					<description><![CDATA[確かに、失礼しました。orz(さっそく使ってみる)]]></description>
+			<content:encoded><![CDATA[<p>確かに、失礼しました。orz(さっそく使ってみる)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-73</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Tue, 21 Sep 2004 13:08:46 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-73</guid>
+
+					<description><![CDATA[const char* の件は極力改善するように努力します(^^;
+nps_inputdata_t の limit が int なのは確かに変ですね。char* に変更します。
+NPSParseStr の件は勘違いだと思います。NPSParse の戻り値を err に代入しています。]]></description>
+			<content:encoded><![CDATA[<p>const char* の件は極力改善するように努力します(^^;<br />
+nps_inputdata_t の limit が int なのは確かに変ですね。char* に変更します。<br />
+NPSParseStr の件は勘違いだと思います。NPSParse の戻り値を err に代入しています。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-72</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Tue, 21 Sep 2004 12:25:42 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-72</guid>
+
+					<description><![CDATA[NewrParser.cで気がついた点。
+引数const char*で受けてchar*に代入するのはチョット気持が悪い。
+nps_inputdata_tのlimitがintになっているが文字列の最後を示していると思うのでchar*の方がいいのでは。
+BeOSの場合ヒープやスタック領域のアドレスは上位ビットが立っているのでintでキャストすると問題が発生してしまう。
+NPSParseStrでerrが設定されないままerrを返している。]]></description>
+			<content:encoded><![CDATA[<p>NewrParser.cで気がついた点。<br />
+引数const char*で受けてchar*に代入するのはチョット気持が悪い。<br />
+nps_inputdata_tのlimitがintになっているが文字列の最後を示していると思うのでchar*の方がいいのでは。<br />
+BeOSの場合ヒープやスタック領域のアドレスは上位ビットが立っているのでintでキャストすると問題が発生してしまう。<br />
+NPSParseStrでerrが設定されないままerrを返している。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-71</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Tue, 21 Sep 2004 11:25:46 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-71</guid>
+
+					<description><![CDATA[はい、コメント・要望はこちらでかまいません。]]></description>
+			<content:encoded><![CDATA[<p>はい、コメント・要望はこちらでかまいません。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-70</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Tue, 21 Sep 2004 11:18:34 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e5%85%ac%e9%96%8b/#comment-70</guid>
+
+					<description><![CDATA[ソースコードに対するコメント、要望などはこちらでいいのでしょうか。それとも直にメールの方がいいのでしょうか。]]></description>
+			<content:encoded><![CDATA[<p>ソースコードに対するコメント、要望などはこちらでいいのでしょうか。それとも直にメールの方がいいのでしょうか。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

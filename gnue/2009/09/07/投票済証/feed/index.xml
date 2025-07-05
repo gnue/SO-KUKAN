@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	投票済証 へのコメント	</title>
+	<atom:link href="/gnue/2009/09/07/%E6%8A%95%E7%A5%A8%E6%B8%88%E8%A8%BC/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/09/07/%e6%8a%95%e7%a5%a8%e6%b8%88%e8%a8%bc/</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Sep 2009 07:44:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

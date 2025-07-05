@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	種子島なう へのコメント	</title>
+	<atom:link href="/gnue/2009/07/21/%E7%A8%AE%E5%AD%90%E5%B3%B6%E3%81%AA%E3%81%86/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/07/21/%e7%a8%ae%e5%ad%90%e5%b3%b6%e3%81%aa%e3%81%86/</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Jul 2009 04:49:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2009/07/21/%e7%a8%ae%e5%ad%90%e5%b3%b6%e3%81%aa%e3%81%86/#comment-896</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 25 Jul 2009 04:49:09 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2725#comment-896</guid>
+
+					<description><![CDATA[種子島は厚い雲に覆われて惨敗でした(;_;)]]></description>
+			<content:encoded><![CDATA[<p>種子島は厚い雲に覆われて惨敗でした(;_;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		さい より		</title>
+		<link>/gnue/2009/07/21/%e7%a8%ae%e5%ad%90%e5%b3%b6%e3%81%aa%e3%81%86/#comment-895</link>
+
+		<dc:creator><![CDATA[さい]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2009 12:42:12 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2725#comment-895</guid>
+
+					<description><![CDATA[日食見ちゃいました！
+自ブログに写真ありです。]]></description>
+			<content:encoded><![CDATA[<p>日食見ちゃいました！<br />
+自ブログに写真ありです。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

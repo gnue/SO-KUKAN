@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	川柳：水のマージナル へのコメント	</title>
+	<atom:link href="/gnue/2004/06/24/%E5%B7%9D%E6%9F%B3%EF%BC%9A%E6%B0%B4%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%8A%E3%83%AB/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/06/24/%e5%b7%9d%e6%9f%b3%ef%bc%9a%e6%b0%b4%e3%81%ae%e3%83%9e%e3%83%bc%e3%82%b8%e3%83%8a%e3%83%ab/</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Jun 2004 13:58:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

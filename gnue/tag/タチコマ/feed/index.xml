@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>タチコマ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%BF%E3%83%81%E3%82%B3%E3%83%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 21 Oct 2006 14:49:50 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>プチタチコマ</title>
+		<link>/gnue/2006/10/21/%e3%83%97%e3%83%81%e3%82%bf%e3%83%81%e3%82%b3%e3%83%9e-2-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 21 Oct 2006 14:49:50 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[タチコマ]]></category>
+		<category><![CDATA[攻殻機動隊]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/10/21/%e3%83%97%e3%83%81%e3%82%bf%e3%83%81%e3%82%b3%e3%83%9e-2</guid>
+
+					<description><![CDATA[プラモデル・ラジコンショーにチョロQ風のタチコマ『プチタチコマ』が出展されていたらしい。プルバックゼンマイで走行し来年３月発売予定。 大きさはどれくらいなんだろう。Qステアのシステムとか移植できると面白いのだが。 ⇒ 萌 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>プラモデル・ラジコンショーにチョロQ風のタチコマ『プチタチコマ』が出展されていたらしい。プルバックゼンマイで走行し来年３月発売予定。</p>
+<p>大きさはどれくらいなんだろう。Qステアのシステムとか移植できると面白いのだが。</p>
+<p>⇒ <a href="http://journal.mycom.co.jp/articles/2006/10/21/plamodel/002.html">萌えより燃えを! 渋い大人が手に汗握る「プラモデル・ラジコンショー」開幕</a>（MYCOMジャーナル）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

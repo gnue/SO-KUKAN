@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AirMac Express &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/airmac-express/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Sep 2005 14:19:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>とほほ、AirMac Express の電源が入らなくなった</title>
+		<link>/gnue/2005/09/27/%e3%81%a8%e3%81%bb%e3%81%bb%e3%80%81airmac-express-%e3%81%ae%e9%9b%bb%e6%ba%90%e3%81%8c%e5%85%a5%e3%82%89%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f/</link>
+					<comments>/gnue/2005/09/27/%e3%81%a8%e3%81%bb%e3%81%bb%e3%80%81airmac-express-%e3%81%ae%e9%9b%bb%e6%ba%90%e3%81%8c%e5%85%a5%e3%82%89%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2005 14:19:02 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[AirMac Express]]></category>
+		<category><![CDATA[Life]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/09/27/%e3%81%a8%e3%81%bb%e3%81%bb%e3%80%81airmac-express-%e3%81%ae%e9%9b%bb%e6%ba%90%e3%81%8c%e5%85%a5%e3%82%89%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f/</guid>
+
+					<description><![CDATA[うぎゃ、無線LAN が繋がらないと思ったら AirMac Express がむちゃくちゃ発熱。熱をさまそうとしばらくコンセントからはずして、もう大丈夫かとコンセントにつなげてみたらパワーランプが点灯しなくなっちゃいました [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0002GSAO0/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0002GSAO0.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>うぎゃ、無線LAN が繋がらないと思ったら AirMac Express がむちゃくちゃ発熱。熱をさまそうとしばらくコンセントからはずして、もう大丈夫かとコンセントにつなげてみたらパワーランプが点灯しなくなっちゃいました。ハンダの溶けたような匂いがするし&#8230;</p>
+<p>追記 9/28：</p>
+<p>Apple のサポートラインに電話したら、本体交換になるので有償修理(*1)だと新品を購入するのと変わらない値段になるということ。無線LAN がないと不便極まりないので同じ商品（AirMac Express）をポチっとする。あう、予定外の出費だ。</p>
+<p>Apple の無線LANは他社に比べて割高(*2)なのだけど、Apple の管理ソフトの使いやすさに慣れちゃうと他の製品でうだうだと設定する気にならないんだよね。</p>
+<p>あとは、この壊れた AirMac Express を分解して自力で直せるか。AirMac Express の分解情報求む。</p>
+<p>追記 9/30：</p>
+<p>昨日、不在（というか、たぶんシャワーを浴びてたとき？）のときに宅配便が来ていたらしいのだが、不在連絡票がドアのポストのちょう〜〜〜ど見えないところに隠れていてさっきようやく気がついた。ということで無線LAN復活は明日に持ち越し。</p>
+<p>追記 10/1：</p>
+<p>AirMac Express が到着。これで無線LAN環境が復活できます。</p>
+<p>*1) 購入14ヶ月目、最初の数ヶ月は予備として数回使っただけなので常設稼働からは１年経ってないという。とほほ。。。<br />
+*2) もっとも Apple が最初出したころは戦略的な価格だった<br />
+		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/09/27/%e3%81%a8%e3%81%bb%e3%81%bb%e3%80%81airmac-express-%e3%81%ae%e9%9b%bb%e6%ba%90%e3%81%8c%e5%85%a5%e3%82%89%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AirMac Express 購入</title>
+		<link>/gnue/2004/08/01/airmac-express-%e8%b3%bc%e5%85%a5/</link>
+					<comments>/gnue/2004/08/01/airmac-express-%e8%b3%bc%e5%85%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 01 Aug 2004 03:54:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[AirMac Express]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/08/01/airmac-express-%e8%b3%bc%e5%85%a5/</guid>
+
+					<description><![CDATA[昨日、AirMac Express が到着。プリンタ共有も AirTunes も問題なく使えました。 せっかくなので FMV LOOX T50H にも AirMac の管理ユーティリティをインストール。ふむ、AirTun [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				昨日、AirMac Express が到着。プリンタ共有も AirTunes も問題なく使えました。</p>
+<p>せっかくなので FMV LOOX T50H にも AirMac の管理ユーティリティをインストール。ふむ、AirTunes 対応の iTunes for Win も一緒にインストールされました。データを移すのが面倒なので iTunes の音楽共有を使い</p>
+<p>　iBook G4 &#8211;&gt; FMV LOOX T50H &#8211;&gt; AirMac Express</p>
+<p>で再生してみました。全然意味ないけどちゃんと聴けますね（笑）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/08/01/airmac-express-%e8%b3%bc%e5%85%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

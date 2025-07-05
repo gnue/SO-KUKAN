@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>選挙 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E9%81%B8%E6%8C%99/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 12 Jul 2009 05:45:18 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>都議会選挙の投票</title>
+		<link>/gnue/2009/07/12/%e9%83%bd%e8%ad%b0%e4%bc%9a%e9%81%b8%e6%8c%99%e3%81%ae%e6%8a%95%e7%a5%a8/</link>
+					<comments>/gnue/2009/07/12/%e9%83%bd%e8%ad%b0%e4%bc%9a%e9%81%b8%e6%8c%99%e3%81%ae%e6%8a%95%e7%a5%a8/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 12 Jul 2009 05:45:18 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[選挙]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2711</guid>
+
+					<description><![CDATA[とりあえず都民の義務として投票してきました。 積極的に一票入れたい候補者がいないのでどうしても消去法になってしまう。 自民党、共産党および宗教系の政党は除外 ホームページを持ってない候補者は除外 マニフェストが党へのリン [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				とりあえず都民の義務として投票してきました。<br />
+積極的に一票入れたい候補者がいないのでどうしても消去法になってしまう。</p>
+<ul>
+<li>自民党、共産党および宗教系の政党は除外</li>
+<li>ホームページを持ってない候補者は除外</li>
+<li>マニフェストが党へのリンクばかりの候補者は除外(*1)</li>
+<li>あとは公約や言ってることを勘案して&#8230;</li>
+</ul>
+<p>*1) 自分の言葉で公約や政策をのべられないようじゃ政治家として終わってる</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/07/12/%e9%83%bd%e8%ad%b0%e4%bc%9a%e9%81%b8%e6%8c%99%e3%81%ae%e6%8a%95%e7%a5%a8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

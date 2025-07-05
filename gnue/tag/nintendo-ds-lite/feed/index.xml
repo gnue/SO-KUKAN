@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nintendo ds lite &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/nintendo-ds-lite/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 06 Jan 2007 16:30:45 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>New iPod?</title>
+		<link>/gnue/2007/01/07/new-ipod/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 06 Jan 2007 16:30:45 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[nintendo ds lite]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/01/07/new-ipod</guid>
+
+					<description><![CDATA[Engadget 経由のネタ。 うわぁ、この手があったか（笑） ⇒ iPod on ニンテンドーDS（Engadget）]]></description>
+										<content:encoded><![CDATA[<p>Engadget 経由のネタ。</p>
+<div>うわぁ、この手があったか（笑）</p>
+<p>⇒ <a href="http://japanese.engadget.com/2007/01/05/ipod-clone-for-nintendo-ds/">iPod on ニンテンドーDS</a>（Engadget）</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

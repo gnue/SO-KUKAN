@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MacBook Pro &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/macbook-pro/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Feb 2008 14:22:59 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>新しい MacBook と MacBook Pro</title>
+		<link>/gnue/2008/02/26/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/</link>
+					<comments>/gnue/2008/02/26/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 26 Feb 2008 14:22:59 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/02/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/</guid>
+
+					<description><![CDATA[噂通り、新しい MacBook と MacBook Pro が出ましたね。でも MacBook は LEDバックライト・ディレプレイじゃないんだよね。がっくし。 さてと、もう半年待とうかな&#8230;.(^^;]]></description>
+										<content:encoded><![CDATA[<p>				噂通り、新しい MacBook と MacBook Pro が出ましたね。でも MacBook は LEDバックライト・ディレプレイじゃないんだよね。がっくし。</p>
+<p>さてと、もう半年待とうかな&#8230;.(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/02/26/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>新型 MacBook Pro</title>
+		<link>/gnue/2006/10/25/%e6%96%b0%e5%9e%8b-macbook-pro/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 24 Oct 2006 17:06:37 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/10/25/%e6%96%b0%e5%9e%8b-macbook-pro</guid>
+
+					<description><![CDATA[なんか何の予告もなくいきなりの登場ですね。 ふーん、39% 高速なんだ。でも個人的にはもう速度はこれ以上必要ないから、消費電力が低くて、バッテリ駆動時間が長くて、かつ熱くならない MacBook を出してもらいたいもので [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>なんか何の予告もなくいきなりの登場ですね。</p>
+<p>ふーん、39% 高速なんだ。でも個人的にはもう速度はこれ以上必要ないから、消費電力が低くて、バッテリ駆動時間が長くて、かつ熱くならない MacBook を出してもらいたいものである。さらに薄くて軽ければ言うことなし。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

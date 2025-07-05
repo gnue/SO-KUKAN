@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>foleo &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/foleo/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 04 Sep 2007 14:04:01 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Foleo 出荷中止</title>
+		<link>/gnue/2007/09/04/foleo-%e5%87%ba%e8%8d%b7%e4%b8%ad%e6%ad%a2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2007 14:04:01 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[foleo]]></category>
+		<category><![CDATA[Palm]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/09/04/foleo-%e5%87%ba%e8%8d%b7%e4%b8%ad%e6%ad%a2</guid>
+
+					<description><![CDATA[Palm が出荷間近だった Foleo の販売を中止したらしい。 ⇒ Palm、Foleoをキャンセル（Engadget）]]></description>
+										<content:encoded><![CDATA[<div>Palm が出荷間近だった Foleo の販売を中止したらしい。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>⇒ <a href="http://japanese.engadget.com/2007/09/04/palm-foleo/">Palm、Foleoをキャンセル</a>（Engadget）</div>
+<div><br class="khtml-block-placeholder" /></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>モバイルコンパニオン Palm Foleo</title>
+		<link>/gnue/2007/05/30/%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e3%82%b3%e3%83%b3%e3%83%91%e3%83%8b%e3%82%aa%e3%83%b3-palm-foleo-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 30 May 2007 13:23:26 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[foleo]]></category>
+		<category><![CDATA[Palm]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/05/30/%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e3%82%b3%e3%83%b3%e3%83%91%e3%83%8b%e3%82%aa%e3%83%b3-palm-foleo</guid>
+
+					<description><![CDATA[Palm, Inc. の新しいデバイス Palm Foleo が発表されています。 事前の噂通り Linux ベースのサブノート（？）。モバイルコンパニオンという新しいコンセプトでフルスペックのPCではなくメールやブラウ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Palm, Inc. の新しいデバイス Palm Foleo が発表されています。</p>
+<p>事前の噂通り Linux ベースのサブノート（？）。モバイルコンパニオンという新しいコンセプトでフルスペックのPCではなくメールやブラウザなどのインターネット端末＋Treo (Palm OS, Windows Mobile)連携に重点が置かれているようです。</p>
+<p>技術的にはそれほど目新しいところはない感じですが、ハードデザインやソフトデザイン、それに価格設定のさじ加減はさすが Palm, Inc. といったところでしょうか。</p>
+<p>ただ、価格を考えればしょうがないとはいえ連続駆動時間＝約5時間（短い :-{）、重さ＝2ポンド（約900g、日本だとこの重さでフルスペックのサブノートの実現している）はちょっと微妙。</p>
+<p>出たらとりあえず１台購入したい。</p>
+<p>追記：ところで波打っているディスプレイ背面とかコンセプトとかなんとなく富士通が昔出していた INTERTop（初期のDOSモデルの方）を思い出す。INTERTop をいまの技術でリデザインしたらこんな感じだろうか。</p>
+<p>追記２：タッチパネルでないのは非常に残念</p>
+<p>⇒ <a href="http://www.palm.com/us/products/mobilecompanion/foleo/">Foleo</a>（Palm）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

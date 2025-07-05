@@ -1,0 +1,72 @@
+body,th,td {
+	font-size: 10px;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+.gnue {
+	font-size: 40px;
+}
+
+.body {
+	line-height: 130%;
+}
+
+.topic {
+	font-size: 10px;
+}
+
+.book {
+	font-size: 12px;
+}
+
+.book-sub {
+	font-size: 10px;
+}
+
+ul#event {
+	list-style-image: url(/gnue/wp-content/themes/so_kukan2/img/event.gif);
+	line-height: 150%;
+}
+
+ul#tv {
+	list-style-image: url(/gnue/wp-content/themes/so_kukan2/img/tv.gif);
+	line-height: 150%;
+}
+
+ul#ideanote {
+	list-style-image: url(/gnue/wp-content/themes/so_kukan2/img/idea.gif);
+	line-height: 150%;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.footer {
+	text-align: center;
+}
+
+.footer hr {
+	margin: 0;
+}
+
+#page {
+	background-color: #fff;
+	text-align: left;
+}
+
+#comments {
+	margin: 30px;
+}
+
+.child-pages {
+	text-align: left;
+}
+
+.smart-social-share-container.button-count {
+       margin-left: 10px;
+}

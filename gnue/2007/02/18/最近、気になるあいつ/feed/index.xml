@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	最近、気になるあいつ へのコメント	</title>
+	<atom:link href="/gnue/2007/02/18/%E6%9C%80%E8%BF%91%E3%80%81%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%82%E3%81%84%E3%81%A4/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2007/02/18/%e6%9c%80%e8%bf%91%e3%80%81%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%82%e3%81%84%e3%81%a4/</link>
+	<description></description>
+	<lastBuildDate>Sat, 17 Feb 2007 15:41:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

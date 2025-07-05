@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>次世代PHS &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E6%AC%A1%E4%B8%96%E4%BB%A3phs/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Jul 2008 15:18:52 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>次世代PHS まであと１年</title>
+		<link>/gnue/2008/07/23/%e6%ac%a1%e4%b8%96%e4%bb%a3phs-%e3%81%be%e3%81%a7%e3%81%82%e3%81%a8%ef%bc%91%e5%b9%b4/</link>
+					<comments>/gnue/2008/07/23/%e6%ac%a1%e4%b8%96%e4%bb%a3phs-%e3%81%be%e3%81%a7%e3%81%82%e3%81%a8%ef%bc%91%e5%b9%b4/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2008 15:18:52 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[WILLCOM]]></category>
+		<category><![CDATA[ケータイ]]></category>
+		<category><![CDATA[次世代PHS]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1300</guid>
+
+					<description><![CDATA[ほんとうは次世代PHSのほうが iPhone みたいな製品と相性がいい（高速通信、省電力）だよね。Apple が日本（あるいはアジアの一部）ローカルの次世代PHSに対応する可能性はほとんど皆無だけれど、モバイルルーターみ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ほんとうは次世代PHSのほうが iPhone みたいな製品と相性がいい（高速通信、省電力）だよね。Apple が日本（あるいはアジアの一部）ローカルの次世代PHSに対応する可能性はほとんど皆無だけれど、モバイルルーターみたいな製品を是非出してもらいたいものである。</p>
+<p>⇒ <a href="http://plusd.itmedia.co.jp/mobile/articles/0807/22/news110.html">「WILLCOM CORE」は、現行PHSとのデュアル端末でスタート――ウィルコム</a>（ITmedia）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/07/23/%e6%ac%a1%e4%b8%96%e4%bb%a3phs-%e3%81%be%e3%81%a7%e3%81%82%e3%81%a8%ef%bc%91%e5%b9%b4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

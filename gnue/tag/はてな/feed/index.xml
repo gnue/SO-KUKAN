@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>はてな &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%81%AF%E3%81%A6%E3%81%AA/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 15 Feb 2007 22:24:57 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>はてなTV “Rimo”</title>
+		<link>/gnue/2007/02/16/%e3%81%af%e3%81%a6%e3%81%aatv-rimo/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 15 Feb 2007 22:24:57 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[rimo]]></category>
+		<category><![CDATA[はてな]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/02/16/%e3%81%af%e3%81%a6%e3%81%aatv-%e2%80%9crimo%e2%80%9d</guid>
+
+					<description><![CDATA[日本Web界の雄「はてな」が YouTube のコンテンツを Wii もしくは PC でダラ見できるサービス “Rimo” を開始したそうです。 予想通りというか、のっけから著作権違反コンテンツのオンパレード :-{ キ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>日本Web界の雄「はてな」が YouTube のコンテンツを Wii もしくは PC でダラ見できるサービス “Rimo” を開始したそうです。</p>
+<p>予想通りというか、のっけから著作権違反コンテンツのオンパレード :-{</p>
+<p>キーワードと参照回数（ランキング？）からピックアップすれば著作権者に許可を得ていないコンテンツ（TV番組等）が選ばれるのは予想に火を見るよりあきらか。まぁ確信犯でやっているんだろうけど、これから「はてな」は訴訟リスクを抱えることになるわけだ。</p>
+<p>⇒ <a href="http://www.itmedia.co.jp/news/articles/0702/16/news037.html">YouTubeをテレビで“ダラ見”　はてな、Wii対応の動画サービス</a>（ITmedia）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

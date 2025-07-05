@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Open Source Conference 2004 へのコメント	</title>
+	<atom:link href="/gnue/2004/09/04/open-source-conference-2004/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/09/04/open-source-conference-2004/</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Sep 2004 11:02:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/04/open-source-conference-2004/#comment-98</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sun, 19 Sep 2004 11:02:55 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/04/open-source-conference-2004/#comment-98</guid>
+
+					<description><![CDATA[阿部さん、コメントありがとうございます。
+分散オブジェクトの世界ですね。なかなか難しそう(^^;]]></description>
+			<content:encoded><![CDATA[<p>阿部さん、コメントありがとうございます。<br />
+分散オブジェクトの世界ですね。なかなか難しそう(^^;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		abee より		</title>
+		<link>/gnue/2004/09/04/open-source-conference-2004/#comment-97</link>
+
+		<dc:creator><![CDATA[abee]]></dc:creator>
+		<pubDate>Sun, 19 Sep 2004 07:07:52 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/04/open-source-conference-2004/#comment-97</guid>
+
+					<description><![CDATA[こんにちは。阿部です。Squeak祭りにご参加ありがとうございます。NetMorphのドキュメントはこちらにあります(http://swikis.ddo.jp/NetMorph/)。基本的にはすべてのモーフにUUIDを振り、マップを検索してネット上の位置を特定したら、そのプロキシをローカルに生成し、それを経由してORBでコントロールという感じです。プロトコルは当初SOAPを使っていましたが、XMLのオーバヘッドが大きかったのでバイナリの独自プロトコルになっています。Morphicの実装はこのような拡張をあまり考慮されていなかったので、既存のeToysでできることがネット越しでもできるという当たり前のことを実現するのに苦労しました。]]></description>
+			<content:encoded><![CDATA[<p>こんにちは。阿部です。Squeak祭りにご参加ありがとうございます。NetMorphのドキュメントはこちらにあります(<a href="http://swikis.ddo.jp/NetMorph/" rel="nofollow ugc">http://swikis.ddo.jp/NetMorph/</a>)。基本的にはすべてのモーフにUUIDを振り、マップを検索してネット上の位置を特定したら、そのプロキシをローカルに生成し、それを経由してORBでコントロールという感じです。プロトコルは当初SOAPを使っていましたが、XMLのオーバヘッドが大きかったのでバイナリの独自プロトコルになっています。Morphicの実装はこのような拡張をあまり考慮されていなかったので、既存のeToysでできることがネット越しでもできるという当たり前のことを実現するのに苦労しました。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xml:lang="ja"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	>
+	<title type="text">
+	鵺的：想空間 へのコメント	</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2016-08-07T15:21:39Z</updated>
+
+	<link rel="alternate" type="text/html" href="/gnue" />
+	<link rel="self" type="application/atom+xml" href="/gnue/comments/feed/atom/" />
+	<id>/gnue/comments/feed/atom/</id>
+<generator uri="https://wordpress.org/" version="6.5.5">WordPress</generator>
+	<entry>
+		<title>
+		佐々木 久 より Newton へのコメント		</title>
+		<link rel="alternate" href="/gnue/newton-2/#comment-6" type="text/html" />
+
+		<author>
+			<name>佐々木 久</name>
+			
+		</author>
+
+		<id>http://so-kukan.com/gnue/?page_id=1822#comment-6</id>
+		<updated>2016-08-07T15:21:39Z</updated>
+		<published>2016-08-07T15:21:39Z</published>
+
+					<content type="html" xml:base="/gnue/newton-2/#comment-6"><![CDATA[<p>ありがとうございます。これからも、メールの受信に i-mailを使っていこうと思います。</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?page_id=1822" href="/gnue/newton-2/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		gnue より Newton へのコメント		</title>
+		<link rel="alternate" href="/gnue/newton-2/#comment-5" type="text/html" />
+
+		<author>
+			<name>gnue</name>
+			
+		</author>
+
+		<id>http://so-kukan.com/gnue/?page_id=1822#comment-5</id>
+		<updated>2016-08-06T19:08:42Z</updated>
+		<published>2016-08-06T19:08:42Z</published>
+
+					<content type="html" xml:base="/gnue/newton-2/#comment-5"><![CDATA[<p>佐々木さん、こんにちは</p>
+<p>BIGLOBE のサイトを確認したところ SMTP認証が必要なようです。<br />
+i-mail はSMTP認証に対応していなかったかもしれません。<br />
+（マニュアルを確認しましたがSMTP認証の記述はなし）</p>
+<p>参考：BIGLOBEメールの仕様  <a href="https://email.biglobe.ne.jp/mailusage.html" rel="nofollow ugc">https://email.biglobe.ne.jp/mailusage.html</a></p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?page_id=1822" href="/gnue/newton-2/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		佐々木 久 より Newton へのコメント		</title>
+		<link rel="alternate" href="/gnue/newton-2/#comment-4" type="text/html" />
+
+		<author>
+			<name>佐々木 久</name>
+			
+		</author>
+
+		<id>http://so-kukan.com/gnue/?page_id=1822#comment-4</id>
+		<updated>2016-08-06T16:10:13Z</updated>
+		<published>2016-08-06T16:10:13Z</published>
+
+					<content type="html" xml:base="/gnue/newton-2/#comment-4"><![CDATA[<p>貴重なアドバイス、ありがとうございました。結果、i-mailで受信はできましたが、送信はできませんでした。smtpで、mail.biglobe.ne.jp :587<br />
+としてみましたが、他にも何か設定が必要があるのかどうか分かりません。現在でも十分に実用的であるか否かは別として、i-mail、Newton の素晴らしさを再確認しました。</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?page_id=1822" href="/gnue/newton-2/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		gnue より Newton へのコメント		</title>
+		<link rel="alternate" href="/gnue/newton-2/#comment-3" type="text/html" />
+
+		<author>
+			<name>gnue</name>
+			
+		</author>
+
+		<id>http://so-kukan.com/gnue/?page_id=1822#comment-3</id>
+		<updated>2016-08-05T11:31:53Z</updated>
+		<published>2016-08-05T11:31:53Z</published>
+
+					<content type="html" xml:base="/gnue/newton-2/#comment-3"><![CDATA[<p>佐々木さん、こんにちは</p>
+<p>あまりにも昔すぎて記憶が確かではないのですが、確かアドレスの後ろに :587 を追加するとよかったと思います。</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?page_id=1822" href="/gnue/newton-2/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		佐々木 久 より Newton へのコメント		</title>
+		<link rel="alternate" href="/gnue/newton-2/#comment-2" type="text/html" />
+
+		<author>
+			<name>佐々木 久</name>
+			
+		</author>
+
+		<id>http://so-kukan.com/gnue/?page_id=1822#comment-2</id>
+		<updated>2016-08-05T11:04:02Z</updated>
+		<published>2016-08-05T11:04:02Z</published>
+
+					<content type="html" xml:base="/gnue/newton-2/#comment-2"><![CDATA[<p>今も i-mailを使っています。受信はできるのですが、送信ができません。Biglobeが587番ポートを指定しているからだと思われます。i-mailでポート番号を変えるにはどうしたらよろしいでしょうか。</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?page_id=1822" href="/gnue/newton-2/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		yaris より ねじねじ棒でiPadスタンドをつくってみた へのコメント		</title>
+		<link rel="alternate" href="/gnue/2010/05/10/%e3%81%ad%e3%81%98%e3%81%ad%e3%81%98%e6%a3%92%e3%81%a7ipad%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e3%82%92%e3%81%a4%e3%81%8f%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/#comment-900" type="text/html" />
+
+		<author>
+			<name>yaris</name>
+			
+		</author>
+
+		<id>http://so-kukan.com/gnue/?p=3055#comment-900</id>
+		<updated>2010-05-10T14:22:47Z</updated>
+		<published>2010-05-10T14:22:47Z</published>
+
+					<content type="html" xml:base="/gnue/2010/05/10/%e3%81%ad%e3%81%98%e3%81%ad%e3%81%98%e6%a3%92%e3%81%a7ipad%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e3%82%92%e3%81%a4%e3%81%8f%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/#comment-900"><![CDATA[<p>ぐっじょぶ！</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?p=3055" href="/gnue/2010/05/10/%e3%81%ad%e3%81%98%e3%81%ad%e3%81%98%e6%a3%92%e3%81%a7ipad%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e3%82%92%e3%81%a4%e3%81%8f%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		さい より 牡蠣のオイル漬け へのコメント		</title>
+		<link rel="alternate" href="/gnue/2010/02/18/%e7%89%a1%e8%a0%a3%e3%81%ae%e3%82%aa%e3%82%a4%e3%83%ab%e6%bc%ac%e3%81%91/#comment-899" type="text/html" />
+
+		<author>
+			<name>さい</name>
+			
+		</author>
+
+		<id>http://so-kukan.com/gnue/?p=2991#comment-899</id>
+		<updated>2010-02-18T06:35:29Z</updated>
+		<published>2010-02-18T06:35:29Z</published>
+
+					<content type="html" xml:base="/gnue/2010/02/18/%e7%89%a1%e8%a0%a3%e3%81%ae%e3%82%aa%e3%82%a4%e3%83%ab%e6%bc%ac%e3%81%91/#comment-899"><![CDATA[<p>レシピさんくす！<br />
+あれはうまかったな～</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?p=2991" href="/gnue/2010/02/18/%e7%89%a1%e8%a0%a3%e3%81%ae%e3%82%aa%e3%82%a4%e3%83%ab%e6%bc%ac%e3%81%91/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		使ってるWordPressプラグイン一覧 &#171; 鵺的：想空間 より WordPressプラグイン一覧 へのコメント		</title>
+		<link rel="alternate" href="/gnue/wordpress_plugins/#comment-7" type="text/html" />
+
+		<author>
+			<name>使ってるWordPressプラグイン一覧 &#171; 鵺的：想空間</name>
+			<uri>http://so-kukan.com/gnue/2010/01/%e4%bd%bf%e3%81%a3%e3%81%a6%e3%82%8bwordpress%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e4%b8%80%e8%a6%a7/</uri>
+		</author>
+
+		<id>http://so-kukan.com/gnue/?page_id=2968#comment-7</id>
+		<updated>2010-01-03T06:25:34Z</updated>
+		<published>2010-01-03T06:25:34Z</published>
+
+					<content type="html" xml:base="/gnue/wordpress_plugins/#comment-7"><![CDATA[<p>[&#8230;] 使ってるWordPressプラグイン一覧  ⇒ WordPressプラグイン一覧 [&#8230;]</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?page_id=2968" href="/gnue/wordpress_plugins/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		gnue より 月は西に 陽は東 へのコメント		</title>
+		<link rel="alternate" href="/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/#comment-898" type="text/html" />
+
+		<author>
+			<name>gnue</name>
+			
+		</author>
+
+		<id>http://so-kukan.com/gnue/?p=2960#comment-898</id>
+		<updated>2010-01-01T21:26:26Z</updated>
+		<published>2010-01-01T21:26:26Z</published>
+
+					<content type="html" xml:base="/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/#comment-898"><![CDATA[<p>明けましておめでとう。<br />
+今年もよろしくです 🙂</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?p=2960" href="/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/" type="text/html" />
+				</entry>
+		<entry>
+		<title>
+		V.J.Catkick より 月は西に 陽は東 へのコメント		</title>
+		<link rel="alternate" href="/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/#comment-897" type="text/html" />
+
+		<author>
+			<name>V.J.Catkick</name>
+			<uri>http://www.vjcatkick.com/</uri>
+		</author>
+
+		<id>http://so-kukan.com/gnue/?p=2960#comment-897</id>
+		<updated>2010-01-01T01:16:35Z</updated>
+		<published>2010-01-01T01:16:35Z</published>
+
+					<content type="html" xml:base="/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/#comment-897"><![CDATA[<p>明けましておめでとうございます。<br />
+今年も宜しくお願いしますざます。</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://so-kukan.com/gnue/?p=2960" href="/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/" type="text/html" />
+				</entry>
+	</feed>

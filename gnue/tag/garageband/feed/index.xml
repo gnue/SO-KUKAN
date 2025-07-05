@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GarageBand &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/garageband/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jul 2006 13:25:11 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>GarageBand でビデオ編集</title>
+		<link>/gnue/2006/07/13/garageband-%e3%81%a7%e3%83%93%e3%83%87%e3%82%aa%e7%b7%a8%e9%9b%86/</link>
+					<comments>/gnue/2006/07/13/garageband-%e3%81%a7%e3%83%93%e3%83%87%e3%82%aa%e7%b7%a8%e9%9b%86/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2006 13:25:11 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GarageBand]]></category>
+		<category><![CDATA[ビデオ編集]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/13/garageband-%e3%81%a7%e3%83%93%e3%83%87%e3%82%aa%e7%b7%a8%e9%9b%86/</guid>
+
+					<description><![CDATA[「iLife &#8217;06 でビデオ編集」のつづき。 GarageBand でチャプター付の iPod ムービーを作成し iTunes で再生すると、チャプターなしでは左下のビデオビューアをクリックすると 1/1  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				「iLife &#8217;06 でビデオ編集」のつづき。</p>
+<p>GarageBand でチャプター付の iPod ムービーを作成し iTunes で再生すると、チャプターなしでは左下のビデオビューアをクリックすると 1/1 サイズのウィンドウが開くのに、チャプター有の場合は問答無用にフルスクリーンになってしまう。</p>
+<p>エンハンスドポッドキャストのためにチャプターに URL のリンクが貼れるようになっているのだが、たぶんそのために挙動が違うのだろう。だがそのチャプターに URL がない場合はチャプターなしと同じように 1/1 サイズのウィンドウが開いてくれたほうが自然である。フルスクリーンの表示は別の手段（操作方法）があるけど、1/1 ウィンドウには他に手段がないので困ってしまう。iTunes のバグというか、仕様ミスという感じ。</p>
+<p>GarageBand のムービースコア編集において、入力は DV、出力は最高品質、チャプター有の条件で出力したムービーを QuickTime Player で再生すると左側に白い余白ができてしまう。iTunes では白い余白はできないし、iDVD で取込んでも問題なし。iDVD で DVD を作成したので実用上は問題ないのだけどちょっと気持ちが悪い。QuickTime Player のバグというかエンハンスドポッドキャストがらみで仕様の擦り合わせがうまくいっていないという気がする。</p>
+<p>これは完全なバグだと思うが、GarageBand のムービースコア編集でムービーの音声トラックを削除してからムービーを置換えると変な余白が後のほうにできてしまう。なお、ムービーを置換えてから古い音声トラックを削除するとこの問題は発生しない。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/13/garageband-%e3%81%a7%e3%83%93%e3%83%87%e3%82%aa%e7%b7%a8%e9%9b%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

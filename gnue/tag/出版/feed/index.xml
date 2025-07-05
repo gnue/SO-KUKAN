@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>出版 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E5%87%BA%E7%89%88/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Aug 2006 07:31:15 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>自費出版とコミケと Amazon と</title>
+		<link>/gnue/2006/08/24/%e8%87%aa%e8%b2%bb%e5%87%ba%e7%89%88%e3%81%a8%e3%82%b3%e3%83%9f%e3%82%b1%e3%81%a8-amazon-%e3%81%a8/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2006 07:31:15 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[出版]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/08/24/%e8%87%aa%e8%b2%bb%e5%87%ba%e7%89%88%e3%81%a8%e3%82%b3%e3%83%9f%e3%82%b1%e3%81%a8-amazon-%e3%81%a8</guid>
+
+					<description><![CDATA[自費出版で思い出したのだけどコミケって ISBN が入っていると「自主制作のモノ」とは認められずサークルスペースで売れないんだそうだ。逆に Amazon Japan の e託販売サービスは ISBN または JANコード [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<div>自費出版で思い出したのだけどコミケって ISBN が入っていると「自主制作のモノ」とは認められずサークルスペースで売れないんだそうだ。逆に Amazon Japan の e託販売サービスは ISBN または JANコードが入っていないとダメ。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>つまり、自主制作したモノをコミケでも Amazon Japan の e託販売サービスでも売りたいと思ったら両立はできないということになる。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>だからどうなんだということもないのだがなんとかうまい方法はないものか。例えば Amazon が独自のコード（ASINコード？）を発行すればいいだけのような気もするが、既存の流通システムに遠慮してそういうことはできないのだろうか。あるいは、ISBN も JANコードも取れないような同人出版はお金にならないのでそもそもお断りということなのだろうか。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>⇒ <a href="http://human-dust.kdn.gr.jp/doujin/gocomiket/2_1.html">サークル参加するための資格</a>（コミケ参加の基礎知識）</div>
+<div>⇒ <a href="http://journal.mycom.co.jp/news/2006/06/12/009.html">Tail to Noseはインディーズの福音? Amazon、委託販売プログラムを開始</a>（MYCOMジャーナル）</div>
+<div></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

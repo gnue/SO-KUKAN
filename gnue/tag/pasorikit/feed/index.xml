@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PasoriKit &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/pasorikit/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 25 May 2012 09:33:29 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>SMSUTILS, PasoriKit を github に移転</title>
+		<link>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/</link>
+					<comments>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 25 May 2012 09:33:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[PasoriKit]]></category>
+		<category><![CDATA[SMSUTILS]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4749</guid>
+
+					<description><![CDATA[SMSUTILS, PasoriKit を自宅サーバの Trac から github に移転しました。 Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。 ⇒ SMSUTILS ⇒ P [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				SMSUTILS, PasoriKit を自宅サーバの <a href="http://trac.so-kukan.com/tools" target="_blank" rel="noopener">Trac</a> から <a href="https://github.com/gnue" target="_blank" rel="noopener">github</a> に移転しました。<br />
+Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。</p>
+<p>⇒ <a href="https://github.com/gnue/SMSUTILS" target="_blank" rel="noopener">SMSUTILS</a><br />
+⇒ <a href="https://github.com/gnue/PasoriKit-1.0.x" target="_blank" rel="noopener">PasoriKit</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

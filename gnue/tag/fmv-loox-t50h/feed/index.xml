@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FMV LOOX T50H &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/fmv-loox-t50h/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Jul 2005 16:35:03 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>USB-KNOPPIX on FMV LOOX T50H</title>
+		<link>/gnue/2005/07/24/usb-knoppix-on-fmv-loox-t50h/</link>
+					<comments>/gnue/2005/07/24/usb-knoppix-on-fmv-loox-t50h/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2005 16:35:03 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FMV LOOX T50H]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/07/24/usb-knoppix-on-fmv-loox-t50h/</guid>
+
+					<description><![CDATA[今日はヨドバシでアイ・オー・データの ToteBag M 256MB を買ってきた。USB-KNOPPIX を入れるためです。 USB-KNOPPIX のインストールはいたって簡単。 1. USB-KNOPPIX の C [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0009TSIJ2/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0009TSIJ2.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>今日はヨドバシでアイ・オー・データの <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0009TSIJ2/gnue-22" target="_blank">ToteBag M 256MB</a> を買ってきた。USB-KNOPPIX を入れるためです。<br />
+<br />
+USB-KNOPPIX のインストールはいたって簡単。</p>
+<p>1. USB-KNOPPIX の CD-ROM で PC を起動<br />
+2. ターミナルから sudo /cdrom/tools/install<br />
+3. BIOSセットアップで USB 起動できるよう設定変更</p>
+<p>うちの FMV LOOX T50H(PhoenixBIOS) の場合の設定は下記の通りである。</p>
+<p>3.1 USB設定で SCSIサブクラスサポートを「使用する」に変更<br />
+3.2 設定を保存、USBメモリを指した状態で BIOSセットアップを再度起動<br />
+3.3 起動デバイスの優先順位でハードディスクドライブ一覧を表示して USBメモリの優先順位を上げる</p>
+<p>⇒ <a href="http://kserv.jec.ac.jp/news/release_2004-10-17.html" target="_blank" rel="noopener">USB接続型フラッシュメモリからのKNOPPIX起動について２</a>（日本電子専門学校コンピュータネットワーク研究科）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/07/24/usb-knoppix-on-fmv-loox-t50h/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Linux on FMV LOOX T50H</title>
+		<link>/gnue/2004/07/28/linux-on-fmv-loox-t50h/</link>
+					<comments>/gnue/2004/07/28/linux-on-fmv-loox-t50h/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 27 Jul 2004 15:36:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FMV LOOX T50H]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/28/linux-on-fmv-loox-t50h/</guid>
+
+					<description><![CDATA[いろいろなディストリビューションの Linux を LOOX T50H にインストールして試してます。とりあえず SuSE Linux で無線LAN が問題なく使えることが判明。さすが腐っても Novell。 1280&#038; [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				いろいろなディストリビューションの Linux を LOOX T50H にインストールして試してます。とりあえず SuSE Linux で無線LAN が問題なく使えることが判明。さすが腐っても Novell。</p>
+<p>1280&#215;768 対応は VAIO TR2 でうまくいくという 1280patch を試してみたけどエラーが出てだめでした。BIOS が違うからかな。</p>
+<p>サスペンドはどのディストリビューションも全然だめ(;_;)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/07/28/linux-on-fmv-loox-t50h/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FMV LOOX T50H の指紋スキャナ</title>
+		<link>/gnue/2004/07/14/fmv-loox-t50h-%e3%81%ae%e6%8c%87%e7%b4%8b%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%8a/</link>
+					<comments>/gnue/2004/07/14/fmv-loox-t50h-%e3%81%ae%e6%8c%87%e7%b4%8b%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%8a/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 14 Jul 2004 06:09:15 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FMV LOOX T50H]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/14/fmv-loox-t50h-%e3%81%ae%e6%8c%87%e7%b4%8b%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%8a/</guid>
+
+					<description><![CDATA[富士通の指紋スキャナは指をスライドさせるのが特徴なのだけどこれってかなりコツがいる。昔のハンディスキャナに近いものがある。DoCoMo の富士通製携帯も同じ方式だと思うのだけど使っている人はどう思っているのだろう？ あと [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				富士通の指紋スキャナは指をスライドさせるのが特徴なのだけどこれってかなりコツがいる。昔のハンディスキャナに近いものがある。DoCoMo の富士通製携帯も同じ方式だと思うのだけど使っている人はどう思っているのだろう？</p>
+<p>あとせっかくの指紋スキャナも Linux からは当然のことながら使用できません。富士通も SONY の PUPPY みたいに Linux をサポートしてくれないかな。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/07/14/fmv-loox-t50h-%e3%81%ae%e6%8c%87%e7%b4%8b%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%8a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FMV LOOX T50H</title>
+		<link>/gnue/2004/07/14/fmv-loox-t50h/</link>
+					<comments>/gnue/2004/07/14/fmv-loox-t50h/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 14 Jul 2004 05:56:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FMV LOOX T50H]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/14/fmv-loox-t50h/</guid>
+
+					<description><![CDATA[結局、Let&#8217;s note R3 でもチビマサ／デカザウでもなく FMV LOOX T50H を買っちゃいました(^^; さっそく KNOPPIX をハードディスク（Windows のボリューム）にインストー [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				結局、Let&#8217;s note R3 でもチビマサ／デカザウでもなく FMV LOOX T50H を買っちゃいました(^^;</p>
+<p>さっそく KNOPPIX をハードディスク（Windows のボリューム）にインストールしてみたけど</p>
+<p> &#8211; スリープができない<br />
+ &#8211; 無線LAN が使えない<br />
+ &#8211; 1280&#215;768 の横長画面のため横に引き延ばされてる</p>
+<p>とりあえずこの３つを解決すれば普通に使えそう。KNOPPIX のカスタマイズ方法を勉強せねば。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/07/14/fmv-loox-t50h/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

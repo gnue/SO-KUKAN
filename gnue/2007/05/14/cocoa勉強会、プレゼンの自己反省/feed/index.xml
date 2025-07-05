@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Cocoa勉強会、プレゼンの自己反省 へのコメント	</title>
+	<atom:link href="/gnue/2007/05/14/cocoa%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%80%81%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%81%AE%E8%87%AA%E5%B7%B1%E5%8F%8D%E7%9C%81/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2007/05/14/cocoa%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%81%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%81%ae%e8%87%aa%e5%b7%b1%e5%8f%8d%e7%9c%81/</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 May 2007 02:23:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Poken &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/poken/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 02 May 2009 09:56:17 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>自作スノーマンPoken</title>
+		<link>/gnue/2009/05/02/%e8%87%aa%e4%bd%9c%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%b3poken/</link>
+					<comments>/gnue/2009/05/02/%e8%87%aa%e4%bd%9c%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%b3poken/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 02 May 2009 09:56:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Poken]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1709</guid>
+
+					<description><![CDATA[樹脂ねんどで自作したスノーマンPoken。 ⇒ Poken]]></description>
+										<content:encoded><![CDATA[<p>				樹脂ねんどで自作したスノーマンPoken。</p>
+<p>⇒ <a href="http://poken.jp/ja/">Poken</a></p>
+
+<a href='/gnue/2009/05/02/%e8%87%aa%e4%bd%9c%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%b3poken/img_0857/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2009/05/img_0857-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/02/%e8%87%aa%e4%bd%9c%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%b3poken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	部屋 へのコメント	</title>
+	<atom:link href="/gnue/2004/09/26/%E9%83%A8%E5%B1%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/09/26/%e9%83%a8%e5%b1%8b/</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Sep 2004 09:59:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/26/%e9%83%a8%e5%b1%8b/#comment-130</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2004 09:59:56 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/26/%e9%83%a8%e5%b1%8b/#comment-130</guid>
+
+					<description><![CDATA[理想は一人暮らしの彼女をつくってそこに転がり込むことだけど（笑）
+あ、理想というよりは妄想か... orz
+
+うーん、引っ越そうと思ったらそろそろちゃんと不動産屋さんめぐりをせねば。]]></description>
+			<content:encoded><![CDATA[<p>理想は一人暮らしの彼女をつくってそこに転がり込むことだけど（笑）<br />
+あ、理想というよりは妄想か&#8230; orz</p>
+<p>うーん、引っ越そうと思ったらそろそろちゃんと不動産屋さんめぐりをせねば。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		いいぬま より		</title>
+		<link>/gnue/2004/09/26/%e9%83%a8%e5%b1%8b/#comment-129</link>
+
+		<dc:creator><![CDATA[いいぬま]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2004 05:09:43 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/26/%e9%83%a8%e5%b1%8b/#comment-129</guid>
+
+					<description><![CDATA[引っ越しを機会にいろいろと処分したら？
+というか、処分のために引っ越しするという動機づけも...]]></description>
+			<content:encoded><![CDATA[<p>引っ越しを機会にいろいろと処分したら？<br />
+というか、処分のために引っ越しするという動機づけも&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>w-zero3 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/w-zero3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Jun 2007 02:20:49 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Linux on W-ZERO3</title>
+		<link>/gnue/2007/06/26/linux-on-w-zero3/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 26 Jun 2007 02:20:49 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[w-zero3]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/06/26/linux-on-w-zero3</guid>
+
+					<description><![CDATA[2ch において W-ZERO3 で Linux を動かすプロジェクトがすすめられているようです。とりあえず Linux のブートができる模様。 ⇒ Linux on W-ZERO3（W-ZERO3 2chまとめ）]]></description>
+										<content:encoded><![CDATA[<p>2ch において W-ZERO3 で Linux を動かすプロジェクトがすすめられているようです。<br />とりあえず Linux のブートができる模様。</p>
+<p>⇒ <a href="http://w-zero3.org/?%A5%C0%A5%A6%A5%F3%A5%ED%A1%BC%A5%C9%2FLinux">Linux on W-ZERO3</a>（W-ZERO3 2chまとめ）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

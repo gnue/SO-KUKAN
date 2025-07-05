@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows Mobile &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/windows-mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Feb 2007 00:48:58 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>イー・モバイル参入</title>
+		<link>/gnue/2007/02/19/%e3%82%a4%e3%83%bc%e3%83%bb%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e5%8f%82%e5%85%a5/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 19 Feb 2007 00:48:58 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[hsdpa]]></category>
+		<category><![CDATA[Windows Mobile]]></category>
+		<category><![CDATA[イー・モバイル]]></category>
+		<category><![CDATA[携帯電話]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/02/19/%e3%82%a4%e3%83%bc%e3%83%bb%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e5%8f%82%e5%85%a5</guid>
+
+					<description><![CDATA[イー・モバイルがいよいよ携帯事業に参入するようです。 端末はシャープの Windows Mobile 搭載 HSDPA端末。ITmedia 記事にある写真を見る限りは上下または左右のスライドによりキーボードもしくはカーソ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>イー・モバイルがいよいよ携帯事業に参入するようです。</p>
+<p>端末はシャープの Windows Mobile 搭載 HSDPA端末。ITmedia 記事にある写真を見る限りは上下または左右のスライドによりキーボードもしくはカーソルキーが飛出すギミックになっているようです。それにしても WILLCOM の W-ZERO3 と同じシャープ端末なんですね。個人的には Linux 端末も是非出して欲しいところ。</p>
+<p>料金プランと端末価格は既存の携帯電話各社と違いだましナシの直球勝負で好感が持てます。</p>
+<div><br class="khtml-block-placeholder" /></div>
+<div>追記：音声サービスはなし、データ通信のみ<br />疑問：<a href="http://www.skype.com/intl/ja/download/skype/mobile/">Skype</a> は使えるか？</p>
+<p>⇒ <a href="http://emobile.jp/">イー・モバイル</a><br />⇒ <a href="http://plusd.itmedia.co.jp/mobile/articles/0702/19/news029.html">イー・モバイル、3月31日から携帯事業スタート──シャープ製のHSDPA端末「EM・ONE」を投入</a>（ITmedia）</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mac OS 7 on Windows Mobile 5</title>
+		<link>/gnue/2006/09/15/mac-os-7-on-windows-mobile-5/</link>
+					<comments>/gnue/2006/09/15/mac-os-7-on-windows-mobile-5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 14 Sep 2006 16:10:25 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac OS 7]]></category>
+		<category><![CDATA[Windows Mobile]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/09/15/mac-os-7-on-windows-mobile-5/</guid>
+
+					<description><![CDATA[おお、これは。画面が途中で切れているのが残念ですが結構きびきび動いていますね（笑） 68系Mac のエミュレータはいろいろあるけどコードベースは vMac のようです。 この映像では HP の iPAQ を使っているけど [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				おお、これは。画面が途中で切れているのが残念ですが結構きびきび動いていますね（笑）</p>
+<p>68系Mac のエミュレータはいろいろあるけどコードベースは vMac のようです。</p>
+<p>この映像では HP の iPAQ を使っているけど、やはり日本だと W-ZERO3[es] で動かしてもらいたいところ。誰かチャレンジしてみません？</p>
+<p>⇒ <a href="http://www.gizmodo.jp/2006/09/mac_os_7windows_mobile_5_1.html" target="_blank" rel="noopener">Mac OS 7がWindows Mobile 5上で動く</a>（Gizmodo）<br />
+⇒ <a href="http://mobilitytoday.com/news/apple_emulator_wm.html" target="_blank" rel="noopener">Mac OS 7 running on Windows Mobile</a>（Mobility Today）<br />
+⇒ <a href="http://minivmac.sourceforge.net/" target="_blank" rel="noopener">Mini vMac</a>（公式ページ）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/09/15/mac-os-7-on-windows-mobile-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

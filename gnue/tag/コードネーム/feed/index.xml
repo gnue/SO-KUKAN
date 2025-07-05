@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>コードネーム &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%8D%E3%83%BC%E3%83%A0/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Jun 2008 18:02:58 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Mac OS X 10.6 = Snow Leopard</title>
+		<link>/gnue/2008/06/10/mac-os-x-106-snow-leopard/</link>
+					<comments>/gnue/2008/06/10/mac-os-x-106-snow-leopard/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2008 18:02:58 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[コードネーム]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1258</guid>
+
+					<description><![CDATA[事前に噂が流れていたけど、Mac OS X 10.6 のコードネームは Snow Leopard になったそうです。日本語だと雪豹ですね。 Grand Central Open Computing Language (O [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				事前に噂が流れていたけど、Mac OS X 10.6 のコードネームは Snow Leopard になったそうです。日本語だと雪豹ですね。</p>
+<ul>
+<li>Grand Central</li>
+<li>Open Computing Language (OpenCL) </li>
+<li>QuickTime Xを</li>
+<li>高速なJavaScript</li>
+</ul>
+<p>ようやくレガシーな QuickTime がなくなって新生 QuickTime X になるみたいですね。あと GPU をどのアプリケーションでも使えるようにするという OpenCL が気になります。</p>
+<p>高速なJavaScript というのは <a href="http://webkit.org/blog/189/announcing-squirrelfish/">SquirrelFish</a> のことですね。いままでの例から考えて、実際には 10.5 の後期に Safari に搭載されるのではないかと予想。</p>
+<p>Snow Leopard は見た目の新機能よりは OSコアの更なる進化が主になるみたいだけど、Finder の更なる改良も忘れないで欲しい。</p>
+<p>⇒ <a href="http://www.apple.com/jp/news/2008/jun/10leopard.html">アップル、Mac OS X Snow Leopardをデベロッパにプレビュー</a>（アップル）<br />
+⇒ <a href="http://images.google.com/images?client=safari&amp;rls=ja-jp&amp;q=snow+leopard&amp;ie=UTF-8&amp;oe=UTF-8&amp;um=1">Snow Leopard</a>（Googleイメージ検索）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/06/10/mac-os-x-106-snow-leopard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

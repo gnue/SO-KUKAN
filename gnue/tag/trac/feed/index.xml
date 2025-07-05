@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trac &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/trac/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 26 May 2012 15:02:53 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>NEWT/0 を github に移転</title>
+		<link>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/</link>
+					<comments>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 26 May 2012 15:02:53 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4755</guid>
+
+					<description><![CDATA[NEWT/0 を自宅サーバの Trac から github に移転しました。 Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。 ⇒ NEWT/0]]></description>
+										<content:encoded><![CDATA[<p>				NEWT/0 を自宅サーバの <a href="http://trac.so-kukan.com/" target="_blank" rel="noopener">Trac</a> から <a href="https://github.com/gnue" target="_blank" rel="noopener">github</a> に移転しました。<br />
+Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。</p>
+<p>⇒ <a href="http://gnue.github.com/NEWT0" target="_blank" rel="noopener">NEWT/0</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SMSUTILS, PasoriKit を github に移転</title>
+		<link>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/</link>
+					<comments>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 25 May 2012 09:33:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[PasoriKit]]></category>
+		<category><![CDATA[SMSUTILS]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4749</guid>
+
+					<description><![CDATA[SMSUTILS, PasoriKit を自宅サーバの Trac から github に移転しました。 Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。 ⇒ SMSUTILS ⇒ P [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				SMSUTILS, PasoriKit を自宅サーバの <a href="http://trac.so-kukan.com/tools" target="_blank" rel="noopener">Trac</a> から <a href="https://github.com/gnue" target="_blank" rel="noopener">github</a> に移転しました。<br />
+Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。</p>
+<p>⇒ <a href="https://github.com/gnue/SMSUTILS" target="_blank" rel="noopener">SMSUTILS</a><br />
+⇒ <a href="https://github.com/gnue/PasoriKit-1.0.x" target="_blank" rel="noopener">PasoriKit</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trac 0.12 の不確かなアップデート備忘録</title>
+		<link>/gnue/2010/06/27/trac-0-12%e3%81%ae%e4%b8%8d%e7%a2%ba%e3%81%8b%e3%81%aa%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%82%99%e5%bf%98%e9%8c%b2/</link>
+					<comments>/gnue/2010/06/27/trac-0-12%e3%81%ae%e4%b8%8d%e7%a2%ba%e3%81%8b%e3%81%aa%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%82%99%e5%bf%98%e9%8c%b2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 26 Jun 2010 19:35:28 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=3097</guid>
+
+					<description><![CDATA[Trac 0.12 が出てたのでアップデートしました。 今回のバージョンで i18n 対応してます。 最初は tar ball をダウンロードしてきて sudo python setup.py install でインスト [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Trac 0.12 が出てたのでアップデートしました。<br />
+今回のバージョンで i18n 対応してます。</p>
+<p><span id="more-3097"></span></p>
+<p>最初は tar ball をダウンロードしてきて sudo python setup.py install でインストールしたのですがうまく i18n で動いてくれませんでした（つまり表示が英語のまま）。</p>
+<p>次は <a href="http://takanory.net/takalog/1235" target="_blank" rel="noopener">http://takanory.net/takalog/1235</a> を参考にして</p>
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ sudo easy_install -UZ pysqlite<br />
+$ sudo easy_install -UZ Babel<br />
+$ sudo easy_install -UZ docutils<br />
+$ sudo easy_install -UZ Pygments<br />
+$ sudo easy_install -UZ Genshi<br />
+$ sudo easy_install -UZ Trac<br />
+$ sudo apachectl restart<br />
+<br />
+(*1)</div></div>
+<p>としたところ、trac/locale で内部エラー。しょうがないので手作業で trac/locale をコピーして参照できるように httpd.conf (*2) を編集しました。最初 trac 関係の設定の最後に Alias を記述したらうまく表示されず、次に設定の前のほうに記述したらなんとかうまく表示されるようになりました。</p>
+<p>ほんとうだったらこれで「よかった、よかった」なのですが、ちょっと trac/locale を置き場所を変えてみようかとして？な状態に。 なんと trac/locale を削除してもちゃんと表示されてる。mod_python 使ってるのでキャッシュに残ってるのかなと再起動してみてもちゃんと表示されてる。いったい何がおこってるのやら <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>PYTHON_EGG_CACHE (*3)が関係しているのかと設定をいじっては見たけど変化なし。どうもこの設定自体が有効に機能してないっぽいのでコメントアウト。それでもちゃんと動作してる感じ。</p>
+<p>結局、何が問題でうまく表示されず、何がよくってうまく表示されるようになったのかがわからず気持ちが悪いのだけど、とりあえず次のときのために起きたことをそのままメモしておきます。</p>
+<p>*1) <a href="http://trac.edgewall.org/milestone/0.12" target="_blank" rel="noopener">http://trac.edgewall.org/milestone/0.12</a> によると Genshi&#8217;s 0.6, Babel  0.9.5 が必要だったみたい<br />
+*2) 実際には違うファイル。環境依存<br />
+*3) 結局 eggファイルのキャッシュがどこに展開されていて trac/locale がちゃんと apache から参照されているのかって問題なんだとは思うのだけど		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/06/27/trac-0-12%e3%81%ae%e4%b8%8d%e7%a2%ba%e3%81%8b%e3%81%aa%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%82%99%e5%bf%98%e9%8c%b2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trac を 0.11 にアップグレード</title>
+		<link>/gnue/2008/06/27/trac-%e3%82%92-011-%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89/</link>
+					<comments>/gnue/2008/06/27/trac-%e3%82%92-011-%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2008 18:58:51 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1266</guid>
+
+					<description><![CDATA[Trac のバージョンを 0.11 にアップグレードしたので、その覚書き。 TracAccountManager は旧バージョンと互換性がないので 0.11 対応のものをインストールすること テンプレートエンジンが Cl [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Trac のバージョンを 0.11 にアップグレードしたので、その覚書き。</p>
+<ul>
+<li>TracAccountManager は旧バージョンと互換性がないので 0.11 対応のものをインストールすること</li>
+<li>テンプレートエンジンが ClearSilver を使わなくなったので、templates ディレクトリをカスタマイズしている場合は Help/Guide の TracInterfaceCustomization を見て site.html を作成する</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/06/27/trac-%e3%82%92-011-%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>trac 0.10dev と Spam Filter</title>
+		<link>/gnue/2006/08/10/trac-010dev-%e3%81%a8-spam-filter/</link>
+					<comments>/gnue/2006/08/10/trac-010dev-%e3%81%a8-spam-filter/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2006 19:53:25 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Spam]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/10/trac-010dev-%e3%81%a8-spam-filter/</guid>
+
+					<description><![CDATA[最近 trac へのスパムが多くてうんざり。 0.10 で Spam Filter のためのフックが用意されて Spam Filter のプラグインが使えるようになるのだけど、いつまでたっても 0.10 の正式版が出てき [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				最近 trac へのスパムが多くてうんざり。</p>
+<p>0.10 で Spam Filter のためのフックが用意されて Spam Filter のプラグインが使えるようになるのだけど、いつまでたっても 0.10 の正式版が出てきそうにないので開発バージョンをインストールすることにした。開発バージョンは svn でチェックアウトする。</p>
+<p>$ svn co http://svn.edgewall.com/repos/trac/trunk trac-0.10dev<br />
+$ svn co http://svn.edgewall.com/repos/trac/sandbox/spam-filter</p>
+<p>スパムフィルタは Akismet というサービスを使うらしいのだが、こいつが WordPress API key を必要としている。しょうがないのでこの API key を取得するために WordPress.com に登録する。</p>
+<p>さてと、これで SPAM がちゃんとブロックされるといいな。</p>
+<p>追記 8/15：また SPAM がチケットに登録されてしまった。。。。。うーん、設定が悪いのか???		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/10/trac-010dev-%e3%81%a8-spam-filter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>覚書き：Trac の Ticket を削除する</title>
+		<link>/gnue/2006/06/10/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9atrac-%e3%81%ae-ticket-%e3%82%92%e5%89%8a%e9%99%a4%e3%81%99%e3%82%8b/</link>
+					<comments>/gnue/2006/06/10/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9atrac-%e3%81%ae-ticket-%e3%82%92%e5%89%8a%e9%99%a4%e3%81%99%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2006 10:16:53 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Trac]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/10/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9atrac-%e3%81%ae-ticket-%e3%82%92%e5%89%8a%e9%99%a4%e3%81%99%e3%82%8b/</guid>
+
+					<description><![CDATA[Trac の Ticket にスパムを書き込まれてしまった。現状のバージョンだとスパム対策が全然できていないようで困ったものである。 とりあえず #454 を参考に Trac のデータベースを直接編集するしかないらしい（ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Trac の Ticket にスパムを書き込まれてしまった。現状のバージョンだとスパム対策が全然できていないようで困ったものである。</p>
+<p>とりあえず #454 を参考に Trac のデータベースを直接編集するしかないらしい（とほほっ）</p>
+<p>⇒ <a href="http://projects.edgewall.com/trac/ticket/1145" target="_blank" rel="noopener">#1145（Provide link spam prevention）</a><br />
+⇒ <a href="http://projects.edgewall.com/trac/ticket/454" target="_blank" rel="noopener">#454（Edit ticket comments）</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/06/10/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9atrac-%e3%81%ae-ticket-%e3%82%92%e5%89%8a%e9%99%a4%e3%81%99%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>trac on Mac OS X</title>
+		<link>/gnue/2005/07/09/trac-on-mac-os-x/</link>
+					<comments>/gnue/2005/07/09/trac-on-mac-os-x/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2005 10:31:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/07/09/trac-on-mac-os-x/</guid>
+
+					<description><![CDATA[⇒ trac ⇒ Installing Trac on Mac OS X, without Fink ⇒ trac 日本語リソース（インタアクト株式会社) ⇒ Python 日本語Codec（PyJUG） 参考： ⇒ T [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				⇒ <a href="http://www.edgewall.com/trac/" target="_blank" rel="noopener">trac</a><br />
+⇒ <a href="http://projects.edgewall.com/trac/wiki/TracOnOsxNoFink" target="_blank" rel="noopener">Installing Trac on Mac OS X, without Fink</a><br />
+⇒ <a href="http://www.i-act.co.jp/project/products/products.html" target="_blank" rel="noopener">trac 日本語リソース</a>（インタアクト株式会社)<br />
+⇒ <a href="http://www.python.jp/Zope/download/JapaneseCodecs" target="_blank" rel="noopener">Python 日本語Codec</a>（PyJUG）</p>
+<p>参考：<br />
+⇒ <a href="http://tach.arege.net/trac/" target="_blank" rel="noopener">TachTrac</a><br />
+<span id="more-695"></span><br />
+注意：<br />
+おおむね“ Installing Trac on Mac OS X, without Fink”のとおりに各ソフトウェアをインストールするが clearsilver（現時点のバージョンは 0.9.14）はうまくいかない。</p>
+<p>[clearsilver のインストール]<br />
+./configure<br />
+# scripts/document.py の１行目をエディタで編集（/usr/local/bin/python → /usr/bin/python）<br />
+sudo make install</p>
+<p>とする。trac はそのままインストールすると実行パスの通っていないところにインストールされて使いづらいので /usr/local にインストールすることにする</p>
+<p>[trac のインストール]<br />
+sudo python ./setup.py install &#8211;prefix /usr/local<br />
+sudo mkdir -p /System/Library/Frameworks/Python.framework/Versions/2.3/share<br />
+sudo ln -s /usr/local/share/trac /System/Library/Frameworks/Python.framework/Versions/2.3/share/trac<br />
+※trac-admin のデフォルト値をそのまま使えるようにシンボリックリンクしておく</p>
+<p>[trac の日本語ローカライズ]<br />
+trac ディレクトリに日本語リソースを上書きしてからインストールする。<br />
+または、インストール後に templates と wiki-default を手作業に置換える。</p>
+<p>[ソースコードで日本語を使っている場合]<br />
+Python の日本語Codec をインストール。<br />
+conf/trac.ini を編集、default_charset をソースコードで使用している文字コードに変更する。<br />
+例：<br />
+default_charset = japanese.shift_jis<br />
+default_charset = japanese.euc_jp<br />
+※Subversion側で svn:mime-types 属性に charset を設定する方法もあります</p>
+<p>[バーチャルホストの設定]<br />
+サーバ名：trac.so-kukan.com<br />
+ドキュメントルート：/Library/WebServer/trac<br />
+trac ディレクトリ：/var/trac<br />
+認証用ファイル：/Library/WebServer/pass/trac.htpasswd</p>
+<blockquote class="code"><p>
+NameVirtualHost *:80</p>
+<p>&lt;VirtualHost *:80&gt;<br />
+#ダミー<br />
+&lt;/VirtualHost&gt;</p>
+<p>&lt;VirtualHost *:80&gt;<br />
+    ServerName trac.so-kukan.com<br />
+    DocumentRoot &#8220;/Library/WebServer/trac&#8221;</p>
+<p>    &lt;IfModule mod_userdir.c&gt;<br />
+        UserDir disabled<br />
+    &lt;/IfModule&gt;</p>
+<p>    Alias /trac/ &#8220;/usr/local/share/trac/htdocs/&#8221;<br />
+    RewriteEngine on<br />
+    RewriteRule ^/trac/$ /	[R=301]<br />
+    RewriteCond %{REQUEST_URI}	!^/cgi-bin/<br />
+    RewriteCond %{REQUEST_URI}	!^/trac/<br />
+    RewriteCond /var/trac/$1	-d<br />
+    RewriteRule ^/([[:alnum:]]+)(/?.*)	/cgi-bin/trac.cgi$2 [S=1,E=TRAC_ENV:/var/trac/$1]</p>
+<p>    &lt;Directory &#8220;/Library/WebServer/trac/cgi-bin&#8221;&gt;<br />
+        AllowOverride None<br />
+        Options ExecCGI FollowSymLinks<br />
+        AddHandler cgi-script .cgi<br />
+    &lt;/Directory&gt;</p>
+<p>    &lt;LocationMatch &#8220;/[[:alnum:]]+/login&#8221;&gt;<br />
+        AuthType Basic<br />
+        AuthName &#8220;trac&#8221;<br />
+        AuthUserFile /Library/WebServer/pass/trac.htpasswd<br />
+        Require valid-user<br />
+    &lt;/LocationMatch&gt;<br />
+&lt;/VirtualHost&gt;
+</p></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/07/09/trac-on-mac-os-x/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0 &#8211; trac</title>
+		<link>/gnue/2005/07/09/newt0-trac/</link>
+					<comments>/gnue/2005/07/09/newt0-trac/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2005 08:56:42 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/07/09/newt0-trac/</guid>
+
+					<description><![CDATA[バージョン管理システムの trac を導入しました。まだ使い方がよくわかっていないのですが今後はこれを使っていこうと思っています。 ⇒ NEWT/0 &#8211; trac]]></description>
+										<content:encoded><![CDATA[<p>				バージョン管理システムの trac を導入しました。まだ使い方がよくわかっていないのですが今後はこれを使っていこうと思っています。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/newt/" target="_blank" rel="noopener">NEWT/0 &#8211; trac</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/07/09/newt0-trac/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

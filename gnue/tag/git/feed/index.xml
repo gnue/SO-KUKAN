@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>git &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/git/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Feb 2013 06:34:43 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>confgit と memorack を RubyGems に登録</title>
+		<link>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/</link>
+					<comments>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2013 06:34:43 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[confgit]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[memorack]]></category>
+		<category><![CDATA[RubyGems]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4883</guid>
+
+					<description><![CDATA[Ruby で書いた２つのプログラムを RubyGems に登録しました。 * confgit 分散している設定ファイルを git を使ってバージョン管理するためのツール ( Ruby 1.9以上, git必須 ) * m [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Ruby で書いた２つのプログラムを <a href="https://rubygems.org/" target="_blank" rel="noopener">RubyGems</a> に登録しました。</p>
+<p>* <a href="https://github.com/gnue/confgit" target="_blank" rel="noopener">confgit</a></p>
+<p>分散している設定ファイルを git を使ってバージョン管理するためのツール<br />
+( Ruby 1.9以上, git必須 )</p>
+<p>* <a href="https://github.com/gnue/memorack" target="_blank" rel="noopener">memorack</a></p>
+<p>markdown記法で記述したファイルを簡単にWeb公開できる Rackアプリケーション<br />
+( Ruby 1.9以上 )</p>
+
+<a href='/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/memorack_example/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2013/02/memorack_example-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>どちらも gem でインストールできます。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac OS X で gitosis</title>
+		<link>/gnue/2010/10/22/mac-os-x-%e3%81%a7-gitosis/</link>
+					<comments>/gnue/2010/10/22/mac-os-x-%e3%81%a7-gitosis/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2010 17:27:12 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4559</guid>
+
+					<description><![CDATA[gitosis インストールの覚書き。 gitosis を少し使った感想としては新しいプロジェクトを追加するたびに設定を追加しなければいけないのでちょっとめんどうというところかな。 ユーザ git を作成 システム環境設 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				gitosis インストールの覚書き。</p>
+<p>gitosis を少し使った感想としては新しいプロジェクトを追加するたびに設定を追加しなければいけないのでちょっとめんどうというところかな。</p>
+<p><span id="more-4559"></span></p>
+<ol>
+<li>ユーザ git を作成</li>
+<ol>
+<li>システム環境設定でユーザ git を作成</li>
+<li>システム環境設定→共有→リモートログインを入にする</li>
+<li>システム環境設定→共有→リモートログインでユーザ git がリモートログインできるようにする</li>
+<li>.bashrc で gitコマンドのあるディレクトリを PATH に追加する</li>
+</ol>
+<li>gitosis のインストール
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br />2<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ <span style="color: #c20cb9; font-weight: bold;">git clone</span> git:<span style="color: #000000; font-weight: bold;">//</span>eagain.net<span style="color: #000000; font-weight: bold;">/</span>gitosis.git<br />
+$ <span style="color: #c20cb9; font-weight: bold;">sudo</span> python setup.py <span style="color: #c20cb9; font-weight: bold;">install</span></div></td></tr></tbody></table></div>
+</li>
+<li>gitosis の初期化
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;"><span style="color: #666666;">$ </span><span style="color: #c20cb9; font-weight: bold;">sudo</span> <span style="color: #660033;">-H</span> <span style="color: #660033;">-u</span> <span style="color: #c20cb9; font-weight: bold;">git</span> gitosis-init <span style="color: #000000; font-weight: bold;">&amp;</span>lt; id_rsa.pub</div></td></tr></tbody></table></div>
+<p>※ ssh の公開鍵はあらかじめ用意しておくこと
+	</li>
+<li>hooks/post-update のパーミッション変更
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;"><span style="color: #666666;">$ </span><span style="color: #c20cb9; font-weight: bold;">sudo</span> <span style="color: #c20cb9; font-weight: bold;">chmod</span> <span style="color: #000000;">755</span> ~git<span style="color: #000000; font-weight: bold;">/</span>repositories<span style="color: #000000; font-weight: bold;">/</span>gitosis-admin.git<span style="color: #000000; font-weight: bold;">/</span>hooks<span style="color: #000000; font-weight: bold;">/</span>post-update</div></td></tr></tbody></table></div>
+</li>
+<li>管理用リポジトリをローカルに持ってくる
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;"><span style="color: #666666;">$ </span><span style="color: #c20cb9; font-weight: bold;">git clone</span> <span style="color: #c20cb9; font-weight: bold;">git</span><span style="color: #000000; font-weight: bold;">@</span>hostname:gitosis-admin.git</div></td></tr></tbody></table></div>
+</li>
+<li>gitosis の設定<br />
+	よそのサイトを参考（例：<a href="http://progit.org/book/ja/ch4-7.html">Git Pro</a>）
+	</li>
+<li>GitWeb で公開したい場合はグループを変更
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br />2<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ <span style="color: #c20cb9; font-weight: bold;">mkdir</span> ~git<span style="color: #000000; font-weight: bold;">/</span>repositories<span style="color: #000000; font-weight: bold;">/</span>hogehoge<br />
+$ <span style="color: #c20cb9; font-weight: bold;">chown</span> git:_www ~git<span style="color: #000000; font-weight: bold;">/</span>repositories<span style="color: #000000; font-weight: bold;">/</span>hogehoge</div></td></tr></tbody></table></div>
+<p>※ Mac OS X では _www がWebサーバのグループ
+	</li>
+</ol>
+<p>Mac OS X 固有のところに特化して書きました。抜けがあるかもしれませんが、gitosis の細かい設定は他のサイトを参考にして下さい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/10/22/mac-os-x-%e3%81%a7-gitosis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac OS X の git daemon 設定</title>
+		<link>/gnue/2010/10/22/mac-os-x-%e3%81%ae-git-daemon-%e8%a8%ad%e5%ae%9a/</link>
+					<comments>/gnue/2010/10/22/mac-os-x-%e3%81%ae-git-daemon-%e8%a8%ad%e5%ae%9a/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2010 16:37:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4497</guid>
+
+					<description><![CDATA[Mac OS X 10.6 では /Library/LaunchDaemons に plist をつくります。 OnDemandキーを に設定することがキモ。 123456789101112&#160; &#160; L [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Mac OS X 10.6 では /Library/LaunchDaemons に plist をつくります。<br />
+OnDemandキーを  に設定することがキモ。</p>
+<p><span id="more-4497"></span></p>
+<div class="codecolorer-container xml default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br />8<br />9<br />10<br />11<br />12<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">&nbsp; &nbsp; Label<br />
+&nbsp; &nbsp; local.git.daemon<br />
+&nbsp; &nbsp; OnDemand<br />
+&nbsp; &nbsp; <br />
+&nbsp; &nbsp; ProgramArguments<br />
+&nbsp; &nbsp; <br />
+&nbsp; &nbsp; &nbsp; &nbsp; /usr/local/git/bin/git<br />
+&nbsp; &nbsp; &nbsp; &nbsp; daemon<br />
+&nbsp; &nbsp; &nbsp; &nbsp; --user=git<br />
+&nbsp; &nbsp; &nbsp; &nbsp; --group=staff<br />
+&nbsp; &nbsp; &nbsp; &nbsp; --reuseaddr<br />
+&nbsp; &nbsp; &nbsp; &nbsp; --base-path=公開するリポジトリを置く絶対パス</div></td></tr></tbody></table></div>
+<p>※ よそのサイトではEnvironmentVariablesキーで環境変数PATHを設定しなければいけないようなことが書いてあるが、 git-daemon を呼出していることから古いバージョンの git の場合と思われる。</p>
+<p>ファイルを置いただけではすぐに起動されないので次のコマンドで起動（たぶんマシンの再起動でも可）</p>
+<div class="codecolorer-container bash default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;"><div>1<br /></div></td><td><div class="bash codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;"><span style="color: #666666;">$ </span><span style="color: #c20cb9; font-weight: bold;">sudo</span> launchctl load <span style="color: #660033;">-w</span> <span style="color: #000000; font-weight: bold;">/</span>Library<span style="color: #000000; font-weight: bold;">/</span>LaunchDaemons<span style="color: #000000; font-weight: bold;">/</span>local.git.daemon.plist</div></td></tr></tbody></table></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/10/22/mac-os-x-%e3%81%ae-git-daemon-%e8%a8%ad%e5%ae%9a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>git clone するときのURLいろいろ</title>
+		<link>/gnue/2010/10/22/git-clone-%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%aeurl%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/</link>
+					<comments>/gnue/2010/10/22/git-clone-%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%aeurl%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2010 15:36:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4473</guid>
+
+					<description><![CDATA[git clone するときのURLで混乱したので覚書き 素で ssh 先から &#160;username@hostname:path ※ path は ~username から ※ path の前は / でないので注 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				git clone するときのURLで混乱したので覚書き</p>
+<p><span id="more-4473"></span></p>
+<ul>
+<li>素で ssh 先から
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">&nbsp;username@hostname:path<br />
+※ path は ~username から<br />
+※ path の前は / でないので注意</div></div>
+</li>
+<li>gitosis の場合
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">&nbsp;ssh://git@hostname/path<br />
+※ path は ~git/repositories から</div></div>
+</li>
+<li>git daemon の場合
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">&nbsp;git://hostname/path<br />
+※ path は --base-path で指定したディレクトリから</div></div>
+</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2010/10/22/git-clone-%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%aeurl%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

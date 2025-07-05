@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	MacBook の電源断とデータ損失 へのコメント	</title>
+	<atom:link href="/gnue/2007/01/14/macbook-%E3%81%AE%E9%9B%BB%E6%BA%90%E6%96%AD%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%90%8D%E5%A4%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2007/01/14/macbook-%e3%81%ae%e9%9b%bb%e6%ba%90%e6%96%ad%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf%e6%90%8d%e5%a4%b1/</link>
+	<description></description>
+	<lastBuildDate>Sun, 14 Jan 2007 03:10:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

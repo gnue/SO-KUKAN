@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GPS &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/gps/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 18 Mar 2007 13:32:40 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>GPS-CS1K with Mac</title>
+		<link>/gnue/2007/03/18/gps-cs1k-with-mac/</link>
+					<comments>/gnue/2007/03/18/gps-cs1k-with-mac/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 18 Mar 2007 13:32:40 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GPS]]></category>
+		<category><![CDATA[Mac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/03/18/gps-cs1k-with-mac/</guid>
+
+					<description><![CDATA[Mac ではUSBマスストレージとして認識してくれない(*1)と言われていた GPS-CS1K ですが、Mac OS X 10.4.9 のアップデートで Intel Mac では使えるようになったようです（PPC の U [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000HDR6UW/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000HDR6UW.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>Mac ではUSBマスストレージとして認識してくれない(*1)と言われていた GPS-CS1K ですが、Mac  OS X 10.4.9 のアップデートで Intel Mac では使えるようになったようです（PPC の USBドライバはアップデートされなかった？）</p>
+<p>*1) 正確には最近 Mac Pro では認識される（ドライバのリビジョンが新しい）という話があって、10.4.9 によるUSBドライバのアップデートが待ち望まれていました</p>
+<p>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/03/18/gps-cs1k-with-mac/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>GPS-CS1K</title>
+		<link>/gnue/2006/09/08/gps-cs1k/</link>
+					<comments>/gnue/2006/09/08/gps-cs1k/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 07 Sep 2006 16:48:54 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GPS]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/09/08/gps-cs1k/</guid>
+
+					<description><![CDATA[PC WATCH「元麻布春男の週刊PCホットライン」に GPS-CS1K の仕様レポートが載っていました。 どうやら PC からは 32MB の USBマスストレージに見えるらしいです。ってことは Mac でも特別なドラ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000HDR6UW/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000HDR6UW.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>PC WATCH「元麻布春男の週刊PCホットライン」に GPS-CS1K の仕様レポートが載っていました。</p>
+<p>どうやら PC からは 32MB の USBマスストレージに見えるらしいです。ってことは Mac でも特別なドライバなしでログが見れそうですね。ログの形式は GPS で一般的な NMEA-0183 みたい。</p>
+<p></p>
+<p>⇒ <a href="http://pc.watch.impress.co.jp/docs/2006/0908/hot444.htm" target="_blank" rel="noopener">デジカメ用GPSユニット「GPS-CS1K」を試す</a>（PC WATCH）</p>
+<p>追記 9/12：kusumoto さんのコメントが気になってインターネットで検索してみたところ結構 Mac OS X でマウントできないという報告があがってます。ただ、PPC 版 Ubuntu Linux（on Mac）ではマウントできているそうです。Linux で大丈夫なのになぜ Mac OS X でダメなの？？？</p>
+<p>追記その２：過去に SANYO の ICレコーダ「ICR-B80RM」でもファームウェアのバージョンによってマウントできないという問題があったみたいです。同じ問題なのかどうなのかわからりませんが、SONY がファームをアップデートすれば解決しそうな気がします。ただ、SONY が Macユーザのためにアップデートしてくれるかは&#8230;</p>
+<p>追記その３：あと、裏技として USBマスストレージを挿せる NAS を経由するという技もあるみたいです。</p>
+<p>⇒ <a href="http://miyana2m.blog2.fc2.com/blog-entry-350.html" target="_blank" rel="noopener">GPS-CS1K は、Mac では使えない？ =&gt; Ubuntu for PPC で使えそう</a>（1日1tech）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/09/08/gps-cs1k/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac でも使いたい GPS-CS1K</title>
+		<link>/gnue/2006/08/03/mac-%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%84%e3%81%9f%e3%81%84-gps-cs1k/</link>
+					<comments>/gnue/2006/08/03/mac-%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%84%e3%81%9f%e3%81%84-gps-cs1k/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2006 15:26:31 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GPS]]></category>
+		<category><![CDATA[Mac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/03/mac-%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%84%e3%81%9f%e3%81%84-gps-cs1k/</guid>
+
+					<description><![CDATA[SONY がデジカメで撮った写真データと連動して使う GPSユニット（ロガー）を発表したそうです。ふーん、なるほど。時刻でマッチングをかけるわけね。 SONY なのでいつものごとく Mac には非対応。考え方はシンプルな [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000HDR6UW/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000HDR6UW.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>SONY がデジカメで撮った写真データと連動して使う GPSユニット（ロガー）を発表したそうです。ふーん、なるほど。時刻でマッチングをかけるわけね。</p>
+<p>SONY なのでいつものごとく Mac には非対応。考え方はシンプルなので仕様さえわかれば自分で作っちゃえばいいかな。たぶん GPSユニットになんらかのコマンドを送ると蓄積されたログを出力してくれるんだと思うのだけど、その仕様がわかればなんとかなりそう。</p>
+<p>もう SONY に Mac用ソフトなんて期待はしませんので技術資料だけ公開して下さい(_ _)</p>
+<p></p>
+<p>⇒ <a href="http://journal.mycom.co.jp/news/2006/08/02/421.html" target="_blank" rel="noopener">ソニー、サイバーショットの新モデル2機種とGPSユニットを発表</a>（MYCOMジャーナル）<br />
+<span id="more-975"></span><br />
+追記 8/6：USB のプロトコル解析にはこの辺↓のツールが使えそう（メモ）</p>
+<p>⇒ <a href="http://mcn.oops.jp/usb/dev/analize.htm" target="_blank" rel="noopener">[USB]: USB Protocol Analizer</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/03/mac-%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%84%e3%81%9f%e3%81%84-gps-cs1k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

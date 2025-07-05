@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	iPod nano へのコメント	</title>
+	<atom:link href="/gnue/2005/09/08/ipod-nano/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/09/08/ipod-nano/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Sep 2005 11:20:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2005/09/08/ipod-nano/#comment-529</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 09 Sep 2005 11:20:43 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/09/08/ipod-nano/#comment-529</guid>
+
+					<description><![CDATA[うわ、素早いなぁ。]]></description>
+			<content:encoded><![CDATA[<p>うわ、素早いなぁ。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		はやとも より		</title>
+		<link>/gnue/2005/09/08/ipod-nano/#comment-528</link>
+
+		<dc:creator><![CDATA[はやとも]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2005 15:12:42 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/09/08/ipod-nano/#comment-528</guid>
+
+					<description><![CDATA[今日名古屋のAppleStoreに行ったら丁度在庫が有ったので、黒4Gを買ってしまいました(^_^;)]]></description>
+			<content:encoded><![CDATA[<p>今日名古屋のAppleStoreに行ったら丁度在庫が有ったので、黒4Gを買ってしまいました(^_^;)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

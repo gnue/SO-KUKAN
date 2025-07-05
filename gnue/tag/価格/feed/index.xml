@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>価格 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E4%BE%A1%E6%A0%BC/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Apr 2007 06:25:45 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>N800 のお値段</title>
+		<link>/gnue/2007/04/09/n800-%e3%81%ae%e3%81%8a%e5%80%a4%e6%ae%b5-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 09 Apr 2007 06:25:45 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[N800]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[価格]]></category>
+		<category><![CDATA[個人輸入]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/09/n800-%e3%81%ae%e3%81%8a%e5%80%a4%e6%ae%b5</guid>
+
+					<description><![CDATA[先週、某作戦会議をしたときに N800 の価格を聞かれたので、私が購入した sparco.com のケースを書いてみます。 N800　　$368.31送料　　$37.44&#8212;&#8212;&#8212;&#82 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>先週、某作戦会議をしたときに N800 の価格を聞かれたので、私が購入した <a href="http://www.sparco.com/cgi-bin/wfind2?spn=A59L619">sparco.com</a> のケースを書いてみます。</p>
+<div></p>
+<blockquote>
+<p>N800　　$368.31<br />送料　　$37.44<br />&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<br />合計　　$405.75 x 120円/ドル = 約48,690円<br />関税　　1,700円(*1)</p>
+<p>総計　　約50,390円</p>
+<p>*1) FedEx が立替えてくれる（？）ので振込み用紙が入ってます</p>
+</blockquote>
+<p>US Amazon の $369.99 よりも若干安いしいい感じでしょうか（そもそも US Amazon だと日本に発送してくれない :-p）</p>
+<blockquote></blockquote>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

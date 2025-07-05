@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iPad &#8211; 鵺的：創空間</title>
+	<atom:link href="/products/tag/ipad/feed/" rel="self" type="application/rss+xml" />
+	<link>/products</link>
+	<description>Are Your Lights On?</description>
+	<lastBuildDate>Fri, 17 Dec 2010 18:42:21 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>iPad専用デュアル画面ブラウザ「W face」リリース！！！</title>
+		<link>/products/2010/12/18/wface/</link>
+					<comments>/products/2010/12/18/wface/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 17 Dec 2010 18:42:21 +0000</pubDate>
+				<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[W face]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/products/?p=115</guid>
+
+					<description><![CDATA[Available on the App Store リリース記念セール: 2010-12-17 〜 2011-01-03 (¥350 → ¥230)（終了） iPad専用デュアル画面ブラウザ「W face」をリリースし [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<!--:ja--><a href="https://so-kukan.com/products/files/2010/11/W-face.png"><img decoding="async" src="https://so-kukan.com/products/files/2010/11/W-face-150x150.png" alt="" title="W face" width="150" height="150" class="alignnone size-thumbnail wp-image-57" srcset="/products/wp-content/uploads/sites/4/2010/11/W-face-150x150.png 150w, /products/wp-content/uploads/sites/4/2010/11/W-face-300x300.png 300w, /products/wp-content/uploads/sites/4/2010/11/W-face.png 512w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p><a href="http://itunes.apple.com/jp/app/w-face-browser/id407186188?mt=8" class="button">Available on the App Store</a><br />
+<del datetime="2011-01-24T06:06:17+00:00"><font color="red">リリース記念セール: 2010-12-17 〜 2011-01-03 (¥350 → ¥230)</font></del>（終了）</p>
+<p>iPad専用デュアル画面ブラウザ「W face」をリリースしました。</p>
+<p>動画じゃないとちょっとイメージがわかりづらいかもしれませんが、左側でリンクをクリックすると右側に表示され、フリックして左右を入換えながら使います。</p>
+<p>なお、リリース記念セールとして来年の正月三が日まで30%ディスカウントしております。</p>
+<p><!--:--><span id="more-115"></span><!--:ja--></p>
+<hr />
+<h2>iPad専用デュアル画面Webブラウザ</h2>
+<h3>特徴</h3>
+<ul>
+<li>左右の２画面でWebページを見ることができます</li>
+<li>左ページのリンクをタップすると自動的に右ページで開きます</li>
+<li>フリップで左右のページを入換えまることができます</li>
+</ul>
+<h3>その他</h3>
+<ul>
+<li>ブックマークの検索</li>
+<li>TOP25アクセスランキング</li>
+<li>選択テキストをGoogleで検索</li>
+<li>選択テキストのWikipediaを表示</li>
+</ul>
+<p><a href="https://so-kukan.com/products/files/2010/11/IMG_0059.png"><img fetchpriority="high" decoding="async" src="https://so-kukan.com/products/files/2010/11/IMG_0059-300x225.png" alt="" title="IMG_0059" width="300" height="225" class="alignnone size-medium wp-image-31" srcset="/products/wp-content/uploads/sites/4/2010/11/IMG_0059-300x225.png 300w, /products/wp-content/uploads/sites/4/2010/11/IMG_0059-768x576.png 768w, /products/wp-content/uploads/sites/4/2010/11/IMG_0059.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<!--:-->		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/products/2010/12/18/wface/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

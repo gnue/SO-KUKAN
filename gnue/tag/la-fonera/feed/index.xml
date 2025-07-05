@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>la fonera &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/la-fonera/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Mar 2007 20:59:48 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>FON 端末の使い道</title>
+		<link>/gnue/2007/03/28/fon-%e7%ab%af%e6%9c%ab%e3%81%ae%e4%bd%bf%e3%81%84%e9%81%93/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 27 Mar 2007 20:59:48 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[FON]]></category>
+		<category><![CDATA[la fonera]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/03/28/fon-%e7%ab%af%e6%9c%ab%e3%81%ae%e4%bd%bf%e3%81%84%e9%81%93</guid>
+
+					<description><![CDATA[FON の無線LANルータ La Fonera ってこんなこともできるんですね。 ⇒&#160;La Fonera を無線LAN 端末として使ってみる（仙石浩明の日記）]]></description>
+										<content:encoded><![CDATA[<p>FON の無線LANルータ La Fonera ってこんなこともできるんですね。</p>
+<p>⇒&#160;<a href="http://blog.gcd.org/archives/50834118.html">La Fonera を無線LAN 端末として使ってみる</a>（仙石浩明の日記）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

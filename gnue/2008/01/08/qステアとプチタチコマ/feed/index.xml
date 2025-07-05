@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Qステアとプチタチコマ へのコメント	</title>
+	<atom:link href="/gnue/2008/01/08/q%E3%82%B9%E3%83%86%E3%82%A2%E3%81%A8%E3%83%97%E3%83%81%E3%82%BF%E3%83%81%E3%82%B3%E3%83%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2008/01/08/q%e3%82%b9%e3%83%86%e3%82%a2%e3%81%a8%e3%83%97%e3%83%81%e3%82%bf%e3%83%81%e3%82%b3%e3%83%9e/</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Jan 2008 15:01:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

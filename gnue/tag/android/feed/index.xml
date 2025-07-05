@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/android/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 May 2009 19:36:36 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>docomo の Android携帯</title>
+		<link>/gnue/2009/05/20/docomo-%e3%81%ae-android%e6%90%ba%e5%b8%af/</link>
+					<comments>/gnue/2009/05/20/docomo-%e3%81%ae-android%e6%90%ba%e5%b8%af/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 19 May 2009 19:36:36 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[ケータイ]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2473</guid>
+
+					<description><![CDATA[先週から噂になっていた docomo の Android携帯がついに発表された。 ツッコミどころとしては、なんでキーボード付きのほうにしなかったのかとか、あれだけ iPhone のことを「絵文字が使えない」「ワンセグが使 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				先週から噂になっていた docomo の Android携帯がついに発表された。</p>
+<p>ツッコミどころとしては、なんでキーボード付きのほうにしなかったのかとか、あれだけ iPhone のことを「絵文字が使えない」「ワンセグが使えない」「おサイフケータイが使えない」とか dis ってたくせにワンセグもおサイフケータイの載せてないとかいろいろあるけれど(*1)、何はともあれ日本でも Android携帯が出るのはいいことだ。今後 Androidマーケットをどう日本で展開していくのか非常に楽しみ。</p>
+<p>あとは Palm Pre さえ日本に上陸してくれれば三つどもえで面白いのだけどなぁ。</p>
+<p>*1) 絵文字もワンセグも全然興味ないので正直どうでもいいのだけれど、せっかくオープンな Android なのだからおサイフケータイを載せて欲しかった</p>
+<p>⇒ <a href="http://plusd.itmedia.co.jp/mobile/articles/0905/19/news065.html">Androidケータイ日本上陸　“HTC Magic”がドコモから登場――「HT-03A」</a>（ITmedia）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/20/docomo-%e3%81%ae-android%e6%90%ba%e5%b8%af/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Android SDK</title>
+		<link>/gnue/2007/11/13/android-sdk/</link>
+					<comments>/gnue/2007/11/13/android-sdk/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2007 18:41:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[SDK]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/android-sdk/</guid>
+
+					<description><![CDATA[Android SDK が公開された。 ダウンロードした。 エミュレータを動かしてみた。 Mac だと zip を解凍して tools の下の emulator を実行するだけ。非常に簡単。 アプリは XML+Java  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Android SDK が公開された。<br />
+ダウンロードした。<br />
+エミュレータを動かしてみた。<br />
+Mac だと zip を解凍して tools の下の emulator を実行するだけ。非常に簡単。</p>
+<p>アプリは XML+Java というありがちなスタイル。</p>
+<p>うーん、まとまっているとは思うのだけどどうもエモーショナルな部分が足りない。ひとことでいうとビビッとこない。</p>
+<p>⇒ <a href="http://www.openhandsetalliance.com/developers.html">Android SDK</a> （open handset alliance）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/13/android-sdk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>open handset alliance/Android</title>
+		<link>/gnue/2007/11/06/open-handset-allianceandroid/</link>
+					<comments>/gnue/2007/11/06/open-handset-allianceandroid/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 19:21:21 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Gphone]]></category>
+		<category><![CDATA[open handset alliance]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/open-handset-allianceandroid/</guid>
+
+					<description><![CDATA[噂の Gphone(Google Phone) が現実のものになるらしい。open handset alliance というベタな名前の Gphone連合と Android というプラットフォームが発表になった。 この手 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				噂の Gphone(Google Phone) が現実のものになるらしい。open handset alliance というベタな名前の Gphone連合と Android というプラットフォームが発表になった。</p>
+<p>この手の alliance は死屍累々と前例が転がっているのだけれど、Google はどういったお手並みを見せてくれるのか楽しみだ。</p>
+<p>いまのところ Android の具体像が見えないのだけれど、SDK が November 12, 2007 に公開されるそうなのでそれを待つことにしたい。</p>
+<p>⇒ <a href="http://www.openhandsetalliance.com/index.html">open handset alliance</a><br />
+⇒ <a href="http://www.openhandsetalliance.com/android_overview.html">Android</a> （open handset alliance）<br />
+⇒ <a href="http://www.openhandsetalliance.com/developers.html">Android SDK</a> （open handset alliance）</p>
+<p>⇒ <a href="http://japanese.engadget.com/2007/11/05/google-34-android/">Googleほか34社、オープン携帯プラットフォーム「Android」を発表</a> （engadget）<br />
+⇒ <a href="http://japanese.engadget.com/2007/11/05/google-android-oha/">Googleプレスカンファレンス速報：Android・OHA質疑応答</a> （engadget）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/06/open-handset-allianceandroid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

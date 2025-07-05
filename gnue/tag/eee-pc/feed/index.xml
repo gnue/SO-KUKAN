@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eee PC &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/eee-pc/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Dec 2007 10:36:12 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Eee PC 日本発売</title>
+		<link>/gnue/2007/12/19/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/</link>
+					<comments>/gnue/2007/12/19/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 19 Dec 2007 10:36:12 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Eee PC]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/12/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/</guid>
+
+					<description><![CDATA[日本では Windows XP 抱合わせ版のみだそうです。 ひとこと Windows 返すから、金返して！ ⇒ “199ドルノート”こと「Eee PC」が日本発売決定――予価は5万円前後（ITmdeia） 追記 12/2 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				日本では Windows XP 抱合わせ版のみだそうです。<br />
+ひとこと</p>
+<div align="center"><em><strong>Windows 返すから、金返して！</strong></em></div>
+<p>⇒ <a href="http://plusd.itmedia.co.jp/pcuser/articles/0712/18/news051.html">“199ドルノート”こと「Eee PC」が日本発売決定――予価は5万円前後</a>（ITmdeia）</p>
+<p>追記 12/21：思わぬところから<a href="http://toshi3.cocolog-nifty.com/blog/2007/12/eee_pc_0f5c.html">参照</a>されたので蛇足を追加。</p>
+<ol>
+<li>別に法外な価格設定とか言うつもりはない</li>
+<li>でも、要らないものを削って一円でも安くしたいというのはユーザ心理。それが（人によっては）たった 40ドルでも</li>
+<li>そもそも、海外で出している Linuxモデルを日本でだけ出さないことに疑問と異議有り</li>
+<li>日本で Eee PC を知っているのは Windows を使うような一般ユーザではなくて、現時点ではマニアックな人達である。つまり、マーケティング戦略に疑問</li>
+<li>５万円前後という微妙な価格帯のモデルしかないというのもマーケティング的には疑問</li>
+<li>Linux なら海外で売っているような下位モデルの投入も可能である</li>
+<li>別に日本だけの特別なことをして欲しいと言っているわけではなく、海外でやってることを日本でもやって欲しいだけ</li>
+<li>最後に本当の蛇足。海外であった Windows 返金運動・訴訟を踏まえたキャッチである</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/12/19/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

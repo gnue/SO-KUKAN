@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Dylan へのコメント	</title>
+	<atom:link href="/gnue/2006/02/21/dylan/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/02/21/dylan/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Mar 2006 02:52:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2006/02/21/dylan/#comment-665</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Thu, 02 Mar 2006 02:52:22 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/02/21/dylan/#comment-665</guid>
+
+					<description><![CDATA[28日の発表は、Intel Mac mini と iPod Hi-Fi でしたね。いまいち薄味。。。
+
+プログラミング言語の“完成”が何を意味するのかにもよるけど、基本的な言語仕様という意味では Dylan もとりあえず完成してたんじゃないかという気がします。そもそもかなり初期の頃から Apple Dylan 以外の実装もつくられていましたし。
+
+言語仕様＆スペックに関しては、私も一度 Apple Dylan を Mac にインストールしたことがあるけど、IDE を動かすだけでかなり重かった印象があります（といっても、私の使ってた Mac が非常に貧弱だったということもある）。NTK が PB140 で何とか動いていたのを考えると対照的。]]></description>
+			<content:encoded><![CDATA[<p>28日の発表は、Intel Mac mini と iPod Hi-Fi でしたね。いまいち薄味。。。</p>
+<p>プログラミング言語の“完成”が何を意味するのかにもよるけど、基本的な言語仕様という意味では Dylan もとりあえず完成してたんじゃないかという気がします。そもそもかなり初期の頃から Apple Dylan 以外の実装もつくられていましたし。</p>
+<p>言語仕様＆スペックに関しては、私も一度 Apple Dylan を Mac にインストールしたことがあるけど、IDE を動かすだけでかなり重かった印象があります（といっても、私の使ってた Mac が非常に貧弱だったということもある）。NTK が PB140 で何とか動いていたのを考えると対照的。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Seedsman より		</title>
+		<link>/gnue/2006/02/21/dylan/#comment-664</link>
+
+		<dc:creator><![CDATA[Seedsman]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2006 06:33:30 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/02/21/dylan/#comment-664</guid>
+
+					<description><![CDATA[こんにちは〜。
+ATGはいろいろ楽しみでしたのに残念です。ドン・ノーマンさんとかが面白そうな事をいろいろ仰ってたので。
+Apple Dylanは「これからこいつがくるぞ〜！！」ってAPDAから焦って買ったのに打ち止められて（笑）
+
+RubyのまつもとさんはDylanが無くなったのは
+完成しなかったから的な事を書かれてますが、
+言語仕様と実装予定の機能が当時のマシンスペックを
+遥かに上回っていたからじゃないかと思うんですよね。
+
+28日にアップルがなにか発表するらしいですが、
+「PDAだといいな〜」などと妄想している今日この頃です（笑）
+それにNewt/0を！！！　なんつって。]]></description>
+			<content:encoded><![CDATA[<p>こんにちは〜。<br />
+ATGはいろいろ楽しみでしたのに残念です。ドン・ノーマンさんとかが面白そうな事をいろいろ仰ってたので。<br />
+Apple Dylanは「これからこいつがくるぞ〜！！」ってAPDAから焦って買ったのに打ち止められて（笑）</p>
+<p>RubyのまつもとさんはDylanが無くなったのは<br />
+完成しなかったから的な事を書かれてますが、<br />
+言語仕様と実装予定の機能が当時のマシンスペックを<br />
+遥かに上回っていたからじゃないかと思うんですよね。</p>
+<p>28日にアップルがなにか発表するらしいですが、<br />
+「PDAだといいな〜」などと妄想している今日この頃です（笑）<br />
+それにNewt/0を！！！　なんつって。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2006/02/21/dylan/#comment-663</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2006 02:46:29 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/02/21/dylan/#comment-663</guid>
+
+					<description><![CDATA[Seedsman さん、こんにちは。
+ATG  は漢字の手書き認識とかも研究していたはずなのですが解散後どうなったのやら...]]></description>
+			<content:encoded><![CDATA[<p>Seedsman さん、こんにちは。<br />
+ATG  は漢字の手書き認識とかも研究していたはずなのですが解散後どうなったのやら&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Seedsman より		</title>
+		<link>/gnue/2006/02/21/dylan/#comment-662</link>
+
+		<dc:creator><![CDATA[Seedsman]]></dc:creator>
+		<pubDate>Thu, 23 Feb 2006 14:44:10 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/02/21/dylan/#comment-662</guid>
+
+					<description><![CDATA[Apple Dylan、APDA（現在のADC）経由で、暫定バージョンをだしていましたね。
+デファインググラビティーを読むと、Ralph（ラルフ）というコードネームで出てきます。
+巨大化したAppleの会社の構造とその混乱で存在できなくなってしまったもののひとつではないでしょうか？　ATG(Advanced Technology Group）とか、Dylan/CommonLispのケンブリッジチームとかの……。
+SK-8という教育向けの言語もあったと思います。]]></description>
+			<content:encoded><![CDATA[<p>Apple Dylan、APDA（現在のADC）経由で、暫定バージョンをだしていましたね。<br />
+デファインググラビティーを読むと、Ralph（ラルフ）というコードネームで出てきます。<br />
+巨大化したAppleの会社の構造とその混乱で存在できなくなってしまったもののひとつではないでしょうか？　ATG(Advanced Technology Group）とか、Dylan/CommonLispのケンブリッジチームとかの……。<br />
+SK-8という教育向けの言語もあったと思います。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

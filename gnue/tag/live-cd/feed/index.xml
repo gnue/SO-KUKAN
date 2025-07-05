@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>live cd &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/live-cd/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Apr 2007 05:43:34 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>OLPC の Live CD イメージ</title>
+		<link>/gnue/2007/04/11/olpc-%e3%81%ae-live-cd-%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 11 Apr 2007 05:43:34 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[live cd]]></category>
+		<category><![CDATA[OLPC]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/11/olpc-%e3%81%ae-live-cd-%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8</guid>
+
+					<description><![CDATA[100ドルPC こと OLPC の Live CD イメージが redhat のダウンロードサーバで配布されています。とりあえずダウンロードして触ってみたところ MacBook + Parallels + Live CD [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>100ドルPC こと OLPC の Live CD イメージが redhat のダウンロードサーバで配布されています。<br />とりあえずダウンロードして触ってみたところ</p>
+<ul>
+<li>MacBook + Parallels + Live CD イメージ ⇒ 起動可、画面サイズが実画面よりも大きくなってしまう、LANに接続できず</li>
+<li>MacBook + Live CD ⇒ 起動できず</li>
+<li>FMV LOOX T50H + Live CD ⇒ 起動可、解像度の調整ができないので少し横長表示（ワイドディスプレイのため）、無線LANには接続できず（そもそも設定がわからない）、有線LANは試してません</li>
+</ul>
+<p>GUI のほうは「ふ〜ん」と感じだけど、gtk のオープン・セーブ・ダイアログをなんとかしないとちょっと子供には使わせられないかな。</p>
+<p>なお、ダウンロードサーバがむちゃ遅くてなかなか繋がりません(^^;</p>
+<p>⇒ <a href="http://olpc.download.redhat.com/olpc/streams/sdk/build1/livecd/">OLPC Live CD</a>（redhat）<br /> ⇒ <a href="http://japanese.engadget.com/2007/04/10/olpc-sugar-os-livecd/">OLPCの「Sugar OS」にLiveCD版登場</a>（Engadget）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	NEWT0_0.0.5_20040707_1_src へのコメント	</title>
+	<atom:link href="/gnue/2004/07/25/newt0_005_20040707_1_src/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/07/25/newt0_005_20040707_1_src/</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Oct 2004 15:02:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/07/25/newt0_005_20040707_1_src/#comment-69</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2004 15:02:13 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/newt0_005_20040707_1_src/#comment-69</guid>
+
+					<description><![CDATA[シークのところ、確かに(^^;
+次のときに直しておきます。]]></description>
+			<content:encoded><![CDATA[<p>シークのところ、確かに(^^;<br />
+次のときに直しておきます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/07/25/newt0_005_20040707_1_src/#comment-68</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2004 07:14:18 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/newt0_005_20040707_1_src/#comment-68</guid>
+
+					<description><![CDATA[documents/04_library.txtで
+//シークのところが
+file:eof(offset, whence)となっています。
+今はもう直っているかもしれませんが。]]></description>
+			<content:encoded><![CDATA[<p>documents/04_library.txtで<br />
+//シークのところが<br />
+file:eof(offset, whence)となっています。<br />
+今はもう直っているかもしれませんが。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/07/25/newt0_005_20040707_1_src/#comment-67</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2004 15:05:20 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/newt0_005_20040707_1_src/#comment-67</guid>
+
+					<description><![CDATA[なるほど、ruby はそういう手を使ってるんですね。
+やっぱ名前を考えないとだめか。
+ちなみに amber という名のソフトウェアも既にあるみたいです(^^;]]></description>
+			<content:encoded><![CDATA[<p>なるほど、ruby はそういう手を使ってるんですね。<br />
+やっぱ名前を考えないとだめか。<br />
+ちなみに amber という名のソフトウェアも既にあるみたいです(^^;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/07/25/newt0_005_20040707_1_src/#comment-66</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2004 12:55:36 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/newt0_005_20040707_1_src/#comment-66</guid>
+
+					<description><![CDATA[rubyのbigdecimalのMakefileを見てみましたがlibruby.soをリンクしていると思います。newtでこれをするとlibnewt.soとなってしまいそう。やっぱ名前を考えなきゃだめですかねぇ。
+gnuewt、amberなんかどうでしょう。]]></description>
+			<content:encoded><![CDATA[<p>rubyのbigdecimalのMakefileを見てみましたがlibruby.soをリンクしていると思います。newtでこれをするとlibnewt.soとなってしまいそう。やっぱ名前を考えなきゃだめですかねぇ。<br />
+gnuewt、amberなんかどうでしょう。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/07/25/newt0_005_20040707_1_src/#comment-65</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2004 11:26:22 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/newt0_005_20040707_1_src/#comment-65</guid>
+
+					<description><![CDATA[BeOS でも動作したのですね。素晴らしい(^^)！
+
+&quot;inttypes.h&quot; は #ifdef _BEOS_ あたりで対応します。
+参照解決の問題ですが ruby は BeOS のときどうしているのでしょうね。]]></description>
+			<content:encoded><![CDATA[<p>BeOS でも動作したのですね。素晴らしい(^^)！</p>
+<p>&#8220;inttypes.h&#8221; は #ifdef _BEOS_ あたりで対応します。<br />
+参照解決の問題ですが ruby は BeOS のときどうしているのでしょうね。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/07/25/newt0_005_20040707_1_src/#comment-64</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Sun, 25 Jul 2004 07:25:33 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/07/25/newt0_005_20040707_1_src/#comment-64</guid>
+
+					<description><![CDATA[ソースが公開されたということで早速BeOSでmakeしてみました。
+BeOSではstdint.hは無いようでinttypes.hとしました。-rdynamicオプションは無視されただけなので問題ないでしょう。
+
+protoFILEでBeOSでは-sharedは無いので-nostartとしました。またリンク時に参照が解決されてないといけないようでnewtを_APP_としてシンボリックリンクを作り一緒にリンクするようにしました。まぁこれはBeOS特有のものかもしれません。
+
+protoFILEを使いcatの様にファイルの内容を表示することができたので順調に動いているます。]]></description>
+			<content:encoded><![CDATA[<p>ソースが公開されたということで早速BeOSでmakeしてみました。<br />
+BeOSではstdint.hは無いようでinttypes.hとしました。-rdynamicオプションは無視されただけなので問題ないでしょう。</p>
+<p>protoFILEでBeOSでは-sharedは無いので-nostartとしました。またリンク時に参照が解決されてないといけないようでnewtを_APP_としてシンボリックリンクを作り一緒にリンクするようにしました。まぁこれはBeOS特有のものかもしれません。</p>
+<p>protoFILEを使いcatの様にファイルの内容を表示することができたので順調に動いているます。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

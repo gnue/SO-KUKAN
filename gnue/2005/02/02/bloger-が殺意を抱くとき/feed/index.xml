@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	bloger が殺意を抱くとき へのコメント	</title>
+	<atom:link href="/gnue/2005/02/02/bloger-%E3%81%8C%E6%AE%BA%E6%84%8F%E3%82%92%E6%8A%B1%E3%81%8F%E3%81%A8%E3%81%8D/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/02/02/bloger-%e3%81%8c%e6%ae%ba%e6%84%8f%e3%82%92%e6%8a%b1%e3%81%8f%e3%81%a8%e3%81%8d/</link>
+	<description></description>
+	<lastBuildDate>Thu, 03 Feb 2005 11:51:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2005/02/02/bloger-%e3%81%8c%e6%ae%ba%e6%84%8f%e3%82%92%e6%8a%b1%e3%81%8f%e3%81%a8%e3%81%8d/#comment-283</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Thu, 03 Feb 2005 11:51:53 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/02/02/bloger-%e3%81%8c%e6%ae%ba%e6%84%8f%e3%82%92%e6%8a%b1%e3%81%8f%e3%81%a8%e3%81%8d/#comment-283</guid>
+
+					<description><![CDATA[(o) さん、こんにちは。
+Quasi-Spam Filter Plugin は2.x にも対応してたんですね。]]></description>
+			<content:encoded><![CDATA[<p>(o) さん、こんにちは。<br />
+Quasi-Spam Filter Plugin は2.x にも対応してたんですね。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		(o) より		</title>
+		<link>/gnue/2005/02/02/bloger-%e3%81%8c%e6%ae%ba%e6%84%8f%e3%82%92%e6%8a%b1%e3%81%8f%e3%81%a8%e3%81%8d/#comment-282</link>
+
+		<dc:creator><![CDATA[(o)]]></dc:creator>
+		<pubDate>Thu, 03 Feb 2005 07:55:53 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/02/02/bloger-%e3%81%8c%e6%ae%ba%e6%84%8f%e3%82%92%e6%8a%b1%e3%81%8f%e3%81%a8%e3%81%8d/#comment-282</guid>
+
+					<description><![CDATA[私のやつも2.xに対応しています。Application Callbackを使う方法(3.1以降)とMT::App::Trackback::pre_runを使う方法(3.0以前)の両方を提供しています。
+
+mt-plugins.orgにもサブミットしているのですがなかなか反映されませんー。]]></description>
+			<content:encoded><![CDATA[<p>私のやつも2.xに対応しています。Application Callbackを使う方法(3.1以降)とMT::App::Trackback::pre_runを使う方法(3.0以前)の両方を提供しています。</p>
+<p>mt-plugins.orgにもサブミットしているのですがなかなか反映されませんー。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

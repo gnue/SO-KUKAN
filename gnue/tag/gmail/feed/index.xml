@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gmail &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/gmail/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 14 Jun 2009 10:40:10 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Gmail フィルターの「迷惑メールにしない」オプション</title>
+		<link>/gnue/2009/06/14/gmail-%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc%e3%81%ae%e3%80%8c%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%97%e3%81%aa%e3%81%84%e3%80%8d%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7/</link>
+					<comments>/gnue/2009/06/14/gmail-%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc%e3%81%ae%e3%80%8c%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%97%e3%81%aa%e3%81%84%e3%80%8d%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2009 10:40:10 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2569</guid>
+
+					<description><![CDATA[Twitter で教えてもらったのですが、Gmail のフィルターに「迷惑メールにしない」ってチェックボックスがあったんですね。 うーん、こんなのあったかなぁと思ってぐぐってみたらどうも去年の８月ぐらいに追加された機能だ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Twitter で教えてもらったのですが、Gmail のフィルターに「迷惑メールにしない」ってチェックボックスがあったんですね。</p>
+<p>うーん、こんなのあったかなぁと思ってぐぐってみたらどうも去年の８月ぐらいに追加された機能だったらしい。１年近く気がつかなかったよぉ&#8230;&#8230;orz</p>
+<p>WordPress MU にして以来、どうも WordPressからのコメント通知メールがスパムメールに誤判定されていて困っていたのだけれど、これで少しは強力（凶悪の間違い？）と噂の Gmail スパムフィルターの誤検知に対策できそう。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/14/gmail-%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc%e3%81%ae%e3%80%8c%e8%bf%b7%e6%83%91%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%97%e3%81%aa%e3%81%84%e3%80%8d%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gmail とスパムフィルタ</title>
+		<link>/gnue/2008/03/16/gmail-%e3%81%a8%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf/</link>
+					<comments>/gnue/2008/03/16/gmail-%e3%81%a8%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 16 Mar 2008 06:21:58 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/03/gmail-%e3%81%a8%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf/</guid>
+
+					<description><![CDATA[どうもここ数日 Gmail(*1) のスパムフィルタで何通かメールが止められていたみみたい。メーリングリストに欠番があったので「もしかして」と気がついたからよかったものの、なんてこった。 スパム扱いされたメールは今までは [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				どうもここ数日 Gmail(*1) のスパムフィルタで何通かメールが止められていたみみたい。メーリングリストに欠番があったので「もしかして」と気がついたからよかったものの、なんてこった。</p>
+<p>スパム扱いされたメールは今までは問題のなかったような内容なのに何故急に。Google がスパムフィルタのアルゴリズムかパラメータを変更したんだろうか。</p>
+<p>スパムが数通間違ってすり抜けるよりも、大事なメールがスパム扱いされて届かないほうが被害重大である。もっと保守的なほうにパラメータをふってもらいたいものである。できればユーザが自分でスパムフィルタのレベルを設定できるのがいい。いまは Google まかせなのであまりにも融通が効かなすぎ。</p>
+<p>*1) 正確には Google Apps のメール機能だけど、実質的には Gmail のエンジン（本家Gmailよりはバージョンが古い？）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/03/16/gmail-%e3%81%a8%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gmail のスパムフィルタって&#8230;</title>
+		<link>/gnue/2006/08/05/gmail-%e3%81%ae%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%81%a3%e3%81%a6/</link>
+					<comments>/gnue/2006/08/05/gmail-%e3%81%ae%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%81%a3%e3%81%a6/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2006 11:05:28 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/05/gmail-%e3%81%ae%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%81%a3%e3%81%a6/</guid>
+
+					<description><![CDATA[base64 で MIME エンコーディングされたテキストをちゃんとチェックしてくれていない感じ。スパムメールがすり抜け状態でうれしくない :-{]]></description>
+										<content:encoded><![CDATA[<p>				base64 で MIME エンコーディングされたテキストをちゃんとチェックしてくれていない感じ。スパムメールがすり抜け状態でうれしくない :-{		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/05/gmail-%e3%81%ae%e3%82%b9%e3%83%91%e3%83%a0%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%81%a3%e3%81%a6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	KNOPPIX 4.0 日本語版（産総研） へのコメント	</title>
+	<atom:link href="/gnue/2005/08/03/knoppix-40-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%EF%BC%88%E7%94%A3%E7%B7%8F%E7%A0%94%EF%BC%89/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/08/03/knoppix-40-%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%ef%bc%88%e7%94%a3%e7%b7%8f%e7%a0%94%ef%bc%89/</link>
+	<description></description>
+	<lastBuildDate>Wed, 03 Aug 2005 07:56:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

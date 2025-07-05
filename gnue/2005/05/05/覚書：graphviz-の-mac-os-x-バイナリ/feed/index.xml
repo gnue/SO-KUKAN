@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	覚書：Graphviz の Mac OS X バイナリ へのコメント	</title>
+	<atom:link href="/gnue/2005/05/05/%E8%A6%9A%E6%9B%B8%EF%BC%9Agraphviz-%E3%81%AE-mac-os-x-%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/05/05/%e8%a6%9a%e6%9b%b8%ef%bc%9agraphviz-%e3%81%ae-mac-os-x-%e3%83%90%e3%82%a4%e3%83%8a%e3%83%aa/</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 May 2005 11:19:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

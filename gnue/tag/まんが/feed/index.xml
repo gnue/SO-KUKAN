@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>まんが &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%81%BE%E3%82%93%E3%81%8C/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 12 Nov 2004 01:34:43 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>ジパング</title>
+		<link>/gnue/2004/11/12/%e3%82%b8%e3%83%91%e3%83%b3%e3%82%b0/</link>
+					<comments>/gnue/2004/11/12/%e3%82%b8%e3%83%91%e3%83%b3%e3%82%b0/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 12 Nov 2004 01:34:43 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[アニメ]]></category>
+		<category><![CDATA[まんが]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/11/12/%e3%82%b8%e3%83%91%e3%83%b3%e3%82%b0/</guid>
+
+					<description><![CDATA[かわぐちかいじの「ジパング」がアニメ化されて放送されてます。なんか「戦国自衛隊」の海上自衛隊版と言った感じ。というか、（「戦国自衛隊」＋「沈黙の艦隊」）／２ ? 面白いかどうかはいまのところよくわからない。]]></description>
+										<content:encoded><![CDATA[<p>				かわぐちかいじの<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4063287319/gnue-22" target="_blank">「ジパング」</a>がアニメ化されて放送されてます。なんか「戦国自衛隊」の海上自衛隊版と言った感じ。というか、（「戦国自衛隊」＋「沈黙の艦隊」）／２ ?</p>
+<p>面白いかどうかはいまのところよくわからない。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/11/12/%e3%82%b8%e3%83%91%e3%83%b3%e3%82%b0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

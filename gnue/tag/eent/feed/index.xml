@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eent &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/eent/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 31 Aug 2004 00:17:26 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>来年の日本SF大会, 2005 7/16-17</title>
+		<link>/gnue/2004/08/31/%e6%9d%a5%e5%b9%b4%e3%81%ae%e6%97%a5%e6%9c%acsf%e5%a4%a7%e4%bc%9a-2005-716-17/</link>
+					<comments>/gnue/2004/08/31/%e6%9d%a5%e5%b9%b4%e3%81%ae%e6%97%a5%e6%9c%acsf%e5%a4%a7%e4%bc%9a-2005-716-17/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 31 Aug 2004 00:17:26 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Eent]]></category>
+		<category><![CDATA[SF]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/08/31/%e6%9d%a5%e5%b9%b4%e3%81%ae%e6%97%a5%e6%9c%acsf%e5%a4%a7%e4%bc%9a-2005-716-17/</guid>
+
+					<description><![CDATA[何をとち狂ったのか参加申込みしてしまった。 でも、申込書の「大会当日の年齢」記入で&#8230;&#8230;.ま、いっか(^^; ⇒ 日本SF大会 ⇒ HAMACON2]]></description>
+										<content:encoded><![CDATA[<p>				何をとち狂ったのか参加申込みしてしまった。<br />
+でも、申込書の「大会当日の年齢」記入で&#8230;&#8230;.ま、いっか(^^;</p>
+<p>⇒ <a href="http://www.sf-fan.gr.jp/jsfcon/" target="_blank" rel="noopener">日本SF大会</a><br />
+⇒ <a href="http://www.hamacon2.com/" target="_blank" rel="noopener">HAMACON2</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/08/31/%e6%9d%a5%e5%b9%b4%e3%81%ae%e6%97%a5%e6%9c%acsf%e5%a4%a7%e4%bc%9a-2005-716-17/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

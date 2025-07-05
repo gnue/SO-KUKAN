@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Mac OS X の git daemon 設定 へのコメント	</title>
+	<atom:link href="/gnue/2010/10/22/mac-os-x-%E3%81%AE-git-daemon-%E8%A8%AD%E5%AE%9A/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2010/10/22/mac-os-x-%e3%81%ae-git-daemon-%e8%a8%ad%e5%ae%9a/</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Oct 2010 16:37:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MacBook &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/macbook/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 Jun 2009 15:09:25 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>MacBook とマウスの接続が切れる</title>
+		<link>/gnue/2009/06/24/macbook-%e3%81%a8%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/</link>
+					<comments>/gnue/2009/06/24/macbook-%e3%81%a8%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2009 15:09:25 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Mouse]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2665</guid>
+
+					<description><![CDATA[最近、MacBook と Wireless Mighty Mouse の Belutooth 接続がよく切れる。最初はいいのだけれど長時間使ってると反応しなくなってしまう。しかも、Mac側ではどうも接続が切れてるのを認識 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				最近、MacBook と Wireless Mighty Mouse の Belutooth 接続がよく切れる。最初はいいのだけれど長時間使ってると反応しなくなってしまう。しかも、Mac側ではどうも接続が切れてるのを認識してないっぽくて一旦Bluetooth をオフにして再度オンにしないと再接続できない。</p>
+<p>これって MacBook 側の問題なのか Mouse 側の問題なのか。どうも MacBook 側があやしげなのだけどどうなんだろう。 </p>
+<p>追記 6/28：<a href="http://www.rottel.net/kuwa/49844">ここ</a>を見るとどうもこの現象はほかの人のところでも多発しているらしい。この現象が出始めたのは比較的最近（10.5.7にアップデートしたあたり？）なので Bluetooth の HIDドライバに何か問題があるのかもしれない<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2639.png" alt="☹" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>追記 8/23：Mac OS X 10.5.8 にしてからしばらく使っていたけどいまのところ上記の症状が出ていない。どうも 10.5.7 が原因だったっぽい		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/24/macbook-%e3%81%a8%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook 到着</title>
+		<link>/gnue/2008/10/23/macbook-%e5%88%b0%e7%9d%80/</link>
+					<comments>/gnue/2008/10/23/macbook-%e5%88%b0%e7%9d%80/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2008 01:59:27 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1495</guid>
+
+					<description><![CDATA[今朝、クロネコさんが届けてくれました。 ただいま移行作業中。うちはちょっと特殊なフォルダ構成にしているので単純に移行アシスタントだけで移行できないのがつらい。これを機会にフォルダ構成を考え直そうかな。 あと、新しい Ma [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				今朝、クロネコさんが届けてくれました。</p>
+<p>ただいま移行作業中。うちはちょっと特殊なフォルダ構成にしているので単純に移行アシスタントだけで移行できないのがつらい。これを機会にフォルダ構成を考え直そうかな。</p>
+<p>あと、新しい MacBook の名前は何にしようか。<br />
+歴代 Mac, iPod &amp; iPhone の名前は</p>
+<ul>
+<li>MacBook(初代)：Jabberwock</li>
+<li>Mac mini(x86)：Cheshire Cat</li>
+<li><del>Mac mini(PPC)：White King</del></li>
+<li>iBook G4：Red Queen</li>
+<li>iBook(Dual USB)：Red Queen</del></li>
+<li><del>iPod mini(Blue)：Blue Moon</del></li>
+<li><del>iPod nano(1G, Black)：Black Knight</del></li>
+<li><del>iPod nano(3G, Green)：Green Requiem</del></li>
+<li>iPod touch(1G)：Monolith</li>
+<li>iPhone 3G(White)：Pawn</li>
+<li>Linux(Palarells)：Bishop</li>
+<li>Wireless Mighty Mouse：Snow Rabbit</li>
+<li>AirMac Extreme Base Station：木馬</li>
+<li>AirMac Express Base Station：独立遊撃隊</li>
+<li>バックアップ用HDD：Knight, Humpty, Dumpty</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/10/23/macbook-%e5%88%b0%e7%9d%80/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>出荷のお知らせ来た</title>
+		<link>/gnue/2008/10/20/%e5%87%ba%e8%8d%b7%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e6%9d%a5%e3%81%9f/</link>
+					<comments>/gnue/2008/10/20/%e5%87%ba%e8%8d%b7%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e6%9d%a5%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2008 14:31:32 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1491</guid>
+
+					<description><![CDATA[お届け予定日は 10/23 だけどもうちょっと早く来るよね。 明日かな、明後日かな。 追記 10/22：日本に到着。クロネコが届けてくれるらしい]]></description>
+										<content:encoded><![CDATA[<p>				お届け予定日は 10/23 だけどもうちょっと早く来るよね。<br />
+明日かな、明後日かな。</p>
+<p>追記 10/22：日本に到着。クロネコが届けてくれるらしい		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/10/20/%e5%87%ba%e8%8d%b7%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e6%9d%a5%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>新MacBook&#8230;ぽちっとな</title>
+		<link>/gnue/2008/10/15/%e6%96%b0macbook%e3%81%bd%e3%81%a1%e3%81%a3%e3%81%a8%e3%81%aa/</link>
+					<comments>/gnue/2008/10/15/%e6%96%b0macbook%e3%81%bd%e3%81%a1%e3%81%a3%e3%81%a8%e3%81%aa/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2008 06:21:43 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1489</guid>
+
+					<description><![CDATA[FireWire 400 がなくなったとか、Apple の円ドルレートが安過ぎるとか不満がないわけではないけれど、うだうだ考えてもしょうがないのでポチっとしちゃいました。 機種は新MacBook の一番安いやつ。もちろん [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				FireWire 400 がなくなったとか、Apple の円ドルレートが安過ぎるとか不満がないわけではないけれど、うだうだ考えてもしょうがないのでポチっとしちゃいました。</p>
+<p>機種は新MacBook の一番安いやつ。もちろん USキーボード。</p>
+<p><a href="http://click.linksynergy.com/fs-bin/click?id=Vt9b3v2rOOs&amp;offerid=102056.10002086&amp;type=4&amp;subid=0"><img decoding="async" alt="Apple Store（Japan） " border="0" src="http://ad.linkshare.ne.jp/3398/macbook/MacBook_300x150.jpg"></a><img decoding="async" border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=Vt9b3v2rOOs&amp;bids=102056.10002086&amp;type=4&amp;subid=0">		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/10/15/%e6%96%b0macbook%e3%81%bd%e3%81%a1%e3%81%a3%e3%81%a8%e3%81%aa/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>新しい MacBook と MacBook Pro</title>
+		<link>/gnue/2008/02/26/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/</link>
+					<comments>/gnue/2008/02/26/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 26 Feb 2008 14:22:59 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/02/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/</guid>
+
+					<description><![CDATA[噂通り、新しい MacBook と MacBook Pro が出ましたね。でも MacBook は LEDバックライト・ディレプレイじゃないんだよね。がっくし。 さてと、もう半年待とうかな&#8230;.(^^;]]></description>
+										<content:encoded><![CDATA[<p>				噂通り、新しい MacBook と MacBook Pro が出ましたね。でも MacBook は LEDバックライト・ディレプレイじゃないんだよね。がっくし。</p>
+<p>さてと、もう半年待とうかな&#8230;.(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/02/26/%e6%96%b0%e3%81%97%e3%81%84-macbook-%e3%81%a8-macbook-pro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook のバッテリを交換</title>
+		<link>/gnue/2008/01/30/macbook-%e3%81%ae%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%82%92%e4%ba%a4%e6%8f%9b/</link>
+					<comments>/gnue/2008/01/30/macbook-%e3%81%ae%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%82%92%e4%ba%a4%e6%8f%9b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 30 Jan 2008 14:05:32 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[バッテリ]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/macbook-%e3%81%ae%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%82%92%e4%ba%a4%e6%8f%9b/</guid>
+
+					<description><![CDATA[MacBook をバッテリ駆動で使っているとアラートもなしに突然電源が切れたり、バッテリ駆動でスリープしているといつの間にか電源が落ちていたりするので、アップルサポートセンターに電話してバッテリ交換してもらうことができま [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				MacBook をバッテリ駆動で使っているとアラートもなしに突然電源が切れたり、バッテリ駆動でスリープしているといつの間にか電源が落ちていたりするので、アップルサポートセンターに電話してバッテリ交換してもらうことができました。</p>
+<p>ほんとうは１年前から症状が出てたのだけれど忙しくてそのままになってた。本体の保証期間もいつの間にか過ぎてヘタすると有償修理か（それとも新しいのを買うか(^^;）なとびくびくでしたが MacBook のバッテリにはいろいろと問題があって特別に２年保証に延長されていたので無償修理になりました。いや、マザーボードの問題でなくてほんとよかった。</p>
+<p>これでかなりの部分が購入時から入れ替わりました。マザーボード、電源部、HDD、ディスプレイ・ベゼル、キーボード・ベゼル、バッテリ、、、全部無償交換。</p>
+<p>MacBook Air も欲しいのだけど、はっきりいって初代MacBook がさんざん（いったい何回修理に出したろう :-P）だったので今回は初物はパス。第２世代の Air が出てから考えます。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/30/macbook-%e3%81%ae%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%82%92%e4%ba%a4%e6%8f%9b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook の電源断とデータ損失</title>
+		<link>/gnue/2007/01/14/macbook-%e3%81%ae%e9%9b%bb%e6%ba%90%e6%96%ad%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf%e6%90%8d%e5%a4%b1/</link>
+					<comments>/gnue/2007/01/14/macbook-%e3%81%ae%e9%9b%bb%e6%ba%90%e6%96%ad%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf%e6%90%8d%e5%a4%b1/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2007 03:10:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/01/14/macbook-%e3%81%ae%e9%9b%bb%e6%ba%90%e6%96%ad%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf%e6%90%8d%e5%a4%b1/</guid>
+
+					<description><![CDATA[うーん、バッテリ駆動中に MacBook の電源が突然落ちちゃいました。最初はバッテリ切れかと思ったのだけどそうじゃなかったみたい。 今回は前みたいに頻発していないのだけど、このときの電源断でいくつかのファイルが破損。破 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				うーん、バッテリ駆動中に MacBook の電源が突然落ちちゃいました。最初はバッテリ切れかと思ったのだけどそうじゃなかったみたい。</p>
+<p>今回は前みたいに頻発していないのだけど、このときの電源断でいくつかのファイルが破損。破損したファイルは</p>
+<p>&#8211; Mail の環境設定<br />
+&#8211; シイラの環境設定<br />
+&#8211; 作業中の Xcode プロジェクトと２個のソースファイル<br />
+&#8211; .svk/conf と１つのリポジトリ</p>
+<p>Mail は新規にアカウントをつくらないと起動しないし（この仕様なんとかしてほしい :-P）、シイラはブックマークがぶっとんでしまったし、ソースファイルは２・３時間分が消失（バックアップから以前のものは取り出したので被害は最小）、svk はデポットマップとチェックアウトのやりなおし、被害のあったリポジトリはバックアップからロードして復元、、、というとほほな状況。</p>
+<p>まぁ、不幸中の幸いは Parallels を起動中でなかったので Windows XP のイメージファイルに被害がなかったこと。これに被害があると出先（まだ２・３日自宅に帰れない）で対応できないのでどうしようもなくなるところだった。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/01/14/macbook-%e3%81%ae%e9%9b%bb%e6%ba%90%e6%96%ad%e3%81%a8%e3%83%87%e3%83%bc%e3%82%bf%e6%90%8d%e5%a4%b1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook (Late 2006)</title>
+		<link>/gnue/2006/11/11/macbook-late-2006/</link>
+					<comments>/gnue/2006/11/11/macbook-late-2006/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 11 Nov 2006 02:55:03 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/11/11/macbook-late-2006/</guid>
+
+					<description><![CDATA[まだ買わない&#8230;.]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://click.linksynergy.com/fs-bin/click?id=Vt9b3v2rOOs&amp;offerid=82253.10000486&amp;type=4&amp;subid=0"><img decoding="async" alt="Apple Store（Japan） " border="0" src="http://images.apple.com/jp/store/affiliate/product/HW/macbook/mb_120x240_050906.gif"></a><img border="0" width="1" height="1"></p>
+<p>まだ買わない&#8230;.</p>
+<p>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/11/11/macbook-late-2006/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook、帰る</title>
+		<link>/gnue/2006/10/24/macbook%e3%80%81%e5%b8%b0%e3%82%8b/</link>
+					<comments>/gnue/2006/10/24/macbook%e3%80%81%e5%b8%b0%e3%82%8b/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 24 Oct 2006 11:22:56 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/24/macbook%e3%80%81%e5%b8%b0%e3%82%8b/</guid>
+
+					<description><![CDATA[今日 MacBook が修理から返ってきました。 修理内容は &#8211; HDD の交換 &#8211; ヒートシンクの交換 &#8211; 熱センサの交換 &#8211; トップケース（キーボード付き）の交換 &# [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				今日 MacBook が修理から返ってきました。<br />
+修理内容は</p>
+<p>&#8211; HDD の交換<br />
+&#8211; ヒートシンクの交換<br />
+&#8211; 熱センサの交換<br />
+&#8211; トップケース（キーボード付き）の交換<br />
+&#8211; ディスプレイ・ベゼルの交換</p>
+<p>障害が発生していた HDD 以外にも、ついで（？）でかなり交換されてます。前回マザーボードを交換しているし、内臓もとい中身が半分ぐらい入れ替わってるような気が(^^;</p>
+<p>なお、BindUp! のソースコードは今回の HDDトラブルで消失しました&#8230;orz		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/24/macbook%e3%80%81%e5%b8%b0%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook HDDトラブル！</title>
+		<link>/gnue/2006/10/17/macbook-hdd%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab%ef%bc%81/</link>
+					<comments>/gnue/2006/10/17/macbook-hdd%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab%ef%bc%81/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 17 Oct 2006 08:36:41 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[HDD]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/17/macbook-hdd%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab%ef%bc%81/</guid>
+
+					<description><![CDATA[やっちゃいました。。。。というか、やられちゃいました。MacBook の内蔵HDD が認識しなくなってしまった。 特に MacBook を落としたりとか、強い衝撃をあたえたりとか、まったくしてません。突然です、突然。普通 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				やっちゃいました。。。。というか、やられちゃいました。MacBook の内蔵HDD が認識しなくなってしまった。</p>
+<p>特に MacBook を落としたりとか、強い衝撃をあたえたりとか、まったくしてません。突然です、突然。普通に使っていたのに突然マウスが動かなくなって、しょうがなく再起動したむちゃくちゃ起動に時間がかかってほとんど動かない状態、さらに再起動したら&#8230;.</p>
+<p>インストールCD で起動して、システムプロファイルで見るとシリアルATAが「この情報の収集中にエラーが起きました」とのたまわってくれます。ディスクユーティリティでも HDD そのものが見えず（シリアルATA が見えてないのだからあたりまえ）。</p>
+<p>代替機としては iBook G4 があるからまだ何とかなるけど、困るのが外部バックアップ(*1)を取ってない作業中のファイル&#8230;..orz</p>
+<p>とりあえず明日朝一で電話してクイックガレージに持ち込むつもりです。ホームディレクトリのファイルだけでも助け出せればいいのだが。最悪１・２週間分のコードを書き直しか&#8230;..泣けるなぁ（とほほ）</p>
+<p>*1) svk でバックアップは取ってるけど同じ HDD 内なので意味なし（涙）</p>
+<p>追記 10/18：クイックガレージ行ってきましたが、修理部品を取り寄せて１週間ぐらいかかり HDD の内容も消去されるということ。結局、昔の対面修理みたいなことはもうやっていないそうで症状の確認をその場でするぐらいとのこと。うーん、それじゃ意味ないなぁ。</p>
+<p>また取りに来なきゃいけないし、それだったらピックアップ＆デリバリーで修理センターに送ったほうがいいということで持ち帰ってきました。</p>
+<p>追記 10/20：今日、ピックアップ＆デリバリーで修理に引き取られて行きました。はやく、帰ってきて&#8230;<br />
+追記 10/24：MacBook が修理から返ってきました。HDD が交換されていた&#8230;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/17/macbook-hdd%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab%ef%bc%81/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	脱 Windows 専用機、計画 へのコメント	</title>
+	<atom:link href="/gnue/2006/12/31/%E8%84%B1-windows-%E5%B0%82%E7%94%A8%E6%A9%9F%E3%80%81%E8%A8%88%E7%94%BB/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/12/31/%e8%84%b1-windows-%e5%b0%82%e7%94%a8%e6%a9%9f%e3%80%81%e8%a8%88%e7%94%bb/</link>
+	<description></description>
+	<lastBuildDate>Sun, 31 Dec 2006 14:00:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2006/12/31/%e8%84%b1-windows-%e5%b0%82%e7%94%a8%e6%a9%9f%e3%80%81%e8%a8%88%e7%94%bb/#comment-797</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2006 14:00:04 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/12/31/%e8%84%b1-windows-%e5%b0%82%e7%94%a8%e6%a9%9f%e3%80%81%e8%a8%88%e7%94%bb/#comment-797</guid>
+
+					<description><![CDATA[私は $49.99 の早期価格で購入したので本家です。Windows はまだ入れていないのでわからないけど、表示が英語なだけで特に日本語使用上の問題はないと思います。]]></description>
+			<content:encoded><![CDATA[<p>私は $49.99 の早期価格で購入したので本家です。Windows はまだ入れていないのでわからないけど、表示が英語なだけで特に日本語使用上の問題はないと思います。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		sai より		</title>
+		<link>/gnue/2006/12/31/%e8%84%b1-windows-%e5%b0%82%e7%94%a8%e6%a9%9f%e3%80%81%e8%a8%88%e7%94%bb/#comment-796</link>
+
+		<dc:creator><![CDATA[sai]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2006 13:43:16 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/12/31/%e8%84%b1-windows-%e5%b0%82%e7%94%a8%e6%a9%9f%e3%80%81%e8%a8%88%e7%94%bb/#comment-796</guid>
+
+					<description><![CDATA[僕はOEM版（DSP版とおんなじこと？）を買って取りあえずBootCampでインストールしました。
+Parallelsも時期に使うつもりですが、日本版か本家か迷ってます。値段もさることながら日本版のバージョン遅れも気になります。本家は日本語使用上問題ないのかよくわからないしで。
+GNUEさんはどっちすか？]]></description>
+			<content:encoded><![CDATA[<p>僕はOEM版（DSP版とおんなじこと？）を買って取りあえずBootCampでインストールしました。<br />
+Parallelsも時期に使うつもりですが、日本版か本家か迷ってます。値段もさることながら日本版のバージョン遅れも気になります。本家は日本語使用上問題ないのかよくわからないしで。<br />
+GNUEさんはどっちすか？</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

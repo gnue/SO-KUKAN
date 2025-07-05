@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>特許 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E7%89%B9%E8%A8%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 08 Oct 2004 01:13:44 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>オブジェクト特許のゆくえ</title>
+		<link>/gnue/2004/10/08/%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e7%89%b9%e8%a8%b1%e3%81%ae%e3%82%86%e3%81%8f%e3%81%88/</link>
+					<comments>/gnue/2004/10/08/%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e7%89%b9%e8%a8%b1%e3%81%ae%e3%82%86%e3%81%8f%e3%81%88/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 08 Oct 2004 01:13:44 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[特許]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/08/%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e7%89%b9%e8%a8%b1%e3%81%ae%e3%82%86%e3%81%8f%e3%81%88/</guid>
+
+					<description><![CDATA[気になっていた Kodak と Sun のオブジェクト特許裁判だが突然の急展開。法廷外での和解が決まったらしい。しかもその和解の内容が非常に腑に落ちない。ITmedia の速報だけではよくわからないのだけど、どうも Ko [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				気になっていた Kodak と Sun のオブジェクト特許裁判だが突然の急展開。法廷外での和解が決まったらしい。しかもその和解の内容が非常に腑に落ちない。<strike>ITmedia の速報だけではよくわからないのだけど、どうも Kodak に不利な和解のように見える。</strike>いったいどういう裏取引きがあったのやら&#8230;</p>
+<p>追記：どうやら9200万ドルを支払ってライセンス提供を受けることで和解したようです。なんか、最悪 :-{</p>
+<p>⇒ <a href="http://www.itmedia.co.jp/enterprise/articles/0410/08/news006.html" target="_blank" rel="noopener">KodakとSun、オブジェクト特許で和解</a>（ITmedia）<br />
+⇒ <a href="http://japan.cnet.com/news/ent/story/0,2000047623,20075055,00.htm" target="_blank" rel="noopener">Java特許訴訟、サンとコダックが9200万ドルで和解</a>（c|net）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/10/08/%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e7%89%b9%e8%a8%b1%e3%81%ae%e3%82%86%e3%81%8f%e3%81%88/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>特許にもフェアプレイを</title>
+		<link>/gnue/2004/06/24/%e7%89%b9%e8%a8%b1%e3%81%ab%e3%82%82%e3%83%95%e3%82%a7%e3%82%a2%e3%83%97%e3%83%ac%e3%82%a4%e3%82%92/</link>
+					<comments>/gnue/2004/06/24/%e7%89%b9%e8%a8%b1%e3%81%ab%e3%82%82%e3%83%95%e3%82%a7%e3%82%a2%e3%83%97%e3%83%ac%e3%82%a4%e3%82%92/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2004 18:22:40 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[特許]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/06/24/%e7%89%b9%e8%a8%b1%e3%81%ab%e3%82%82%e3%83%95%e3%82%a7%e3%82%a2%e3%83%97%e3%83%ac%e3%82%a4%e3%82%92/</guid>
+
+					<description><![CDATA[6/20 ようやく日本でも GIF の特許（厳密には LZW の特許）が切れた。最近では JPEG も標的として狙われているなど、いつ昨日まで自由に使えてたソフトが突然「俺々特許」により使えなくなるかわからない世知辛い世 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				6/20 ようやく日本でも GIF の特許（厳密には LZW の特許）が切れた。最近では JPEG も標的として狙われているなど、いつ昨日まで自由に使えてたソフトが突然「俺々特許」により使えなくなるかわからない世知辛い世の中である。<br />
+<span id="more-189"></span><br />
+一部の人のように特許そのものを完全否定するつもりはないが、特許の運用そのものにはアンフェアなものを感じる。特許のアンフェアな運用はソフトウェアを開発する企業あるいは個人が告訴の対象となるだけでなく、広くは公共の利益を損ない、経済にも暗い影を落とす。本来、特許の精神とはその反対ものであるはずなのに。これもそれもアンフェアなやり方がまかり通っているからにほかならない。</p>
+<p>それでは特許法の健全化（フェアプレイ化）のための案を少し考えてみよう。個人的には３つの柱を考えてみた。</p>
+<p>&#8211; あとだしジャンケンの禁止<br />
+&#8211; 公共特許<br />
+&#8211; 屑特許の徹底排除</p>
+<p>ひとつめの「あとだしジャンケンの禁止」ではサブマリン特許は論外、普通の特許でも既に知られている侵害対象に対し一定期間クレームをつけなかった場合はその対象に対して訴訟権を失う（時効？）などの法律の改正。これは GIF などのようにデファクトスタンダードになってしまったものに対し後から特許侵害でクレームをつけられないようにするためである。クレームをつけるなら初期の段階で行うべきで放置していた場合はその権利を失う。</p>
+<p>ふたつめの「公共特許」であるが、これはパブリックドメインな特許を特許法の中につくってしまおうということである。いちど公共特許となってしまえばそれは特許法に守られて誰でも自由に使うことができる。例えば JPEG や WEB 技術のようにコンソーシアムが特許に縛られないように注意深く制定したにも関わらず標的にされる場合がある。それだけ特許から自由になるということは一筋縄でいかないことである。かと言って特許に対抗するために特許を取るとそれを行使されないかと怪訝がられるし、既に公知の技術だと思われているものの場合は特許を取ることもできない。「公共特許」の目的は技術をパブリックドメインとして認知させることにあるので公知の技術も（公知であるということの）確認の意味で申請することが可能であり、申請者も含め個人の知的財産権は失われ公共物（パブリックドメイン）となる。</p>
+<p>みっつめの「屑特許の徹底排除」は当たり前のことであり現在でも当然そのように運用されるべきである。だが、現実は誰でも容易に考えつく組み合わせが特許としてまかり通りそれが特許法を蝕んでいる。特許庁をバカ！アホ！マヌケ！と言いたい気持ちはみんな同じだが、そうは言ってもバカがすぐに賢くなるわけでもないし、膨大な申請数の問題もある。決定的な解決策はないが少なくとも特許庁は「悪貨は良貨を駆逐する」ということを肝に免じてもらいたい。</p>
+<p>みっつめは運用上の問題だが、ひとつめとふたつめは法律として成立させることができれば少しは風通しがよくなると思うのだがどうだろう。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/06/24/%e7%89%b9%e8%a8%b1%e3%81%ab%e3%82%82%e3%83%95%e3%82%a7%e3%82%a2%e3%83%97%e3%83%ac%e3%82%a4%e3%82%92/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

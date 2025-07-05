@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Longhorn, 長過ぎた角 へのコメント	</title>
+	<atom:link href="/gnue/2006/06/29/longhorn-%E9%95%B7%E9%81%8E%E3%81%8E%E3%81%9F%E8%A7%92/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/</link>
+	<description></description>
+	<lastBuildDate>Sat, 01 Jul 2006 04:26:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-736</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sat, 01 Jul 2006 04:26:20 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-736</guid>
+
+					<description><![CDATA[実は私も BeOS は使ったことがないので詳しいことは知らないのですが、メタデータを格納できるようになっていてディレクトリや検索結果を同じインタフェースで表示できるようです。Tiger のスマートフォルダみたいな感じなのかな。]]></description>
+			<content:encoded><![CDATA[<p>実は私も BeOS は使ったことがないので詳しいことは知らないのですが、メタデータを格納できるようになっていてディレクトリや検索結果を同じインタフェースで表示できるようです。Tiger のスマートフォルダみたいな感じなのかな。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-735</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2006 14:02:26 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-735</guid>
+
+					<description><![CDATA[なかなか、良さそうな資料がなかったのですが、見つけて読んできました＞BFS]]></description>
+			<content:encoded><![CDATA[<p>なかなか、良さそうな資料がなかったのですが、見つけて読んできました＞BFS</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-734</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2006 03:11:28 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-734</guid>
+
+					<description><![CDATA[そうか。ファイルシステムではないですものね＞Soup。
+Beはいじったことがないから（インストールできるマシンがなかった）よくわからないのですが、違う構造なのですか？]]></description>
+			<content:encoded><![CDATA[<p>そうか。ファイルシステムではないですものね＞Soup。<br />
+Beはいじったことがないから（インストールできるマシンがなかった）よくわからないのですが、違う構造なのですか？</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-733</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Thu, 29 Jun 2006 15:37:14 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-733</guid>
+
+					<description><![CDATA[Newton の Soup は素朴な簡易オブジェクトDBなので、どちらかというと BeOS の BSF や ZOPE の ZDB　のほうが近いのではないかと思います。いや、実は PocketPC の内部ストレージのファイルシステムが安易DBにファイルシステムをかぶせたのものなのでその延長と言えるかも。]]></description>
+			<content:encoded><![CDATA[<p>Newton の Soup は素朴な簡易オブジェクトDBなので、どちらかというと BeOS の BSF や ZOPE の ZDB　のほうが近いのではないかと思います。いや、実は PocketPC の内部ストレージのファイルシステムが安易DBにファイルシステムをかぶせたのものなのでその延長と言えるかも。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-732</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Thu, 29 Jun 2006 13:14:19 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/06/29/longhorn-%e9%95%b7%e9%81%8e%e3%81%8e%e3%81%9f%e8%a7%92/#comment-732</guid>
+
+					<description><![CDATA[記事をぽつぽつ読んで思ったんですが、WinFSって……NewtonのSoupと似てますね。これをWinに入れようとしてたってことですか。知らなかった（w。それは確かに便利ですね……今更ですが。]]></description>
+			<content:encoded><![CDATA[<p>記事をぽつぽつ読んで思ったんですが、WinFSって……NewtonのSoupと似てますね。これをWinに入れようとしてたってことですか。知らなかった（w。それは確かに便利ですね……今更ですが。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

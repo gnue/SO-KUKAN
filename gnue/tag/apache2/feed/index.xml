@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>apache2 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/apache2/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 May 2009 13:53:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>apache2ログのローテーション</title>
+		<link>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+					<comments>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 13:53:31 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[apache2]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2153</guid>
+
+					<description><![CDATA[なぜか昨日から自宅サーバがよく固まるので apache2 のログを見ようと思ったら、Leopard のデフォルトでは apache2 のログがローテーションしてない（ずっと同じファイルに追加されている）のね。 ということ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				なぜか昨日から自宅サーバがよく固まるので apache2 のログを見ようと思ったら、Leopard のデフォルトでは apache2 のログがローテーションしてない（ずっと同じファイルに追加されている）のね。</p>
+<p>ということで下記のサイトを参考に /etc/newsyslog.conf を編集してローテーションさせるようにしました。</p>
+<p>⇒ <a href="http://earlybirds.ddo.jp/namahage/inegalog/article.php?id=64">Web共有機能のログをローテーションさせよう</a> （MacOSXでサーバー稼業）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

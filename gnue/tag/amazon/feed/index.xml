@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Amazon &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/amazon/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 25 Nov 2009 08:00:15 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Kindle 2</title>
+		<link>/gnue/2009/11/25/kindle-2/</link>
+					<comments>/gnue/2009/11/25/kindle-2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2009 08:00:15 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2924</guid>
+
+					<description><![CDATA[Kindle のファームウェアがアップデートして Kindle 2 でも PDF が直読みできるようになったというのでついついポチっとしちゃいました。 ほんとうは Kindle 3 が出るまで我慢しようと思ってたのだけど [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0015T963C/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0015T963C.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>Kindle のファームウェアがアップデートして Kindle 2 でも PDF が直読みできるようになったというのでついついポチっとしちゃいました。</p>
+<p>ほんとうは <a href="http://japanese.engadget.com/2009/03/02/kindle-3/">Kindle 3</a> が出るまで我慢しようと思ってたのだけど、どうも来年になりそうだという噂があったのでそれならとりあえず Kindle 2 を手に入れておいて Kindle 3 が出たら里子に出せばいいかなと（笑）<br />
+<br class="clear" /><br />
+⇒ <a href="http://www.amazon.com/dp/B0015T963C">Kindle Wireless Reading Device (6&#8243; Display, Global Wireless, Latest Generation)</a></p>
+<p>日本語フォント導入メモ：<br />
+⇒ <a href="http://www.ytsuboi.org/wp/archives/1138">Kindle 2 Global Wireless (国際版)を2.3にアップデート</a>（yoshi&#8217;s blog）<br />
+⇒ <a href="http://www.ytsuboi.org/wp/archives/781">Kindle 2 国際版へのM+IPAフォント導入はっく</a>（yoshi&#8217;s blog）<br />
+⇒ <a href="http://www.ytsuboi.org/wp/archives/871">Kindle 2 国際版へのIPA P 明朝フォント導入はっく</a>（yoshi&#8217;s blog）</p>
+<p>追記 11/26：Shipped<br />
+追記 11/27：到着。はやぁ〜！<br />
+追記 11/27：M+IPAフォント導入		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/11/25/kindle-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

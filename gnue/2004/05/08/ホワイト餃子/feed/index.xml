@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	ホワイト餃子 へのコメント	</title>
+	<atom:link href="/gnue/2004/05/08/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E9%A4%83%E5%AD%90/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/05/08/%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e9%a4%83%e5%ad%90/</link>
+	<description></description>
+	<lastBuildDate>Mon, 17 May 2004 17:12:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2004/05/08/%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e9%a4%83%e5%ad%90/#comment-49</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 17 May 2004 17:12:38 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/05/08/%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e9%a4%83%e5%ad%90/#comment-49</guid>
+
+					<description><![CDATA[なんか本店は千葉の野田みたいですね。]]></description>
+			<content:encoded><![CDATA[<p>なんか本店は千葉の野田みたいですね。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		内藤 より		</title>
+		<link>/gnue/2004/05/08/%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e9%a4%83%e5%ad%90/#comment-48</link>
+
+		<dc:creator><![CDATA[内藤]]></dc:creator>
+		<pubDate>Mon, 17 May 2004 14:09:08 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/05/08/%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e9%a4%83%e5%ad%90/#comment-48</guid>
+
+					<description><![CDATA[千葉県は柏にもホワイト餃子がありますよ。
+でも、他の味知らないから比較できないっす。]]></description>
+			<content:encoded><![CDATA[<p>千葉県は柏にもホワイト餃子がありますよ。<br />
+でも、他の味知らないから比較できないっす。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

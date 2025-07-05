@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>エミュレータ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Nov 2006 19:20:14 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>VMware for Intel Mac β版</title>
+		<link>/gnue/2006/11/03/vmware-for-intel-mac-%ce%b2%e7%89%88/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2006 19:20:14 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[エミュレータ]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/11/03/vmware-for-intel-mac-%ce%b2%e7%89%88</guid>
+
+					<description><![CDATA[Macのエミュレータで有名な田中俊光さんの blog [link] によると VMware が登録ユーザ向け一部テスターに Mac版βの配布を開始したそうです。 Parallels は購入して持っているけど VMware [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Macのエミュレータで有名な田中俊光さんの blog [<a href="http://toshi3.cocolog-nifty.com/blog/2006/11/vmware_mac_39d8.html">link</a>] によると VMware が<del>登録ユーザ向け</del>一部テスターに Mac版βの配布を開始したそうです。</p>
+<p>Parallels は購入して持っているけど VMware も気になります。一般向けのパブリックベータとか評価版はいつになるんでしょう。はやく試してみたい&#8230; </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

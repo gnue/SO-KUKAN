@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	構想：オブジェクト指向言語の多言語化 へのコメント	</title>
+	<atom:link href="/gnue/2004/09/20/%E6%A7%8B%E6%83%B3%EF%BC%9A%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E8%A8%80%E8%AA%9E%E3%81%AE%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%8C%96/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Oct 2004 01:25:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/#comment-111</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2004 01:25:34 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/#comment-111</guid>
+
+					<description><![CDATA[「CSI 国際化」ぐぐってみました。なるほど確かに CSI 路線ですね。]]></description>
+			<content:encoded><![CDATA[<p>「CSI 国際化」ぐぐってみました。なるほど確かに CSI 路線ですね。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		naruse より		</title>
+		<link>/gnue/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/#comment-110</link>
+
+		<dc:creator><![CDATA[naruse]]></dc:creator>
+		<pubDate>Thu, 30 Sep 2004 21:04:44 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/#comment-110</guid>
+
+					<description><![CDATA[これって、結局のところCSI(Code Set Independence)方式ですよね。
+これといった文献は知らないのでURLは出せませんが、「CSI 国際化」でぐぐると色々とでてきます。]]></description>
+			<content:encoded><![CDATA[<p>これって、結局のところCSI(Code Set Independence)方式ですよね。<br />
+これといった文献は知らないのでURLは出せませんが、「CSI 国際化」でぐぐると色々とでてきます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/#comment-109</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2004 13:30:25 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/#comment-109</guid>
+
+					<description><![CDATA[もちろん UTF-8 もお仲間です（笑）
+
+文字コードの変換は UTF-16 に統一したほうが楽なのですが、ShiftJIS をメインに使っていてときどき EUC-JP や ISO-2022JP を使うというケースも考えられます。組み合わせが多くなる問題は直接変換可能な文字コードのみ変換し、そうでないものは UTF-16 にしちゃえばいいかなと思ってます。
+
+文字列の集まりは面白いアイデアですね。ちょっと思うところがあるのでこれは別記事で書込みます。]]></description>
+			<content:encoded><![CDATA[<p>もちろん UTF-8 もお仲間です（笑）</p>
+<p>文字コードの変換は UTF-16 に統一したほうが楽なのですが、ShiftJIS をメインに使っていてときどき EUC-JP や ISO-2022JP を使うというケースも考えられます。組み合わせが多くなる問題は直接変換可能な文字コードのみ変換し、そうでないものは UTF-16 にしちゃえばいいかなと思ってます。</p>
+<p>文字列の集まりは面白いアイデアですね。ちょっと思うところがあるのでこれは別記事で書込みます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/#comment-108</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2004 12:14:39 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/20/%e6%a7%8b%e6%83%b3%ef%bc%9a%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e6%8c%87%e5%90%91%e8%a8%80%e8%aa%9e%e3%81%ae%e5%a4%9a%e8%a8%80%e8%aa%9e%e5%8c%96/#comment-108</guid>
+
+					<description><![CDATA[UTF-8もお仲間に入れて欲しいです。
+(同じ言語の場合、一番最初の文字コードに変換)
+では組合せが多くなるのでUTF-16へ統一したほうが楽ではないでしょうか。
+あるいは結果を文字列の集まりとして取り扱えないでしょうか。
+(ShiftJIS , EUC-JP , ISO-2022JP)
+コード変換をしない代わりに文字操作でオーバーヘッドが大きくなりそうですが。]]></description>
+			<content:encoded><![CDATA[<p>UTF-8もお仲間に入れて欲しいです。<br />
+(同じ言語の場合、一番最初の文字コードに変換)<br />
+では組合せが多くなるのでUTF-16へ統一したほうが楽ではないでしょうか。<br />
+あるいは結果を文字列の集まりとして取り扱えないでしょうか。<br />
+(ShiftJIS , EUC-JP , ISO-2022JP)<br />
+コード変換をしない代わりに文字操作でオーバーヘッドが大きくなりそうですが。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

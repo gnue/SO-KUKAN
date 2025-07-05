@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	W face へのコメント	</title>
+	<atom:link href="/products/wface/feed/" rel="self" type="application/rss+xml" />
+	<link>/products</link>
+	<description>Are Your Lights On?</description>
+	<lastBuildDate>Mon, 24 Jan 2011 05:43:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		デュアル画面ブラウザのスケッチ &#171; 鵺的：想空間 より		</title>
+		<link>/products/wface/#comment-3</link>
+
+		<dc:creator><![CDATA[デュアル画面ブラウザのスケッチ &#171; 鵺的：想空間]]></dc:creator>
+		<pubDate>Mon, 24 Jan 2011 05:43:21 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-3</guid>
+
+					<description><![CDATA[[...] もともとは Mac の WebKit が公開されたときに考えたもので、iPad専用デュアル画面ブラウザ「W face」の原点です。 [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] もともとは Mac の WebKit が公開されたときに考えたもので、iPad専用デュアル画面ブラウザ「W face」の原点です。 [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		謹賀新年 2011 &#171; 鵺的：想空間 より		</title>
+		<link>/products/wface/#comment-2</link>
+
+		<dc:creator><![CDATA[謹賀新年 2011 &#171; 鵺的：想空間]]></dc:creator>
+		<pubDate>Fri, 31 Dec 2010 21:26:11 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-2</guid>
+
+					<description><![CDATA[[...] face」のリリース記念セールは1/3まで。 ⇒ iPad専用デュアル画面ブラウザ「W face」 リリース記念セール: 2010-12-17 〜 2011-01-03 (¥350 → [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] face」のリリース記念セールは1/3まで。 ⇒ iPad専用デュアル画面ブラウザ「W face」 リリース記念セール: 2010-12-17 〜 2011-01-03 (¥350 → [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

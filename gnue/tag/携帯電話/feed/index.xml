@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>携帯電話 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Feb 2007 00:48:58 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>イー・モバイル参入</title>
+		<link>/gnue/2007/02/19/%e3%82%a4%e3%83%bc%e3%83%bb%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e5%8f%82%e5%85%a5/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 19 Feb 2007 00:48:58 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[hsdpa]]></category>
+		<category><![CDATA[Windows Mobile]]></category>
+		<category><![CDATA[イー・モバイル]]></category>
+		<category><![CDATA[携帯電話]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/02/19/%e3%82%a4%e3%83%bc%e3%83%bb%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e5%8f%82%e5%85%a5</guid>
+
+					<description><![CDATA[イー・モバイルがいよいよ携帯事業に参入するようです。 端末はシャープの Windows Mobile 搭載 HSDPA端末。ITmedia 記事にある写真を見る限りは上下または左右のスライドによりキーボードもしくはカーソ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>イー・モバイルがいよいよ携帯事業に参入するようです。</p>
+<p>端末はシャープの Windows Mobile 搭載 HSDPA端末。ITmedia 記事にある写真を見る限りは上下または左右のスライドによりキーボードもしくはカーソルキーが飛出すギミックになっているようです。それにしても WILLCOM の W-ZERO3 と同じシャープ端末なんですね。個人的には Linux 端末も是非出して欲しいところ。</p>
+<p>料金プランと端末価格は既存の携帯電話各社と違いだましナシの直球勝負で好感が持てます。</p>
+<div><br class="khtml-block-placeholder" /></div>
+<div>追記：音声サービスはなし、データ通信のみ<br />疑問：<a href="http://www.skype.com/intl/ja/download/skype/mobile/">Skype</a> は使えるか？</p>
+<p>⇒ <a href="http://emobile.jp/">イー・モバイル</a><br />⇒ <a href="http://plusd.itmedia.co.jp/mobile/articles/0702/19/news029.html">イー・モバイル、3月31日から携帯事業スタート──シャープ製のHSDPA端末「EM・ONE」を投入</a>（ITmedia）</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

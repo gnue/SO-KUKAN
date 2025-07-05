@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PDF &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/pdf/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Oct 2006 16:32:17 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>BindUp! 0.1.0</title>
+		<link>/gnue/2006/10/10/bindup-010/</link>
+					<comments>/gnue/2006/10/10/bindup-010/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 09 Oct 2006 16:32:17 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[PDF]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/10/10/bindup-010/</guid>
+
+					<description><![CDATA[BindUp! は PDF のページを組み替えるためのソフトウェアです。 デジタル複合機MyMIO で作成した PDF を整理するために開発しました。片面スキャンの ADF しか持たない複合機で両面スキャンをしたと同じよ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				BindUp! は PDF のページを組み替えるためのソフトウェアです。</p>
+<p>デジタル複合機MyMIO で作成した PDF を整理するために開発しました。片面スキャンの ADF しか持たない複合機で両面スキャンをしたと同じようにひとつの PDF書類をつくるために「逆順＋丁合」で挿入するというユニークな機能を持っています。</p>
+<p>まだ未完成品ですが、今年いっぱいは手を入れられそうにないのでとりあえず公開。なお、アプリケーション・アイコン絶賛募集中。</p>
+<p>[特徴]<br />
+	1.	ドラッグ＆ドロップによるページの挿入（他の PDF または画像ファイル）<br />
+	2.	ドラッグ＆ドロップによるページの削除<br />
+	3.	ページの移動<br />
+	4.	ページ毎の回転<br />
+	5.	ファイル読込みの豊富なオプション（特に逆順＋丁合挿入）<br />
+	6.	プレビュー・ライクな操作感</p>
+<p>[動作環境]<br />
+	Mac OS X 10.4以上（Universal Binary）</p>
+<p>⇒ BindUp! 0.1.0 [<a href="https://so-kukan.com/gnue/lib/lab/BindUp!-0.1.0.dmg">Download</a>]</p>
+<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000EHRWD2/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000EHRWD2.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p><br class="clear" /></p>
+<p><font color="red">2006/10/24：【重要】</font> BindUp! のソースコードは MacBook の HDDトラブルで消失しました&#8230;orz		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/10/10/bindup-010/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

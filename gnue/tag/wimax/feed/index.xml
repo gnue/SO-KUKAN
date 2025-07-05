@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WiMAX &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/wimax/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Jul 2009 18:14:19 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>WiMAX データ通信機器、返却した</title>
+		<link>/gnue/2009/07/04/wimax-%e3%83%87%e3%83%bc%e3%82%bf%e9%80%9a%e4%bf%a1%e6%a9%9f%e5%99%a8%e3%80%81%e8%bf%94%e5%8d%b4%e3%81%97%e3%81%9f/</link>
+					<comments>/gnue/2009/07/04/wimax-%e3%83%87%e3%83%bc%e3%82%bf%e9%80%9a%e4%bf%a1%e6%a9%9f%e5%99%a8%e3%80%81%e8%bf%94%e5%8d%b4%e3%81%97%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2009 18:14:19 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[WiMAX]]></category>
+		<category><![CDATA[佐川急便]]></category>
+		<category><![CDATA[集荷]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2684</guid>
+
+					<description><![CDATA[@nifty の WiMAXモニターが終了したのでデータ通信機器を返却した。 佐川急便って近くにないので集荷してもらったのだけど、なんかサイトでは集荷サービスが荷送人（個人）利用不可になっていているのだけれど、Webサー [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				@nifty の WiMAXモニターが終了したのでデータ通信機器を返却した。</p>
+<p>佐川急便って近くにないので集荷してもらったのだけど、なんか<a href="http://www.sagawa-exp.co.jp/service/syuka/">サイト</a>では集荷サービスが荷送人（個人）利用不可になっていているのだけれど、<a href="https://www.e-service.sagawa-exp.co.jp/">Webサービス</a>に登録してあると個人でも集荷してもらえる。なんか非常にわかりにくい <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/07/04/wimax-%e3%83%87%e3%83%bc%e3%82%bf%e9%80%9a%e4%bf%a1%e6%a9%9f%e5%99%a8%e3%80%81%e8%bf%94%e5%8d%b4%e3%81%97%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UQ WiMAX の Mac用ドライバが出たけれど&#8230;</title>
+		<link>/gnue/2009/04/14/uq-wimax-%e3%81%ae-mac%e7%94%a8%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90%e3%81%8c%e5%87%ba%e3%81%9f%e3%81%91%e3%82%8c%e3%81%a9/</link>
+					<comments>/gnue/2009/04/14/uq-wimax-%e3%81%ae-mac%e7%94%a8%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90%e3%81%8c%e5%87%ba%e3%81%9f%e3%81%91%e3%82%8c%e3%81%a9/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2009 14:57:51 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[WiMAX]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2009/04/uq-wimax-%e3%81%ae-mac%e7%94%a8%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90%e3%81%8c%e5%87%ba%e3%81%9f%e3%81%91%e3%82%8c%e3%81%a9/</guid>
+
+					<description><![CDATA[UQ WiMAX の Mac用ドライバが出たけれど、対応機種がシンセイコーポレーションの UD01SS と UD02SS だけなのね。うちは NEC の UD01NA なので使用不可。 ほんとはコンパクトなほうがいいと  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				UQ WiMAX の Mac用ドライバが出たけれど、対応機種がシンセイコーポレーションの UD01SS と UD02SS だけなのね。うちは NEC の UD01NA なので使用不可。</p>
+<p>ほんとはコンパクトなほうがいいと UD01SS を希望したはずなのだけれど、実際に届いたのが UD01NA だったという&#8230;&#8230;なんてこった orz</p>
+<p>⇒ <a href="http://www.uqwimax.jp/news_release/200904141.html">UQ WiMAXデータ通信カードのMac対応および<br />
+Windows対応ソフトウェアのバージョンアップについて</a>（UQ Communications）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/04/14/uq-wimax-%e3%81%ae-mac%e7%94%a8%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90%e3%81%8c%e5%87%ba%e3%81%9f%e3%81%91%e3%82%8c%e3%81%a9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>@nifty WiMAX試験サービスのモニター当選</title>
+		<link>/gnue/2009/03/24/nifty-wimax%e8%a9%a6%e9%a8%93%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%bc%e5%bd%93%e9%81%b8/</link>
+					<comments>/gnue/2009/03/24/nifty-wimax%e8%a9%a6%e9%a8%93%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%bc%e5%bd%93%e9%81%b8/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2009 05:03:57 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[WiMAX]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1680</guid>
+
+					<description><![CDATA[@nifty のほうのWiMAX試験サービスのモニターに当選しました。 うちは MacBook なので Parallels上の Windows XP SP3 + Firefox で試してみました。 とりあえず部屋の中（中 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				@nifty のほうのWiMAX試験サービスのモニターに当選しました。</p>
+<p>うちは MacBook なので Parallels上の Windows XP SP3 + Firefox で試してみました。<br />
+とりあえず部屋の中（中央）で通信速度を測ってみたところ</p>
+<p>・3.32Mbps<br />
+・3.81Mbps<br />
+・4.15Mbps</p>
+<p>※電波強度は<del datetime="2009-03-24T19:03:49+00:00">３</del>２<br />
+※<a href="http://speedtest.goo.ne.jp/">goo スピードテスト</a>で計測</p>
+<p>だいたい 3〜4Mbps は出ています。初期のADSL並みの速度は出てる感じ。ただ、ちょっと残念なのはこれだけの速度が出るにもかかわらず「圏外」になることがあります。この辺もうちょっと安定性が欲しいところです。</p>
+<p>端末は NEC製の <a href="http://www.uqwimax.jp/signup/device/model01/">UD01NA</a> ですがちょっと大きいですね。もっとコンパクトなのが欲しいところです。</p>
+<p>⇒ <a href="http://setsuzoku.nifty.com/wimax/">@nifty WiMAX試験サービス</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/03/24/nifty-wimax%e8%a9%a6%e9%a8%93%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%bc%e5%bd%93%e9%81%b8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

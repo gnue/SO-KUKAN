@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Newton &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/newton/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 06 Jul 2007 15:27:48 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>WWNC2007, 今日から開催</title>
+		<link>/gnue/2007/07/07/wwnc2007-%e4%bb%8a%e6%97%a5%e3%81%8b%e3%82%89%e9%96%8b%e5%82%ac/</link>
+					<comments>/gnue/2007/07/07/wwnc2007-%e4%bb%8a%e6%97%a5%e3%81%8b%e3%82%89%e9%96%8b%e5%82%ac/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2007 15:27:48 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Newton]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/07/07/wwnc2007-%e4%bb%8a%e6%97%a5%e3%81%8b%e3%82%89%e9%96%8b%e5%82%ac/</guid>
+
+					<description><![CDATA[朝が明けたらいよいよ WWNC です。 当日参加も可能ですので是非おいで下さい。]]></description>
+										<content:encoded><![CDATA[<p>				朝が明けたらいよいよ WWNC です。<br />
+当日参加も可能ですので是非おいで下さい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/07/07/wwnc2007-%e4%bb%8a%e6%97%a5%e3%81%8b%e3%82%89%e9%96%8b%e5%82%ac/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WWNC2007, Conference Program</title>
+		<link>/gnue/2007/07/03/wwnc2007-conference-program/</link>
+					<comments>/gnue/2007/07/03/wwnc2007-conference-program/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 03 Jul 2007 10:53:14 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Newton]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/07/03/wwnc2007-conference-program/</guid>
+
+					<description><![CDATA[遅くなりましたが、WWNC2007 のカンファレンスプログラムが Webサイトにアップされました。 &#8211; Linux Zaurus(SL-C700) で動作する Einstein に触ることができます &#82 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				遅くなりましたが、WWNC2007 のカンファレンスプログラムが Webサイトにアップされました。</p>
+<p>&#8211; Linux Zaurus(SL-C700) で動作する Einstein に触ることができます<br />
+&#8211; 古いハードウェアをリフレッシュ<br />
+&#8211; Newtonによる手書きWeb<br />
+&#8211; 次世代開発ツール DyneTK<br />
+&#8211; Newton DNA(NEWT/0 and more)<br />
+&#8211; Einstein エミュレータ</p>
+<p>⇒ <a href="http://newton.so-kukan.com/gravity/wwnc2007/conference-program/" target="_blank" rel="noopener">Conference Program</a>（WWNC2007）<br />
+⇒ <a href="http://newton.so-kukan.com/gravity/wwnc2007/" target="_blank" rel="noopener">WWNC2007</a>（日本）<br />
+⇒ <a href="http://wwnc.newtontalk.net/" target="_blank" rel="noopener">WWNC2007</a>（海外）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/07/03/wwnc2007-conference-program/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WWNC2007, Conference Program</title>
+		<link>/gnue/2007/07/03/wwnc2007-conference-program-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 03 Jul 2007 02:06:47 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Newton]]></category>
+		<category><![CDATA[wwnc2007]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/07/03/wwnc2007-conference-program</guid>
+
+					<description><![CDATA[遅くなりましたが、WWNC2007 のカンファレンスプログラムが Webサイトにアップされました。 Linux Zaurus(SL-C700) で動作する Einstein に触ることができます 古いハードウェアをリフレ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>遅くなりましたが、WWNC2007 のカンファレンスプログラムが Webサイトにアップされました。</p>
+<div><br class="khtml-block-placeholder" /></div>
+<ul>
+<li><span class="Apple-style-span">Linux Zaurus(SL-C700) で動作する Einstein に触ることができます<br /></span></li>
+<li><span class="Apple-style-span">古いハードウェアをリフレッシュ<br /></span></li>
+<li><span class="Apple-style-span">Newtonによる手書きWeb<br /></span></li>
+<li><span class="Apple-style-span">次世代開発ツール DyneTK<br /></span></li>
+<li><span class="Apple-style-span">Newton DNA(NEWT/0 and more)<br /></span></li>
+<li><span class="Apple-style-span">Einstein エミュレータ</span></li>
+</ul>
+<div style="text-align:left">⇒ <a href="http://newton.so-kukan.com/gravity/wwnc2007/conference-program/">Conference Program</a>（WWNC2007）<br />⇒ <a href="http://newton.so-kukan.com/gravity/wwnc2007/">WWNC2007</a>（日本）<br />⇒ <a href="http://wwnc.newtontalk.net/">WWNC2007</a>（海外）</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WWNC2007 開催のご案内</title>
+		<link>/gnue/2007/06/26/wwnc2007-%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 26 Jun 2007 02:26:06 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Newton]]></category>
+		<category><![CDATA[wwnc2007]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/06/26/wwnc2007-%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85</guid>
+
+					<description><![CDATA[「WWNC2007 開催のご案内」 このたび PDAの元祖 Apple Newton の世界的なイベント WWNC2007(Worldwide Newton Conference 2007)(*1) を日本において開催す [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div style="text-align:center"><span style="font-size:1.95312em"><strong>「WWNC2007 開催のご案内」</strong></span></div>
+</p>
+<p>このたび PDAの元祖 Apple Newton の世界的なイベント WWNC2007(Worldwide Newton Conference 2007)(*1) を日本において開催することとなりました。銀座　Salon de G にて7月7日(土)・8日(日)の２日間開催いたします。</p>
+<p>WWNC は Newtonユーザのためのイベントです。Newtonテクノロジに関する講演、ワークショップ、情報交換などを行います。Paul Guyot氏、Matthias Melcher氏、GNUE(鵺) 氏(*2)による講演ほか多くの企画を予定しております。当日はじゃんけん大会などお楽しみ企画や Newton バックライト記念撮影などもございます。</p>
+<p>なおWebサイトより参加登録を行うことができます。イベント運営をスムーズに行うためにも事前登録にご協力下さい。</p>
+<p>Apple iPhone が発売間近の今日この頃ですが Apple には Newton があったことを忘れてはいけません。Newtonに興味のある多くの人々のご参加をお待ちしております。</p>
+<p>*1) WWNC は 2004年にパリ（フランス）、2006年にサンフランシスコ（アメリカ）で開催されました<br />*2) スピーカーについて</p>
+<p>&#160;&#160; Paul Guyot &#8212; Newtonエミュレータ『Einstein』の開発者<br />&#160;&#160; Matthias Melcher &#8211;&#160; NTKクローン『DyneTK』の開発者<br />&#160;&#160; GNUE(鵺) &#8212; NewtonScriptインタプリタ『NEWT/0』の開発者</p>
+<p>■開催概要</p>
+<p>　日　時： 2007年7月7日(土)・8日(日)<br />　会　場： 銀座 Salon de G<br />　参加費： 3,500円（二日間共通）<br />　主　催： WWNC2007実行委員会<br />　共　催： Worldwide Newton Association<br />　協　力： Newton Gravity<br />　　　　　 Newton Japan</p>
+<p>■Webサイト</p>
+<p>　</p>
+<p><a href="http://newton.so-kukan.com/gravity/wwnc2007/">http://newton.so-kukan.com/gravity/wwnc2007/</a><br />　<a href="http://wwnc.newtontalk.net/">http://wwnc.newtontalk.net/</a></p>
+<p>■お問合せ先</p>
+<p>　wwnc2007@so-kukan.com</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>仕込み</title>
+		<link>/gnue/2007/06/11/%e4%bb%95%e8%be%bc%e3%81%bf/</link>
+					<comments>/gnue/2007/06/11/%e4%bb%95%e8%be%bc%e3%81%bf/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2007 09:08:53 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Newton]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/06/11/%e4%bb%95%e8%be%bc%e3%81%bf/</guid>
+
+					<description><![CDATA[土日は WWNC のための仕込み（プログラミング）をしてました。 コンセプトやビジョンをわかってもらえるぐらいにはどうにか動いてくれそうで一安心。まだよちよちの段階だけど、絵に描いた餅やペーパーウェアじゃないということが [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				土日は WWNC のための仕込み（プログラミング）をしてました。</p>
+<p>コンセプトやビジョンをわかってもらえるぐらいにはどうにか動いてくれそうで一安心。まだよちよちの段階だけど、絵に描いた餅やペーパーウェアじゃないということが重要。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/06/11/%e4%bb%95%e8%be%bc%e3%81%bf/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WWNC2007 in Tokyo</title>
+		<link>/gnue/2007/06/11/wwnc2007-in-tokyo/</link>
+					<comments>/gnue/2007/06/11/wwnc2007-in-tokyo/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2007 09:00:04 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Newton]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/06/11/wwnc2007-in-tokyo/</guid>
+
+					<description><![CDATA[6/1 から WWNC2007 の Webページが公開されました。 参加の事前登録も開始していますのでよろしく。 ⇒ Worldwide Newton Conference 2007(Japanese) ⇒ Worldw [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				6/1 から WWNC2007 の Webページが公開されました。<br />
+参加の事前登録も開始していますのでよろしく。</p>
+<p>⇒ <a href="http://newton.so-kukan.com/gravity/wwnc2007/" target="_blank" rel="noopener">Worldwide Newton Conference 2007</a>(Japanese)<br />
+⇒ <a href="http://wwnc.newtontalk.net/" target="_blank" rel="noopener">Worldwide Newton Conference 2007</a>(English)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/06/11/wwnc2007-in-tokyo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WWNC 2007 in Tokyo アンケート、ご協力のお願い</title>
+		<link>/gnue/2007/05/14/wwnc-2007-in-tokyo-%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e3%80%81%e3%81%94%e5%8d%94%e5%8a%9b%e3%81%ae%e3%81%8a%e9%a1%98%e3%81%84/</link>
+					<comments>/gnue/2007/05/14/wwnc-2007-in-tokyo-%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e3%80%81%e3%81%94%e5%8d%94%e5%8a%9b%e3%81%ae%e3%81%8a%e9%a1%98%e3%81%84/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 02:14:51 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Newton]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/05/14/wwnc-2007-in-tokyo-%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e3%80%81%e3%81%94%e5%8d%94%e5%8a%9b%e3%81%ae%e3%81%8a%e9%a1%98%e3%81%84/</guid>
+
+					<description><![CDATA[Newton の祭典『WWNC 2007 in Tokyo』の開催にあたり、Newton Gravity のホームページにて「WWNC 2007 in Tokyo 参加に関するアンケート」を行っています。 WWNC を盛 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Newton の祭典『WWNC 2007 in Tokyo』の開催にあたり、Newton Gravity のホームページにて「WWNC 2007 in Tokyo 参加に関するアンケート」を行っています。</p>
+<p>WWNC を盛り上げるためにも、ご協力のほどよろしくお願いいたします。</p>
+<p>⇒ <a href="http://newton.so-kukan.com/gravity/2007/04/27/wwnc-2007-in-tokyo-参加に関するアンケート/" target="_blank" rel="noopener">WWNC 2007 in Tokyo 参加に関するアンケート</a>（Newton Gravity）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/05/14/wwnc-2007-in-tokyo-%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e3%80%81%e3%81%94%e5%8d%94%e5%8a%9b%e3%81%ae%e3%81%8a%e9%a1%98%e3%81%84/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NTK を置換える DyneTK</title>
+		<link>/gnue/2007/04/04/ntk-%e3%82%92%e7%bd%ae%e6%8f%9b%e3%81%88%e3%82%8b-dynetk/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 04 Apr 2007 11:22:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Newton]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/04/04/ntk-%e3%82%92%e7%bd%ae%e6%8f%9b%e3%81%88%e3%82%8b-dynetk/</guid>
+
+					<description><![CDATA[Matthias 氏により NTK(Newton Toolkit) を置換えるものとして開発されている DyneTK の画面キャプチャ。まだプレアルファの段階で NewtonScript のソースコードをコンパイルして  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://robowerk.com/" target="_blank" rel="noopener">Matthias</a> 氏により NTK(Newton Toolkit) を置換えるものとして開発されている DyneTK の画面キャプチャ。まだプレアルファの段階で NewtonScript のソースコードをコンパイルして Newton のパッケージファイルに変換、シリアルで Newton にアップロードするところまで出来ている。</p>
+<p>なお、現在は Windows版のみ。将来的には Linux, Mac OS X などのマルチプラットフォームで動くようになるらしい。</p>
+<div align="center">
+<a href="http://gnue.vox.com/library/photo/6a00c225220b198fdb00cd971f51624cd5.html" target="_blank" rel="noopener"><img></a>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NTK を置換える DyneTK</title>
+		<link>/gnue/2007/04/04/ntk-%e3%82%92%e7%bd%ae%e6%8f%9b%e3%81%88%e3%82%8b-dynetk-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 04 Apr 2007 02:15:51 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[dynetk]]></category>
+		<category><![CDATA[Newton]]></category>
+		<category><![CDATA[ntk]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/04/ntk-%e3%82%92%e7%bd%ae%e6%8f%9b%e3%81%88%e3%82%8b-dynetk</guid>
+
+					<description><![CDATA[Matthias 氏により NTK(Newton Toolkit) を置換えるものとして開発されている DyneTK の画面キャプチャ。まだプレアルファの段階で NewtonScript のソースコードをコンパイルして  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://robowerk.com/">Matthias</a> 氏により NTK(Newton Toolkit) を置換えるものとして開発されている DyneTK の画面キャプチャ。まだプレアルファの段階で NewtonScript のソースコードをコンパイルして Newton のパッケージファイルに変換、シリアルで Newton にアップロードするところまで出来ている。</p>
+<p>なお、現在は Windows版のみ。将来的には Linux, Mac OS X などのマルチプラットフォームで動くようになるらしい。                                                                                                                        </p>
+
+<a href='/gnue/2007/04/04/ntk-%e3%82%92%e7%bd%ae%e6%8f%9b%e3%81%88%e3%82%8b-dynetk-2/ntk-%e3%82%92%e7%bd%ae%e6%8f%9b%e3%81%88%e3%82%8b-dynetk-3/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2007/04/NTK-を置換える-DyneTK-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Newton2100本体(ジャンク) プレゼント</title>
+		<link>/gnue/2006/05/21/newton2100%e6%9c%ac%e4%bd%93%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%af-%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88/</link>
+					<comments>/gnue/2006/05/21/newton2100%e6%9c%ac%e4%bd%93%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%af-%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 21 May 2006 06:22:35 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Newton]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/05/21/newton2100%e6%9c%ac%e4%bd%93%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%af-%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88/</guid>
+
+					<description><![CDATA[「ある漫画家の思考ノート」でジャンクの MP2100 プレゼントを実施しています（5/31〆切） ⇒ Newton2100本体(ジャンク)を２台プレゼント（ある漫画家の思考ノート）]]></description>
+										<content:encoded><![CDATA[<p>				「ある漫画家の思考ノート」でジャンクの MP2100 プレゼントを実施しています（5/31〆切）</p>
+<p>⇒ <a href="http://sada-koubou.cocolog-nifty.com/blog/2006/05/newton2100junkr_2729.html" target="_blank" rel="noopener">Newton2100本体(ジャンク)を２台プレゼント</a>（ある漫画家の思考ノート）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/05/21/newton2100%e6%9c%ac%e4%bd%93%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%af-%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	レイアウト変更、挫折 へのコメント	</title>
+	<atom:link href="/gnue/2004/10/02/%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E5%A4%89%E6%9B%B4%E3%80%81%E6%8C%AB%E6%8A%98/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/10/02/%e3%83%ac%e3%82%a4%e3%82%a2%e3%82%a6%e3%83%88%e5%a4%89%e6%9b%b4%e3%80%81%e6%8c%ab%e6%8a%98/</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Oct 2004 19:31:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

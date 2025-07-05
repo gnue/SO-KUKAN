@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	マイナーチェンジ へのコメント	</title>
+	<atom:link href="/gnue/2004/01/03/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/01/03/%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%bc%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8/</link>
+	<description></description>
+	<lastBuildDate>Sat, 03 Jan 2004 02:15:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

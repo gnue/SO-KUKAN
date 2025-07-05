@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>twitter &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/twitter/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Sep 2008 20:48:46 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>twitter 疲れ&#8230;</title>
+		<link>/gnue/2008/09/02/twitter-%e7%96%b2%e3%82%8c/</link>
+					<comments>/gnue/2008/09/02/twitter-%e7%96%b2%e3%82%8c/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 01 Sep 2008 20:48:46 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[twitter]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1408</guid>
+
+					<description><![CDATA[みんなよく twitter に書込めるなぁ。]]></description>
+										<content:encoded><![CDATA[<p>				みんなよく twitter に書込めるなぁ。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/09/02/twitter-%e7%96%b2%e3%82%8c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

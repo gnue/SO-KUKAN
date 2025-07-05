@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Theme &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/theme/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 May 2009 23:25:12 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>覚書き：WordPress テーマのフォルダ名</title>
+		<link>/gnue/2009/05/12/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9awordpress-%e3%83%86%e3%83%bc%e3%83%9e%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e5%90%8d/</link>
+					<comments>/gnue/2009/05/12/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9awordpress-%e3%83%86%e3%83%bc%e3%83%9e%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e5%90%8d/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 11 May 2009 23:25:12 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Theme]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2393</guid>
+
+					<description><![CDATA[WordPress でテーマをつくるときフォルダ名にハイフン（-）が入っているとテーマを選択したときの確認画面が真っ白になっちゃいます。どうもバグっぽいけど、とりあえずフォルダ名にハイフンを使わないようにする（代わりにア [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				WordPress でテーマをつくるときフォルダ名にハイフン（-）が入っているとテーマを選択したときの確認画面が真っ白になっちゃいます。どうもバグっぽいけど、とりあえずフォルダ名にハイフンを使わないようにする（代わりにアンダーバーを使う）とこの問題が回避できるようです（2.7.1 現在）</p>
+<p>おなじ問題につきあたる人がいるかもしれないし、とりあえずメモ。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/12/%e8%a6%9a%e6%9b%b8%e3%81%8d%ef%bc%9awordpress-%e3%83%86%e3%83%bc%e3%83%9e%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e5%90%8d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

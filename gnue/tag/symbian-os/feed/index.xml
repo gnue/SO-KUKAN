@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Symbian OS &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/symbian-os/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 23 Nov 2006 06:02:17 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Ruby for Symbian OS</title>
+		<link>/gnue/2006/11/23/ruby-for-symbian-os/</link>
+					<comments>/gnue/2006/11/23/ruby-for-symbian-os/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 23 Nov 2006 06:02:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[Symbian OS]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/11/23/ruby-for-symbian-os/</guid>
+
+					<description><![CDATA[Ruby が Symbian OS で動くようになったそうです。S60用のバイナリが配布されています。 うーん、どうやって移植したんだろ。以前 Symbian OS のプログラミングを調べたときかなり独自のメモリ管理(* [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Ruby が Symbian OS で動くようになったそうです。S60用のバイナリが配布されています。</p>
+<p>うーん、どうやって移植したんだろ。以前 Symbian OS のプログラミングを調べたときかなり独自のメモリ管理(*1)をやっていて普通に UNIX/POSIX で組んであるプログラムを移植するのは大変そうだったのだけど。<a href="http://www.rubyist.net/~matz/20061022.html#p02">Matzにっき「RubyConf3日目」 </a>の「Google Summer of Code Student Talks」で「SymbianがPOSIX互換層を用意してくれたからできた&#8230;」とあるのでこの POSIX互換層を使うといいのか。</p>
+<p>*1) 調べたのがかなり昔なので今はどうなっているのかわからないけど、昔は C++ の new ですらメモリ枯渇でクリティカルな問題が発生するので使っちゃいけないということになっていた。で、独自な方法でメモリを確保して Class を作成し、独自な方法でメモリを解放しなければいけない</p>
+<p>⇒ <a href="http://developer.symbian.com/main/tools/opensrc/ruby/index.jsp" target="_blank" rel="noopener">Ruby for Symbian OS</a>（Symbian Developer Network）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/11/23/ruby-for-symbian-os/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

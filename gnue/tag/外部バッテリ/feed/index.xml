@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>外部バッテリ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E5%A4%96%E9%83%A8%E3%83%90%E3%83%83%E3%83%86%E3%83%AA/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Jul 2008 00:16:30 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>iPhone でも使える単３x２の外部バッテリ</title>
+		<link>/gnue/2008/07/21/iphone-%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%88%e3%82%8b%e5%8d%98%ef%bc%93x%ef%bc%92%e3%81%ae%e5%a4%96%e9%83%a8%e3%83%90%e3%83%83%e3%83%86%e3%83%aa/</link>
+					<comments>/gnue/2008/07/21/iphone-%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%88%e3%82%8b%e5%8d%98%ef%bc%93x%ef%bc%92%e3%81%ae%e5%a4%96%e9%83%a8%e3%83%90%e3%83%83%e3%83%86%e3%83%aa/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2008 00:16:30 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[外部バッテリ]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1293</guid>
+
+					<description><![CDATA[iPod Style Blog によると、iPhone でも使える単３x２の外部バッテリがあるらしい。eneloop でも大丈夫だそうだ。これいいなぁ。 でも、肝心のメーカー名と製品名（もしくは型番）が載ってないよ。なん [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				iPod Style Blog によると、iPhone でも使える単３x２の外部バッテリがあるらしい。eneloop でも大丈夫だそうだ。これいいなぁ。</p>
+<p><del datetime="2008-07-21T05:45:32+00:00">でも、肝心のメーカー名と製品名（もしくは型番）が載ってないよ。なんてこった。iPod Style Blog にコメント欄がないようなので、自分のサイトにエントリをあげてトラックバックしておくことにする。教えて下さい。<br />
+</del></p>
+<p>追記：（株）アベルの「Selfish4 (型番：ET-T2016)」出力DC5V/300mA だそうです。iPod Style さん、ありがとうございます <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>⇒ <a href="http://ipodstyle.jp/article/17178107.html">980円の外部バッテリー</a>（iPod Style Blog）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/07/21/iphone-%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%88%e3%82%8b%e5%8d%98%ef%bc%93x%ef%bc%92%e3%81%ae%e5%a4%96%e9%83%a8%e3%83%90%e3%83%83%e3%83%86%e3%83%aa/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	メモリが足りなかった&#8230;orz へのコメント	</title>
+	<atom:link href="/gnue/2008/01/02/%E3%83%A1%E3%83%A2%E3%83%AA%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9Forz/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2008/01/02/%e3%83%a1%e3%83%a2%e3%83%aa%e3%81%8c%e8%b6%b3%e3%82%8a%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9forz/</link>
+	<description></description>
+	<lastBuildDate>Wed, 02 Jan 2008 14:06:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

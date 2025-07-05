@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	ドット欠け へのコメント	</title>
+	<atom:link href="/gnue/2005/04/24/%E3%83%89%E3%83%83%E3%83%88%E6%AC%A0%E3%81%91/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/04/24/%e3%83%89%e3%83%83%e3%83%88%e6%ac%a0%e3%81%91/</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 Apr 2005 08:38:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

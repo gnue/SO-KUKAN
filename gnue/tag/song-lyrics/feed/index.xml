@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>song lyrics &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/song-lyrics/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 31 Aug 2006 23:32:05 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>QotD: このメロディーが</title>
+		<link>/gnue/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c/</link>
+					<comments>/gnue/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 31 Aug 2006 23:32:05 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[qotd]]></category>
+		<category><![CDATA[song lyrics]]></category>
+		<category><![CDATA[今日の質問]]></category>
+		<category><![CDATA[歌詞]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c</guid>
+
+					<description><![CDATA[谷山浩子の『てんぷら★さんらいず』（アルバムは『時の少女』）。携帯電話のめざまし音に登録しているので。 今、頭の中で聴こえる曲や歌詞はなんですか？ その歌があるアルバムは？ Lox Lyより。]]></description>
+										<content:encoded><![CDATA[
+<a href='/gnue/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c/%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2006/09/このメロディーが-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>谷山浩子の『<span class="Apple-style-span" style="font-family:Hiragino Kaku Gothic Pro;font-size:13px">てんぷら★さんらいず</span>』（アルバムは『時の少女』）。携帯電話のめざまし音に登録しているので。</p>
+<div class="asset-content"><br class="khtml-block-placeholder" /></div>
+<blockquote>
+<div class="asset-content">今、頭の中で聴こえる曲や歌詞はなんですか？ その歌があるアルバムは？</p>
+<div class="asset-body">
+<p><span style="font-size:.8em"><a class="enclosure-inline-user" href="http://ducnly.vox.com/">Lox Ly</a>より。</span></p>
+</div>
+</div>
+</blockquote>
+<div class="asset-content">
+<div class="asset-body">
+<p><span class="Apple-style-span" style="font-size:11.2px"><br class="khtml-block-placeholder" /></span></p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

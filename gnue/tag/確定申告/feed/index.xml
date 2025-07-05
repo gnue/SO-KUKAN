@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>確定申告 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 10 Mar 2008 04:57:44 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>確定申告、済</title>
+		<link>/gnue/2008/03/10/%e7%a2%ba%e5%ae%9a%e7%94%b3%e5%91%8a%e3%80%81%e6%b8%88/</link>
+					<comments>/gnue/2008/03/10/%e7%a2%ba%e5%ae%9a%e7%94%b3%e5%91%8a%e3%80%81%e6%b8%88/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 10 Mar 2008 04:57:44 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[確定申告]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/03/%e7%a2%ba%e5%ae%9a%e7%94%b3%e5%91%8a%e3%80%81%e6%b8%88/</guid>
+
+					<description><![CDATA[ようやく確定申告終わった。 あとは還付金を待つだけ&#8230;..]]></description>
+										<content:encoded><![CDATA[<p>				ようやく確定申告終わった。<br />
+あとは還付金を待つだけ&#8230;..		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/03/10/%e7%a2%ba%e5%ae%9a%e7%94%b3%e5%91%8a%e3%80%81%e6%b8%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

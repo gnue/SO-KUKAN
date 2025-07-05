@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	ビデオ対応の新iPod へのコメント	</title>
+	<atom:link href="/gnue/2005/10/13/%E3%83%93%E3%83%87%E3%82%AA%E5%AF%BE%E5%BF%9C%E3%81%AE%E6%96%B0ipod/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/10/13/%e3%83%93%e3%83%87%e3%82%aa%e5%af%be%e5%bf%9c%e3%81%ae%e6%96%b0ipod/</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Oct 2005 03:19:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

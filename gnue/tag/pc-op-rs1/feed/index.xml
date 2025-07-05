@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PC-OP-RS1 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/pc-op-rs1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Jan 2008 15:43:30 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>PC-OP-RS1 の覚書き</title>
+		<link>/gnue/2008/01/08/pc-op-rs1-%e3%81%ae%e8%a6%9a%e6%9b%b8%e3%81%8d/</link>
+					<comments>/gnue/2008/01/08/pc-op-rs1-%e3%81%ae%e8%a6%9a%e6%9b%b8%e3%81%8d/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2008 15:43:30 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[PC-OP-RS1]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/pc-op-rs1-%e3%81%ae%e8%a6%9a%e6%9b%b8%e3%81%8d/</guid>
+
+					<description><![CDATA[簡単に説明するとパソコンに USB接続できる学習リモコン。まぁ、実際に学習するのはパソコン側のソフトなので、実体は USB 接続できる４つの赤外線LEDと１つの赤外線受光器。考え方としては Sony のローケーションフリ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000I0RDJI/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000I0RDJI.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>簡単に説明するとパソコンに USB接続できる学習リモコン。まぁ、実際に学習するのはパソコン側のソフトなので、実体は USB 接続できる４つの赤外線LEDと１つの赤外線受光器。考え方としては Sony のローケーションフリーTV の AVマウスと同じ。</p>
+<p>この手の製品のお約束として「もちろん」Mac には非対応です。ただ、チップは既にばれているので FTDIサイトから Mac用ドライバをダウンロードしてインストールすればシリアルデバイスとして使えます。私は<a>このサイト</a>を参考にしました。ちなみに、現在は最初から PC-OP-RS1 が登録されているのでファイルの修正は不要。</p>
+<p>欠点というかもともとAV機器の受光器の前に貼付けて使うようなので赤外線LEDの出力が非常に弱いようです。この辺普通のリモコンのように使おうと思っていると「使えない」となってしまうかもしれません。</p>
+<p>⇒ <a href="http://www.sabamiso.net/yoggy/hiki/?Intel+Mac%A4%C7%A5%D1%A5%BD%A5%B3%A5%F3%CD%D1%B3%D8%BD%AC%A5%EA%A5%E2%A5%B3%A5%F3PC-OP-RS1%A4%F2%BB%C8%A4%A6%CA%FD%CB%A1">Intel Macでパソコン用学習リモコンPC-OP-RS1を使う方法</a>（すみっこのメモ）<br />
+⇒ <a href="http://www.ie.u-ryukyu.ac.jp/~kono/pub/software/">Buffalo Remote Station Command Interface in Java</a>（S. Kono）<br />
+⇒ <a href="http://su-u.jp/juju/%CA%AC%B2%F2%A4%B7%A4%C6%A4%DF%A4%E8%A4%A6/PC-OP-RS1.html">分解してみよう/PC-OP-RS1</a>（スーの道具箱）<br />
+⇒ <a href="http://blog.gcd.org/archives/50846722.html">赤外線リモコンを Linux からコントロール</a>（仙石浩明の日記）<br />
+⇒ <a href="http://www.sabamiso.net/yoggy/tdiary/?date=20070816">TwitterとPC-OP-RS1とPlaggerで暑い日々を涼しく過ごす？</a>（yoggy&#8217;s diary）<br />
+⇒ <a href="http://k-home.no-ip.info/wiki/index.php?PC-OP-RS1">PC-OP-RS1 &#8211; PukiWiki</a></p>
+<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000PATN1C/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000PATN1C.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>面白そうな応用例としては <a href="http://avalon1982.cocolog-nifty.com/robot/2007/11/isobot_ab6d.html">i-SOBOT の制御</a>。実はこれを見て PC-OP-RS1 に興味を持ったんだけどね。i-SOBOT は CAMVersion が出るまでじっとがまん（はやく出してくれぇ！＞タカラトミー）。</p>
+<p>⇒ <a href="http://avalon1982.cocolog-nifty.com/robot/2007/11/isobot_ab6d.html">i-SOBOT赤外線リモコンの解析（その５）</a>（ロボットのいる生活。）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/08/pc-op-rs1-%e3%81%ae%e8%a6%9a%e6%9b%b8%e3%81%8d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

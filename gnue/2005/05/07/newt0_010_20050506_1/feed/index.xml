@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	NEWT0_0.1.0_20050506_1 へのコメント	</title>
+	<atom:link href="/gnue/2005/05/07/newt0_010_20050506_1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/05/07/newt0_010_20050506_1/</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 May 2005 05:45:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2005/05/07/newt0_010_20050506_1/#comment-440</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sat, 07 May 2005 05:45:33 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/05/07/newt0_010_20050506_1/#comment-440</guid>
+
+					<description><![CDATA[理髪さん、いつもお世話になります。さっそく修正しました。]]></description>
+			<content:encoded><![CDATA[<p>理髪さん、いつもお世話になります。さっそく修正しました。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2005/05/07/newt0_010_20050506_1/#comment-439</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Sat, 07 May 2005 02:43:15 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/05/07/newt0_010_20050506_1/#comment-439</guid>
+
+					<description><![CDATA[修正依頼
+NewtVM.cのNVMMessageSendWithArgArray()
+nbArgsを宣言してから代入するようにして欲しい
+
+configure.inのbeos*)でNEWT_LDFLAGS=&#039;&#039;に-ldlを追加して欲しい。
+
+これはどうかと思うのですがMakefile.inの
+$(build):
+	mkdir -p $@
+の下にBeOSの場合だけ
+  cd $@; ln -s newt _APP_
+を追加できますでしょうか。]]></description>
+			<content:encoded><![CDATA[<p>修正依頼<br />
+NewtVM.cのNVMMessageSendWithArgArray()<br />
+nbArgsを宣言してから代入するようにして欲しい</p>
+<p>configure.inのbeos*)でNEWT_LDFLAGS=&#8221;に-ldlを追加して欲しい。</p>
+<p>これはどうかと思うのですがMakefile.inの<br />
+$(build):<br />
+	mkdir -p $@<br />
+の下にBeOSの場合だけ<br />
+  cd $@; ln -s newt _APP_<br />
+を追加できますでしょうか。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

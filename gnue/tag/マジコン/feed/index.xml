@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>マジコン &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%83%9E%E3%82%B8%E3%82%B3%E3%83%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Feb 2008 13:45:30 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>DSTT 購入</title>
+		<link>/gnue/2008/02/13/dstt-%e8%b3%bc%e5%85%a5/</link>
+					<comments>/gnue/2008/02/13/dstt-%e8%b3%bc%e5%85%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2008 13:45:30 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[DSTT]]></category>
+		<category><![CDATA[ニンテンドーDS Lite]]></category>
+		<category><![CDATA[マジコン]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/02/dstt-%e8%b3%bc%e5%85%a5/</guid>
+
+					<description><![CDATA[週末に注文してあった DSTT が週明けの昨日振込み確認・発送で今日到着。 それにしても、すっごく簡単なパッケージなのね。箱の中に DSTT本体とちっちゃな microSDリーダー(*1)が入ってるだけ。封もちゃんとして [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				週末に注文してあった DSTT が週明けの昨日振込み確認・発送で今日到着。</p>
+<p>それにしても、すっごく簡単なパッケージなのね。箱の中に DSTT本体とちっちゃな microSDリーダー(*1)が入ってるだけ。封もちゃんとしてなくて箱のふたが空いてた(*2)。説明書はペラ１枚もなし。箱に中国語サイトの URL が書いてあるだけ。</p>
+<p>私はあらかじめ日本語の公式サイトを見つけてあったのでそこからメニューデータをダウンロードしたからいいけど、何にも知らずに買った人は困っちゃうよね。まぁ、そもそもそういう人は買っちゃいけないってことなんだろうけど。</p>
+<p>とりあえず MacBook には開発環境をインストールしたので、ぼちぼちと遊んでいこうかなと思う。</p>
+<p>*1) 所詮おまけの microSDリーダー。こんなのなら最初からついてなくてもいいよ<br />
+*2) 楽天とかの感想で「ふたが開けられていた」みたいなのがあるけど、これって「そもそも最初からちゃんと閉められていない」というのが正しいんじゃないかと思う（苦笑）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/02/13/dstt-%e8%b3%bc%e5%85%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

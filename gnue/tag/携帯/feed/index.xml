@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>携帯 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E6%90%BA%E5%B8%AF/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Aug 2006 13:33:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Access Linux Platform は中国でデビュー？</title>
+		<link>/gnue/2006/08/24/access-linux-platform-%e3%81%af%e4%b8%ad%e5%9b%bd%e3%81%a7%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%ef%bc%9f/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2006 13:33:31 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Palm]]></category>
+		<category><![CDATA[携帯]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/08/24/access-linux-platform-%e3%81%af%e4%b8%ad%e5%9b%bd%e3%81%a7%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%ef%bc%9f</guid>
+
+					<description><![CDATA[PalmFan 経由の情報ですが ACCESS が携帯端末向けソフトウェアセットを中国の China Unicom 向けの端末「T66」で採用されたとプレスリリースを出したそうです。開発製造は米国の UTStarcom, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.palmfan.com/">PalmFan</a> 経由の情報ですが ACCESS が携帯端末向けソフトウェアセットを中国の China Unicom 向けの端末「T66」で採用されたとプレスリリースを出したそうです。開発製造は米国の UTStarcom, Inc。</p>
+<p>プレスリリースでは特に Access Linux Platform とは明言されいませんが「ACCESSの完全子会社である米国PalmSouce社のアプリケーションソフトウェア製品を元に開発され」とあるので十中八九 Access Linux Platform のことでしょう。</p>
+<p>「T66」のスペックに関しては 7/29付の UTStarcom のプレスリリースで見ることができます。ちょっと抜き出すと</p>
+<ul>
+<li>dual-standby CDMA/GSM handset</li>
+<li>two 2.6-inch TFT</li>
+<li>1.3 megapixel camera</li>
+<li>built-in 64M T Flash</li>
+<li>support MP4 film broadcasting</li>
+<li>support MP3 broadcasting</li>
+</ul>
+<p>ん、ん、ん、、、 two 2.6-inch TFT って何でしょう。Nintendo DS みたいなデュアル・ディスプレイってことなんでしょうか。それとも表と裏？？？</p>
+<p>⇒ <a href="http://www.access.co.jp/press/060824.html">携帯端末向けソフトウェアセットがUTStarcom社のデュアルモード端末「T66」に採用</a> （ACCESS）<br />⇒ <a href="http://investorrelations.utstar.com/ReleaseDetail.cfm?ReleaseID=202428">UTStarcom Unveils the T66, Its First Dual-Mode, Dual-Standby CDMA/GSM Handset</a>（UTStarcom）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	新しい冷蔵庫 へのコメント	</title>
+	<atom:link href="/gnue/2006/07/21/%E6%96%B0%E3%81%97%E3%81%84%E5%86%B7%E8%94%B5%E5%BA%AB/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/07/21/%e6%96%b0%e3%81%97%e3%81%84%e5%86%b7%e8%94%b5%e5%ba%ab/</link>
+	<description></description>
+	<lastBuildDate>Fri, 21 Jul 2006 10:28:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

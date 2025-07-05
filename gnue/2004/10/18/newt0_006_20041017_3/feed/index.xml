@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	NEWT0_0.0.6_20041017_3 へのコメント	</title>
+	<atom:link href="/gnue/2004/10/18/newt0_006_20041017_3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/10/18/newt0_006_20041017_3/</link>
+	<description></description>
+	<lastBuildDate>Mon, 18 Oct 2004 08:26:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/10/18/newt0_006_20041017_3/#comment-142</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Mon, 18 Oct 2004 08:26:12 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/18/newt0_006_20041017_3/#comment-142</guid>
+
+					<description><![CDATA[上記の問題を修正した NEWT0_0.0.6_20041018_1 をアップしました。]]></description>
+			<content:encoded><![CDATA[<p>上記の問題を修正した NEWT0_0.0.6_20041018_1 をアップしました。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/10/18/newt0_006_20041017_3/#comment-141</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Mon, 18 Oct 2004 06:36:51 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/18/newt0_006_20041017_3/#comment-141</guid>
+
+					<description><![CDATA[たぶんマジックポインタの参照が解決できていないためだと思います。
+調べてみます。]]></description>
+			<content:encoded><![CDATA[<p>たぶんマジックポインタの参照が解決できていないためだと思います。<br />
+調べてみます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/10/18/newt0_006_20041017_3/#comment-140</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Mon, 18 Oct 2004 05:45:34 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/18/newt0_006_20041017_3/#comment-140</guid>
+
+					<description><![CDATA[file := {_proto: @protoFILE};
+はOKですが次の
+file:open(_ARGV_[1], &quot;r&quot;);
+で落ちてしまいます。
+
+NewtObj.cのNewtHasSlot()にある
+NewtFrameMap(frame);が返す値が変だと思います。
+ヒープは0x80000000以降から始まっているので8桁は
+あるはずですが、ここで返す値は7桁です。
+何処かで4bits右シフトしているのではないかと思う
+のですが特定できません。]]></description>
+			<content:encoded><![CDATA[<p>file := {_proto: @protoFILE};<br />
+はOKですが次の<br />
+file:open(_ARGV_[1], &#8220;r&#8221;);<br />
+で落ちてしまいます。</p>
+<p>NewtObj.cのNewtHasSlot()にある<br />
+NewtFrameMap(frame);が返す値が変だと思います。<br />
+ヒープは0x80000000以降から始まっているので8桁は<br />
+あるはずですが、ここで返す値は7桁です。<br />
+何処かで4bits右シフトしているのではないかと思う<br />
+のですが特定できません。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

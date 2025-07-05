@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>コミケ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%B3%E3%83%9F%E3%82%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Dec 2006 00:05:14 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Cocoa Life Vol.3</title>
+		<link>/gnue/2006/12/11/cocoa-life-vol-3/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2006 00:05:14 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[コミケ]]></category>
+		<category><![CDATA[プログラミング]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/12/11/cocoa-life-vol-3</guid>
+
+					<description><![CDATA[Cocoa勉強会の会誌「Cocoa Life Vol.3」が冬コミ（コミケット１７）で発売されます。 コミケ：12月31日（日）西-“き”06a通　販：1月1日より ⇒ コミケ７１に参加します（Cocoa Study B [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Cocoa勉強会の会誌「Cocoa Life Vol.3」が冬コミ（コミケット１７）で発売されます。</p>
+<blockquote>
+<p>コミケ：12月31日（日）西-“き”06a<br />通　販：1月1日より</p>
+</blockquote>
+<p>⇒ <a href="http://blog.cocoa-study.com/?eid=590601">コミケ７１に参加します</a>（Cocoa Study Blog）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iLife &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/ilife/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 12 Jul 2006 19:12:18 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>iLife &#8217;06 でビデオ編集</title>
+		<link>/gnue/2006/07/13/ilife-06-%e3%81%a7%e3%83%93%e3%83%87%e3%82%aa%e7%b7%a8%e9%9b%86/</link>
+					<comments>/gnue/2006/07/13/ilife-06-%e3%81%a7%e3%83%93%e3%83%87%e3%82%aa%e7%b7%a8%e9%9b%86/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2006 19:12:18 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iLife]]></category>
+		<category><![CDATA[ビデオ編集]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/13/ilife-06-%e3%81%a7%e3%83%93%e3%83%87%e3%82%aa%e7%b7%a8%e9%9b%86/</guid>
+
+					<description><![CDATA[iLife &#8217;06 でビデオ編集をした。今回がはじめてだったのだけど結構大変。いや、いいソフトでとは思うよ。でも所詮 iLife&#8230;小回りが利かねぇ。 一番困ったのが iMovie HD が素材をす [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				iLife &#8217;06 でビデオ編集をした。今回がはじめてだったのだけど結構大変。いや、いいソフトでとは思うよ。でも所詮 iLife&#8230;小回りが利かねぇ。</p>
+<p>一番困ったのが iMovie HD が素材をすべて書類パッケージの中にコピーして作業するところ。小さなデータならいいのだけど DV フォーマットだとむちゃくちゃ大きくなるんだよね。30GB 近くあるデータを扱うので、管理しやすいように書類を分割したり、作業途中の書類をスナップショットとして保存しておくというのができない。</p>
+<p>次に困ったのが音量の上限。iMoive が最大 1.5倍、GarageBand が最大 6db。素人の撮るビデオなんて入力レベルが充分でないことも多いわけだからこの制限は非常につらい。</p>
+<p>あと、今回ほど MacBook がこんなに貧弱だと思ったことはない。編集そのものは快適なのだけどムービーの出力がむちゃくちゃ時間がかかる。</p>
+<p>ちなみに今回編集したビデオは<a href="http://newton.so-kukan.com/gravity/" target="_blank" rel="noopener">こっち</a>で公開しています。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/13/ilife-06-%e3%81%a7%e3%83%93%e3%83%87%e3%82%aa%e7%b7%a8%e9%9b%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

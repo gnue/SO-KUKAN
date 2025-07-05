@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VMware &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/vmware/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Nov 2006 19:20:14 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>VMware for Intel Mac β版</title>
+		<link>/gnue/2006/11/03/vmware-for-intel-mac-%ce%b2%e7%89%88/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2006 19:20:14 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[エミュレータ]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/11/03/vmware-for-intel-mac-%ce%b2%e7%89%88</guid>
+
+					<description><![CDATA[Macのエミュレータで有名な田中俊光さんの blog [link] によると VMware が登録ユーザ向け一部テスターに Mac版βの配布を開始したそうです。 Parallels は購入して持っているけど VMware [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Macのエミュレータで有名な田中俊光さんの blog [<a href="http://toshi3.cocolog-nifty.com/blog/2006/11/vmware_mac_39d8.html">link</a>] によると VMware が<del>登録ユーザ向け</del>一部テスターに Mac版βの配布を開始したそうです。</p>
+<p>Parallels は購入して持っているけど VMware も気になります。一般向けのパブリックベータとか評価版はいつになるんでしょう。はやく試してみたい&#8230; </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>さよなら Virtual PC、こんにちは VMware</title>
+		<link>/gnue/2006/08/09/%e3%81%95%e3%82%88%e3%81%aa%e3%82%89-virtual-pc%e3%80%81%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af-vmware/</link>
+					<comments>/gnue/2006/08/09/%e3%81%95%e3%82%88%e3%81%aa%e3%82%89-virtual-pc%e3%80%81%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af-vmware/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2006 09:07:08 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Virtual PC]]></category>
+		<category><![CDATA[VMware]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/08/09/%e3%81%95%e3%82%88%e3%81%aa%e3%82%89-virtual-pc%e3%80%81%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af-vmware/</guid>
+
+					<description><![CDATA[WWDC に合わせて Linux/Windows 上の PCエミュレータとして定評のある VMware が Intel Mac への対応を表明した。近いうちにβ版が公開されることだろうが楽しみである。 それとは反対に M [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				WWDC に合わせて Linux/Windows 上の PCエミュレータとして定評のある VMware が Intel Mac への対応を表明した。近いうちにβ版が公開されることだろうが楽しみである。</p>
+<p>それとは反対に Microsoft は Virtual PC for Mac の開発停止を発表。営業判断的には仕方のないこととはいえ Connectix の頃から Virtual PC 知っている者としては非常に残念である。Microsoft での開発が無理なら Apple に売却してもらいたいところなのだが、無料化されたとはいえ Virtual PC for Win も残っているし無理なんだろうなぁ。</p>
+<p>さて、VMware に刺激されたか Parallels がアップデートされた。とは言っても USB機能の強化等で Vista対応はまだである。VMware が参入してきたら Parallels もうかうかしてられないし Vista対応は急務だろう(*1)。</p>
+<p>*1) VMware は既に Vista に対応している</p>
+<p>⇒ <a href="http://www.itmedia.co.jp/news/articles/0608/08/news017.html" target="_blank" rel="noopener">VMware、Mac OS X版仮想マシン投入を正式表明</a>（ITmedia）<br />
+⇒ <a href="http://www.itmedia.co.jp/news/articles/0608/08/news033.html" target="_blank" rel="noopener">「Intel Mac用Virtual PCはなし」とMicrosoft</a>（ITmedia）<br />
+⇒ <a href="http://www.itmedia.co.jp/news/articles/0608/09/news044.html" target="_blank" rel="noopener">Mac版Parallels Desktop、USB対応機能を改善した最新β公開</a>（ITmedia）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/08/09/%e3%81%95%e3%82%88%e3%81%aa%e3%82%89-virtual-pc%e3%80%81%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af-vmware/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	デバッガの理論と実装（ジョナサン・B. ローゼンバーグ　著） へのコメント	</title>
+	<atom:link href="/gnue/2009/02/18/%E3%83%87%E3%83%90%E3%83%83%E3%82%AC%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85%EF%BC%88%E3%82%B8%E3%83%A7%E3%83%8A%E3%82%B5%E3%83%B3%E3%83%BBb-%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/02/18/%e3%83%87%e3%83%90%e3%83%83%e3%82%ac%e3%81%ae%e7%90%86%e8%ab%96%e3%81%a8%e5%ae%9f%e8%a3%85%ef%bc%88%e3%82%b8%e3%83%a7%e3%83%8a%e3%82%b5%e3%83%b3%e3%83%bbb-%e3%83%ad%e3%83%bc%e3%82%bc%e3%83%b3/</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Feb 2009 16:04:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

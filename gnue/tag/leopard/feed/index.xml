@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Leopard &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/leopard/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 May 2009 13:53:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>apache2ログのローテーション</title>
+		<link>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+					<comments>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 13:53:31 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[apache2]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2153</guid>
+
+					<description><![CDATA[なぜか昨日から自宅サーバがよく固まるので apache2 のログを見ようと思ったら、Leopard のデフォルトでは apache2 のログがローテーションしてない（ずっと同じファイルに追加されている）のね。 ということ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				なぜか昨日から自宅サーバがよく固まるので apache2 のログを見ようと思ったら、Leopard のデフォルトでは apache2 のログがローテーションしてない（ずっと同じファイルに追加されている）のね。</p>
+<p>ということで下記のサイトを参考に /etc/newsyslog.conf を編集してローテーションさせるようにしました。</p>
+<p>⇒ <a href="http://earlybirds.ddo.jp/namahage/inegalog/article.php?id=64">Web共有機能のログをローテーションさせよう</a> （MacOSXでサーバー稼業）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/06/apache2%e3%83%ad%e3%82%b0%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mod_python のインストール</title>
+		<link>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/</link>
+					<comments>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 13:47:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[mod_python]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2151</guid>
+
+					<description><![CDATA[Trac 0.11 がめっちゃ遅いので mod_python を自宅サーバ（Mac mini）に入れてみた。 最初は MacPort でサクっと入れようと思ったのだがエラーであえなく撃沈。次はソースコードから make  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Trac 0.11 がめっちゃ遅いので mod_python を自宅サーバ（Mac mini）に入れてみた。</p>
+<p>最初は MacPort でサクっと入れようと思ったのだがエラーであえなく撃沈。次はソースコードから make しようと思ったらコンパイル＆インストールは問題なかったのに実際に apache2 で LoadModule しようとするとエラーになってダメ。ネットで調べるとどうも Makefile(*1) が x86_64 に対応してないのが問題らしい。</p>
+<p>ということで、下記のサイトを参考に Makefile を修正したら問題なく動くようになりました。Trac も体感速度３倍ぐらい速くなった感じ。</p>
+<p>⇒ <a href="http://www.rokujyouhitoma.com/javapg/2008/08/leopardmod-python.html">Leopardでmod_pythonの設定</a>（rokujyouhitomaのぷろぐらま日誌）</p>
+<p>*1) 本来は configure でなんとかするべき		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/05/06/mod_python-%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Leopard と Wide-Area Bonjour サーバ</title>
+		<link>/gnue/2008/01/04/leopard-%e3%81%a8-wide-area-bonjour-%e3%82%b5%e3%83%bc%e3%83%90/</link>
+					<comments>/gnue/2008/01/04/leopard-%e3%81%a8-wide-area-bonjour-%e3%82%b5%e3%83%bc%e3%83%90/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 03 Jan 2008 16:02:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Bonjour]]></category>
+		<category><![CDATA[DNS-SD]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/leopard-%e3%81%a8-wide-area-bonjour-%e3%82%b5%e3%83%bc%e3%83%90/</guid>
+
+					<description><![CDATA[dns-sd.org のページを参考に Wide-Area Bonjour のサーバを動かそうとしているのだが、最初の Test Server のところでつまずいてます。 Tiger(Mac OS X 10.4) からは [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				dns-sd.org のページを参考に Wide-Area Bonjour のサーバを動かそうとしているのだが、最初の <a href="http://www.dns-sd.org/ServerTestSetup.">Test Server のところ</a>でつまずいてます。</p>
+<p>Tiger(Mac OS X 10.4) からは見えるのに Leopard(Mac OS X 10.5) からは見えない。Tiger から見えてるってことは DNSサーバ自体はちゃんと動いているってことなんですよね。いったい、何がだめなんだろう？？？</p>
+<p>Wide-Area Bonjour 対応の DNSサーバが動くようになると何がうれしいかというと、「どこでも My Mac」みたいなことが .Mac を使わずにできるようになります。他にもいろいろと使い道はありそうなんだけど&#8230;..</p>
+<p>⇒ <a href="http://www.dns-sd.org/">DNS Service Discovery (DNS-SD)</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/04/leopard-%e3%81%a8-wide-area-bonjour-%e3%82%b5%e3%83%bc%e3%83%90/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>タイムマシンにお願い</title>
+		<link>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/</link>
+					<comments>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 04 Nov 2007 10:08:16 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/</guid>
+
+					<description><![CDATA[Leopard の売りのひとつ Time Machine 機能、出てみたら AirMacDisk に非対応になったので非常にがっかりしてたけど追打ちをかけるように FileVault とも相性が悪いことがわかった。Fil [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Leopard の売りのひとつ Time Machine 機能、出てみたら AirMacDisk に非対応になったので非常にがっかりしてたけど追打ちをかけるように FileVault とも相性が悪いことがわかった。FileVault を ON にしているとホームディレクトリ単位でしか遡れないのである。嬉しくねぇ :-{</p>
+<p>FileVault を使わないのがいいのだろうけど、いまの MacBook は３度も修理に出したトラウマがあるのでサービスセンターの人にホームディレクトリを見られたくないし（個人情報＆仕事のファイルがある）そういうわけにはいかないんだよなぁ。</p>
+<p>FileVault のマスターパスワードを変更していない場合は自動的にイメージディスクをマウントしてファイル単位で遡れるようにしてもらいたものである。</p>
+<p>それと、やはり MacBook ユーザとしては外付けHDDをいちいち繋げるのはわずらわしい。なんとかネットワーク経由（AirMacDisk or NAS）で Time Machine を動かせるようにして欲しい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Leopard の GUIデザイン</title>
+		<link>/gnue/2007/10/27/leopard-%e3%81%ae-gui%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/</link>
+					<comments>/gnue/2007/10/27/leopard-%e3%81%ae-gui%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2007 07:39:37 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/10/leopard-%e3%81%ae-gui%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/</guid>
+
+					<description><![CDATA[一言で云うならデザイン過剰である。私のデザイン感覚では引き算のできていないデザインは二流である。 だから、Leopard のデザインは二流だ。  Microsoft と違い Apple は引き算のデザインができる希有な先 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				一言で云うならデザイン過剰である。私のデザイン感覚では引き算のできていないデザインは二流である。 だから、Leopard のデザインは二流だ。</p>
+<p> Microsoft と違い Apple は引き算のデザインができる希有な先進企業だったはずなのだが、ときどきこんなヘマをやらかす。デザインに関しては次のバージョンに期待。 		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/10/27/leopard-%e3%81%ae-gui%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Leopard を入れてみる</title>
+		<link>/gnue/2007/10/27/leopard-%e3%82%92%e5%85%a5%e3%82%8c%e3%81%a6%e3%81%bf%e3%82%8b/</link>
+					<comments>/gnue/2007/10/27/leopard-%e3%82%92%e5%85%a5%e3%82%8c%e3%81%a6%e3%81%bf%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2007 06:03:39 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/10/leopard-%e3%82%92%e5%85%a5%e3%82%8c%e3%81%a6%e3%81%bf%e3%82%8b/</guid>
+
+					<description><![CDATA[Leopard をさっそくメインマシン(*1) の MacBook に入れてみました。我ながらチャレンジャーだ。 それで困ったことをいくつか。  Finder のフォルダ表示が不可思議。勝手にアイコン表示になったりリスト [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Leopard をさっそくメインマシン(*1) の MacBook に入れてみました。我ながらチャレンジャーだ。 それで困ったことをいくつか。 </p>
+<ul>
+<li>Finder のフォルダ表示が不可思議。勝手にアイコン表示になったりリスト表示になったり、なんなんだこれ :-{</li>
+<li>Shiira 1.2.2 が新しい WebKit に完全対応していないために、WordPress や VOX で本文入力ができなくなってしまった。しょうがないので Shiira 2.2 にしたけど、Shiira 2.x系ってブックマークの検索ができないから困るんだよね</li>
+<li>GPGMail が使えなくなった、これは非常にまずい。はやく Leopard対応版が出て欲しい</li>
+</ul>
+<p>*1) サブマシンの iBook G4 800GHz が  Leopard に対応していなかったため。Mac mini は自宅サーバを落とさなければいけないのでしばらくおあずけ。</p>
+<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000J1R4U4/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000J1R4U4.09.MZZZZZZZ.jpg"  /></div></a><br />
+		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/10/27/leopard-%e3%82%92%e5%85%a5%e3%82%8c%e3%81%a6%e3%81%bf%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac OS X 10.5 “Leopard”</title>
+		<link>/gnue/2005/06/07/mac-os-x-105-leopard/</link>
+					<comments>/gnue/2005/06/07/mac-os-x-105-leopard/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 06 Jun 2005 23:55:19 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/06/07/mac-os-x-105-%e2%80%9cleopard%e2%80%9d/</guid>
+
+					<description><![CDATA[次の Mac OS X は“Leopard”（レオポルド）と言うらしいが、PPC と x86 のバイナリコードが動くのだから“leopon”（レオポン、豹とライオンの混血）とつけてもらいたかった。]]></description>
+										<content:encoded><![CDATA[<p>				次の Mac OS X は<a href="http://pcweb.mycom.co.jp/photo/news/2005/06/07/100al.JPG" target="_blank" rel="noopener">“Leopard”</a>（レオポルド）と言うらしいが、PPC と x86 のバイナリコードが動くのだから<a href="http://www.jttk.zaq.ne.jp/genmatsu/data/leopon.htm" target="_blank" rel="noopener">“leopon”</a>（レオポン、豹とライオンの混血）とつけてもらいたかった。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/06/07/mac-os-x-105-leopard/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

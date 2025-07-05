@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>未分類 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/category/%E6%9C%AA%E5%88%86%E9%A1%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 16 Feb 2013 00:42:30 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>memorack の作例</title>
+		<link>/gnue/2013/02/16/memorack-%e3%81%ae%e4%bd%9c%e4%be%8b/</link>
+					<comments>/gnue/2013/02/16/memorack-%e3%81%ae%e4%bd%9c%e4%be%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 16 Feb 2013 00:42:30 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[memorack]]></category>
+		<category><![CDATA[RubyGems]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4894</guid>
+
+					<description><![CDATA[自分が実際に使ってる memorack のキャプチャーを作例としてアップしました。 フォルダ内の markdownファイルが自動的にリストアップされてこんな風に表示されます。 * README にある Customiza [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				自分が実際に使ってる <a href="https://github.com/gnue/memorack" target="_blank" rel="noopener">memorack</a> のキャプチャーを作例としてアップしました。</p>
+<p>フォルダ内の markdownファイルが自動的にリストアップされてこんな風に表示されます。</p>
+
+<a href='/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/memorack_example/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2013/02/memorack_example-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>* README にある Customization の Logo と Syntax highlighting が適用されています。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2013/02/16/memorack-%e3%81%ae%e4%bd%9c%e4%be%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>confgit と memorack を RubyGems に登録</title>
+		<link>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/</link>
+					<comments>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2013 06:34:43 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[confgit]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[memorack]]></category>
+		<category><![CDATA[RubyGems]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4883</guid>
+
+					<description><![CDATA[Ruby で書いた２つのプログラムを RubyGems に登録しました。 * confgit 分散している設定ファイルを git を使ってバージョン管理するためのツール ( Ruby 1.9以上, git必須 ) * m [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Ruby で書いた２つのプログラムを <a href="https://rubygems.org/" target="_blank" rel="noopener">RubyGems</a> に登録しました。</p>
+<p>* <a href="https://github.com/gnue/confgit" target="_blank" rel="noopener">confgit</a></p>
+<p>分散している設定ファイルを git を使ってバージョン管理するためのツール<br />
+( Ruby 1.9以上, git必須 )</p>
+<p>* <a href="https://github.com/gnue/memorack" target="_blank" rel="noopener">memorack</a></p>
+<p>markdown記法で記述したファイルを簡単にWeb公開できる Rackアプリケーション<br />
+( Ruby 1.9以上 )</p>
+
+<a href='/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/memorack_example/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2013/02/memorack_example-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>どちらも gem でインストールできます。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0 を github に移転</title>
+		<link>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/</link>
+					<comments>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 26 May 2012 15:02:53 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4755</guid>
+
+					<description><![CDATA[NEWT/0 を自宅サーバの Trac から github に移転しました。 Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。 ⇒ NEWT/0]]></description>
+										<content:encoded><![CDATA[<p>				NEWT/0 を自宅サーバの <a href="http://trac.so-kukan.com/" target="_blank" rel="noopener">Trac</a> から <a href="https://github.com/gnue" target="_blank" rel="noopener">github</a> に移転しました。<br />
+Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。</p>
+<p>⇒ <a href="http://gnue.github.com/NEWT0" target="_blank" rel="noopener">NEWT/0</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2012/05/27/newt0-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SMSUTILS, PasoriKit を github に移転</title>
+		<link>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/</link>
+					<comments>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 25 May 2012 09:33:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[PasoriKit]]></category>
+		<category><![CDATA[SMSUTILS]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4749</guid>
+
+					<description><![CDATA[SMSUTILS, PasoriKit を自宅サーバの Trac から github に移転しました。 Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。 ⇒ SMSUTILS ⇒ P [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				SMSUTILS, PasoriKit を自宅サーバの <a href="http://trac.so-kukan.com/tools" target="_blank" rel="noopener">Trac</a> から <a href="https://github.com/gnue" target="_blank" rel="noopener">github</a> に移転しました。<br />
+Trac のほうへアクセスすると自動的に github のほうへリダイレクトされます。</p>
+<p>⇒ <a href="https://github.com/gnue/SMSUTILS" target="_blank" rel="noopener">SMSUTILS</a><br />
+⇒ <a href="https://github.com/gnue/PasoriKit-1.0.x" target="_blank" rel="noopener">PasoriKit</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2012/05/25/smsutils-pasorikit-%e3%82%92-github-%e3%81%ab%e7%a7%bb%e8%bb%a2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ハイパーアプリクリエイターズに登場</title>
+		<link>/gnue/2011/05/20/%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a2%e3%83%97%e3%83%aa%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ab%e7%99%bb%e5%a0%b4/</link>
+					<comments>/gnue/2011/05/20/%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a2%e3%83%97%e3%83%aa%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ab%e7%99%bb%e5%a0%b4/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 20 May 2011 00:46:37 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4713</guid>
+
+					<description><![CDATA[１月に収録したPodcast ハイパーアプリクリエイターズの前編が公開されました。 ⇒ 第025回　W faceの作者、gnueさん登場！　前編（ハイパーアプリクリエイターズ） 追記：後編も公開されました]]></description>
+										<content:encoded><![CDATA[<p>				<a href="https://so-kukan.com/gnue/2011/01/ハイパーアプリクリエイターズにゲスト出演/">１月に収録した</a>Podcast ハイパーアプリクリエイターズの前編が公開されました。</p>
+<p>⇒ <a href="http://blog.hyper-app.net/archives/51801802.html">第025回　W faceの作者、gnueさん登場！　前編</a>（ハイパーアプリクリエイターズ）</p>
+<p>追記：<a href="http://blog.hyper-app.net/archives/51803057.html" target="_blank" rel="noopener">後編</a>も公開されました		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/05/20/%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a2%e3%83%97%e3%83%aa%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ab%e7%99%bb%e5%a0%b4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>App Creator Night #1 チラシ</title>
+		<link>/gnue/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/</link>
+					<comments>/gnue/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 01 May 2011 10:16:48 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4708</guid>
+
+					<description><![CDATA[PENQE 永野さんによる App Creator Night #1 チラシのデザインができました。 ⇒ App Creator Night #1]]></description>
+										<content:encoded><![CDATA[<p>				PENQE 永野さんによる App Creator Night #1 チラシのデザインができました。</p>
+<p>⇒ <a href="https://so-kukan.com/appcreator" target="_blank" rel="noopener">App Creator Night #1</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/05/01/app-creator-night-1-%e3%83%81%e3%83%a9%e3%82%b7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>App Creator Night #1 のお知らせ</title>
+		<link>/gnue/2011/04/27/app-creator-night-1-%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/</link>
+					<comments>/gnue/2011/04/27/app-creator-night-1-%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 26 Apr 2011 23:49:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4701</guid>
+
+					<description><![CDATA[開発者自身による自作アプリ・デモイベントを開催します。 日　時：2011年5月10日(火) 7:00PM-8:00PM 場　所：Apple Store 銀座　3Fシアター App Store でアプリを配信しているアプリ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				開発者自身による自作アプリ・デモイベントを開催します。</p>
+<p><strong>日　時：</strong>2011年5月10日(火) 7:00PM-8:00PM<br />
+<strong>場　所：</strong><a href="http://www.apple.com/jp/retail/ginza/map/" target="_blank" rel="noopener">Apple Store 銀座　3Fシアター </a></p>
+<p>App Store でアプリを配信しているアプリ作家によるデモ・イベントです。ライトニングトーク形式により開発者がみずから自作アプリをデモします。iPhone/iPad から Mac まで幅広いアプリを紹介。まだみたことのないアプリや開発者との出逢いを是非おたのしみください。</p>
+<p>⇒ <a href="https://so-kukan.com/appcreator/" target="_blank" rel="noopener">App Creator Night #1</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/04/27/app-creator-night-1-%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>「アプリ開発者名鑑」に載りました</title>
+		<link>/gnue/2011/04/04/%e3%80%8c%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e8%80%85%e5%90%8d%e9%91%91%e3%80%8d%e3%81%ab%e8%bc%89%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f/</link>
+					<comments>/gnue/2011/04/04/%e3%80%8c%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e8%80%85%e5%90%8d%e9%91%91%e3%80%8d%e3%81%ab%e8%bc%89%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2011 03:11:58 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4691</guid>
+
+					<description><![CDATA[@nashiko_さんの「アプリ開発者名鑑」に掲載していただきました。 ⇒ 【アプリ開発者名鑑46】代表アプリ『W face』 @gnue さん♪ #devunq46]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://twitter.com/nashiko_" target="_blank" rel="noopener">@nashiko_</a>さんの「アプリ開発者名鑑」に掲載していただきました。</p>
+<p>⇒ <a href="http://blog.goo.ne.jp/spanske_stol/e/f3e380c44e3aecd2059af260c5bf30f7" target="_blank" rel="noopener">【アプリ開発者名鑑46】代表アプリ『W face』 @gnue さん♪ #devunq46</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/04/04/%e3%80%8c%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e8%80%85%e5%90%8d%e9%91%91%e3%80%8d%e3%81%ab%e8%bc%89%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iPhone用ヘッドセットが壊れた</title>
+		<link>/gnue/2011/04/03/iphone%e7%94%a8%e3%83%98%e3%83%83%e3%83%89%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e5%a3%8a%e3%82%8c%e3%81%9f/</link>
+					<comments>/gnue/2011/04/03/iphone%e7%94%a8%e3%83%98%e3%83%83%e3%83%89%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e5%a3%8a%e3%82%8c%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 02 Apr 2011 16:01:05 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[イヤフォン]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4685</guid>
+
+					<description><![CDATA[４日前の話。左耳が聞こえないと思ったら PHILIPS SHE9755/10 が壊れてしまったらしい。なんかマイク＆リモコン部で断線してるっぽい。前の Apple In-Ear Headphones with Remot [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				４日前の話。左耳が聞こえないと思ったら <a href="https://so-kukan.com/gnue/2010/05/philips-she975510/">PHILIPS SHE9755/10</a> が壊れてしまったらしい。なんかマイク＆リモコン部で断線してるっぽい。前の Apple In-Ear Headphones with Remote and Mic も同じ故障だったんだよね。ヘッドセットだとマイク＆リモコン部で断線しやすいんだろうか。</p>
+<p>で、新しいヘッドセットは <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001BSTM6I/gnue-22" target="_blank">Sennheiser MM 50 for iPhone</a> 。もらいものなのであまり文句も言えないけどボリュームボタンがないのでちょっと使い難い。</p>
+<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001BSTM6I/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B001BSTM6I.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p><br class="clear" /></p>
+<p>追記：あれ、<a href="https://so-kukan.com/gnue/2010/05/philips-she975510/">PHILIPS SHE9755/10の記事</a>の日付を見たらまだ１年たってないじゃないか。もしかして保証が効くのかな。あとで確認してみる<br />
+追記２：保証期間６ヶ月だった。残念		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/04/03/iphone%e7%94%a8%e3%83%98%e3%83%83%e3%83%89%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e5%a3%8a%e3%82%8c%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>日日並べて 夜には九夜 日には十日を</title>
+		<link>/gnue/2011/03/21/%e6%97%a5%e6%97%a5%e4%b8%a6%e3%81%b9%e3%81%a6-%e5%a4%9c%e3%81%ab%e3%81%af%e4%b9%9d%e5%a4%9c-%e6%97%a5%e3%81%ab%e3%81%af%e5%8d%81%e6%97%a5%e3%82%92/</link>
+					<comments>/gnue/2011/03/21/%e6%97%a5%e6%97%a5%e4%b8%a6%e3%81%b9%e3%81%a6-%e5%a4%9c%e3%81%ab%e3%81%af%e4%b9%9d%e5%a4%9c-%e6%97%a5%e3%81%ab%e3%81%af%e5%8d%81%e6%97%a5%e3%82%92/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2011 06:52:31 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Life]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4683</guid>
+
+					<description><![CDATA[そいえば地震からもう10日たったんですねぇ]]></description>
+										<content:encoded><![CDATA[<p>				そいえば地震からもう10日たったんですねぇ		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2011/03/21/%e6%97%a5%e6%97%a5%e4%b8%a6%e3%81%b9%e3%81%a6-%e5%a4%9c%e3%81%ab%e3%81%af%e4%b9%9d%e5%a4%9c-%e6%97%a5%e3%81%ab%e3%81%af%e5%8d%81%e6%97%a5%e3%82%92/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

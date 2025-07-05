@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>markdown &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/markdown/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Feb 2013 06:34:43 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>confgit と memorack を RubyGems に登録</title>
+		<link>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/</link>
+					<comments>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2013 06:34:43 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[confgit]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[memorack]]></category>
+		<category><![CDATA[RubyGems]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=4883</guid>
+
+					<description><![CDATA[Ruby で書いた２つのプログラムを RubyGems に登録しました。 * confgit 分散している設定ファイルを git を使ってバージョン管理するためのツール ( Ruby 1.9以上, git必須 ) * m [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Ruby で書いた２つのプログラムを <a href="https://rubygems.org/" target="_blank" rel="noopener">RubyGems</a> に登録しました。</p>
+<p>* <a href="https://github.com/gnue/confgit" target="_blank" rel="noopener">confgit</a></p>
+<p>分散している設定ファイルを git を使ってバージョン管理するためのツール<br />
+( Ruby 1.9以上, git必須 )</p>
+<p>* <a href="https://github.com/gnue/memorack" target="_blank" rel="noopener">memorack</a></p>
+<p>markdown記法で記述したファイルを簡単にWeb公開できる Rackアプリケーション<br />
+( Ruby 1.9以上 )</p>
+
+<a href='/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/memorack_example/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2013/02/memorack_example-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>どちらも gem でインストールできます。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2013/02/15/confgit-%e3%81%a8-memorack-%e3%82%92-rubygems-%e3%81%ab%e7%99%bb%e9%8c%b2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

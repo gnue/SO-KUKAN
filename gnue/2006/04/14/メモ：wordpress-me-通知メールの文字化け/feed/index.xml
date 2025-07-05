@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	メモ：WordPress ME 通知メールの文字化け へのコメント	</title>
+	<atom:link href="/gnue/2006/04/14/%E3%83%A1%E3%83%A2%EF%BC%9Awordpress-me-%E9%80%9A%E7%9F%A5%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%AE%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/04/14/%e3%83%a1%e3%83%a2%ef%bc%9awordpress-me-%e9%80%9a%e7%9f%a5%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ae%e6%96%87%e5%ad%97%e5%8c%96%e3%81%91/</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Apr 2006 18:54:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

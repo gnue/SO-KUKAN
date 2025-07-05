@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Movable Type &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/movable-type/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 31 Jan 2007 18:10:55 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>MT の Widget を使ってみる</title>
+		<link>/gnue/2007/02/01/mt-%e3%81%ae-widget-%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/</link>
+					<comments>/gnue/2007/02/01/mt-%e3%81%ae-widget-%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2007 18:10:55 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/02/01/mt-%e3%81%ae-widget-%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/</guid>
+
+					<description><![CDATA[見た目はほとんど同じだけど MT 3.3x の Widget プラグインを使ってみました。 MT の Widget ってもっと高度なことやってるのかと思ったら、単なるテンプレートモジュールを GUI で組み合わせるだけな [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				見た目はほとんど同じだけど MT 3.3x の Widget プラグインを使ってみました。</p>
+<p>MT の Widget ってもっと高度なことやってるのかと思ったら、単なるテンプレートモジュールを GUI で組み合わせるだけなんですね。まぁ、その分小難しいこと勉強しなくても使いこなせるでいいけど。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/02/01/mt-%e3%81%ae-widget-%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MT 3.34-ja にアップデート</title>
+		<link>/gnue/2007/01/28/mt-334-ja-%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88/</link>
+					<comments>/gnue/2007/01/28/mt-334-ja-%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 27 Jan 2007 19:34:16 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/01/28/mt-334-ja-%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88/</guid>
+
+					<description><![CDATA[このサイトを MT 3.34-ja にアップデートしました。 あんまりピーキーにカスタマイズするとまたアップデートのときに苦労することになるので、ほどほどにテンプレートとスタイルシートを修正。メインページは以前のものをそ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				このサイトを MT 3.34-ja にアップデートしました。</p>
+<p>あんまりピーキーにカスタマイズするとまたアップデートのときに苦労することになるので、ほどほどにテンプレートとスタイルシートを修正。メインページは以前のものをそのまま使用。新しいタグへの対応とかはまぁそのうち。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/01/28/mt-334-ja-%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MT 3.34-ja</title>
+		<link>/gnue/2007/01/25/mt-334-ja/</link>
+					<comments>/gnue/2007/01/25/mt-334-ja/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 24 Jan 2007 19:10:30 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/01/25/mt-334-ja/</guid>
+
+					<description><![CDATA[MT 3.34日本語版が出たらしい。うちはまだ 3.21-ja なので 3.34 にアップデートしようと思うとテンプレートの不整合が出るだろうしどうしたもんかなぁ。]]></description>
+										<content:encoded><![CDATA[<p>				MT 3.34日本語版が出たらしい。うちはまだ 3.21-ja なので 3.34 にアップデートしようと思うとテンプレートの不整合が出るだろうしどうしたもんかなぁ。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/01/25/mt-334-ja/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MT にクロスサイトスクリプティング脆弱性</title>
+		<link>/gnue/2006/09/26/mt-%e3%81%ab%e3%82%af%e3%83%ad%e3%82%b9%e3%82%b5%e3%82%a4%e3%83%88%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e8%84%86%e5%bc%b1%e6%80%a7/</link>
+					<comments>/gnue/2006/09/26/mt-%e3%81%ab%e3%82%af%e3%83%ad%e3%82%b9%e3%82%b5%e3%82%a4%e3%83%88%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e8%84%86%e5%bc%b1%e6%80%a7/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2006 04:55:43 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/09/26/mt-%e3%81%ab%e3%82%af%e3%83%ad%e3%82%b9%e3%82%b5%e3%82%a4%e3%83%88%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e8%84%86%e5%bc%b1%e6%80%a7/</guid>
+
+					<description><![CDATA[Movable Type の検索機能にクロスサイトスクリプティング脆弱性がみつかったそうです。JVN では MT3.3系しか載っていませんが、Six Apart のアナウンスによると MT3.2系も影響を受けるそうです。 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type の検索機能にクロスサイトスクリプティング脆弱性がみつかったそうです。JVN では MT3.3系しか載っていませんが、Six Apart のアナウンスによると MT3.2系も影響を受けるそうです。</p>
+<p>MT3.2 用のパッチも用意されています。</p>
+<p>追記：とりあえずパッチをあてて MT3.21-ja にアップ</p>
+<p>⇒ <a href="http://jvn.jp/jp/JVN%2368295640/" target="_blank" rel="noopener">Movable Type の検索機能におけるクロスサイトスクリプティングの脆弱性</a>（JVN）<br />
+⇒ <a href="http://www.sixapart.jp/movabletype/news/2006/09/26-1115.html" target="_blank" rel="noopener">【重要】 Movable Type 新バージョンとパッチの提供について</a>（Six Apart）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/09/26/mt-%e3%81%ab%e3%82%af%e3%83%ad%e3%82%b9%e3%82%b5%e3%82%a4%e3%83%88%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e8%84%86%e5%bc%b1%e6%80%a7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>個別エントリーの MTComments がおかしい</title>
+		<link>/gnue/2006/03/14/%e5%80%8b%e5%88%a5%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%81%ae-mtcomments-%e3%81%8c%e3%81%8a%e3%81%8b%e3%81%97%e3%81%84/</link>
+					<comments>/gnue/2006/03/14/%e5%80%8b%e5%88%a5%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%81%ae-mtcomments-%e3%81%8c%e3%81%8a%e3%81%8b%e3%81%97%e3%81%84/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 14 Mar 2006 07:17:34 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[My Sites]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/03/14/%e5%80%8b%e5%88%a5%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%81%ae-mtcomments-%e3%81%8c%e3%81%8a%e3%81%8b%e3%81%97%e3%81%84/</guid>
+
+					<description><![CDATA[うーん、今日になって個別エントリーのコメントが１つしか表示されていないことに気がついてしまった。 以前はちゃんと表示されていたはずなのに何故だろう。アーカイブは動的生成にしているのだけど、動的生成にしていないメインページ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				うーん、今日になって個別エントリーのコメントが１つしか表示されていないことに気がついてしまった。</p>
+<p>以前はちゃんと表示されていたはずなのに何故だろう。アーカイブは動的生成にしているのだけど、動的生成にしていないメインページはちゃんと複数個のコメントが表示できている。</p>
+<p>最近やったことというと PHP5.0.x から PHP 5.1.2 にアップデートしたこと。もしかしたらこのせいだろうか？</p>
+<p>追記（解決編）：にらんだとおり Smarty のバージョンが問題でした。Smarty のホームページから最新版（2.6.13）をダウンロードして php/extlib/smarty を入れ替え、「サイトを再構築」したらちゃんと複数のコメントが表示されるようになりました。</p>
+<p>⇒ <a href="http://smarty.php.net/" target="_blank" rel="noopener">Smarty : Template Engine</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/03/14/%e5%80%8b%e5%88%a5%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%81%ae-mtcomments-%e3%81%8c%e3%81%8a%e3%81%8b%e3%81%97%e3%81%84/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-site.js</title>
+		<link>/gnue/2005/11/07/mt-sitejs/</link>
+					<comments>/gnue/2005/11/07/mt-sitejs/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2005 04:41:59 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/11/07/mt-sitejs/</guid>
+
+					<description><![CDATA[MT3.2-ja にアップデートしてから TypeKey が使えなくなったなぁ（ま、いっか）と思っていたら JavaScript のテンプレートが新しく追加されていたんですね。 テンプレート名：JavaScript 出力 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				MT3.2-ja にアップデートしてから TypeKey が使えなくなったなぁ（ま、いっか）と思っていたら JavaScript のテンプレートが新しく追加されていたんですね。</p>
+<p>テンプレート名：JavaScript<br />
+出力ファイル名：mt-site.js</p>
+<p>中途半端に新しいテンプレートをコピーして使っていたのが原因。ダミーで新規作成したブログから JavaScript のテンプレートをコピーしたら TypeKey がちゃんと使えるようになりました。</p>
+<p>ということで、古い MT から 3.2 にアップデートした人は JavaScript テンプレートのコピーをお忘れなく。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/11/07/mt-sitejs/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Movable Typeコンテスト2005 にエントリしてみるの巻</title>
+		<link>/gnue/2005/07/29/movable-type%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%882005-%e3%81%ab%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b%e3%81%ae%e5%b7%bb/</link>
+					<comments>/gnue/2005/07/29/movable-type%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%882005-%e3%81%ab%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b%e3%81%ae%e5%b7%bb/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 29 Jul 2005 11:00:51 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/07/29/movable-type%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%882005-%e3%81%ab%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b%e3%81%ae%e5%b7%bb/</guid>
+
+					<description><![CDATA[shuiro note さんを見てたら「Movable Typeコンテスト2005」の話題が載っていた。 そういえば随分前にどっかのニュースサイトに出てたよなぁ。すっかり忘れてたよ。まぁ、とりあえずダメもとでうちのサイト [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://shuiro.typepad.com/note/2005/07/movable_type200.html" target="_blank" rel="noopener">shuiro note</a> さんを見てたら「Movable Typeコンテスト2005」の話題が載っていた。</p>
+<p>そういえば随分前にどっかのニュースサイトに出てたよなぁ。すっかり忘れてたよ。まぁ、とりあえずダメもとでうちのサイトもエントリしてみることにする。</p>
+<p>⇒ <a href="http://mt.rsh.jp/" target="_blank" rel="noopener">Movable Type コンテスト 2005</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/07/29/movable-type%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%882005-%e3%81%ab%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b%e3%81%ae%e5%b7%bb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop-tb_20050620</title>
+		<link>/gnue/2005/06/29/mt-spamstop-tb/</link>
+					<comments>/gnue/2005/06/29/mt-spamstop-tb/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2005 12:51:18 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/06/29/mt-spamstop-tb_20050620/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop-tb_20050620 を公開しました。 ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。 まだ数は [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop-tb_20050620 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p><span id="more-686"></span></p>
+<p>まだ数は多くありませんがトラックバックのブログ名に URL を入れてくる新種が来るようになってきたので対応しました。</p>
+<p>概　　要： &lt;A&gt;タグを含むトラックバックスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更： ブログ名が&lt;A&gt;タグを含む場合にも対応</p>
+<p>⇒ mt-spamstop-tb_20050620.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop-tb_20050620.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/06/29/mt-spamstop-tb/feed/</wfw:commentRss>
+			<slash:comments>40</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop_20050320</title>
+		<link>/gnue/2005/03/20/mtspamstop_2005_1/</link>
+					<comments>/gnue/2005/03/20/mtspamstop_2005_1/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2005 11:36:18 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/03/20/mt-spamstop_20050320/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop_20050320 を公開しました。 ベリー・ベリー・シンプルなコメントスパム対策用のプラグインです。mod_perl 環境でも使用可。 数は多くないのですが [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop_20050320 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなコメントスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p><span id="more-604"></span></p>
+<p>数は多くないのですがそろっと対応できないコメントスパムがちらほら来るようなのでトラックバックスパム対策と同様のブラックリスト機能を追加しました。デフォルトでうちに来たスパムの URL を登録してあります。</p>
+<p>概　　要： &lt;A&gt;タグを含むコメントスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更：<br />
+　ブラックリストをファイル最後尾に登録できるようにしました</p>
+<p>⇒ mt-spamstop_20050320.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop_20050320.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/03/20/mtspamstop_2005_1/feed/</wfw:commentRss>
+			<slash:comments>31</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>mt-spamstop-tb_20050224</title>
+		<link>/gnue/2005/02/24/mtspamstoptb_20_2/</link>
+					<comments>/gnue/2005/02/24/mtspamstoptb_20_2/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 23 Feb 2005 18:04:24 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Movable Type]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Spam]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/02/24/mt-spamstop-tb_20050224/</guid>
+
+					<description><![CDATA[Movable Type のプラグイン mt-spamstop-tb_20050224 を公開しました。 ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。 いままで [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Movable Type のプラグイン mt-spamstop-tb_20050224 を公開しました。</p>
+<p>ベリー・ベリー・シンプルなトラックバックスパム対策用のプラグインです。mod_perl 環境でも使用可。</p>
+<p>いままでのものでは対応しきれなくなってきたので簡単なブラックリスト機能をつけました。デフォルトでうちによく来るスパムの URL を１つ登録済み。</p>
+<p>概　　要： &lt;A&gt;タグを含むトラックバックスパムをブロック<br />
+利用方法： Plugins フォルダに入れるだけ<br />
+変　　更：<br />
+　ブラックリストをファイル最後尾に登録できるようにしました</p>
+<p>⇒ mt-spamstop-tb_20050224.tgz (<a href="/gnue/lib/mt-plugin/mt-spamstop-tb_20050224.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/02/24/mtspamstoptb_20_2/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

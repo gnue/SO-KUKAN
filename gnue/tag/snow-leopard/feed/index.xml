@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Snow Leopard &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/snow-leopard/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Sep 2009 00:37:27 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>３・４本指ジェスチャーが使えないことがある</title>
+		<link>/gnue/2009/09/11/%ef%bc%93%e3%83%bb%ef%bc%94%e6%9c%ac%e6%8c%87%e3%82%b8%e3%82%a7%e3%82%b9%e3%83%81%e3%83%a3%e3%83%bc%e3%81%8c%e4%bd%bf%e3%81%88%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b/</link>
+					<comments>/gnue/2009/09/11/%ef%bc%93%e3%83%bb%ef%bc%94%e6%9c%ac%e6%8c%87%e3%82%b8%e3%82%a7%e3%82%b9%e3%83%81%e3%83%a3%e3%83%bc%e3%81%8c%e4%bd%bf%e3%81%88%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2009 00:37:27 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2836</guid>
+
+					<description><![CDATA[こいつも Snow Leopard になってからの不具合で、かなりの頻度で MacBook（Unibody）のトラックパッドで３・４本指ジェスチャーが使えないことがある。再起動してもおおらないのだけど、どういうわけか一度 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				こいつも Snow Leopard になってからの不具合で、かなりの頻度で MacBook（Unibody）のトラックパッドで３・４本指ジェスチャーが使えないことがある。再起動してもおおらないのだけど、どういうわけか一度ログアウトして再ログインするとなおるという不思議な現象である。</p>
+<p>追記：10.6.1 でもなおらず<br />
+追記 9/21：SIMBL 0.9.6c にしたらなおったっぽい。もしかして SIMBL が悪さしてた？		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/09/11/%ef%bc%93%e3%83%bb%ef%bc%94%e6%9c%ac%e6%8c%87%e3%82%b8%e3%82%a7%e3%82%b9%e3%83%81%e3%83%a3%e3%83%bc%e3%81%8c%e4%bd%bf%e3%81%88%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>スリープ解除でマウスの Bluetooth接続が切れる</title>
+		<link>/gnue/2009/09/11/%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%97%e8%a7%a3%e9%99%a4%e3%81%a7%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae-bluetooth%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/</link>
+					<comments>/gnue/2009/09/11/%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%97%e8%a7%a3%e9%99%a4%e3%81%a7%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae-bluetooth%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2009 00:33:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mouse]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2834</guid>
+
+					<description><![CDATA[Snow Leopard にしてからスリープ解除で Wireless Mighty Mouse の Bluetooth接続がかなりの頻度で切れるようになってしまった。 Snow Leopard になってスリープからの復帰 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Snow Leopard にしてからスリープ解除で Wireless Mighty Mouse の Bluetooth接続がかなりの頻度で切れるようになってしまった。</p>
+<p>Snow Leopard になってスリープからの復帰がむっちゃ速くなったのでそれが影響してるんだろうか。うーん、再接続が結構わずらわしい <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>追記：10.6.1 でもなおらず		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/09/11/%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%97%e8%a7%a3%e9%99%a4%e3%81%a7%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae-bluetooth%e6%8e%a5%e7%b6%9a%e3%81%8c%e5%88%87%e3%82%8c%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>.prefPane の Snow Leopard 対応</title>
+		<link>/gnue/2009/08/31/prefpane-%e3%81%ae-snow-leopard-%e5%af%be%e5%bf%9c/</link>
+					<comments>/gnue/2009/08/31/prefpane-%e3%81%ae-snow-leopard-%e5%af%be%e5%bf%9c/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2009 02:21:21 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[開発]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2806</guid>
+
+					<description><![CDATA[システム環境設定で Snow Leopard 非対応の環境設定パネルを開こうとすると 「〜環境設定パネルを使用するには、&#8221;システム環境設定&#8221;を終了してから起動し直す必要があります。」 というアラー [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				システム環境設定で Snow Leopard 非対応の環境設定パネルを開こうとすると</p>
+<blockquote><p>「〜環境設定パネルを使用するには、&#8221;システム環境設定&#8221;を終了してから起動し直す必要があります。」
+</p></blockquote>
+<p>というアラートが出て、OKボタンをクリックするとシステム環境設定が 32bit モードで再起動されます。なんともいや〜んな感じ。</p>
+<p>ということで環境設定パネル（.prefPane）を Snow Leopard に対応させる方法。</p>
+<ol>
+<li>プロジェクトのアーキテクチャを &#8220;Standard (32/64-bit Universal)&#8221; に変更</li>
+<li>Objective-Cガベージコレクションを &#8220;サポートあり [-fobjc-gc]&#8221; に変更</li>
+</ol>
+<p>ガベージコレクションのサポートありを忘れないように。これで再ビルドすれば大丈夫のはず。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/08/31/prefpane-%e3%81%ae-snow-leopard-%e5%af%be%e5%bf%9c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Happy Macintosh Developing Time 2nd Editon（木下誠　著） へのコメント	</title>
+	<atom:link href="/gnue/2004/08/22/happy-macintosh-developing-time-2nd-editon%EF%BC%88%E6%9C%A8%E4%B8%8B%E8%AA%A0%E3%80%80%E8%91%97%EF%BC%89/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/08/22/happy-macintosh-developing-time-2nd-editon%ef%bc%88%e6%9c%a8%e4%b8%8b%e8%aa%a0%e3%80%80%e8%91%97%ef%bc%89/</link>
+	<description></description>
+	<lastBuildDate>Sat, 21 Aug 2004 20:18:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		sumim より		</title>
+		<link>/gnue/2004/08/22/happy-macintosh-developing-time-2nd-editon%ef%bc%88%e6%9c%a8%e4%b8%8b%e8%aa%a0%e3%80%80%e8%91%97%ef%bc%89/#comment-95</link>
+
+		<dc:creator><![CDATA[sumim]]></dc:creator>
+		<pubDate>Sat, 21 Aug 2004 20:18:21 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/08/22/happy-macintosh-developing-time-2nd-editon%ef%bc%88%e6%9c%a8%e4%b8%8b%e8%aa%a0%e3%80%80%e8%91%97%ef%bc%89/#comment-95</guid>
+
+					<description><![CDATA[っていうか、処理系ひとつ書き上げてしまう GNUE さんくらい、オブジェクトの挙動に精通するようになると、この手の入門書は説明が冗長で、かえって読みづらくないですか？(笑)]]></description>
+			<content:encoded><![CDATA[<p>っていうか、処理系ひとつ書き上げてしまう GNUE さんくらい、オブジェクトの挙動に精通するようになると、この手の入門書は説明が冗長で、かえって読みづらくないですか？(笑)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>未分類 &#8211; Newton Gravity</title>
+	<atom:link href="/gravity/category/%E6%9C%AA%E5%88%86%E9%A1%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/gravity</link>
+	<description>Newton の重力に引き寄せられて…</description>
+	<lastBuildDate>Sun, 07 Oct 2007 06:14:06 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/gravity/wp-content/uploads/sites/3/2024/06/cropped-newton-32x32.png</url>
+	<title>未分類 &#8211; Newton Gravity</title>
+	<link>/gravity</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>iWPhone プラグインを導入</title>
+		<link>/gravity/2007/10/07/iwphone-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%82%92%e5%b0%8e%e5%85%a5/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 07 Oct 2007 06:14:06 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">http://newton.so-kukan.com/gravity/2007/10/07/iwphone-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%82%92%e5%b0%8e%e5%85%a5/</guid>
+
+					<description><![CDATA[iWPhone プラグインを導入して、このサイトを iPhone/iPod touch 対応しました。是非、iPhone/iPod touch でも見てみて下さい。]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://iwphone.contentrobot.com/2007/07/04/iwphone-wordpress-plugin-and-theme/">iWPhone</a> プラグインを導入して、このサイトを iPhone/iPod touch 対応しました。是非、iPhone/iPod touch でも見てみて下さい。		</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MP2000のメモリアップグレード</title>
+		<link>/gravity/2007/09/16/mp2000%e3%81%ae%e3%83%a1%e3%83%a2%e3%83%aa%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89/</link>
+					<comments>/gravity/2007/09/16/mp2000%e3%81%ae%e3%83%a1%e3%83%a2%e3%83%aa%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89/#comments</comments>
+		
+		<dc:creator><![CDATA[kojiyamamoto2000]]></dc:creator>
+		<pubDate>Sat, 15 Sep 2007 23:35:25 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">http://newton.so-kukan.com/gravity/2007/09/16/mp2000%e3%81%ae%e3%83%a1%e3%83%a2%e3%83%aa%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89/</guid>
+
+					<description><![CDATA[霜田さんがMP2000のMP2100相当へのメモリアップグレードをしてくださるそうです。まだアップグレードしていないMP2000をお持ちの方、絶好の機会です。 費用は5000円＋往復の送料がかかります。 また、各種のメン [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				霜田さんがMP2000のMP2100相当へのメモリアップグレードをしてくださるそうです。まだアップグレードしていないMP2000をお持ちの方、絶好の機会です。</p>
+<p>費用は5000円＋往復の送料がかかります。<br />
+また、各種のメンテナンス込みなのでお得だと思います。<br />
+以下は霜田さんからのメールの転載です。</p>
+<p>【作業内容】<br />
+・メモリアップグレード<br />
+（512KB×2チップを2MB×2チップへ交換）<br />
+・タッチパネル接点復活<br />
+・スタイラス収納部再調整<br />
+・電源部接点テンション調整、清掃（研磨）<br />
+・外部ハウジング固定ネジ再塗装<br />
+（良く錆びるんです）<br />
+・内部清掃<br />
+・全体構成部品の分解・組み立て、調整</p>
+<p>※注意<br />
+・メモリ関連を分解しますので、内部データやパッチ類は完全に消去されます。<br />
+・2100へアップグレードすることで、定番のエラー10061に遭遇する運命を背負います。<br />
+・希望すれば取り外した512KBチップは返却します。</p>
+<p>お問い合わせ先は<br />
+<a href="mailto:sh&#105;m&#111;-k&#101;&#110;&#064;shi&#109;ok&#101;n&#045;wo&#114;k&#115;.&#099;&#111;&#109;">shimo-ken@shimoken-works.com</a><br />
+になります。ご希望の方お待ちしております。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gravity/2007/09/16/mp2000%e3%81%ae%e3%83%a1%e3%83%a2%e3%83%aa%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WWNC一日目終了</title>
+		<link>/gravity/2007/07/07/wwnc%e4%b8%80%e6%97%a5%e7%9b%ae%e7%b5%82%e4%ba%86/</link>
+		
+		<dc:creator><![CDATA[yaris]]></dc:creator>
+		<pubDate>Sat, 07 Jul 2007 14:43:28 +0000</pubDate>
+				<category><![CDATA[WWNC]]></category>
+		<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">http://newton.so-kukan.com/gravity/2007/07/07/wwnc%e4%b8%80%e6%97%a5%e7%9b%ae%e7%b5%82%e4%ba%86/</guid>
+
+					<description><![CDATA[WWNCの一日目が終わりました。 Newtonを若返らせるテクニックから最新の開発環境、OSXとの接続環境などサプライズの連続というのが今の素直な印象です。今日の最後のサプライズにはさすがにみんな色めき立ってしまいました [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				WWNCの一日目が終わりました。<br />
+Newtonを若返らせるテクニックから最新の開発環境、OSXとの接続環境などサプライズの連続というのが今の素直な印象です。今日の最後のサプライズにはさすがにみんな色めき立ってしまいました。<br />
+明日はどんなサプライズがあるのか！かなり期待しちゃいます。<br />
+レジストしていなくても当日参加OKです。NewtonのDNAがここに活きていることを体験できると思います。<br />
+忘れないうちにちょっとだけメモ</p>
+<ul>
+<ol><a href="http://code.google.com/p/dynee5/wiki/DyneTK">DyneTK</a></ol>
+<ol>
+<a href="http://homepage.mac.com/simonbell/connection/">Newton Connection for Max OS X</a></ol>
+<ol>
+<a href="http://www.ff.iij4u.or.jp/~ngc/jp/newtj.htm">Driver Labo.</a></ol>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>1024人応援団</title>
+		<link>/gravity/2006/04/22/ouen/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 21 Apr 2006 23:41:14 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">http://newton.so-kukan.com/gravity/2006/04/22/ouen/</guid>
+
+					<description><![CDATA[「1024人応援団」で作成してみました。]]></description>
+										<content:encoded><![CDATA[<p>				<a class="imagelink" href="http://newton.so-kukan.com/gravity/files/2006/04/logo1024.jpg" title="logo 1024"><img decoding="async" src="http://newton.so-kukan.com/gravity/files/2006/04/logo1024-150x110.jpg" alt="logo 1024" /></a></p>
+<p><a href="http://www.madin.jp/ouen/" target="_blank" rel="noopener">「1024人応援団」</a>で作成してみました。		</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

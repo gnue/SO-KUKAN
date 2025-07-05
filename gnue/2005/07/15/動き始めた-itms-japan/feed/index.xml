@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	動き始めた iTMS Japan へのコメント	</title>
+	<atom:link href="/gnue/2005/07/15/%E5%8B%95%E3%81%8D%E5%A7%8B%E3%82%81%E3%81%9F-itms-japan/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/07/15/%e5%8b%95%e3%81%8d%e5%a7%8b%e3%82%81%e3%81%9f-itms-japan/</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Jul 2005 00:23:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

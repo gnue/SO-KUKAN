@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>デザイン &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jan 2007 21:51:10 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>カスタムデザイン</title>
+		<link>/gnue/2007/01/25/%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%a0%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 24 Jan 2007 21:51:10 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[vox]]></category>
+		<category><![CDATA[デザイン]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/01/25/%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%a0%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3</guid>
+
+					<description><![CDATA[VOX のカスタムデザインで自分で撮った写真を配してみる。どんなもんでしょ？　それにしてもカスタムデザインで選べる配色って&#8230;&#8230;ちょっとあんまりだよなぁ。もうちょっと何とかならないものか :-{]]></description>
+										<content:encoded><![CDATA[<p>VOX のカスタムデザインで自分で撮った写真を配してみる。どんなもんでしょ？　それにしてもカスタムデザインで選べる配色って&#8230;&#8230;ちょっとあんまりだよなぁ。もうちょっと何とかならないものか :-{</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

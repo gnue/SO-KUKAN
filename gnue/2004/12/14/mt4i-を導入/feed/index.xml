@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	MT4i を導入 へのコメント	</title>
+	<atom:link href="/gnue/2004/12/14/mt4i-%E3%82%92%E5%B0%8E%E5%85%A5/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/12/14/mt4i-%e3%82%92%e5%b0%8e%e5%85%a5/</link>
+	<description></description>
+	<lastBuildDate>Fri, 21 Jan 2005 00:00:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		MT 3.x TestSite より		</title>
+		<link>/gnue/2004/12/14/mt4i-%e3%82%92%e5%b0%8e%e5%85%a5/#comment-198</link>
+
+		<dc:creator><![CDATA[MT 3.x TestSite]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2005 00:00:20 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/12/14/mt4i-%e3%82%92%e5%b0%8e%e5%85%a5/#comment-198</guid>
+
+					<description><![CDATA[&lt;strong&gt;MT4i導入&lt;/strong&gt;
+
+携帯電話からも本サイトが読めるようにMT4i Version 1.8T7を導入し...]]></description>
+			<content:encoded><![CDATA[<p><strong>MT4i導入</strong></p>
+<p>携帯電話からも本サイトが読めるようにMT4i Version 1.8T7を導入し&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

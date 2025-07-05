@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	帰国しました へのコメント	</title>
+	<atom:link href="/gnue/2006/04/01/%E5%B8%B0%E5%9B%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/04/01/%e5%b8%b0%e5%9b%bd%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/</link>
+	<description></description>
+	<lastBuildDate>Fri, 31 Mar 2006 19:24:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

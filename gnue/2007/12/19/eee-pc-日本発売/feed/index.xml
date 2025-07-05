@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Eee PC 日本発売 へのコメント	</title>
+	<atom:link href="/gnue/2007/12/19/eee-pc-%E6%97%A5%E6%9C%AC%E7%99%BA%E5%A3%B2/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2007/12/19/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Dec 2007 07:10:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2007/12/19/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/#comment-824</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 24 Dec 2007 07:10:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/12/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/#comment-824</guid>
+
+					<description><![CDATA[Debianベースの Linux/x86 なので難しい問題があるとは思えません。単に ASUS に Linux の日本語化がわかる人がいないというだけでは。もっともそんなことでは中国語はどうしているのやら。
+
+ちなみに、ASUS のお膝元台湾在住の日本人が既に Eee PC で日本語を使えるようにしています。
+
+
+http://www.potech.tw/archives/2007/10/30-024620.php]]></description>
+			<content:encoded><![CDATA[<p>Debianベースの Linux/x86 なので難しい問題があるとは思えません。単に ASUS に Linux の日本語化がわかる人がいないというだけでは。もっともそんなことでは中国語はどうしているのやら。</p>
+<p>ちなみに、ASUS のお膝元台湾在住の日本人が既に Eee PC で日本語を使えるようにしています。</p>
+<p><a href="http://www.potech.tw/archives/2007/10/30-024620.php" rel="nofollow ugc">http://www.potech.tw/archives/2007/10/30-024620.php</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		さい より		</title>
+		<link>/gnue/2007/12/19/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/#comment-823</link>
+
+		<dc:creator><![CDATA[さい]]></dc:creator>
+		<pubDate>Mon, 24 Dec 2007 05:51:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/12/eee-pc-%e6%97%a5%e6%9c%ac%e7%99%ba%e5%a3%b2/#comment-823</guid>
+
+					<description><![CDATA[同感。
+まったく日本の消費者はなめられてますね。
+Linux版が出ない理由のひとつに、日本語環境準備に時間がかかるというのがあったけど、そんなに大変なんすか？]]></description>
+			<content:encoded><![CDATA[<p>同感。<br />
+まったく日本の消費者はなめられてますね。<br />
+Linux版が出ない理由のひとつに、日本語環境準備に時間がかかるというのがあったけど、そんなに大変なんすか？</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

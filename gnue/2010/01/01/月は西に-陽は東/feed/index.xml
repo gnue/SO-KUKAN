@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	月は西に 陽は東 へのコメント	</title>
+	<atom:link href="/gnue/2010/01/01/%E6%9C%88%E3%81%AF%E8%A5%BF%E3%81%AB-%E9%99%BD%E3%81%AF%E6%9D%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Jan 2010 21:26:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/#comment-898</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2010 21:26:26 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2960#comment-898</guid>
+
+					<description><![CDATA[明けましておめでとう。
+今年もよろしくです :-)]]></description>
+			<content:encoded><![CDATA[<p>明けましておめでとう。<br />
+今年もよろしくです 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		V.J.Catkick より		</title>
+		<link>/gnue/2010/01/01/%e6%9c%88%e3%81%af%e8%a5%bf%e3%81%ab-%e9%99%bd%e3%81%af%e6%9d%b1/#comment-897</link>
+
+		<dc:creator><![CDATA[V.J.Catkick]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2010 01:16:35 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2960#comment-897</guid>
+
+					<description><![CDATA[明けましておめでとうございます。
+今年も宜しくお願いしますざます。]]></description>
+			<content:encoded><![CDATA[<p>明けましておめでとうございます。<br />
+今年も宜しくお願いしますざます。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

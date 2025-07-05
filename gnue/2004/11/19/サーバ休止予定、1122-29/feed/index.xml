@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	サーバ休止予定、11/22-29 へのコメント	</title>
+	<atom:link href="/gnue/2004/11/19/%E3%82%B5%E3%83%BC%E3%83%90%E4%BC%91%E6%AD%A2%E4%BA%88%E5%AE%9A%E3%80%811122-29/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/11/19/%e3%82%b5%e3%83%bc%e3%83%90%e4%bc%91%e6%ad%a2%e4%ba%88%e5%ae%9a%e3%80%811122-29/</link>
+	<description></description>
+	<lastBuildDate>Fri, 19 Nov 2004 02:35:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

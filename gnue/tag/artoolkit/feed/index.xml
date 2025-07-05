@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ARToolkit &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/artoolkit/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Apr 2008 23:41:34 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>ARToolkit で攻殻機動隊</title>
+		<link>/gnue/2008/04/22/artoolkit-%e3%81%a7%e6%94%bb%e6%ae%bb%e6%a9%9f%e5%8b%95%e9%9a%8a/</link>
+					<comments>/gnue/2008/04/22/artoolkit-%e3%81%a7%e6%94%bb%e6%ae%bb%e6%a9%9f%e5%8b%95%e9%9a%8a/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2008 23:41:34 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[ARToolkit]]></category>
+		<category><![CDATA[攻殻機動隊]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1232</guid>
+
+					<description><![CDATA[ちょっと古いネタなのですが、日曜日に友達と話をしていて「そう言えばそういうのがあったなぁ」と MacBook で動くようにしちゃいました。 元ネタのサイトに載っているサンプルコードは Windows用なので Mac用に若 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ちょっと古いネタなのですが、日曜日に友達と話をしていて「そう言えばそういうのがあったなぁ」と MacBook で動くようにしちゃいました。</p>
+<p>元ネタのサイトに載っているサンプルコードは Windows用なので Mac用に若干修正が必要でしたが比較的簡単に動かすことができるようになりました。</p>
+<p>⇒ <a href="http://www1.bbiq.jp/kougaku/ARToolKit.html">「攻殻機動隊」「電脳コイル」の世界を実現！ &#8211; ARToolKitを使った拡張現実感プログラミング</a></p>
+<p><strike>なお、うちの環境だとパターンファイルを作成する mkpatt がうまく動きません（なぜ？？？）<br />
+</strike>（単に使い方を間違えていただけだった(^^;）</p>
+<p>P.S.　ことえりって「攻殻機動隊」が一発変換なのね。いままで普通に変換していて気がつかなかった（笑）</p>
+<p>P.S. 4/23：タチコマとサッチーと管理ドメインを同時表示できるように改造してみた</p>
+<p><a href="http://www.flickr.com/photos/92015120@N00/2435516148/" title="ARToolkit Demo.png by m_nukui, on Flickr"><img decoding="async" src="http://farm3.static.flickr.com/2303/2435516148_83ce029f9e.jpg" width="500" alt="ARToolkit Demo.png" /></a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/04/22/artoolkit-%e3%81%a7%e6%94%bb%e6%ae%bb%e6%a9%9f%e5%8b%95%e9%9a%8a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

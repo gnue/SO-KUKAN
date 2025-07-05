@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>自宅サーバ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E8%87%AA%E5%AE%85%E3%82%B5%E3%83%BC%E3%83%90/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 02 Jan 2008 12:06:16 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>A Happy New Year! 2008</title>
+		<link>/gnue/2008/01/02/a-happy-new-year-2008/</link>
+					<comments>/gnue/2008/01/02/a-happy-new-year-2008/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2008 12:06:16 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[自宅サーバ]]></category>
+		<category><![CDATA[謹賀新年]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/a-happy-new-year-2008/</guid>
+
+					<description><![CDATA[あけましておめでとうございます 🙂 新年早々サーバ等のメンテナンスをやっています。いま自宅サーバは暫定で Mac mini(Core 2 Duo) になっていますがちゃんと見えているでしょうか。 前にサーバ環境をつくった [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				あけましておめでとうございます <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>新年早々サーバ等のメンテナンスをやっています。いま自宅サーバは暫定で Mac mini(Core 2 Duo) になっていますがちゃんと見えているでしょうか。</p>
+<p>前にサーバ環境をつくったときのことをすっかり忘れているのと、Leopard でかなり環境が変わってしまったので大変。なお、時間がないので Movable Type は動くようにしてありません。</p>
+<p>それと iBook G4(800MHz) も Leopard(*1) にしました。対象機種ではないのだけどインターネットで検索したらやり方が載ってました。</p>
+<p>あとは古い Mac mini(PPC) に Leopard を入れて自宅サーバ（外用）に復帰すればとりあえずは一段落します。はぁ、年末年始をマシンメンテで終わってしまいそう。なんてこった(^^;</p>
+<p>さてさて、それでは今年もよろしくお願いいたいます。</p>
+<p>*1) ファミリーパックを購入してある		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/02/a-happy-new-year-2008/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

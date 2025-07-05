@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	W-SIM いろいろ へのコメント	</title>
+	<atom:link href="/gnue/2008/04/27/w-sim-%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2008/04/27/w-sim-%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/</link>
+	<description></description>
+	<lastBuildDate>Mon, 28 Apr 2008 13:32:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2008/04/27/w-sim-%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/#comment-831</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2008 13:32:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1239#comment-831</guid>
+
+					<description><![CDATA[iPod touch のやつは Jailbreak したやつなんですよね(^^;
+正式な 2.0ファームおよび SDK でも使えるといいのですが。
+ただ、iPod touch のコネクタから普通にシリアルが出てることがわかったので可能性はありますね。
+
+定額データ通信でイー・モバイル（みんな EMONSTER + WMWifiRouter に走ってるし）にもってかれている Willcom ですが、来年 次世代PHS が登場すれば速度的に対抗できるようになるし期待してます。]]></description>
+			<content:encoded><![CDATA[<p>iPod touch のやつは Jailbreak したやつなんですよね(^^;<br />
+正式な 2.0ファームおよび SDK でも使えるといいのですが。<br />
+ただ、iPod touch のコネクタから普通にシリアルが出てることがわかったので可能性はありますね。</p>
+<p>定額データ通信でイー・モバイル（みんな EMONSTER + WMWifiRouter に走ってるし）にもってかれている Willcom ですが、来年 次世代PHS が登場すれば速度的に対抗できるようになるし期待してます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2008/04/27/w-sim-%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/#comment-832</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Sun, 27 Apr 2008 11:37:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1239#comment-832</guid>
+
+					<description><![CDATA[「 iPod touch に W-SIM を接続してみた」は面白いですね。
+ていうか、どこかが商品化しないかな。とても便利だと思うのですが。
+これでこそW-SIMがのっかっている意義があると言うもの。]]></description>
+			<content:encoded><![CDATA[<p>「 iPod touch に W-SIM を接続してみた」は面白いですね。<br />
+ていうか、どこかが商品化しないかな。とても便利だと思うのですが。<br />
+これでこそW-SIMがのっかっている意義があると言うもの。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

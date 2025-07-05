@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Time Capsule &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/time-capsule/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Jan 2008 13:09:26 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>タイム母艦</title>
+		<link>/gnue/2008/01/17/%e3%82%bf%e3%82%a4%e3%83%a0%e6%af%8d%e8%89%a6/</link>
+					<comments>/gnue/2008/01/17/%e3%82%bf%e3%82%a4%e3%83%a0%e6%af%8d%e8%89%a6/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2008 13:09:26 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/%e3%82%bf%e3%82%a4%e3%83%a0%e6%af%8d%e8%89%a6/</guid>
+
+					<description><![CDATA[うーむ、去年販売されてたら絶対に買ったんだけどなぁ。 ところで、いいぬまさんとこの ML でこんなのを教えてもらいました。AirMac Disk でも普通の NAS でも Time Machine のバックアップボリュー [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://click.linksynergy.com/fs-bin/click?id=Vt9b3v2rOOs&amp;offerid=102056.10000527&amp;type=2&amp;subid=0"><img decoding="async" border="0" src="http://a248.e.akamai.net/7/248/2041/2939/store.apple.com/Catalog/Japan/Images/timecapsule_125_080115.jpg"></a><img decoding="async" border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=Vt9b3v2rOOs&amp;bids=102056.10000527&amp;type=2&amp;subid=0"></p>
+<p>うーむ、去年販売されてたら絶対に買ったんだけどなぁ。</p>
+<p>ところで、いいぬまさんとこの ML で<a href="http://www.xiotios.com/itimemachine.html">こんなの</a>を教えてもらいました。AirMac Disk でも普通の NAS でも Time Machine のバックアップボリュームとして使えるので非常に便利 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/17/%e3%82%bf%e3%82%a4%e3%83%a0%e6%af%8d%e8%89%a6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

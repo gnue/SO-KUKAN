@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sony &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/sony/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 Nov 2006 01:26:00 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>mylo のお値段は 39,800円</title>
+		<link>/gnue/2006/11/29/mylo-%e3%81%ae%e3%81%8a%e5%80%a4%e6%ae%b5%e3%81%af-39800%e5%86%86/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 29 Nov 2006 01:26:00 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[mylo]]></category>
+		<category><![CDATA[sony]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/11/29/mylo-%e3%81%ae%e3%81%8a%e5%80%a4%e6%ae%b5%e3%81%af-39800%e5%86%86</guid>
+
+					<description><![CDATA[mylo の発売日とお値段が決まったそうです。12/12 発売の 39,800円。 当初の発表よりも安くなりましたね。まぁ、まぁいい値段になったと思います。ただ、PS3 の発売前プライスダウンと同じで SONY の価格設 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>mylo の発売日とお値段が決まったそうです。12/12 発売の 39,800円。</p>
+<p>当初の発表よりも安くなりましたね。まぁ、まぁいい値段になったと思います。ただ、PS3 の発売前プライスダウンと同じで SONY の価格設定が甘さを露呈しているようであまりいい傾向とは言えませんね。</p>
+<p>⇒ <a href="http://blog.so-net.ne.jp/mylo/2006-11-29">“mylo”に新色が仲間入り！</a>（日刊 “mylo”）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SONY mylo の国内発売</title>
+		<link>/gnue/2006/10/18/sony-mylo-%e3%81%ae%e5%9b%bd%e5%86%85%e7%99%ba%e5%a3%b2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2006 14:38:41 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[mylo]]></category>
+		<category><![CDATA[sony]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/10/18/sony-mylo-%e3%81%ae%e5%9b%bd%e5%86%85%e7%99%ba%e5%a3%b2</guid>
+
+					<description><![CDATA[SONY mylo の国内発売が発表されましたね。 予約販売１２月中旬、お届け予定日２月上旬だそうです。なんか微妙なタイムラグ。この辺 SONY の発表方法はいまいちかな。Apple だったら１２月発表にして「今日から予 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>SONY mylo の国内発売が発表されましたね。</p>
+<p>予約販売１２月中旬、お届け予定日２月上旬だそうです。なんか微妙なタイムラグ。この辺 SONY の発表方法はいまいちかな。Apple だったら１２月発表にして「今日から予約開始、お届けは２月」とかにしちゃうんだろうな。</p>
+<p>中身は Linux なわけだしソフトがつくれると面白いのだけど。ま、SONY が公開しなくてもすぐに誰かがハックしちゃうんだろうけどね。ここは太っ腹なところを見せて SDK とか公開して欲しいものだ。</p>
+<p>そうそう。mylo って「パーソナルコミュニケータ」という名称を冠しているんだね。もう覚えている人は少ないだろうけど SONY の MagicLink が PIC(Personal Intelligent Communicator) という名前だった。Intelligent はなくなったけど Internet につながるのでやはり PIC(Personal Internet Communicator) と呼んでいるサイトもあるみたい。これは偶然の一致か、それとも&#8230;</p>
+<p>⇒ <a href="http://www.jp.sonystyle.com/Company/Press/061018.html">mylo</a> (SONY)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

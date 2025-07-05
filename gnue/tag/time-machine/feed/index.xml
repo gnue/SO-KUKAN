@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Time Machine &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/time-machine/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 22 Jun 2009 19:03:33 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Time Machine のバックアップイメージが壊れた</title>
+		<link>/gnue/2009/06/23/time-machine-%e3%81%ae%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8%e3%81%8c%e5%a3%8a%e3%82%8c%e3%81%9f/</link>
+					<comments>/gnue/2009/06/23/time-machine-%e3%81%ae%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8%e3%81%8c%e5%a3%8a%e3%82%8c%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2009 19:03:33 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2663</guid>
+
+					<description><![CDATA[や、やられた。いつまでたっても Time Machine のバックアップが終わらない（そもそもプログレスバーが全然すすまない）と思ったらバックアップイメージが壊れてた。しょうがないので壊れたバックアップイメージは削除して [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				や、やられた。いつまでたっても Time Machine のバックアップが終わらない（そもそもプログレスバーが全然すすまない）と思ったらバックアップイメージが壊れてた。しょうがないので壊れたバックアップイメージは削除して再度新しくバックアップを行う。ん時間コースだ <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>こういうことがあるから Time Machine は完全に信じることができないだよなぁ。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/23/time-machine-%e3%81%ae%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8%e3%81%8c%e5%a3%8a%e3%82%8c%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AirDisk と Time Machine</title>
+		<link>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/</link>
+					<comments>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2008 06:44:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[AirDisk]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1222</guid>
+
+					<description><![CDATA[ソフトウェアアップデートによって AirMac Extremeベースステーションに接続した HDD にも Time Machine のバックアップができるようになったというのでさっそく試してみました。 最初どうやっても  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ソフトウェアアップデートによって AirMac Extremeベースステーションに接続した HDD にも Time Machine のバックアップができるようになったというのでさっそく試してみました。</p>
+<p>最初どうやっても Time Machine の「ディスクを変更&#8230;」のリストに表示されずなんでだろうと悩んでしまいましたが、どうやら AirMac の「共有ディスクのセキュリティ保護」を『アカウント』にしていたのがいけなかったようです。設定を『ディスクパスワード』または『AirMac Extremeパスワード』に変更したらリストに表示されるようになりました。</p>
+<p>というわけで、しばらくはこの状態で Time Machine を使おうかと思います。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>タイム母艦</title>
+		<link>/gnue/2008/01/17/%e3%82%bf%e3%82%a4%e3%83%a0%e6%af%8d%e8%89%a6/</link>
+					<comments>/gnue/2008/01/17/%e3%82%bf%e3%82%a4%e3%83%a0%e6%af%8d%e8%89%a6/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2008 13:09:26 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/%e3%82%bf%e3%82%a4%e3%83%a0%e6%af%8d%e8%89%a6/</guid>
+
+					<description><![CDATA[うーむ、去年販売されてたら絶対に買ったんだけどなぁ。 ところで、いいぬまさんとこの ML でこんなのを教えてもらいました。AirMac Disk でも普通の NAS でも Time Machine のバックアップボリュー [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://click.linksynergy.com/fs-bin/click?id=Vt9b3v2rOOs&amp;offerid=102056.10000527&amp;type=2&amp;subid=0"><img decoding="async" border="0" src="http://a248.e.akamai.net/7/248/2041/2939/store.apple.com/Catalog/Japan/Images/timecapsule_125_080115.jpg"></a><img decoding="async" border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=Vt9b3v2rOOs&amp;bids=102056.10000527&amp;type=2&amp;subid=0"></p>
+<p>うーむ、去年販売されてたら絶対に買ったんだけどなぁ。</p>
+<p>ところで、いいぬまさんとこの ML で<a href="http://www.xiotios.com/itimemachine.html">こんなの</a>を教えてもらいました。AirMac Disk でも普通の NAS でも Time Machine のバックアップボリュームとして使えるので非常に便利 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/17/%e3%82%bf%e3%82%a4%e3%83%a0%e6%af%8d%e8%89%a6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>タイムマシンにお願い</title>
+		<link>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/</link>
+					<comments>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 04 Nov 2007 10:08:16 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Leopard]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/11/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/</guid>
+
+					<description><![CDATA[Leopard の売りのひとつ Time Machine 機能、出てみたら AirMacDisk に非対応になったので非常にがっかりしてたけど追打ちをかけるように FileVault とも相性が悪いことがわかった。Fil [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Leopard の売りのひとつ Time Machine 機能、出てみたら AirMacDisk に非対応になったので非常にがっかりしてたけど追打ちをかけるように FileVault とも相性が悪いことがわかった。FileVault を ON にしているとホームディレクトリ単位でしか遡れないのである。嬉しくねぇ :-{</p>
+<p>FileVault を使わないのがいいのだろうけど、いまの MacBook は３度も修理に出したトラウマがあるのでサービスセンターの人にホームディレクトリを見られたくないし（個人情報＆仕事のファイルがある）そういうわけにはいかないんだよなぁ。</p>
+<p>FileVault のマスターパスワードを変更していない場合は自動的にイメージディスクをマウントしてファイル単位で遡れるようにしてもらいたものである。</p>
+<p>それと、やはり MacBook ユーザとしては外付けHDDをいちいち繋げるのはわずらわしい。なんとかネットワーク経由（AirMacDisk or NAS）で Time Machine を動かせるようにして欲しい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/11/04/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9e%e3%82%b7%e3%83%b3%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

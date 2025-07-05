@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MobileMe &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/mobileme/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Jul 2009 01:32:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>MobileMe トラブってる？</title>
+		<link>/gnue/2009/07/26/mobileme-%e3%83%88%e3%83%a9%e3%83%96%e3%81%a3%e3%81%a6%e3%82%8b%ef%bc%9f/</link>
+					<comments>/gnue/2009/07/26/mobileme-%e3%83%88%e3%83%a9%e3%83%96%e3%81%a3%e3%81%a6%e3%82%8b%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 26 Jul 2009 01:32:02 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MobileMe]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2739</guid>
+
+					<description><![CDATA[一昨日は MobileMe のカレンダーが表示できないで以下のメッセージが表示された。 カレンダーをロードすることができません。 インフォメーションをサーバからロードできませんでした。ページを再ロードしてください。 もし [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				一昨日は MobileMe のカレンダーが表示できないで以下のメッセージが表示された。</p>
+<blockquote><p>カレンダーをロードすることができません。<br />
+インフォメーションをサーバからロードできませんでした。ページを再ロードしてください。<br />
+もし引き続き問題が発生する場合には「MobileMeサポート」へお問合せください。
+</p></blockquote>
+<p>昨日は一時的に表示だけはできていたのだけれど、データの同期がまったくできなくなってた。同期データをリセットしても、同期を一旦登録解除をしてから再登録して MacBook のデータで上書きしても全然 MobileMe に反映されない。反映されないので当然 iPhone/iPod touch との同期もできない。</p>
+<p>今日ふたたび MobileMe にアクセスしてみたら、また一昨日の状態（カレンダーが表示されない）になってるしぃ。いったいどうなってるんだか。</p>
+<p>昨日時点での MobileMeサポートからのメールによると</p>
+<blockquote><p>平素より、MobileMeをご利用頂きまして、誠にありがとうございます。<br />
+カレンダーデータがローディングされない件につきまして、<br />
+他のご契約者様からも報告を受け、現在USのMobileMeエンジニアにて<br />
+調査を行っている状態でございます。</p>
+<p>（中略）</p>
+<p>上記にて改善されない場合、<br />
+やはり調査中のトラブルに該当されます為<br />
+ご不便をおかけいたしますが<br />
+サーバ側の調整をお待ち下さいますよう<br />
+何卒よろしくお願い致します。
+</p></blockquote>
+<p>うーん、気がついたのが一昨日だけど実際に同期がうまくいってないのは３日前からだから結構長いトラブルだよなぁ。まだ解決しないんだろうか。</p>
+<p>MobileMe は iPhone との同期のためだけに約１万円／年支払っているので、これがちゃんと使えないとなると悲し過ぎる。</p>
+<p>追記 7/27：19:00 現在復旧せず「カレンダーがロードすることができません。」<br />
+追記 7/28：12:20 現在復旧してる		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/07/26/mobileme-%e3%83%88%e3%83%a9%e3%83%96%e3%81%a3%e3%81%a6%e3%82%8b%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

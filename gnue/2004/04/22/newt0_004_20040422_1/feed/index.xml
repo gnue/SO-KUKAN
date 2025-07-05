@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	newt0_0.0.4_20040422_1 へのコメント	</title>
+	<atom:link href="/gnue/2004/04/22/newt0_004_20040422_1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/04/22/newt0_004_20040422_1/</link>
+	<description></description>
+	<lastBuildDate>Thu, 06 May 2004 11:56:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/04/22/newt0_004_20040422_1/#comment-47</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Thu, 06 May 2004 11:56:20 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/04/22/newt0_004_20040422_1/#comment-47</guid>
+
+					<description><![CDATA[BeOSはUTF-8なのに何故わざわさEUCで送っているんでしょう。謎です。
+BeOSでのmakeは多少使えないものがあるのですが一般的なものであれば大丈夫です。rubyはmake出来ますのでrubyで使っているものなら大丈夫です。net系は多少難有りですが。
+やはりBeで使えた方がいいのでソースが公開されるのを待とうと思います。]]></description>
+			<content:encoded><![CDATA[<p>BeOSはUTF-8なのに何故わざわさEUCで送っているんでしょう。謎です。<br />
+BeOSでのmakeは多少使えないものがあるのですが一般的なものであれば大丈夫です。rubyはmake出来ますのでrubyで使っているものなら大丈夫です。net系は多少難有りですが。<br />
+やはりBeで使えた方がいいのでソースが公開されるのを待とうと思います。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2004/04/22/newt0_004_20040422_1/#comment-46</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 05 May 2004 17:10:57 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/04/22/newt0_004_20040422_1/#comment-46</guid>
+
+					<description><![CDATA[ソースコードに関しては６月に入ったらまとまった時間がとれるようになるのでコードの整理とコメント付けをして、まだかなり不満足な状態ですがとりあえず公開してしまおうかと考えています。たぶん６末か７頭頃になります。そのときは BeOS でも動かせるようになるといいですね :)
+
+ただ、ソースコードを一度公開すると後戻りできないのでライセンス内容をどうするかが難問です。]]></description>
+			<content:encoded><![CDATA[<p>ソースコードに関しては６月に入ったらまとまった時間がとれるようになるのでコードの整理とコメント付けをして、まだかなり不満足な状態ですがとりあえず公開してしまおうかと考えています。たぶん６末か７頭頃になります。そのときは BeOS でも動かせるようになるといいですね 🙂</p>
+<p>ただ、ソースコードを一度公開すると後戻りできないのでライセンス内容をどうするかが難問です。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2004/04/22/newt0_004_20040422_1/#comment-45</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 05 May 2004 17:00:05 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/04/22/newt0_004_20040422_1/#comment-45</guid>
+
+					<description><![CDATA[今度は文字化け大丈夫です。前のコメントは EUC で保存されていました。Movable Type の設定は UTF-8 なので UTF-8 なら問題ないはずなのですが不思議ですね。
+
+それにしても BeOS ですか。WEB のアクセス解析で BeOS が Mac, Win についで３番目（Linux よりぜんぜん上）だったのでいったい誰が見ているのかなと疑問に思っていたのですがこれで氷解しました :)]]></description>
+			<content:encoded><![CDATA[<p>今度は文字化け大丈夫です。前のコメントは EUC で保存されていました。Movable Type の設定は UTF-8 なので UTF-8 なら問題ないはずなのですが不思議ですね。</p>
+<p>それにしても BeOS ですか。WEB のアクセス解析で BeOS が Mac, Win についで３番目（Linux よりぜんぜん上）だったのでいったい誰が見ているのかなと疑問に思っていたのですがこれで氷解しました 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/04/22/newt0_004_20040422_1/#comment-44</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Wed, 05 May 2004 03:47:22 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/04/22/newt0_004_20040422_1/#comment-44</guid>
+
+					<description><![CDATA[文字化けしていたようでご迷惑をおかけしました。
+BeOSなのでutf8で送っちゃっているのかなぁ。
+他のサイトでも同じことがあったのですが。
+今回はMozillaを使ってみたのですがどうでしょうか。
+
+.DS_Storeは了解しました。
+0505のサンプル、さっそく動かしてみました。
+-bや-lで見るとかなり出来ているのではないかと感心
+してしまいます。ソースの公開が待ち遠しいですねぇ。]]></description>
+			<content:encoded><![CDATA[<p>文字化けしていたようでご迷惑をおかけしました。<br />
+BeOSなのでutf8で送っちゃっているのかなぁ。<br />
+他のサイトでも同じことがあったのですが。<br />
+今回はMozillaを使ってみたのですがどうでしょうか。</p>
+<p>.DS_Storeは了解しました。<br />
+0505のサンプル、さっそく動かしてみました。<br />
+-bや-lで見るとかなり出来ているのではないかと感心<br />
+してしまいます。ソースの公開が待ち遠しいですねぇ。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2004/04/22/newt0_004_20040422_1/#comment-43</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 04 May 2004 23:45:12 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/04/22/newt0_004_20040422_1/#comment-43</guid>
+
+					<description><![CDATA[.DS_Store　は Mac OS X の Finder が勝手につくる管理ファイルなので必要ありません。これからはなるべく削除してアーカイブするようにしますが今後も消し忘れがあるかもしれません。newt0_0.0.4_20040505_1　で簡単なサンプルスクリプトをつけました。]]></description>
+			<content:encoded><![CDATA[<p>.DS_Store　は Mac OS X の Finder が勝手につくる管理ファイルなので必要ありません。これからはなるべく削除してアーカイブするようにしますが今後も消し忘れがあるかもしれません。newt0_0.0.4_20040505_1　で簡単なサンプルスクリプトをつけました。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2004/04/22/newt0_004_20040422_1/#comment-42</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 04 May 2004 23:40:57 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/04/22/newt0_004_20040422_1/#comment-42</guid>
+
+					<description><![CDATA[文字コードと使っているブラウザとの相性のためと思いますがコメントが文字化けしていたので修正しておきました。]]></description>
+			<content:encoded><![CDATA[<p>文字コードと使っているブラウザとの相性のためと思いますがコメントが文字化けしていたので修正しておきました。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/04/22/newt0_004_20040422_1/#comment-41</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Fri, 23 Apr 2004 05:29:57 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/04/22/newt0_004_20040422_1/#comment-41</guid>
+
+					<description><![CDATA[Linux版をインストールしてみたのですが動作確認をするようなScriptを書けません。
+幾つかサンプルScriptも添付してもらえないでしょうか。
+
+.DS_Storeというファイルは必要なものですか。]]></description>
+			<content:encoded><![CDATA[<p>Linux版をインストールしてみたのですが動作確認をするようなScriptを書けません。<br />
+幾つかサンプルScriptも添付してもらえないでしょうか。</p>
+<p>.DS_Storeというファイルは必要なものですか。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

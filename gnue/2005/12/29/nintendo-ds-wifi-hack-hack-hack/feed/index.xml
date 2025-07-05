@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Nintendo DS WiFi: Hack, Hack, Hack へのコメント	</title>
+	<atom:link href="/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Jan 2006 10:45:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-630</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Mon, 02 Jan 2006 10:45:52 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-630</guid>
+
+					<description><![CDATA[Mac OS X で動く NDS用の開発環境をダウンロードしたのですが、GBA 用の環境も入ってました。
+SourceForge より devkitARM の osx というやつをダウンロードしてインストールすればＯＫです。
+
+http://sourceforge.net/projects/devkitpro/
+
+問題は GBA のフラッシュカセットを焼く環境や、DS に WiFi でプログラムを飛ばすドライバがあるかですね。最悪、プログラム転送だけ Windows 環境でやるしかないのかな。]]></description>
+			<content:encoded><![CDATA[<p>Mac OS X で動く NDS用の開発環境をダウンロードしたのですが、GBA 用の環境も入ってました。<br />
+SourceForge より devkitARM の osx というやつをダウンロードしてインストールすればＯＫです。</p>
+<p><a href="http://sourceforge.net/projects/devkitpro/" rel="nofollow ugc">http://sourceforge.net/projects/devkitpro/</a></p>
+<p>問題は GBA のフラッシュカセットを焼く環境や、DS に WiFi でプログラムを飛ばすドライバがあるかですね。最悪、プログラム転送だけ Windows 環境でやるしかないのかな。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-629</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Mon, 02 Jan 2006 07:11:05 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-629</guid>
+
+					<description><![CDATA[あ、すみません。ミスです。「Mac用にADVANCEの開発環境あるのかな」という話でした。新年早々一発目やってしまいました(^^;。
+まあ、今のところはプレイヤンでのビデオコンテンツの持ち運びとか、「大人の……」とか用ですね。
+話は違いますが、先日やっとのことでObjective-Cの本を入手。発売時より高かった（w。もうずいぶんちゃんとしたプログラムを作ってないので、今年はもう少しプログラミングに時間を作れればいいなと思ってます。]]></description>
+			<content:encoded><![CDATA[<p>あ、すみません。ミスです。「Mac用にADVANCEの開発環境あるのかな」という話でした。新年早々一発目やってしまいました(^^;。<br />
+まあ、今のところはプレイヤンでのビデオコンテンツの持ち運びとか、「大人の……」とか用ですね。<br />
+話は違いますが、先日やっとのことでObjective-Cの本を入手。発売時より高かった（w。もうずいぶんちゃんとしたプログラムを作ってないので、今年はもう少しプログラミングに時間を作れればいいなと思ってます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-628</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Mon, 02 Jan 2006 00:41:21 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-628</guid>
+
+					<description><![CDATA[山本さん、宝くじですかいいですねぇ(^^)
+
+Newton用開発環境って Linux で Newton の pkg を作成できるかってことですか。うーん、いまのところないと思います。
+
+ところで DS などで最近流行っているゲームをみていると、PS2 や次世代ゲーム機の開発費ん億という大作ゲームって何なんだろうという気になります。]]></description>
+			<content:encoded><![CDATA[<p>山本さん、宝くじですかいいですねぇ(^^)</p>
+<p>Newton用開発環境って Linux で Newton の pkg を作成できるかってことですか。うーん、いまのところないと思います。</p>
+<p>ところで DS などで最近流行っているゲームをみていると、PS2 や次世代ゲーム機の開発費ん億という大作ゲームって何なんだろうという気になります。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		さい より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-627</link>
+
+		<dc:creator><![CDATA[さい]]></dc:creator>
+		<pubDate>Sun, 01 Jan 2006 12:19:07 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-627</guid>
+
+					<description><![CDATA[山本さん、最近景気いいっすねー（笑。あのゲームの人気すごさは今日会った叔母（60？）も持ってるのを聞いてわかりましたね。
+同じくタブレット持ってないんですがInkwell使ってみたいんですよ。山本さん持ってましたよね？　どんなもんすか？
+PBXXXもできてないんですが、最近タブレットMacの自作もちょっと考察してます。ずばり10.4TFTなら絶対できますね。]]></description>
+			<content:encoded><![CDATA[<p>山本さん、最近景気いいっすねー（笑。あのゲームの人気すごさは今日会った叔母（60？）も持ってるのを聞いてわかりましたね。<br />
+同じくタブレット持ってないんですがInkwell使ってみたいんですよ。山本さん持ってましたよね？　どんなもんすか？<br />
+PBXXXもできてないんですが、最近タブレットMacの自作もちょっと考察してます。ずばり10.4TFTなら絶対できますね。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		山本浩二 より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-626</link>
+
+		<dc:creator><![CDATA[山本浩二]]></dc:creator>
+		<pubDate>Sun, 01 Jan 2006 11:25:52 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-626</guid>
+
+					<description><![CDATA[宝くじが１万円当たったので、買いました。NINTENDO DS。グラファイトブラック（？）。
+娘用に購入したGAMEBOY ADVANCEの画質のよさに驚き、「脳を鍛える大人のDSトレーニング」が欲しくなり、嫁と一台ずつ購入。なかなかなもんです。
+ADVANCE用にLINUXで開発環境があるのは知ってましたが、Newton用ってあるんでしょうか？]]></description>
+			<content:encoded><![CDATA[<p>宝くじが１万円当たったので、買いました。NINTENDO DS。グラファイトブラック（？）。<br />
+娘用に購入したGAMEBOY ADVANCEの画質のよさに驚き、「脳を鍛える大人のDSトレーニング」が欲しくなり、嫁と一台ずつ購入。なかなかなもんです。<br />
+ADVANCE用にLINUXで開発環境があるのは知ってましたが、Newton用ってあるんでしょうか？</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-625</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Sun, 01 Jan 2006 03:44:45 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-625</guid>
+
+					<description><![CDATA[確かに Decuma も枠有りですね。
+Newton の技術は一部は Mac OS X の Inkwell に名残りをとどめているけど、タブレット持ってないので使ったことがありません(^^;]]></description>
+			<content:encoded><![CDATA[<p>確かに Decuma も枠有りですね。<br />
+Newton の技術は一部は Mac OS X の Inkwell に名残りをとどめているけど、タブレット持ってないので使ったことがありません(^^;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		さい より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-624</link>
+
+		<dc:creator><![CDATA[さい]]></dc:creator>
+		<pubDate>Fri, 30 Dec 2005 13:40:34 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-624</guid>
+
+					<description><![CDATA[Decumaのことググリましたが、ますますNewtonの手書き入力は素晴らしいんだなと思いましたね。入力エリア関係なく書けるわけですから、より紙に近いですよね。
+Newtonのライセンスこそどっかが買ってもよさそうですが。
+ポールとみんなで買いたいですがねー。]]></description>
+			<content:encoded><![CDATA[<p>Decumaのことググリましたが、ますますNewtonの手書き入力は素晴らしいんだなと思いましたね。入力エリア関係なく書けるわけですから、より紙に近いですよね。<br />
+Newtonのライセンスこそどっかが買ってもよさそうですが。<br />
+ポールとみんなで買いたいですがねー。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-623</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 30 Dec 2005 00:31:31 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-623</guid>
+
+					<description><![CDATA[どこかのブログ（Engadget ?）でも書かれてましたが、あれでもうちょっと大人向けのデザインだったらよかったのですが。
+任天堂がライセンスを受けたという Decuma を搭載した DS を大人向けのスマートなデザインで出して欲しいものです。
+ちなみに DS の頭脳は　MessagePad ２台分（ARM9 + ARM7）なんですよね（笑）]]></description>
+			<content:encoded><![CDATA[<p>どこかのブログ（Engadget ?）でも書かれてましたが、あれでもうちょっと大人向けのデザインだったらよかったのですが。<br />
+任天堂がライセンスを受けたという Decuma を搭載した DS を大人向けのスマートなデザインで出して欲しいものです。<br />
+ちなみに DS の頭脳は　MessagePad ２台分（ARM9 + ARM7）なんですよね（笑）</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		さい より		</title>
+		<link>/gnue/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-622</link>
+
+		<dc:creator><![CDATA[さい]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2005 14:21:57 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/29/nintendo-ds-wifi-hack-hack-hack/#comment-622</guid>
+
+					<description><![CDATA[僕もゲームはやんないですが、いいすよねDS。
+CMで菜々子さんが縦位置で使ってるのみて、PDAとして良さそうな形してんなーと思いました。
+そしてNewtonのんねーかーと。のんないですね。
+あとEinsteinのLinux Zaulus版が気になります。]]></description>
+			<content:encoded><![CDATA[<p>僕もゲームはやんないですが、いいすよねDS。<br />
+CMで菜々子さんが縦位置で使ってるのみて、PDAとして良さそうな形してんなーと思いました。<br />
+そしてNewtonのんねーかーと。のんないですね。<br />
+あとEinsteinのLinux Zaulus版が気になります。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

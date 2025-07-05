@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	QotD: このメロディーが へのコメント	</title>
+	<atom:link href="/gnue/2006/09/01/qotd-%E3%81%93%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC%E3%81%8C/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c/</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Sep 2006 09:32:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c/#comment-767</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2006 09:32:00 +0000</pubDate>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c#comment-767</guid>
+
+					<description><![CDATA[CHEEBOWさん、こんにちは。古い曲ばかり聞いてます(^^;]]></description>
+			<content:encoded><![CDATA[<p>CHEEBOWさん、こんにちは。古い曲ばかり聞いてます(^^;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		CHEEBOW より		</title>
+		<link>/gnue/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c/#comment-766</link>
+
+		<dc:creator><![CDATA[CHEEBOW]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2006 08:58:00 +0000</pubDate>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/09/01/qotd-%e3%81%93%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%8c#comment-766</guid>
+
+					<description><![CDATA[うわー、懐かしい。好きですよー。「てんぷらサンライズ」。]]></description>
+			<content:encoded><![CDATA[<p>うわー、懐かしい。好きですよー。「てんぷらサンライズ」。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

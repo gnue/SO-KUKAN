@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	OSS開発支援プロジェクト「OSCJ.net」発足 へのコメント	</title>
+	<atom:link href="/gnue/2005/04/17/oss%E9%96%8B%E7%99%BA%E6%94%AF%E6%8F%B4%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%80%8Coscjnet%E3%80%8D%E7%99%BA%E8%B6%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/04/17/oss%e9%96%8b%e7%99%ba%e6%94%af%e6%8f%b4%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%80%8coscjnet%e3%80%8d%e7%99%ba%e8%b6%b3/</link>
+	<description></description>
+	<lastBuildDate>Sun, 17 Apr 2005 13:30:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

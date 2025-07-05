@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>待受け &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E5%BE%85%E5%8F%97%E3%81%91/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Apr 2007 05:16:53 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>N800 の待受け時間</title>
+		<link>/gnue/2007/04/09/n800-%e3%81%ae%e5%be%85%e5%8f%97%e3%81%91%e6%99%82%e9%96%93-2/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 09 Apr 2007 05:16:53 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[N800]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[待受け]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/09/n800-%e3%81%ae%e5%be%85%e5%8f%97%e3%81%91%e6%99%82%e9%96%93</guid>
+
+					<description><![CDATA[N800 はフル充電の状態だと『When idle: 10 days, When in use: 7 hours』とか表示されるのだけど、通常の使い方だと無線LAN に接続しっぱなしになるので 10 days というのは [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>N800 はフル充電の状態だと『When idle: 10 days, When in use: 7 hours』とか表示されるのだけど、通常の使い方だと無線LAN に接続しっぱなしになるので 10 days というのはまずないよね。idle というのは無線LAN も Bluetoothも OFF にした状態での idle なのだろうけど、 それだと実際の使い方に即した情報ではないので実際に使う場合の目安にならない。</p>
+<div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>ということで実際に無線LAN を ON にしたままの状態（待受け？）でどれだけ持つのか試してみた。条件は以下の通り。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<ul>
+<li>無線LAN　…　ON（自宅の無線LANルータに常時接続）</li>
+<li>Bluetooth　…　ON(invisible)</li>
+<li>E-mail　…　15分間隔で POP からヘッダ情報のみ受信（２アカウント）</li>
+<li>Presence　…　ON</li>
+</ul>
+<div><br class="khtml-block-placeholder" /></div>
+<div>さて計測結果としては 14時間54分持ちました。Mac で見たメールを N800 でも消そうとしたところでパワーが落ちちゃいました。何もしなければあと６分ぐらいもったかも。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>ということでだいたいの目安としては無線LAN ON の待受け状態で<strong><span style="font-size:1.5625em">約１５時間</span></strong>って感じでしょうか。</p>
+<p>ただしこれは常に無線LANに接続している状態での計測なので、実際に持ち運ぶ場合は公衆無線LANのスキャンが随時発生するのでそのコスト（消費電力）がどの程度影響するかはわかりません。</div>
+<div><br class="khtml-block-placeholder" /></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

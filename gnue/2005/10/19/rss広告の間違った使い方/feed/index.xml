@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	RSS広告の間違った使い方 へのコメント	</title>
+	<atom:link href="/gnue/2005/10/19/rss%E5%BA%83%E5%91%8A%E3%81%AE%E9%96%93%E9%81%95%E3%81%A3%E3%81%9F%E4%BD%BF%E3%81%84%E6%96%B9/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/10/19/rss%e5%ba%83%e5%91%8a%e3%81%ae%e9%96%93%e9%81%95%e3%81%a3%e3%81%9f%e4%bd%bf%e3%81%84%e6%96%b9/</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Oct 2005 06:20:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

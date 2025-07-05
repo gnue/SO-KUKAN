@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>裸族の二世帯住宅 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E8%A3%B8%E6%97%8F%E3%81%AE%E4%BA%8C%E4%B8%96%E5%B8%AF%E4%BD%8F%E5%AE%85/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Apr 2008 23:16:17 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>「裸族の二世帯住宅」で初期化できなくなった</title>
+		<link>/gnue/2008/04/23/%e3%80%8c%e8%a3%b8%e6%97%8f%e3%81%ae%e4%ba%8c%e4%b8%96%e5%b8%af%e4%bd%8f%e5%ae%85%e3%80%8d%e3%81%a7%e5%88%9d%e6%9c%9f%e5%8c%96%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f/</link>
+					<comments>/gnue/2008/04/23/%e3%80%8c%e8%a3%b8%e6%97%8f%e3%81%ae%e4%ba%8c%e4%b8%96%e5%b8%af%e4%bd%8f%e5%ae%85%e3%80%8d%e3%81%a7%e5%88%9d%e6%9c%9f%e5%8c%96%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2008 23:16:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[裸族の二世帯住宅]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1233</guid>
+
+					<description><![CDATA[Time Machine のデータを壊しちゃったので再フォーマットしようとしたらパーティションマップの書込みが Resource Busy で失敗しちゃいました。スタンダード構成だと大丈夫なのだけどミラー／ストライプ／コ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Time Machine のデータを壊しちゃったので再フォーマットしようとしたらパーティションマップの書込みが Resource Busy で失敗しちゃいました。スタンダード構成だと大丈夫なのだけどミラー／ストライプ／コンバイン構成だとこのエラーになっちゃいます。うーん、一番最初は何の問題もなかったはずなのになんで。コマンドラインの diskutil でもＮＧ。</p>
+<p>2ch に１件まったく同じ事例をみつけたけれど解決策は載ってなかった。</p>
+<p>センチュリーのサポートの話だとどうも Mac OS 10.5 のディスクユーティリティに問題があるらしいとのこと。</p>
+<p>とりあえずいろいろ試したところ pdisk だとパーティションマップの書込みできるので、なんとかこれで凌ぐしかないのか。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/04/23/%e3%80%8c%e8%a3%b8%e6%97%8f%e3%81%ae%e4%ba%8c%e4%b8%96%e5%b8%af%e4%bd%8f%e5%ae%85%e3%80%8d%e3%81%a7%e5%88%9d%e6%9c%9f%e5%8c%96%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

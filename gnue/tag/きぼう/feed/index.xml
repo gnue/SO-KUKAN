@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>きぼう &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%81%8D%E3%81%BC%E3%81%86/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Mar 2008 13:42:45 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>パンドラの匣『きぼう』、宇宙(そら)へ</title>
+		<link>/gnue/2008/03/11/%e3%83%91%e3%83%b3%e3%83%89%e3%83%a9%e3%81%ae%e5%8c%a3%e3%80%8e%e3%81%8d%e3%81%bc%e3%81%86%e3%80%8f%e3%81%ae%e6%89%93%e4%b8%8a%e3%81%92/</link>
+					<comments>/gnue/2008/03/11/%e3%83%91%e3%83%b3%e3%83%89%e3%83%a9%e3%81%ae%e5%8c%a3%e3%80%8e%e3%81%8d%e3%81%bc%e3%81%86%e3%80%8f%e3%81%ae%e6%89%93%e4%b8%8a%e3%81%92/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2008 13:42:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[きぼう]]></category>
+		<category><![CDATA[宇宙]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/03/%e3%83%91%e3%83%b3%e3%83%89%e3%83%a9%e3%81%ae%e5%8c%a3%e3%80%8e%e3%81%8d%e3%81%bc%e3%81%86%e3%80%8f%e3%81%ae%e6%89%93%e4%b8%8a%e3%81%92/</guid>
+
+					<description><![CDATA[TVニュースでやってましたが国際宇宙ステーション(ISS)への有人宇宙施設『きぼう』の第一便打上げが成功したそうです。 ただね、この計画いろいろと前途多難なんですよね。周知の事実としてスペースシャトルは 2010年で引退 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				TVニュースでやってましたが国際宇宙ステーション(ISS)への有人宇宙施設『きぼう』の第一便打上げが成功したそうです。</p>
+<p>ただね、この計画いろいろと前途多難なんですよね。周知の事実としてスペースシャトルは 2010年で引退になります。なんだけど、スペースシャトルに替わるアメリカの有人宇宙船 <a href="http://www.nasa.gov/mission_pages/constellation/orion/">Orion</a> はまだ出来てません。Orion の完成予定は 2014年らしいのだけれど、どんなにうまく行っても最低３年間はアメリカが有人宇宙飛行できないブランク期間ができることになり、その間ロシアのソユーズだけになってしまうということです。ソユーズだけで ISS を維持できるのかなかなか難しいところ。ISS が維持できなければ破棄ということになるのだけど、当初の計画から遅れに遅れて（電子機器なんて時代遅れとか、老朽化や保守部品が手に入らないなんて言われてるし）打上げられた『きぼう』もお金をブラックホールに捨てることになってしまうかもしれません。</p>
+<p>まぁ、とにもかくにも打ち上げられたパンドラの匣『きぼう』ですが、なんとか匣の奥に《きぼう》が残っていることを祈ります。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/03/11/%e3%83%91%e3%83%b3%e3%83%89%e3%83%a9%e3%81%ae%e5%8c%a3%e3%80%8e%e3%81%8d%e3%81%bc%e3%81%86%e3%80%8f%e3%81%ae%e6%89%93%e4%b8%8a%e3%81%92/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

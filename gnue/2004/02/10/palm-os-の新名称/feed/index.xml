@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Palm OS の新名称 へのコメント	</title>
+	<atom:link href="/gnue/2004/02/10/palm-os-%E3%81%AE%E6%96%B0%E5%90%8D%E7%A7%B0/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/02/10/palm-os-%e3%81%ae%e6%96%b0%e5%90%8d%e7%a7%b0/</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Feb 2004 14:27:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

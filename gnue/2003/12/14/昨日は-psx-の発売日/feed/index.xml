@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	昨日は PSX の発売日 へのコメント	</title>
+	<atom:link href="/gnue/2003/12/14/%E6%98%A8%E6%97%A5%E3%81%AF-psx-%E3%81%AE%E7%99%BA%E5%A3%B2%E6%97%A5/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2003/12/14/%e6%98%a8%e6%97%a5%e3%81%af-psx-%e3%81%ae%e7%99%ba%e5%a3%b2%e6%97%a5/</link>
+	<description></description>
+	<lastBuildDate>Sun, 14 Dec 2003 06:24:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

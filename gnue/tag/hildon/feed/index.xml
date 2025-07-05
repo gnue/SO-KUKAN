@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hildon &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/hildon/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Apr 2007 01:29:47 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Linuxベースの Intel UMPC</title>
+		<link>/gnue/2007/04/17/linux%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae-intel-umpc/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 17 Apr 2007 01:29:47 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[hildon]]></category>
+		<category><![CDATA[intel]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[mid]]></category>
+		<category><![CDATA[umpc]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/04/17/linux%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae-intel-umpc</guid>
+
+					<description><![CDATA[Microsoft のオリガミと共にデビューした Intel の UMPC ですが、どうも今度は Linux を載せたバージョンをつくったようです。ま、中身が x86アーキテクチャの PC なので別に不思議でもなんでもな [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Microsoft のオリガミと共にデビューした Intel の UMPC ですが、どうも今度は Linux を載せたバージョンをつくったようです。ま、中身が x86アーキテクチャの PC なので別に不思議でもなんでもないんですけどね。</p>
+<p>路線的には NOKIA の Internet Tablet や SONY の Mylo よりのモバイルPC ってところでしょうか。Linux のディストリビューションは紅旗Linuxベースの MID Linux。紅旗Linuxって中国産というぐらいしか知らないんだけどどんな感じなんでしょ？</p>
+<p>ところで今回の MIDプラットフォームで目を引くのは Mac OS X の Dashbord っぽいアイコンの画面デザイン。多分に iPhone を意識してるんだろうなぁ。Apple デザインとの大きな違いは細かいところに気配りが行き届いていないので微妙にバランスが悪いところ。デザイン重要！（笑）</p>
+<p>さてちょっと面白いのが MIDプラットフォームの GUI が N800 と同じ Hildon Application Framework を採用していことだ。画面キャプチャで N800 っぽい画面が見えるのはそのため。ってことは将来 N800 でも iPhone っぽい GUI にできるかもしれない（Apple からクレームがこなければ :-P）</p>
+<p>⇒ <a href="http://japanese.engadget.com/2007/04/16/intel-linux-mid/">インテル、LinuxベースのウルトラモバイルプラットフォームMIDを発表</a>（engadget）<br />⇒ <a href="http://www.linuxdevices.com/news/NS8166710404.html">Intel debuts Linux-based &quot;Mobile Internet Device&quot;</a>（LinuxDevices.com）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

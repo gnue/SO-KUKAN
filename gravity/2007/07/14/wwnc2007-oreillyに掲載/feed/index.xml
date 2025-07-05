@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	WWNC2007 O&#8217;Reillyに掲載 へのコメント	</title>
+	<atom:link href="/gravity/2007/07/14/wwnc2007-oreilly%E3%81%AB%E6%8E%B2%E8%BC%89/feed/" rel="self" type="application/rss+xml" />
+	<link>/gravity/2007/07/14/wwnc2007-oreilly%e3%81%ab%e6%8e%b2%e8%bc%89/</link>
+	<description>Newton の重力に引き寄せられて…</description>
+	<lastBuildDate>Sat, 14 Jul 2007 14:09:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

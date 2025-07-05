@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pda &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/pda/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 17 Feb 2007 06:41:04 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>最近、気になるあいつ</title>
+		<link>/gnue/2007/02/17/%e6%9c%80%e8%bf%91%e3%80%81%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%82%e3%81%84%e3%81%a4-2/</link>
+					<comments>/gnue/2007/02/17/%e6%9c%80%e8%bf%91%e3%80%81%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%82%e3%81%84%e3%81%a4-2/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 17 Feb 2007 06:41:04 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[N800]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[pda]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/02/17/%e6%9c%80%e8%bf%91%e3%80%81%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%82%e3%81%84%e3%81%a4</guid>
+
+					<description><![CDATA[１月に Apple から iPhone が発表され２月には日本でも SONY の Mylo が発売されました。mixi の Mylo コミュニティとか見てると到着報告やらさっそくのトラブルやら楽しげでうらやましいかぎり。 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>１月に Apple から <a href="http://www.apple.com/iphone/">iPhone</a> が発表され２月には日本でも SONY の <a href="http://www.sony.jp/products/Consumer/Mylo/">Mylo</a> が発売されました。mixi の Mylo コミュニティとか見てると到着報告やらさっそくのトラブルやら楽しげでうらやましいかぎり。</p>
+<p>ただ、iPhone は OS X、Mylo は Linux + Qtopia なのにどっちもクローズドな製品で自分でつくったプログラムとか自由にインストールできないんですよね。それがあって欲しいなと思ってもなんか踏ん切れない感じ（そもそも iPhone は当分日本で購入することはできないだろうし :-{ ）</p>
+<p>そこで最近ちょっと気になっているのが Nokia のあいつ <a href="http://europe.nokia.com/phones/n800">N800</a> 。2007年上半期に Skype が搭載される予定なのでそうすれば Mylo みたいに Skype フォンとして使えるし、ビデオカメラ搭載、ペンタブレット、そして何より中身の Linux がいじれるのがいい。海外在住の人みたいだけど既に <a href="http://kimitake.blogdns.net/item/388">N800 で日本語表示している</a>人もいるようです。</p>
+<p>問題は日本では販売していないのでどうやって手に入れるか。Amazon.com(USA) では「日本には送れません」とオーダーできなかったし、あやしげな電脳小物の輸入サイト <a href="http://www.expansys.jp/p.aspx?i=144770">expansys</a> は扱っているけど ¥60,855 とちょっと高め。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/02/17/%e6%9c%80%e8%bf%91%e3%80%81%e6%b0%97%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%82%e3%81%84%e3%81%a4-2/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VOXグループ “PDA@JAPAN”（仮）をつくりました</title>
+		<link>/gnue/2007/02/17/vox%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97-pdajapan%ef%bc%88%e4%bb%ae%ef%bc%89%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 17 Feb 2007 01:05:23 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[pda]]></category>
+		<category><![CDATA[グループ]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2007/02/17/vox%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97-%e2%80%9cpdajapan%e2%80%9d%ef%bc%88%e4%bb%ae%ef%bc%89%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f</guid>
+
+					<description><![CDATA[PDA に関するグループがまだないようなのでとりあえず PDA@JAPAN というのをつくってみました。PDA という名称にはしましたが、PDA に限らず（iPhone も含め）電脳小物全般を対象にしたいと思います。 ま [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>PDA に関するグループがまだないようなのでとりあえず <a href="http://pda-jp.groups.vox.com/">PDA@JAPAN</a> というのをつくってみました。PDA という名称にはしましたが、PDA に限らず（iPhone も含め）電脳小物全般を対象にしたいと思います。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>まぁ、公開グループですのでみなさん適当に参加して適当に書込んで下さい。</div>
+<div>⇒ <a href="http://pda-jp.groups.vox.com/">http://pda-jp.groups.vox.com/</a></p>
+</div>
+<div><br class="khtml-block-placeholder" /></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

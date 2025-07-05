@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>クレジットカード &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Sep 2008 20:47:01 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>ゆうちょ共用カード終了に関するご案内</title>
+		<link>/gnue/2008/09/02/%e3%82%86%e3%81%86%e3%81%a1%e3%82%87%e5%85%b1%e7%94%a8%e3%82%ab%e3%83%bc%e3%83%89%e7%b5%82%e4%ba%86%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%94%e6%a1%88%e5%86%85/</link>
+					<comments>/gnue/2008/09/02/%e3%82%86%e3%81%86%e3%81%a1%e3%82%87%e5%85%b1%e7%94%a8%e3%82%ab%e3%83%bc%e3%83%89%e7%b5%82%e4%ba%86%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%94%e6%a1%88%e5%86%85/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 01 Sep 2008 20:47:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[クレジットカード]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1406</guid>
+
+					<description><![CDATA[げ、某クレジットカードのゆうちょ共用カードが今年いっぱいで使えるなくなるのか。 ７月にダイレクトメールで案内（切替申込書）が届いているらしいのだが、ほとんど条件反射的にゴミ箱に捨ててしまったらしい。 まぁ、別に他のクレジ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				げ、某クレジットカードのゆうちょ共用カードが今年いっぱいで使えるなくなるのか。</p>
+<p>７月にダイレクトメールで案内（切替申込書）が届いているらしいのだが、ほとんど条件反射的にゴミ箱に捨ててしまったらしい。</p>
+<p>まぁ、別に他のクレジットカードがあるからこれが使えなくなってもいいといえばいいのだけれど、オンラインショッピングで使ってたのでうっかりオンラインショップで買い物して使えなかったら嫌だなぁ。</p>
+<p>追記 9/22：結局、カード会社に電話して切替申込書を送ってもらった。「ご案内」を見たところ切替するとカード番号が変わってしまうらしい。いまクレジットカードから引落しにしているのを変更したくなかったから切替しようかと思ったのにこれじゃ意味ないや <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/09/02/%e3%82%86%e3%81%86%e3%81%a1%e3%82%87%e5%85%b1%e7%94%a8%e3%82%ab%e3%83%bc%e3%83%89%e7%b5%82%e4%ba%86%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%94%e6%a1%88%e5%86%85/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DVD &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/dvd/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 08 Aug 2009 04:18:38 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>うたのえほん（谷山浩子）</title>
+		<link>/gnue/2009/08/08/%e3%81%86%e3%81%9f%e3%81%ae%e3%81%88%e3%81%bb%e3%82%93%ef%bc%88%e8%b0%b7%e5%b1%b1%e6%b5%a9%e5%ad%90%ef%bc%89/</link>
+					<comments>/gnue/2009/08/08/%e3%81%86%e3%81%9f%e3%81%ae%e3%81%88%e3%81%bb%e3%82%93%ef%bc%88%e8%b0%b7%e5%b1%b1%e6%b5%a9%e5%ad%90%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 08 Aug 2009 04:18:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[DVD]]></category>
+		<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2768</guid>
+
+					<description><![CDATA[9/9 発売らしい。]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002FLIG7G/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B002FLIG7G.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>9/9 発売らしい。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/08/08/%e3%81%86%e3%81%9f%e3%81%ae%e3%81%88%e3%81%bb%e3%82%93%ef%bc%88%e8%b0%b7%e5%b1%b1%e6%b5%a9%e5%ad%90%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

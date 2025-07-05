@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FeliCa &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/felica/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 06 Oct 2009 00:11:40 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>PasoriKit 1.0.1 を公開</title>
+		<link>/gnue/2009/10/06/pasorikit-1-0-1-%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2009/10/06/pasorikit-1-0-1-%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2009 00:11:40 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[PaSoRi]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2882</guid>
+
+					<description><![CDATA[Cocoaアプリで FeliCaリーダ “PaSoRi” を使うためのフレームワーク PasoriKit を 1.0.1 にアップデートしました。 ⇒ PasoriKit [2009-10-06] 1.0.1 動作環境を [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Cocoaアプリで FeliCaリーダ “PaSoRi” を使うためのフレームワーク PasoriKit を 1.0.1 にアップデートしました。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/tools/wiki/PasoriKit">PasoriKit</a></p>
+<p><span id="more-2882"></span></p>
+<p>[2009-10-06] 1.0.1</p>
+<ul>
+<li>動作環境を Mac OS X 10.5 以上に変更</li>
+<li>USBDeviceクラスに reopenメソッドを追加。<br />スリープ解除からの自動復帰サポート</li>
+<li>x86_64バイナリに対応</li>
+<li>PASORI_STATE_POLLING_DONE で処理をしなかったときに PASORI_STATE_IDLE に状態遷移しない問題を修正</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/10/06/pasorikit-1-0-1-%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PasoriKit を公開</title>
+		<link>/gnue/2008/08/15/pasorikit-%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2008/08/15/pasorikit-%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 15 Aug 2008 04:23:49 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[PaSoRi]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1342</guid>
+
+					<description><![CDATA[Cocoaアプリで FeliCaリーダ &#8220;PaSoRi&#8221; を使うためのフレームワーク PasoriKit を公開しました。 ドキュメントは現在のところ Cocoa Life Vo.4 の記事とサン [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Cocoaアプリで FeliCaリーダ &#8220;PaSoRi&#8221; を使うためのフレームワーク PasoriKit を公開しました。</p>
+<p>ドキュメントは現在のところ Cocoa Life Vo.4 の記事とサンプルソースコードしかありません。Cocoa Life Vo.4 は明日のコミケ「8月16日（土）西-&#8220;く&#8221;13a　Cocoa勉強会」で販売していますので、コミケに行かれる方は是非手に取ってみて下さい。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/tools/wiki/PasoriKit">PasoriKit</a><br />
+⇒ <a href="http://www.cocoa-study.com/">Cocoa勉強会</a></p>
+<p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0009YVAW4/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0009YVAW4.09.MZZZZZZZ.jpg"  /></div></a><br />
+<br class="clear" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/08/15/pasorikit-%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FeliCa 機能付クレジットカードの死角</title>
+		<link>/gnue/2006/11/01/felica-%e6%a9%9f%e8%83%bd%e4%bb%98%e3%82%af%e3%83%ac%e3%82%b8%e3%83%83%e3%83%88%e3%82%ab%e3%83%bc%e3%83%89%e3%81%ae%e6%ad%bb%e8%a7%92/</link>
+					<comments>/gnue/2006/11/01/felica-%e6%a9%9f%e8%83%bd%e4%bb%98%e3%82%af%e3%83%ac%e3%82%b8%e3%83%83%e3%83%88%e3%82%ab%e3%83%bc%e3%83%89%e3%81%ae%e6%ad%bb%e8%a7%92/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2006 21:21:24 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[Life]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/11/01/ferica-%e6%a9%9f%e8%83%bd%e4%bb%98%e3%82%af%e3%83%ac%e3%82%b8%e3%83%83%e3%83%88%e3%82%ab%e3%83%bc%e3%83%89%e3%81%ae%e6%ad%bb%e8%a7%92/</guid>
+
+					<description><![CDATA[クレジットカードの更新で新しいカードが送られてきたのだけど、Edy の残高って新しいカードに移行できないのね。古いカードを切り刻む前に Edy の残高を確認して使い切らないと（たぶん残高 0 のはずだけど、自信がない）  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				クレジットカードの更新で新しいカードが送られてきたのだけど、Edy の残高って新しいカードに移行できないのね。古いカードを切り刻む前に Edy の残高を確認して使い切らないと（たぶん残高 0 のはずだけど、自信がない）</p>
+<p>まぁ、仕組みを考えれば当然といえば当然なのだけどめんどくさい。これって Edy だけでなく Suica なんかでも同じだよね。思わぬところに死角が&#8230;orz</p>
+<p># それにしても PaSoRi の Mac 対応をやってほしいぞ＞ SONY		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/11/01/felica-%e6%a9%9f%e8%83%bd%e4%bb%98%e3%82%af%e3%83%ac%e3%82%b8%e3%83%83%e3%83%88%e3%82%ab%e3%83%bc%e3%83%89%e3%81%ae%e6%ad%bb%e8%a7%92/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>パスモ、2007年３月より</title>
+		<link>/gnue/2005/12/22/%e3%83%91%e3%82%b9%e3%83%a2%e3%80%812007%e5%b9%b4%ef%bc%93%e6%9c%88%e3%82%88%e3%82%8a/</link>
+					<comments>/gnue/2005/12/22/%e3%83%91%e3%82%b9%e3%83%a2%e3%80%812007%e5%b9%b4%ef%bc%93%e6%9c%88%e3%82%88%e3%82%8a/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2005 16:00:52 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[PASMO]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/22/%e3%83%91%e3%82%b9%e3%83%a2%e3%80%812007%e5%b9%b4%ef%bc%93%e6%9c%88%e3%82%88%e3%82%8a/</guid>
+
+					<description><![CDATA[JR・私鉄・バスの相互運用性の悪い首都圏の公共交通機関ですが、ようやく 2007年３月からパスモ（Suica同等品）で統一化されるようです。 １年ぐらい前にも 2007年からという報道はあったけど、今回の正式発表で本決ま [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				JR・私鉄・バスの相互運用性の悪い首都圏の公共交通機関ですが、ようやく 2007年３月からパスモ（Suica同等品）で統一化されるようです。</p>
+<p>１年ぐらい前にも 2007年からという報道はあったけど、今回の正式発表で本決まりですね。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/12/22/%e3%83%91%e3%82%b9%e3%83%a2%e3%80%812007%e5%b9%b4%ef%bc%93%e6%9c%88%e3%82%88%e3%82%8a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>私鉄もバスも Suica でスイスイ！？</title>
+		<link>/gnue/2005/08/01/%e7%a7%81%e9%89%84%e3%82%82%e3%83%90%e3%82%b9%e3%82%82-suica-%e3%81%a7%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%ef%bc%81%ef%bc%9f/</link>
+					<comments>/gnue/2005/08/01/%e7%a7%81%e9%89%84%e3%82%82%e3%83%90%e3%82%b9%e3%82%82-suica-%e3%81%a7%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%ef%bc%81%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2005 09:04:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<category><![CDATA[PASMO]]></category>
+		<category><![CDATA[Suica]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/08/01/%e7%a7%81%e9%89%84%e3%82%82%e3%83%90%e3%82%b9%e3%82%82-suica-%e3%81%a7%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%ef%bc%81%ef%bc%9f/</guid>
+
+					<description><![CDATA[ようやく首都圏のＪＲ・私鉄／地下鉄・バスの共通乗車カードが具体的になってきたみたいです。 構想そのものはず〜〜〜〜いぶん昔に少し報道されたことがあったけど、最近は全然聞かなかったのでまだまだ先なのかなと思ってました。これ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ようやく首都圏のＪＲ・私鉄／地下鉄・バスの共通乗車カードが具体的になってきたみたいです。</p>
+<p>構想そのものはず〜〜〜〜いぶん昔に少し報道されたことがあったけど、最近は全然聞かなかったのでまだまだ先なのかなと思ってました。これで首都圏の移動がかなり便利になります。</p>
+<p>記事にある電子マネーの勢力地図云々はなんだかなぁという感じ。対応する小売店が JR系列だけの現状だと全然魅力感じません。カードの発行枚数と電子マネーの利用度とは必ずしもリンクしないんじゃないでしょうか。</p>
+<p>⇒ <a href="http://www.yomiuri.co.jp/atmoney/news/20050729it01.htm" target="_blank" rel="noopener">私鉄・バスも「スイカ」…５３社が共通ＩＣ発行へ</a>（YOMIURI ONLINE）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/08/01/%e7%a7%81%e9%89%84%e3%82%82%e3%83%90%e3%82%b9%e3%82%82-suica-%e3%81%a7%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%ef%bc%81%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FeliCa 対応家計簿</title>
+		<link>/gnue/2004/11/14/felica-%e5%af%be%e5%bf%9c%e5%ae%b6%e8%a8%88%e7%b0%bf/</link>
+					<comments>/gnue/2004/11/14/felica-%e5%af%be%e5%bf%9c%e5%ae%b6%e8%a8%88%e7%b0%bf/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 14 Nov 2004 08:28:26 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/11/14/felica-%e5%af%be%e5%bf%9c%e5%ae%b6%e8%a8%88%e7%b0%bf/</guid>
+
+					<description><![CDATA[Edy の使用履歴を取込める家計簿ソフトだそうです。なるほど、そういうのもアリかな。ただ、Edy の使用履歴が最大6件というのは後でまとめてと思っていると６件をオーバーしてしまいそう。 でも FeliCa 携帯だったらコ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Edy の使用履歴を取込める家計簿ソフトだそうです。なるほど、そういうのもアリかな。ただ、Edy の使用履歴が最大6件というのは後でまとめてと思っていると６件をオーバーしてしまいそう。</p>
+<p>でも FeliCa 携帯だったらコンテンツプロバイダがサーバアプリで家計簿のサービスを提供するのでもいいような気がする。これならリーダーライターの PaSoRi とかいらないしね。</p>
+<p>それとカメラ付携帯だったらレシートに２次元バーコードをいっしょに印字できれば、２次元バーコードを携帯のカメラで取込んで家計簿をつけられそうなんだけどね。(*1)</p>
+<p>*1) 実は２年ぐらい前に考えたのだけど、自分ではコネがなくて実現できそうにないのでとこりあえずここに書いておく(^^;</p>
+<p>⇒ <a href="http://k-tai.impress.co.jp/cda/article/news_toppage/21375.html" target="_blank" rel="noopener">Edyの使用履歴を記録できる家計簿ソフト</a>（ケータイ Watch）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/11/14/felica-%e5%af%be%e5%bf%9c%e5%ae%b6%e8%a8%88%e7%b0%bf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FeliCa とパソコン</title>
+		<link>/gnue/2004/10/20/felica-%e3%81%a8%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3/</link>
+					<comments>/gnue/2004/10/20/felica-%e3%81%a8%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 20 Oct 2004 02:42:29 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[FeliCa]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/10/20/felica-%e3%81%a8%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3/</guid>
+
+					<description><![CDATA[ITmedia に FeliCa をタイムカード代わりにするシステムというのが載っていました。まぁ、いいんじゃないでしょうか。 ところでこのシステムの写真をノートパソコンに PaSoRi を接続しています。なんかいまいち [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ITmedia  に FeliCa をタイムカード代わりにするシステムというのが載っていました。まぁ、いいんじゃないでしょうか。</p>
+<p>ところでこのシステムの写真をノートパソコンに PaSoRi を接続しています。なんかいまいちだなぁ。ここはやっぱり FeliCa のリーダー・ライターを一体化でしょう。</p>
+<p>そういえば、富士通は FeliCa のリーダー・ライターを搭載したノートパソコンを発表したけど、本家の SONY はそういう VAIO って出してないんですよね（CLIE は大昔にあったけど）。</p>
+<p>ちなみに PaSoRi は相変わらず Mac 非対応です :-{</p>
+<p>⇒ <a href="http://www.itmedia.co.jp/news/articles/0410/19/news080.html" target="_blank" rel="noopener">FeliCaをタイムカードに　8万円のPC勤怠管理システム</a>（ITmedia）<br />
+⇒ <a href="http://pc.watch.impress.co.jp/docs/2004/1014/fujitsu.htm" target="_blank" rel="noopener">富士通、世界初FeliCaリーダ/ライタ内蔵の企業向けノート</a>（PC Watch）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/10/20/felica-%e3%81%a8%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

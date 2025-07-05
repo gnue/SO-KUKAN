@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>i-spin &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/i-spin/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Mar 2008 11:49:57 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>i-spin ≒ ロボ・モコナ？</title>
+		<link>/gnue/2008/03/11/i-spin-%e2%89%92-%e3%83%ad%e3%83%9c%e3%83%bb%e3%83%a2%e3%82%b3%e3%83%8a%ef%bc%9f/</link>
+					<comments>/gnue/2008/03/11/i-spin-%e2%89%92-%e3%83%ad%e3%83%9c%e3%83%bb%e3%83%a2%e3%82%b3%e3%83%8a%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2008 11:49:57 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Gadget]]></category>
+		<category><![CDATA[i-spin]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/03/i-spin-%e2%89%92-%e3%83%ad%e3%83%9c%e3%83%bb%e3%83%a2%e3%82%b3%e3%83%8a%ef%bc%9f/</guid>
+
+					<description><![CDATA[Rolly と違いケーブル接続ですが、音楽に合わせて踊ってくれるスピーカー。ところで、これって CLAMP 作品に出てくるモコナに似ていると思うのは私だけ(^^;？ 見たところ大きいの（ウーファー）と小さいの（ツイーター [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0010PMMR8/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0010PMMR8.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>Rolly と違いケーブル接続ですが、音楽に合わせて踊ってくれるスピーカー。ところで、これって CLAMP 作品に出てくるモコナに似ていると思うのは私だけ(^^;？</p>
+<p>見たところ大きいの（ウーファー）と小さいの（ツイーター）しかないみたいなんだけどモノラルなんだろうか。どうせなら２台同時(*1)にステレオで踊らせられると面白いかも。</p>
+<p></p>
+<p>*1) カラーバリエーションでブルーとピンクがある。モコナ＝モドキなら白と黒なのだが&#8230;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/03/11/i-spin-%e2%89%92-%e3%83%ad%e3%83%9c%e3%83%bb%e3%83%a2%e3%82%b3%e3%83%8a%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

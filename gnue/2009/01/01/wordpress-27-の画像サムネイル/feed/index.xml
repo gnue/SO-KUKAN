@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	WordPress 2.7 の画像サムネイル へのコメント	</title>
+	<atom:link href="/gnue/2009/01/01/wordpress-27-%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/01/01/wordpress-27-%e3%81%ae%e7%94%bb%e5%83%8f%e3%82%b5%e3%83%a0%e3%83%8d%e3%82%a4%e3%83%ab/</link>
+	<description></description>
+	<lastBuildDate>Wed, 31 Dec 2008 16:14:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

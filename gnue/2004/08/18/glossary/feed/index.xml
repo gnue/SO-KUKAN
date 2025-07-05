@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Glossary へのコメント	</title>
+	<atom:link href="/gnue/2004/08/18/glossary/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/08/18/glossary/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Aug 2004 17:30:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2004/08/18/glossary/#comment-92</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Thu, 19 Aug 2004 17:30:09 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/08/18/glossary/#comment-92</guid>
+
+					<description><![CDATA[BS でもやってたんですね :)]]></description>
+			<content:encoded><![CDATA[<p>BS でもやってたんですね 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		理髪 より		</title>
+		<link>/gnue/2004/08/18/glossary/#comment-91</link>
+
+		<dc:creator><![CDATA[理髪]]></dc:creator>
+		<pubDate>Thu, 19 Aug 2004 11:06:53 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/08/18/glossary/#comment-91</guid>
+
+					<description><![CDATA[WBSはBS-Japanでもやっているので地方でも観れるようになりました。小谷さんをまた見れるのは嬉しい。]]></description>
+			<content:encoded><![CDATA[<p>WBSはBS-Japanでもやっているので地方でも観れるようになりました。小谷さんをまた見れるのは嬉しい。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

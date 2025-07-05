@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>今から読みます &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E4%BB%8A%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%99/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 28 Aug 2006 02:42:07 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>QotD: 今から読みます</title>
+		<link>/gnue/2006/08/28/qotd-%e4%bb%8a%e3%81%8b%e3%82%89%e8%aa%ad%e3%81%bf%e3%81%be%e3%81%99/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 28 Aug 2006 02:42:07 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[on my nightstand]]></category>
+		<category><![CDATA[qotd]]></category>
+		<category><![CDATA[今から読みます]]></category>
+		<category><![CDATA[今日の質問]]></category>
+		<category><![CDATA[本]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/08/28/qotd-%e4%bb%8a%e3%81%8b%e3%82%89%e8%aa%ad%e3%81%bf%e3%81%be%e3%81%99</guid>
+
+					<description><![CDATA[今、読んでいる本もしくは今度読もうと思っている本は何ですか？ 塩野七生『ローマ人の物語』（文庫版）の 24~26巻「賢帝の世紀」が刊行されたみたいなので読まないわけにはいかないでしょう。]]></description>
+										<content:encoded><![CDATA[<blockquote>
+<p>今、読んでいる本もしくは今度読もうと思っている本は何ですか？</p>
+</blockquote>
+<p>塩野七生『ローマ人の物語』（文庫版）の 24~26巻「賢帝の世紀」が刊行されたみたいなので読まないわけにはいかないでしょう。                                                          </p>
+<div style="text-align:left">                             <!-- Error: rendering enclosure $VAR1 = {   'at:type' =&gt; 'asset',   'at:align' =&gt; 'center',   'at:format' =&gt; 'medium',   'at:xid' =&gt; '6a00c225220b198fdb00c22524afb88e1d' };  --> </p>
+<div style="text-align:center"></div>
+</p></div>
+<p></p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

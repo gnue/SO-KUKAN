@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	現代の氷室 へのコメント	</title>
+	<atom:link href="/gnue/2005/06/25/%E7%8F%BE%E4%BB%A3%E3%81%AE%E6%B0%B7%E5%AE%A4/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/06/25/%e7%8f%be%e4%bb%a3%e3%81%ae%e6%b0%b7%e5%ae%a4/</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Jun 2005 15:33:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

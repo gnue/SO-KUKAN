@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ケータイ料金 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4%E6%96%99%E9%87%91/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 18 Jun 2009 14:19:11 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>月額のケータイ料金をシミュレーション</title>
+		<link>/gnue/2009/06/18/%e3%82%b1%e3%83%bc%e3%82%bf%e3%82%a4%e3%81%ae%e4%bd%bf%e7%94%a8%e6%96%99%e3%82%92%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+					<comments>/gnue/2009/06/18/%e3%82%b1%e3%83%bc%e3%82%bf%e3%82%a4%e3%81%ae%e4%bd%bf%e7%94%a8%e6%96%99%e3%82%92%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2009 14:19:11 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[ケータイ料金]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2577</guid>
+
+					<description><![CDATA[とりあえず月額のケータイ料金（といっても iPhone だけなのだけど）をシミュレーションしてた。 片方はパケットをまったく使わないようにして（使えないようにする）、もう片方はパケットを上限以上に使うと仮定すると 9,9 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				とりあえず月額のケータイ料金（といっても iPhone だけなのだけど）をシミュレーションしてた。</p>
+<p>片方はパケットをまったく使わないようにして（使えないようにする）、もう片方はパケットを上限以上に使うと仮定すると 9,979円／月（他キャリアへの通話料金をふくまず）。</p>
+<p>基本的に通話はほとんどしない人なので他キャリアへの通話料金は誤差の範囲なのでだいたい１万円／月前後といったところか。</p>
+<p><span id="more-2577"></span><br />
+内訳は以下のとおり</p>
+<p>★iPhone 3G(16GB)<br />
+　  934円（ホワイトプラン）<br />
+　  300円（Ｓ！ベーシックパック）<br />
+　 1,029〜4,200円（パケット定額フル）<br />
+　 3,360円（割賦金）<br />
+　-1,829円（月々割）<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;<br />
+計3,794〜6,965円</p>
+<p>★iPhone 3G S(16GB)<br />
+　  980円（ホワイトプラン）<br />
+　  315円（Ｓ！ベーシックパック）<br />
+　 1,029〜4,410円（パケット定額フル）<br />
+　  960円（割賦金）<br />
+　 -480円（月々割）<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;<br />
+計2,804〜6,185円</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/18/%e3%82%b1%e3%83%bc%e3%82%bf%e3%82%a4%e3%81%ae%e4%bd%bf%e7%94%a8%e6%96%99%e3%82%92%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

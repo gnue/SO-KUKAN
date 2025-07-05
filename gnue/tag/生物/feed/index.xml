@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>生物 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E7%94%9F%E7%89%A9/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 Dec 2006 09:31:28 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>コモドオオトカゲの単為生殖</title>
+		<link>/gnue/2006/12/24/%e3%82%b3%e3%83%a2%e3%83%89%e3%82%aa%e3%82%aa%e3%83%88%e3%82%ab%e3%82%b2%e3%81%ae%e5%8d%98%e7%82%ba%e7%94%9f%e6%ae%96/</link>
+					<comments>/gnue/2006/12/24/%e3%82%b3%e3%83%a2%e3%83%89%e3%82%aa%e3%82%aa%e3%83%88%e3%82%ab%e3%82%b2%e3%81%ae%e5%8d%98%e7%82%ba%e7%94%9f%e6%ae%96/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 24 Dec 2006 09:31:28 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[生物]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/12/24/%e3%82%b3%e3%83%a2%e3%83%89%e3%82%aa%e3%82%aa%e3%83%88%e3%82%ab%e3%82%b2%e3%81%ae%e5%8d%98%e7%82%ba%e7%94%9f%e6%ae%96/</guid>
+
+					<description><![CDATA[爬虫類のような複雑な生物でも単為生殖が行われることがあるんですね。どういうメカニズムで行われるんでしょう。哺乳類でも単為生殖は可能なんでしょうか？ トカゲの単為生殖でオスが発生するメカニズムですが、トカゲの性染色体は Z [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				爬虫類のような複雑な生物でも単為生殖が行われることがあるんですね。どういうメカニズムで行われるんでしょう。哺乳類でも単為生殖は可能なんでしょうか？</p>
+<p>トカゲの単為生殖でオスが発生するメカニズムですが、トカゲの性染色体は ZW型で ZW だとメス、ZZ だとオスになるようです。哺乳類の XY 染色体とは違うんですね。</p>
+<p>あと、爬虫類では環境（特に温度）によって性が決まることがあるようです。鳥類も ZW型だけどこちらは温度で性が決まることはないらしい。</p>
+<p>素朴な疑問、WZ型である爬虫類から鳥類への進化はわかりやすいが、XY型である哺乳類へはどうやって進化したのだろう？？？</p>
+<p>⇒ <a href="http://www.cnn.co.jp/science/CNN200612210040.html" target="_blank" rel="noopener">コモドオオトカゲが「処女受胎」、誕生はクリスマス前後</a>（CNN.com）<br />
+⇒ <a href="http://ja.wikipedia.org/wiki/単為生殖" target="_blank" rel="noopener">単為生殖</a>（Wikipedia）<br />
+⇒ <a href="http://d.hatena.ne.jp/yyzz/20061224#1166926846" target="_blank" rel="noopener">コモドオオトカゲの単為生殖の話の続き</a>（雑記と読書メモと妄想と．）<br />
+⇒ <a href="http://www.brh.co.jp/seimeishi/1993-2002/24/ss_1.html" target="_blank" rel="noopener">雄と雌が決まる仕組み　魚から鳥，哺乳類まで</a>（JT生命誌研究館）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/12/24/%e3%82%b3%e3%83%a2%e3%83%89%e3%82%aa%e3%82%aa%e3%83%88%e3%82%ab%e3%82%b2%e3%81%ae%e5%8d%98%e7%82%ba%e7%94%9f%e6%ae%96/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

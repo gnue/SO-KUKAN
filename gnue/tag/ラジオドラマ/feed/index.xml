@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ラジオドラマ &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%89%E3%83%A9%E3%83%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Sat, 17 Dec 2005 10:46:30 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>ラジオSFコーナー</title>
+		<link>/gnue/2005/12/17/%e3%83%a9%e3%82%b8%e3%82%aasf%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc/</link>
+					<comments>/gnue/2005/12/17/%e3%83%a9%e3%82%b8%e3%82%aasf%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 17 Dec 2005 10:46:30 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[SF]]></category>
+		<category><![CDATA[ラジオドラマ]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/12/17/%e3%83%a9%e3%82%b8%e3%82%aasf%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc/</guid>
+
+					<description><![CDATA[いいぬまさんとこで「ラジオSFコーナー」について言及しています。 懐かしいですねぇ、私も中学生頃 ラジカセで録音したりしながら聴いてました。記憶の残っているやつだと「農協月へ行く」「馬は土曜に蒼ざめる」「体験療法」などな [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				いいぬまさんとこで<a href="http://www.wandaba.com/ayashii/Archives/000752.html" target="_blank" rel="noopener">「ラジオSFコーナー」について言及</a>しています。</p>
+<p>懐かしいですねぇ、私も中学生頃 ラジカセで録音したりしながら聴いてました。記憶の残っているやつだと「農協月へ行く」「馬は土曜に蒼ざめる」「体験療法」などなど。あと「ラジオSFコーナー」ではないけれど NHK のラジオドラマというと七瀬三部作(*1)のひとつ「エディプスの恋人」、倉橋由美子の「ポポイ」(*2)、NHK FM で竹宮恵子の「地球へ」(*3)なんてのもありました。</p>
+<p>いいぬまさんじゃないけどできることなら iTMS で復刻してもらいたいものです。でも、あの頃の NHK ってマスターが残っていない(*4)ことが多いからそれが心配。</p>
+<p>あと、ポッドキャスティングなんてラジオドラマの配信に合いそう。「真・ラジオSFコーナー」なんてどこかやらないかしら。</p>
+<p>*1) 「家族八景」は民放テレビ、「七瀬ふたたび」は NHK で映像化されていたと思う<br />
+*2) 後で知ったのだけどラジオドラマのための書下しだったらしい<br />
+*3) NHK がドラマ化した萩尾望都の「１１人いる」は伝説的なほど酷かったけど、「地球へ」のラジオドラマは原作に忠実でなかなかよかったです<br />
+*4) 当時ビデオテープが高かったため NHK ではマスターを別の番組で上書きしていたことは有名。名作「タイムトラベラー」がその犠牲になった。でも、ときどき地方支局からコピーが発掘されることがある		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/12/17/%e3%83%a9%e3%82%b8%e3%82%aasf%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

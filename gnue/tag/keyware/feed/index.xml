@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Keyware &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/keyware/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Sep 2004 19:23:43 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>SideClip と IconBank を無料化</title>
+		<link>/gnue/2004/09/25/sideclip-%e3%81%a8-iconbank-%e3%82%92%e7%84%a1%e6%96%99%e5%8c%96/</link>
+					<comments>/gnue/2004/09/25/sideclip-%e3%81%a8-iconbank-%e3%82%92%e7%84%a1%e6%96%99%e5%8c%96/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2004 19:23:43 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Keyware]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/sideclip-%e3%81%a8-iconbank-%e3%82%92%e7%84%a1%e6%96%99%e5%8c%96/</guid>
+
+					<description><![CDATA[SideClip と IconBank の販売を終了しました。 添付の FreeKey により使用が可能です。 なお、どちらも Mac OS 8/9 にしか対応していません。]]></description>
+										<content:encoded><![CDATA[<p>				SideClip と IconBank の販売を終了しました。<br />
+添付の FreeKey により使用が可能です。</p>
+<p>なお、どちらも Mac OS 8/9 にしか対応していません。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/09/25/sideclip-%e3%81%a8-iconbank-%e3%82%92%e7%84%a1%e6%96%99%e5%8c%96/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>IconBank 1.01r2</title>
+		<link>/gnue/2004/09/25/iconbank-101r2/</link>
+					<comments>/gnue/2004/09/25/iconbank-101r2/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2004 18:54:26 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Keyware]]></category>
+		<category><![CDATA[Mac OS 8/9]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/iconbank-101r2/</guid>
+
+					<description><![CDATA[for Mac OS 8.5 later アイコンを収集し、ドラッグ＆ドロップでファイルにカスタムアイコンをつけるためのユーティリティです。 ⇒ ダウンロード 価　　格：パーソナル・ライセンス　　…２００円（振込手数料別 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="for">for Mac OS 8.5 later</div>
+<p><img></p>
+<p><span id="more-306"></span></p>
+<p>アイコンを収集し、ドラッグ＆ドロップでファイルにカスタムアイコンをつけるためのユーティリティです。</p>
+<p>⇒ <a href="/gnue/lib/keyware/IconBank_1.01r2.sit">ダウンロード</a></p>
+<p>価　　格：<strike>パーソナル・ライセンス　　…２００円（振込手数料別）</strike><br />
+　　　　　<strike>パブリッシュ・ライセンス　…７００円（振込手数料別）</strike><br />
+　　　　　※販売は終了しました（FreeKey が添付されています）<br />
+試用期限：<strike>２週間</strike><br />
+圧縮解凍：StuffIt Expander が必要</p>
+<p><a HREF="/gnue/keyware/IconBank/history.txt" target="history" rel="noopener">■更新履歴</a></p>
+<p>v1.01r2</p>
+<ul>
+<li>Save As で保存したときにファイルアイコンの表示を更新するように変更
+</li>
+<li>読込み専用ファイルをドラッグスクロールしたときの描画の不具合を修正
+</li>
+</ul>
+<p>v1.01</p>
+<ul>
+<li>ファイルをアプリケーション切替にドラッグしてオープンできない問題を修正
+</li>
+<li>Save As で元ファイルにカスタムアイコンが付いていなくても、カスタムアイコンを付けて保存してしまう問題を修正
+</li>
+<li>Undo ができるようになりました
+</li>
+<li>ドラッグ＆amp;ドロップ時にアイコン・リストがスクロールするようになりました
+</li>
+</ul>
+<p><a HREF="/gnue/keyware/IconBank/savvy.txt" target="savvy" rel="noopener">■動作確認状況</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/09/25/iconbank-101r2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SideClip 1.05</title>
+		<link>/gnue/2004/09/25/sideclip-105/</link>
+					<comments>/gnue/2004/09/25/sideclip-105/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2004 18:42:42 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Keyware]]></category>
+		<category><![CDATA[Mac OS 8/9]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/09/25/sideclip-105/</guid>
+
+					<description><![CDATA[for Mac OS 8.1 later Macintosh において Newton OS ライクなマルチクリップボードを実現します。 画面の両端にアイテム（テキスト、画像&#8230;etc）をドラッグ＆ドロップするだ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="for">for Mac OS 8.1 later</div>
+<p><img></p>
+<p><span id="more-305"></span></p>
+<p>Macintosh において Newton OS ライクなマルチクリップボードを実現します。<br />
+画面の両端にアイテム（テキスト、画像&#8230;etc）をドラッグ＆ドロップするだけでクリッピングができます。</p>
+<p>Finder のクリッピング・ファイルのように邪魔にならず、スクラップブックのように起動が必要ありません。一時的に作業中のアイテムをちょっとクリッピングしておくのに便利です。</p>
+<p>⇒ <a href="/gnue/lib/keyware/SideClip_1.05.sit">ダウンロード</a></p>
+<p>価　　格：<strike>２００円（振込手数料別）</strike><br />
+　　　　　※販売は終了しました（FreeKey が添付されています）<br />
+試用期限：<strike>２週間</strike><br />
+圧縮解凍：StuffIt Expander が必要</p>
+<p><a HREF="/gnue/keyware/SideClip/history.txt" target="history" rel="noopener">■更新履歴</a></p>
+<p>v1.05</p>
+<ul>
+<li>スペルミスの修正（Extetion → Extension）<br />
+<font COLOR="red">ファイル名が変更されているので注意して下さい。アップデートは必ず古いファイルをゴミ箱に捨ててから、インストールして下さい。</font>
+</li>
+<li>複数アイテムを選択してドロップしたときに付箋が重なってしまわないように、自動位置調整機能を追加
+</li>
+<li>クリックしたときのリアクションを修正
+</li>
+</ul>
+<p><a HREF="/gnue/keyware/SideClip/savvy.txt" target="savvy" rel="noopener">■動作確認状況</a><br />
+<a HREF="/gnue/keyware/SideClip/faq.html" target="faq" rel="noopener">■Q&amp;A</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/09/25/sideclip-105/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

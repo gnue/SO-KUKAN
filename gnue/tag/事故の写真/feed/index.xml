@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>事故の写真 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E4%BA%8B%E6%95%85%E3%81%AE%E5%86%99%E7%9C%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 05 Sep 2006 08:57:21 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Vox Hunt:おっとっと</title>
+		<link>/gnue/2006/09/05/vox-hunt%e3%81%8a%e3%81%a3%e3%81%a8%e3%81%a3%e3%81%a8/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 05 Sep 2006 08:57:21 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[mistake photo]]></category>
+		<category><![CDATA[vox]]></category>
+		<category><![CDATA[vox hunt]]></category>
+		<category><![CDATA[事故の写真]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/09/05/vox-hunt%e3%81%8a%e3%81%a3%e3%81%a8%e3%81%a3%e3%81%a8</guid>
+
+					<description><![CDATA[事故や間違いの写真を撮ってください。 15年前、メキシコのユカタン半島で同乗していた自動車が宙をグルッと２回ほど廻って大破。運よくかかすり傷ひとつありませんでした。 宙を舞っている最中はスローモーションのようで「あ、まわ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote><p>事故や間違いの写真を撮ってください。</p></blockquote>
+
+<a href='/gnue/2006/09/05/vox-hunt%e3%81%8a%e3%81%a3%e3%81%a8%e3%81%a3%e3%81%a8/%e3%81%8a%e3%81%a3%e3%81%a8%e3%81%a3%e3%81%a8/'><img decoding="async" width="150" height="150" src="/gnue/wp-content/uploads/sites/2/2006/09/おっとっと-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>15年前、メキシコのユカタン半島で同乗していた自動車が宙をグルッと２回ほど廻って大破。運よくかかすり傷ひとつありませんでした。</p>
+<p>宙を舞っている最中はスローモーションのようで「あ、まわってる」って感じ。恐怖心はまったくなかった。ドアをこじ開けて脱出したあとはこんな機会はめったにないと手持ちのコンパクトカメラで撮ったのがこの写真。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

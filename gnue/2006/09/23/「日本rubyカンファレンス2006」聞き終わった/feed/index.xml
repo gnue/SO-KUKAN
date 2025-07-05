@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	「日本Rubyカンファレンス2006」聞き終わった へのコメント	</title>
+	<atom:link href="/gnue/2006/09/23/%E3%80%8C%E6%97%A5%E6%9C%ACruby%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B92006%E3%80%8D%E8%81%9E%E3%81%8D%E7%B5%82%E3%82%8F%E3%81%A3%E3%81%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Sep 2006 04:15:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		GNUE(鵺) より		</title>
+		<link>/gnue/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/#comment-769</link>
+
+		<dc:creator><![CDATA[GNUE(鵺)]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2006 04:15:16 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/#comment-769</guid>
+
+					<description><![CDATA[こんな裏技があったんですね。さすがに古い QuickTime Player は使えませんが、Webブラウザプラグインで使えました。
+
+ただ、配信側としてはなるべくユーザがそういうことを考えずに聴けるようにしたいんですよね。]]></description>
+			<content:encoded><![CDATA[<p>こんな裏技があったんですね。さすがに古い QuickTime Player は使えませんが、Webブラウザプラグインで使えました。</p>
+<p>ただ、配信側としてはなるべくユーザがそういうことを考えずに聴けるようにしたいんですよね。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		sumim より		</title>
+		<link>/gnue/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/#comment-768</link>
+
+		<dc:creator><![CDATA[sumim]]></dc:creator>
+		<pubDate>Sat, 23 Sep 2006 15:34:35 +0000</pubDate>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/#comment-768</guid>
+
+					<description><![CDATA[QuickTimeの古いPlayerやWebブラウザプラグインでは、shiftキーを押しながらボリューム調整をすると、通常の三倍まで音量を上げられる隠し機能があるので、これでけっこう対応できます。＞ムービーやサウンドのボリュームレベルが低いとき]]></description>
+			<content:encoded><![CDATA[<p>QuickTimeの古いPlayerやWebブラウザプラグインでは、shiftキーを押しながらボリューム調整をすると、通常の三倍まで音量を上げられる隠し機能があるので、これでけっこう対応できます。＞ムービーやサウンドのボリュームレベルが低いとき</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

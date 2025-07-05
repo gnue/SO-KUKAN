@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Ruby の構文図 へのコメント	</title>
+	<atom:link href="/gnue/2006/11/19/ruby-%E3%81%AE%E6%A7%8B%E6%96%87%E5%9B%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/11/19/ruby-%e3%81%ae%e6%a7%8b%e6%96%87%e5%9b%b3/</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Nov 2006 08:39:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

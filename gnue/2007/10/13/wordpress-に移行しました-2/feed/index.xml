@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	WordPress に移行しました へのコメント	</title>
+	<atom:link href="/gnue/2007/10/13/wordpress-%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2007/10/13/wordpress-%e3%81%ab%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-2/</link>
+	<description></description>
+	<lastBuildDate>Thu, 18 Oct 2007 08:34:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		Sai より		</title>
+		<link>/gnue/2007/10/13/wordpress-%e3%81%ab%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-2/#comment-822</link>
+
+		<dc:creator><![CDATA[Sai]]></dc:creator>
+		<pubDate>Thu, 18 Oct 2007 08:34:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/10/13/wordpress-%e3%81%ab%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-2/#comment-822</guid>
+
+					<description><![CDATA[遅ればせWordPress移行おめでとうございます！
+WordPress仲間増えてうれしっす。]]></description>
+			<content:encoded><![CDATA[<p>遅ればせWordPress移行おめでとうございます！<br />
+WordPress仲間増えてうれしっす。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		gnue より		</title>
+		<link>/gnue/2007/10/13/wordpress-%e3%81%ab%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-2/#comment-821</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 15 Oct 2007 05:49:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/10/13/wordpress-%e3%81%ab%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-2/#comment-821</guid>
+
+					<description><![CDATA[はじめまして、ちー坊さん。
+おおもりさんのマイミクさんですね :-)
+
+トップページ以外はまだまだカスタマイズ度が足りませんが、暇を見ながらぼちぼち手を入れていこうかなと思ってます。]]></description>
+			<content:encoded><![CDATA[<p>はじめまして、ちー坊さん。<br />
+おおもりさんのマイミクさんですね 🙂</p>
+<p>トップページ以外はまだまだカスタマイズ度が足りませんが、暇を見ながらぼちぼち手を入れていこうかなと思ってます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		ちー坊 より		</title>
+		<link>/gnue/2007/10/13/wordpress-%e3%81%ab%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-2/#comment-820</link>
+
+		<dc:creator><![CDATA[ちー坊]]></dc:creator>
+		<pubDate>Sun, 14 Oct 2007 23:39:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/10/13/wordpress-%e3%81%ab%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-2/#comment-820</guid>
+
+					<description><![CDATA[こんにちは。mixiからおじゃましました。
+私もwordpressに興味があります。
+ココア勉強会がんばってください。]]></description>
+			<content:encoded><![CDATA[<p>こんにちは。mixiからおじゃましました。<br />
+私もwordpressに興味があります。<br />
+ココア勉強会がんばってください。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

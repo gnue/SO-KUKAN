@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mac Box Set &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/mac-box-set/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Aug 2009 12:41:42 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Snow Leopard</title>
+		<link>/gnue/2009/08/25/snow-leopard/</link>
+					<comments>/gnue/2009/08/25/snow-leopard/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2009 12:41:42 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Mac Box Set]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2776</guid>
+
+					<description><![CDATA[ようやく登場した Snow Leopard、Mac Box Set をビックカメラ.com（5%ポイント）で予約しました。でも、さっき Amazon で見たら 5% OFF で出てるのね。Amazon で予約すればよかっ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002MRTR1M/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B002MRTR1M.09.MZZZZZZZ.jpg"  /></div></a> <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002MRTR12/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B002MRTR12.09.MZZZZZZZ.jpg"  /></div></a><br />
+<br class="clear" /></p>
+<p>ようやく登場した Snow Leopard、Mac Box Set をビックカメラ.com（5%ポイント）で予約しました。でも、さっき Amazon で見たら 5% OFF で出てるのね。Amazon で予約すればよかった(^^;</p>
+<p>追記 8/27：出荷メールが届いてた。発売日には届くかな<br />
+追記 8/28：TwitterのTLでは午前中に届いている人が多くて、いつかないつかなとやきもきしたけど 15:00頃にようやく届きました。さっそく MacBook を雪豹にアップデート。でも、MacBook(unibody) って 64bitカーネル起動できないのね。残念 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" />		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/08/25/snow-leopard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

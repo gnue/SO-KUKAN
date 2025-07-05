@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>銀行 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E9%8A%80%E8%A1%8C/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 Jul 2009 16:26:07 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>住信SBIネット銀行の口座をつくった</title>
+		<link>/gnue/2009/07/08/%e4%bd%8f%e4%bf%a1sbi%e3%83%8d%e3%83%83%e3%83%88%e9%8a%80%e8%a1%8c%e3%81%ae%e5%8f%a3%e5%ba%a7%e3%82%92%e3%81%a4%e3%81%8f%e3%81%a3%e3%81%9f/</link>
+					<comments>/gnue/2009/07/08/%e4%bd%8f%e4%bf%a1sbi%e3%83%8d%e3%83%83%e3%83%88%e9%8a%80%e8%a1%8c%e3%81%ae%e5%8f%a3%e5%ba%a7%e3%82%92%e3%81%a4%e3%81%8f%e3%81%a3%e3%81%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2009 16:26:07 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[銀行]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2699</guid>
+
+					<description><![CDATA[新生銀行を使っているのだけれど今度あおぞら銀行と合併するらしい。どっちの銀行も赤字で青色吐息。なんかいやぁな感じだ。 というわけで、ちょっと避難場所確保ということで住信SBIネット銀行の口座をつくってみた。ちなみに支店名 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				新生銀行を使っているのだけれど今度あおぞら銀行と合併するらしい。どっちの銀行も赤字で青色吐息。なんかいやぁな感じだ。</p>
+<p>というわけで、ちょっと避難場所確保ということで住信SBIネット銀行の口座をつくってみた。ちなみに支店名は「レモン支店」（苦笑）</p>
+<p>ちなみに住信SBIネット銀行のカードって裏面に認証番号表が記載されてるのね。まぁ、合理的だかなんだかびみょ〜&#8230;.		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/07/08/%e4%bd%8f%e4%bf%a1sbi%e3%83%8d%e3%83%83%e3%83%88%e9%8a%80%e8%a1%8c%e3%81%ae%e5%8f%a3%e5%ba%a7%e3%82%92%e3%81%a4%e3%81%8f%e3%81%a3%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>銀行の EV SSL 対応</title>
+		<link>/gnue/2008/11/19/%e9%8a%80%e8%a1%8c%e3%81%ae-ev-ssl-%e5%af%be%e5%bf%9c/</link>
+					<comments>/gnue/2008/11/19/%e9%8a%80%e8%a1%8c%e3%81%ae-ev-ssl-%e5%af%be%e5%bf%9c/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2008 08:56:41 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[セキュリティ]]></category>
+		<category><![CDATA[銀行]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1532</guid>
+
+					<description><![CDATA[Mac OS X の Safari が EV SSL 対応したので、使ってる銀行のオンラインサービスがどうなってるかちょっと確認してみた。 三井住友銀行：EV SSL ゆうちょ銀行：EV SSL 新生銀行：普通のSSL  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Mac OS X の Safari が EV SSL 対応したので、使ってる銀行のオンラインサービスがどうなってるかちょっと確認してみた。</p>
+<ul>
+<li>三井住友銀行：EV SSL</li>
+<li>ゆうちょ銀行：EV SSL</li>
+<li>新生銀行：普通のSSL</li>
+</ul>
+<p>あれ、新生銀行だけ普通のSSLか。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/11/19/%e9%8a%80%e8%a1%8c%e3%81%ae-ev-ssl-%e5%af%be%e5%bf%9c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ネットバンキング（新生銀行）に関する不満</title>
+		<link>/gnue/2006/04/21/%e3%83%8d%e3%83%83%e3%83%88%e3%83%90%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0%ef%bc%88%e6%96%b0%e7%94%9f%e9%8a%80%e8%a1%8c%ef%bc%89%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e4%b8%8d%e6%ba%80/</link>
+					<comments>/gnue/2006/04/21/%e3%83%8d%e3%83%83%e3%83%88%e3%83%90%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0%ef%bc%88%e6%96%b0%e7%94%9f%e9%8a%80%e8%a1%8c%ef%bc%89%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e4%b8%8d%e6%ba%80/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 21 Apr 2006 05:13:34 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[銀行]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/04/21/%e3%83%8d%e3%83%83%e3%83%88%e3%83%90%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0%ef%bc%88%e6%96%b0%e7%94%9f%e9%8a%80%e8%a1%8c%ef%bc%89%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e4%b8%8d%e6%ba%80/</guid>
+
+					<description><![CDATA[&#8211; 半角カナを入力しなければいけない &#8211; 振込履歴から振込先を入力できない ほんとなんで銀行系のシステムって半角カナを多用するかな。もちろん内部データがそうなっているのは仕方がない。そうではなくて [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				&#8211; 半角カナを入力しなければいけない<br />
+&#8211; 振込履歴から振込先を入力できない</p>
+<p>ほんとなんで銀行系のシステムって半角カナを多用するかな。もちろん内部データがそうなっているのは仕方がない。そうではなくてユーザ入力で全角カナが使いたいということである。</p>
+<p>振込先はあらかじめ登録しておくことはできるのだが、数回前までの振込履歴から選択できると非常に楽になる。特に現在は半角カナ入力というストレスがあるので欲しい機能である。</p>
+<p>どちらも技術的に難しいものではなく、ちょっとした気配りをシステム仕様に盛り込んで「これでやってね」とシステム部門に要求すればいいだけのことである。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/04/21/%e3%83%8d%e3%83%83%e3%83%88%e3%83%90%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0%ef%bc%88%e6%96%b0%e7%94%9f%e9%8a%80%e8%a1%8c%ef%bc%89%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e4%b8%8d%e6%ba%80/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ATM の現金引出し</title>
+		<link>/gnue/2004/12/31/atm-%e3%81%ae%e7%8f%be%e9%87%91%e5%bc%95%e5%87%ba%e3%81%97/</link>
+					<comments>/gnue/2004/12/31/atm-%e3%81%ae%e7%8f%be%e9%87%91%e5%bc%95%e5%87%ba%e3%81%97/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 31 Dec 2004 04:26:46 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[銀行]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/12/31/atm-%e3%81%ae%e7%8f%be%e9%87%91%e5%bc%95%e5%87%ba%e3%81%97/</guid>
+
+					<description><![CDATA[うわ、いつも使ってる am/pm の ATM が現金が切れたのか引出しができなくなってました。あちゃちゃ、みんな集中して引出すからそうなるのね(^^; とりあえず別のコンビニで引出せたからいいけど、今日はまだ大丈夫だと思 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				うわ、いつも使ってる am/pm の ATM が現金が切れたのか引出しができなくなってました。あちゃちゃ、みんな集中して引出すからそうなるのね(^^;</p>
+<p>とりあえず別のコンビニで引出せたからいいけど、今日はまだ大丈夫だと思ってると現金切れで引出せないかもしれないのでご注意を。</p>
+<p>それにしても正月３ヶ日はどこの銀行も示し合わせたように ATM が使えないからほんと不便。海外の銀行でも同じようなことってあるんだろうか？？？		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2004/12/31/atm-%e3%81%ae%e7%8f%be%e9%87%91%e5%bc%95%e5%87%ba%e3%81%97/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

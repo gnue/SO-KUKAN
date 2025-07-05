@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>クリスマスソング &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BD%E3%83%B3%E3%82%B0/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Dec 2006 04:42:09 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>QotD:クリスマス気分</title>
+		<link>/gnue/2006/12/04/qotd%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e6%b0%97%e5%88%86/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2006 04:42:09 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[festive song]]></category>
+		<category><![CDATA[qotd]]></category>
+		<category><![CDATA[クリスマスソング]]></category>
+		<category><![CDATA[今日の質問]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/12/04/qotd%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e6%b0%97%e5%88%86</guid>
+
+					<description><![CDATA[一番クリスマスを感じる歌は何ですか？ 古いところで水族館オーケストラ「Bright Young X&#039;mas」# 誰も知らないって(^^;]]></description>
+										<content:encoded><![CDATA[<blockquote>
+<p>一番クリスマスを感じる歌は何ですか？ </p>
+</blockquote>
+<p> 古いところで水族館オーケストラ「Bright Young X&#039;mas」<br /># 誰も知らないって(^^;</p>
+<div><br class="khtml-block-placeholder" /></div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NewtonScript &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/newtonscript/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Fri, 28 Oct 2005 14:07:40 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>NEWT/0 の最終目標</title>
+		<link>/gnue/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/</link>
+					<comments>/gnue/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2005 14:07:40 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/</guid>
+
+					<description><![CDATA[まぁ、いろいろと考えていることはあるのだが STEP1) コマンドライン ターゲットは Mac OS X(Darwin), Linux(x86), FreeBSD(x86), Windows XP, Be(x86)、iP [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				まぁ、いろいろと考えていることはあるのだが</p>
+<p>STEP1) コマンドライン</p>
+<p>ターゲットは Mac OS X(Darwin), Linux(x86), FreeBSD(x86), Windows XP, Be(x86)、iPod Linux、それとまだ試していないけど Linux Zaurus。</p>
+<p>Perl, Ruby, Python の置換えが目標。でも文字列処理、正規表現、ライブラリの充実など問題が山積み。<br />
+<span id="more-790"></span><br />
+STEP2) Linux + NEWT/0 + Viewシステム</p>
+<p>Linux 上で NEWT/0 + Viewシステムを起動し、X11 や Qtopia を使わない GUI環境の構築。</p>
+<p>応用０：NEWT/0 on iPod Linux<br />
+応用１：KNOPPIX ベースで NEWT/0 + Viewシステムでブートするディストリビューションの作成<br />
+応用２：Linux Zaurus で Qtopia の代わりに NEWT/0 + Viewシステムを載せる<br />
+応用３：MIT Media Lab の <a href="http://laptop.media.mit.edu/" target="_blank" rel="noopener">$100 Laptop</a> に載せる</p>
+<p>STEP3) マルチプラットフォームの GUIアプリ統合開発環境</p>
+<p>NTK のように GUIアプリを開発し１ソースから Mac OS X, Linux, FreeBSD, Windows など各プラットフォーム用のランタイムバイナリを生成する。生成されたバイナリは各プラットフォームで実行可能。<a href="http://www.asciisolutions.com/products/rb/" target="_blank" rel="noopener">REALbasic</a> をイメージしてもらえるとわかりやすいと思う。</p>
+<p>そして最後には携帯電話の Java や Flash を置換えること（をいをい）</p>
+<p>&#8230;と、最終目標まで先は長いのであった(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/10/28/newt0-%e3%81%ae%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0 &#8211; trac</title>
+		<link>/gnue/2005/07/09/newt0-trac/</link>
+					<comments>/gnue/2005/07/09/newt0-trac/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2005 08:56:42 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<category><![CDATA[Trac]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/07/09/newt0-trac/</guid>
+
+					<description><![CDATA[バージョン管理システムの trac を導入しました。まだ使い方がよくわかっていないのですが今後はこれを使っていこうと思っています。 ⇒ NEWT/0 &#8211; trac]]></description>
+										<content:encoded><![CDATA[<p>				バージョン管理システムの trac を導入しました。まだ使い方がよくわかっていないのですが今後はこれを使っていこうと思っています。</p>
+<p>⇒ <a href="http://trac.so-kukan.com/newt/" target="_blank" rel="noopener">NEWT/0 &#8211; trac</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/07/09/newt0-trac/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0 doxygen ドキュメント</title>
+		<link>/gnue/2005/05/07/newt0-doxygen-%e3%83%89%e3%82%ad%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88/</link>
+					<comments>/gnue/2005/05/07/newt0-doxygen-%e3%83%89%e3%82%ad%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 07 May 2005 06:46:23 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/05/07/newt0-doxygen-%e3%83%89%e3%82%ad%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88/</guid>
+
+					<description><![CDATA[NEWT/0 ソースコードを doxygen でドキュメント化したものを公開しました。 生成に時間がかかるのでいつも最新版とは限りませんがとりあえず現時点の最新版（v0.1.0 2005-05-07-1, Rev 19） [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT/0 ソースコードを doxygen でドキュメント化したものを公開しました。</p>
+<p>生成に時間がかかるのでいつも最新版とは限りませんがとりあえず現時点の最新版（v0.1.0 2005-05-07-1, Rev 19）になります。</p>
+<p>ソースコードで make doc しても同じものが生成できます（要 doxygen &amp; graphviz）</p>
+<p>⇒ <a href="http://trac.so-kukan.com/doc/newt/" target="_blank" rel="noopener">NEWT/0 Documentation</a>(Generated by doxygen)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/05/07/newt0-doxygen-%e3%83%89%e3%82%ad%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.1.0_20050506_1</title>
+		<link>/gnue/2005/05/07/newt0_010_20050506_1/</link>
+					<comments>/gnue/2005/05/07/newt0_010_20050506_1/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 06 May 2005 17:22:40 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/05/07/newt0_010_20050506_1/</guid>
+
+					<description><![CDATA[リポジトリの最新版 trunk(Rev. 17) は NEWT0_0.1.0_20050506_1 となります。 このバージョンから autoconf に対応しました。make する前に ./configure を実行す [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				リポジトリの最新版 trunk(Rev. 17) は NEWT0_0.1.0_20050506_1 となります。</p>
+<p>このバージョンから autoconf に対応しました。make する前に ./configure を実行する必要があります。Xcode でコンパイルする場合には ./configure の必要はありません。</p>
+<p>Newton OS 2.0 との互換性のために &#8211;newton（または &#8211;nos2） オプションを追加しました。まだ完全な互換性を保障するものではありませんが、とりあえず NEWT/0 の独自拡張を使おうとするとワーニングを発生します。</p>
+<p>NSOF(Newton Streamed Object Format) の作成・読込関数として  MakeNSOF, ReadNSOF という２つを追加しました。まだ互換性に問題があります。文字コードで UTF16 に対応してません。Newton のマジックポインタには対応できていません。リトルエンディアン環境での動作。あとファイルの入出力を行う機能もありません（※ protoFILE を利用すれば可能）</p>
+<p>[変更箇所]</p>
+<p>&#8211; &#8211;newton or &#8211;nos2 オプションを追加（不完全）<br />
+&#8211; MakeNSOF, ReadNSOF 関数追加（互換性は不完全）<br />
+&#8211; 文字リテラル内の改行コードをサポート<br />
+&#8211; _ARGV_ の仕様を変更<br />
+&#8211; __FILE__, __LINE__ を追加<br />
+&#8211; OBSOLUTE な C関数群をファイルから削除<br />
+&#8211; Windows 環境でのディレクトリ区切り文字の処理を修正<br />
+&#8211; autoconf 対応<br />
+&#8211; BSD make 対応<br />
+&#8211; その他、バグ修正</p>
+<p>[コンパイル方法]</p>
+<p># ./configure<br />
+# make</p>
+<p>[Subversion]</p>
+<p>&#8211;revision 17<br />
+svn://so-kukan.com/gnue/NEWT0/trunk</p>
+<p>[Update]</p>
+<p>&#8211;revision 19： BeOS 対応<br />
+&#8211;revision 20： MinGW 対応<br />
+&#8211;revision 22： Require で .newt のファイルを読込めないバグを修正<br />
+&#8211;revision 23： CompileFile 関数を追加<br />
+&#8211;revision 24： ReadNSOF で precedent なデータを正しく扱えないバグを修正<br />
+&#8211;revision 31： contrib フォルダを追加		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/05/07/newt0_010_20050506_1/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT/0：Subversion リポジトリを公開</title>
+		<link>/gnue/2005/05/07/newt0%ef%bc%9asubversion-%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%82%92%e5%85%ac%e9%96%8b/</link>
+					<comments>/gnue/2005/05/07/newt0%ef%bc%9asubversion-%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%82%92%e5%85%ac%e9%96%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 06 May 2005 16:59:11 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<category><![CDATA[Subversion]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/05/07/newt0%ef%bc%9asubversion-%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%82%92%e5%85%ac%e9%96%8b/</guid>
+
+					<description><![CDATA[試験的にバージョン管理ソフト “Subversion” のリポジトリを公開してみました。URL は 　svn://so-kukan.com/gnue/NEWT0/ です。Subversion のクライアント（通常は sv [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				試験的にバージョン管理ソフト “Subversion” のリポジトリを公開してみました。URL は</p>
+<p>　svn://so-kukan.com/gnue/NEWT0/</p>
+<p>です。Subversion のクライアント（通常は svn）でチェックアウトすることができます。</p>
+<p>例：<br />
+　svn co svn://so-kukan.com/gnue/NEWT0/trunk<br />
+　svn co svn://so-kukan.com/gnue/NEWT0/tags/0.0.9</p>
+<p>　※リポジトリには NativeCalls, NewtObjC は含まれていません。</p>
+<p>最新版の trunk で make する場合は ./configure が必要ですので注意してください。Xcode でコンパイルする場合は ./configure の必要はありません。</p>
+<p>参考：<br />
+⇒ <a href="http://subversion.tigris.org/" target="_blank" rel="noopener">Subversion</a><br />
+⇒ <a href="http://subversion.bluegate.org/" target="_blank" rel="noopener">Subversionによるバージョン管理(日本語訳)</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/05/07/newt0%ef%bc%9asubversion-%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%82%92%e5%85%ac%e9%96%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.0.9_20050328_1</title>
+		<link>/gnue/2005/03/28/newt0_009_20050328_1/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 28 Mar 2005 10:02:12 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/03/28/newt0_009_20050328_1/</guid>
+
+					<description><![CDATA[NEWT0_0.0.9_20050328_1 を公開しました。 メソッドの継承（resend）が正常に動作しないというプロトタイプ指向にあるまじきバグを修正しました（なんてこった :-{）。Paul にはほんと助けられて [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT0_0.0.9_20050328_1 を公開しました。</p>
+<p>メソッドの継承（resend）が正常に動作しないというプロトタイプ指向にあるまじきバグを修正しました（なんてこった :-{）。Paul にはほんと助けられてます。</p>
+<p>それと NS**** の関数を大幅に名称変更しました。たぶんこれからはこういう大規模な名称変更はないようにしたい。</p>
+<p>あと今回より Linux のバイナリに NativeCalls を、Windows のバイナリに protoREGEX(GNU regex を使用）を追加しました。</p>
+<p>[変更箇所]</p>
+<p> &#8211; メソッドの継承（resend）のバグを修正<br />
+ &#8211; ネイティブ関数から VM を再呼出しする場合の問題を修正<br />
+ &#8211; レキシカルスコープのバグを修正<br />
+ &#8211; onexception の中で例外が発生すると無限ループしてしまうバグを修正<br />
+ &#8211; 特定の範囲の整数リテラルが正しい値にならないバグを修正<br />
+ &#8211; マイナスの整数リテラルのバイトコード生成を修正<br />
+ &#8211; フレーム以外にメソッドを送ったときに segmentation fault になるバグを修正<br />
+ &#8211; コンスタントが関数定義の中で見えなくなってしまうバグを修正<br />
+ &#8211; ParamStr のバグを修正<br />
+ &#8211; ソースコードにおいて NS**** の関数名を大幅に名称変更・修正<br />
+ &#8211; グローバル変数 _ENV_ に PLATFORM スロットと DYLIBSUFFIX を追加<br />
+ &#8211; グローバル変数 _STROUT_, _STRERR_ に文字列をセットすることにより標準出力、標準エラー出力の出力先を指定された文字列にする機能を追加<br />
+ &#8211; 基本的なグローバル関数をいろいろと追加<br />
+ &#8211; &lt;#&#8230;.&gt; バイナリ表現をリードオンリーから書込み可能なオブジェクトに変更<br />
+ &#8211; NativeCalls, NewtObjC（Paul Guyot 作）も最新のものに更新<br />
+ &#8211; basicFns.newt　(Map, DeepClone を実装) を追加<br />
+ &#8211; サンプルコードに inherit.newt, exception.newt（Paul Guyot 作）と regex.newt, fib.newt　を追加<br />
+ &#8211; ソースコードの misc フォルダに &#8220;dumpFn&#8221; ファイルを追加（NTK または Newton の関数オブジェクト／バイトコードをダンプするためのサンプルコードです）</p>
+<p>[実行環境]</p>
+<p> &#8211; Mac OS X 10.3 以上（フルスペック）<br />
+ &#8211; Mac OS X 10.2 （注意：外部ライブラリの読込みができません）<br />
+ &#8211; Linux （KNOPPIX 3.7 でコンパイル）<br />
+ &#8211; Windows （MinGW+MSYS でコンパイル、protoREGEX では GNU regex を使用、NativeCalls は未対応）</p>
+<p>⇒ NEWT0_20050328_1_src.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050328_1_src.tgz">download</a>)<br />
+⇒ NEWT0_20050328_1_macosx.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050328_1_macosx.tgz">download</a>)<br />
+⇒ NEWT0_20050328_1_linux.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050328_1_linux.tgz">download</a>)<br />
+⇒ NEWT0_20050328_1_win.zip (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050328_1_win.zip">download</a>)		</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.0.9_20050315_1</title>
+		<link>/gnue/2005/03/15/newt0_009_20050315_1/</link>
+					<comments>/gnue/2005/03/15/newt0_009_20050315_1/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 15 Mar 2005 14:55:51 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/03/15/newt0_009_20050315_1/</guid>
+
+					<description><![CDATA[NEWT0_0.0.9_20050315_1 を公開しました。 前回のバージョンで問題がみつかったので修正しました。ついでにバージョン情報のグローバル変数も追加。 Linux で NativeCalls のコンパイルは成 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT0_0.0.9_20050315_1 を公開しました。<br />
+<span id="more-600"></span><br />
+前回のバージョンで問題がみつかったので修正しました。ついでにバージョン情報のグローバル変数も追加。</p>
+<p>Linux で NativeCalls のコンパイルは成功したのですがうまく実行できなかったのでバイナリには含めませんでした。</p>
+<p>[変更箇所]</p>
+<p> &#8211; 前回のバージョンで Load 関数などを実行すると続きが正常に実行されない問題を修正<br />
+ &#8211; グローバル変数 _VERSION_ （バージョン情報）を追加</p>
+<p>[実行環境]</p>
+<p> &#8211; Mac OS X 10.3 以上（フルスペック）<br />
+ &#8211; Mac OS X 10.2 （注意：外部ライブラリの読込みができません）<br />
+ &#8211; Linux （KNOPPIX 3.7 でコンパイル、NativeCalls は未対応）<br />
+ &#8211; Windows （MinGW+MSYS でコンパイル、protoREGEX, NativeCalls は未対応）</p>
+<p>⇒ NEWT0_20050315_1_src.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050315_1_src.tgz">download</a>)<br />
+⇒ NEWT0_20050315_1_macosx.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050315_1_macosx.tgz">download</a>)<br />
+⇒ NEWT0_20050315_1_linux.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050315_1_linux.tgz">download</a>)<br />
+⇒ NEWT0_20050315_1_win.zip (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050315_1_win.zip">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/03/15/newt0_009_20050315_1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.0.9_20050314_1</title>
+		<link>/gnue/2005/03/15/newt0_009_20050314_1/</link>
+					<comments>/gnue/2005/03/15/newt0_009_20050314_1/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 15 Mar 2005 04:08:32 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/03/15/newt0_009_20050314_1/</guid>
+
+					<description><![CDATA[NEWT0_0.0.9_20050314_1 を公開しました。 今回のトピックは Paul Guyot 作の NewtObjC です。名前を見てピンと来る人は通です（笑）。Python に PyObjC、Ruby に R [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT0_0.0.9_20050314_1 を公開しました。</p>
+<p>今回のトピックは Paul Guyot 作の NewtObjC です。名前を見てピンと来る人は通です（笑）。Python に PyObjC、Ruby に RubyCocoa があるように NewtonScript で Cocoa プログラミングが可能になります。ワンダフル！　感謝です、Paul <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>あと Paul Guyot 作の protoNATIVE が NativeCalls に置き換わりました。使いやすいようにプロトではなくグローバル関数を使うように変更されています。</p>
+<p>※すみません、Mac OS X 以外のバイナリはまだコンパイルしていません。あとでコンパイルしてダウンロードできるようにします。</p>
+<p>[変更箇所]</p>
+<p> &#8211; Length 関数に文字列を与えた場合の仕様に問題があった（文字列の長さを返していた）ので、Newton と同じ仕様（バイナリのサイズを返す）に変更しました<br />
+ &#8211; 上記の修正にともない StrLen 関数を追加しました<br />
+ &#8211; NewtObjC　サポートのための修正（Paul Guyot のパッチを取入れました）<br />
+ &#8211; FreeBSD コンパイルのための修正（Paul Guyot のパッチを取入れました）<br />
+ &#8211; Paul Guyot 作の NativeCalls を添付（protoNATIVE の置換え）<br />
+ &#8211; Paul Guyot 作の NewtObjC を添付</p>
+<p>[実行環境]</p>
+<p> &#8211; Mac OS X 10.3 以上（フルスペック）<br />
+ &#8211; Mac OS X 10.2 （注意：外部ライブラリの読込みができません）</p>
+<p>⇒ NEWT0_20050314_1_src.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050314_1_src.tgz">download</a>)<br />
+⇒ NEWT0_20050314_1_macosx.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050314_1_macosx.tgz">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/03/15/newt0_009_20050314_1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.0.9_20050311_1</title>
+		<link>/gnue/2005/03/11/newt0_009_20050311_1/</link>
+					<comments>/gnue/2005/03/11/newt0_009_20050311_1/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 10 Mar 2005 18:44:13 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/03/11/newt0_009_20050311_1/</guid>
+
+					<description><![CDATA[NEWT0_0.0.9_20050311_1 を公開しました。 今回のトピックはネイティブ関数の第一引数にレシーバを取るようにしたことと、Paul Guyot が作成してくれた protoNATIVE です。 ネイティブ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT0_0.0.9_20050311_1 を公開しました。<br />
+<span id="more-593"></span><br />
+今回のトピックはネイティブ関数の第一引数にレシーバを取るようにしたことと、Paul Guyot が作成してくれた protoNATIVE です。</p>
+<p>ネイティブ関数のレシーバに関しては Paul に指摘を受けました。Newton C++ Tools や Simon Bell の Newton.framework との互換性を考えても第一引数のレシーバがあったほうがいいと判断して随時移行していきます。それとまだ全然未完成ですが互換用の Newton/*.h も追加しました。</p>
+<p>protoNATIVE は libffi を使って C言語の動的ライブラリをスクリプトから使うことができるという優れものです。Paul に感謝 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>[変更箇所]</p>
+<p> &#8211; #UNBIND を ClassOf するとエラーになる問題を修正<br />
+ &#8211; 組込み関数を追加(IsArray, IsFrame, IsSymbol, IsString, IsCharacter, IsInteger, IsReal, MakeBinary)<br />
+ &#8211; ネイティブ関数の第一引数にレシーバを取るようにしました。現在 移行中のために古い形式と新しい形式が混在しています<br />
+ &#8211; 上記新形式のものから　C言語関数名の接頭語を NS から Ns に随時変更しています（Cocoa が NS を使用しているため）<br />
+ &#8211; プリント関係のルーチンを NewtPrint.c に移動しました<br />
+ &#8211; Newton C++ Tools および Newton.framework との互換用に Newton/*.h のヘッダファイルを追加（未完成）<br />
+ &#8211; Paul Guyot 作の protoNATIVE を contribute フォルダ（src と Mac OS X版のみ）に追加。ライセンスは MPL 1.1 です</p>
+<p>[実行環境]</p>
+<p> &#8211; Mac OS X 10.3 以上（フルスペック）<br />
+ &#8211; Mac OS X 10.2 （注意：外部ライブラリの読込みができません）<br />
+ &#8211; Linux （KNOPPIX 3.7 でコンパイル）<br />
+ &#8211; Windows （MinGW+MSYS でコンパイル、protoREGEX は未対応）</p>
+<p>⇒ NEWT0_20050311_1_src.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050311_1_src.tgz">download</a>)<br />
+⇒ NEWT0_20050311_1_macosx.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050311_1_macosx.tgz">download</a>)<br />
+⇒ NEWT0_20050311_1_linux.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050311_1_linux.tgz">download</a>)<br />
+⇒ NEWT0_20050311_1_win.zip (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050311_1_win.zip">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/03/11/newt0_009_20050311_1/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEWT0_0.0.8_20050111_4</title>
+		<link>/gnue/2005/01/11/newt0_008_20050111_4/</link>
+					<comments>/gnue/2005/01/11/newt0_008_20050111_4/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2005 07:22:55 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[NEWT/0]]></category>
+		<category><![CDATA[NewtonScript]]></category>
+		<category><![CDATA[Products]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2005/01/11/newt0_008_20050111_4/</guid>
+
+					<description><![CDATA[NEWT0_0.0.8_20050111_4 を公開しました。 今回のトピックは不定長引数のサポートと作業ディレクトリ・オプションです。それとWin版バイナリは strip -x で小さくするようにしました。とりあえず問 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				NEWT0_0.0.8_20050111_4 を公開しました。<br />
+<span id="more-492"></span><br />
+今回のトピックは不定長引数のサポートと作業ディレクトリ・オプションです。それとWin版バイナリは strip -x で小さくするようにしました。とりあえず問題なく動作しているようです。</p>
+<p>不定長引数の宣言は３点リーダーを使用します。</p>
+<p>　例： func(a1, a2, args&#8230;) 〜</p>
+<p>C言語の stdarg に少し似ていますが、NEWT/0 では自動的に最後の仮引数に残りの引数が配列化されて束縛されます。</p>
+<p>[変更箇所]</p>
+<p> &#8211; 不定長引数のサポート（独自機能）<br />
+ &#8211; 作業ディレクトリ・オプション（-C directory）の追加<br />
+ &#8211; Win版バイナリを strip -x でサイズ縮小<br />
+ &#8211; 構文解析時のエラーメッセージのバグを修正<br />
+ &#8211; LoadLib の潜在的なバグを修正</p>
+<p>[実行環境]</p>
+<p> &#8211; Mac OS X 10.3 以上（フルスペック）<br />
+ &#8211; Mac OS X 10.2 （注意：外部ライブラリの読込みができません）<br />
+ &#8211; Linux （KNOPPIX 3.7 でコンパイル）<br />
+ &#8211; Windows （MinGW+MSYS でコンパイル、protoREGEX は未対応）</p>
+<p>⇒ NEWT0_20050111_4_src.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_src.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_macosx.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_macosx.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_linux.tgz (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_linux.tgz">download</a>)<br />
+⇒ NEWT0_20050111_4_win.zip (<a href="https://so-kukan.com/newt/lib/proto_0/NEWT0_20050111_4_win.zip">download</a>)		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2005/01/11/newt0_008_20050111_4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AirDisk &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/airdisk/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 26 Mar 2008 06:44:38 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>AirDisk と Time Machine</title>
+		<link>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/</link>
+					<comments>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2008 06:44:38 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[AirDisk]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1222</guid>
+
+					<description><![CDATA[ソフトウェアアップデートによって AirMac Extremeベースステーションに接続した HDD にも Time Machine のバックアップができるようになったというのでさっそく試してみました。 最初どうやっても  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ソフトウェアアップデートによって AirMac Extremeベースステーションに接続した HDD にも Time Machine のバックアップができるようになったというのでさっそく試してみました。</p>
+<p>最初どうやっても Time Machine の「ディスクを変更&#8230;」のリストに表示されずなんでだろうと悩んでしまいましたが、どうやら AirMac の「共有ディスクのセキュリティ保護」を『アカウント』にしていたのがいけなかったようです。設定を『ディスクパスワード』または『AirMac Extremeパスワード』に変更したらリストに表示されるようになりました。</p>
+<p>というわけで、しばらくはこの状態で Time Machine を使おうかと思います。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/03/26/airdisk-%e3%81%a8-time-machine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

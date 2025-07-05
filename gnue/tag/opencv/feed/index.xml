@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpenCV &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/opencv/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Mon, 22 Jun 2009 14:11:19 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>iPhone用に OpenCV.framework を作成する</title>
+		<link>/gnue/2009/06/22/iphone%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/</link>
+					<comments>/gnue/2009/06/22/iphone%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2009 14:11:19 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[OpenCV]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2603</guid>
+
+					<description><![CDATA[いろいろ試してみたけど niw’s さんの opencv_build_scripts を使ってコンパイルして、あとは自分でフレームワークまで構築する Makefile.iphone を書いた。 opencv-1.1pre [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				いろいろ試してみたけど <a href="http://niw.at/ja">niw’s</a> さんの opencv_build_scripts を使ってコンパイルして、あとは自分でフレームワークまで構築する Makefile.iphone を書いた。</p>
+<ol>
+<li><a href="http://sourceforge.net/project/showfiles.php?group_id=22870&amp;package_id=16948&amp;release_id=634504">opencv-1.1pre1.tar.gz</a> をダウンロード<br />
+※ Source Forge の模様替えの影響で現在 Safari でダウンロードできないようです。Firefox でのダウンロードを試してみて下さい。opencv-linux/1.1pre1 の下にあるやつです（2009/7/5 現在）
+</li>
+<li>tar xzf opencv-1.1pre1.tar.gz</li>
+<li><a href="http://github.com/niw/iphone_opencv_test/tree/master">niw&#8217;s iphone_opencv_test at master &#8211; GitHub</a> から opencv_build_scripts のフォルダを持ってきてopencv-1.1.0フォルダと同じ階層になるように配置する（注意：opencv-1.1.0 の下ではない！）</li>
+<li><a href="http://repos.so-kukan.com/tools/iphone/opencv/Makefile.iphone">Makefie.iphone</a> を opencv-1.1.0フォルダの下に配置</li>
+<li>make -f Makefile.iphone</li>
+</ol>
+<p>注：環境によってエラーになる場合は cvconfig.h.in を編集してエラーになる箇所をコンパイルしないように対象の #undef 〜 をコメントアウトする（例 /* #undef HAVE_JPEG */ ）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/22/iphone%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac OS X用に OpenCV.framework を作成する</title>
+		<link>/gnue/2009/06/22/mac-os-x%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/</link>
+					<comments>/gnue/2009/06/22/mac-os-x%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2009 18:48:36 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OpenCV]]></category>
+		<category><![CDATA[覚書き]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2584</guid>
+
+					<description><![CDATA[Mac OS X用の OpenCV.framework を作成するための覚書き。 autotools/darwin をどこから持って来ればいいのかわからなくて悩んでしまった。 opencv-1.1pre1.tar.gz  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Mac OS X用の OpenCV.framework を作成するための覚書き。<br />
+autotools/darwin をどこから持って来ればいいのかわからなくて悩んでしまった。</p>
+<p><span id="more-2584"></span></p>
+<ol>
+<li><a href="http://sourceforge.net/project/showfiles.php?group_id=22870&amp;package_id=16948&amp;release_id=634504">opencv-1.1pre1.tar.gz</a> をダウンロード</li>
+<li>tar xzf opencv-1.1pre1.tar.gz</li>
+<li>ml/src/ml_inner_functions.cpp を編集。cvCompleteSymm関数を無効にする
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">#ifndef __APPLE__<br />
+void cvCompleteSymm( CvMat* matrix, int lower_to_upper )<br />
+{<br />
+&nbsp; &nbsp; 〜<br />
+}<br />
+#endif</div></div>
+</li>
+<li>autotools の下に必要なファイルを持ってくる
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ pushd autotools<br />
+$ svn export http://opencvlibrary.svn.sourceforge.net/svnroot/opencvlibrary/tags/latest_tested_snapshot/opencv/autotools/darwin<br />
+$ popd</div></div>
+</li>
+<li>OpenCV.framework をビルドする
+<div class="codecolorer-container text default" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><div class="text codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap;">$ ./configure<br />
+$ export FRAMEWORK_ARCH=i386<br />
+$ export FRAMEWORK_INSTALL_PATH=@loader_path/../Frameworks<br />
+$ make framework</div></div>
+</li>
+</ol>
+<p>samples/MacOSX/FaceTracker をコンパイルしてちゃんと動くか確認する（Releaseコンパイルする場合はターゲットのビルド設定でアーキテクチャから ppc を削除）。</p>
+<p>※ このビルドでは i386 でしかコンパイルしていないので注意</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2009/06/22/mac-os-x%e7%94%a8%e3%81%ab-opencvframework-%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

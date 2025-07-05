@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>着信音 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/%E7%9D%80%E4%BF%A1%E9%9F%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 29 Jul 2008 07:50:08 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>着信音のつくりかた</title>
+		<link>/gnue/2008/07/29/%e7%9d%80%e4%bf%a1%e9%9f%b3%e3%81%ae%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%8b%e3%81%9f/</link>
+					<comments>/gnue/2008/07/29/%e7%9d%80%e4%bf%a1%e9%9f%b3%e3%81%ae%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%8b%e3%81%9f/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2008 07:50:08 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[着信音]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1307</guid>
+
+					<description><![CDATA[iPhone 着信音の作り方、メモ。 40秒以内の AACファイルを作成 拡張子 m4a を m4r に変更 ダブルクリックで iTunes に登録 40秒の編集には GarageBand を使ってもいいし、 Quick [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				iPhone 着信音の作り方、メモ。</p>
+<ol>
+<li>40秒以内の AACファイルを作成</li>
+<li>拡張子 m4a を m4r に変更</li>
+<li>ダブルクリックで iTunes に登録</li>
+</ol>
+<p>40秒の編集には GarageBand を使ってもいいし、 QuickTime Pro を使ってもいい。</p>
+<p>追記：私は一世代古い GarageBand を使っているのですが、最新の GarageBand だと「iTunes に着信音を送信」で直接登録が可能らしい		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/07/29/%e7%9d%80%e4%bf%a1%e9%9f%b3%e3%81%ae%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%8b%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ruby &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/ruby/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Aug 2007 15:01:37 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>LL言語の浮動小数点数リテラルの扱いは正しいのか</title>
+		<link>/gnue/2007/08/16/ll%e8%a8%80%e8%aa%9e%e3%81%ae%e6%b5%ae%e5%8b%95%e5%b0%8f%e6%95%b0%e7%82%b9%e6%95%b0%e3%83%aa%e3%83%86%e3%83%a9%e3%83%ab%e3%81%ae%e6%89%b1%e3%81%84%e3%81%af%e6%ad%a3%e3%81%97%e3%81%84%e3%81%ae%e3%81%8b/</link>
+					<comments>/gnue/2007/08/16/ll%e8%a8%80%e8%aa%9e%e3%81%ae%e6%b5%ae%e5%8b%95%e5%b0%8f%e6%95%b0%e7%82%b9%e6%95%b0%e3%83%aa%e3%83%86%e3%83%a9%e3%83%ab%e3%81%ae%e6%89%b1%e3%81%84%e3%81%af%e6%ad%a3%e3%81%97%e3%81%84%e3%81%ae%e3%81%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 15:01:37 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[LL]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/08/16/ll%e8%a8%80%e8%aa%9e%e3%81%ae%e6%b5%ae%e5%8b%95%e5%b0%8f%e6%95%b0%e7%82%b9%e6%95%b0%e3%83%aa%e3%83%86%e3%83%a9%e3%83%ab%e3%81%ae%e6%89%b1%e3%81%84%e3%81%af%e6%ad%a3%e3%81%97%e3%81%84%e3%81%ae%e3%81%</guid>
+
+					<description><![CDATA[将来のためにメモ。 ⇒ Rubyの浮動小数点数リテラルの扱いは正しいのか（hnwの日記）]]></description>
+										<content:encoded><![CDATA[<p>				将来のためにメモ。</p>
+<p>⇒ <a href="http://d.hatena.ne.jp/hnw/20070802" target="_blank" rel="noopener">Rubyの浮動小数点数リテラルの扱いは正しいのか</a>（hnwの日記）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/08/16/ll%e8%a8%80%e8%aa%9e%e3%81%ae%e6%b5%ae%e5%8b%95%e5%b0%8f%e6%95%b0%e7%82%b9%e6%95%b0%e3%83%aa%e3%83%86%e3%83%a9%e3%83%ab%e3%81%ae%e6%89%b1%e3%81%84%e3%81%af%e6%ad%a3%e3%81%97%e3%81%84%e3%81%ae%e3%81%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ruby for Symbian OS</title>
+		<link>/gnue/2006/11/23/ruby-for-symbian-os/</link>
+					<comments>/gnue/2006/11/23/ruby-for-symbian-os/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 23 Nov 2006 06:02:17 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[Symbian OS]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/11/23/ruby-for-symbian-os/</guid>
+
+					<description><![CDATA[Ruby が Symbian OS で動くようになったそうです。S60用のバイナリが配布されています。 うーん、どうやって移植したんだろ。以前 Symbian OS のプログラミングを調べたときかなり独自のメモリ管理(* [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Ruby が Symbian OS で動くようになったそうです。S60用のバイナリが配布されています。</p>
+<p>うーん、どうやって移植したんだろ。以前 Symbian OS のプログラミングを調べたときかなり独自のメモリ管理(*1)をやっていて普通に UNIX/POSIX で組んであるプログラムを移植するのは大変そうだったのだけど。<a href="http://www.rubyist.net/~matz/20061022.html#p02">Matzにっき「RubyConf3日目」 </a>の「Google Summer of Code Student Talks」で「SymbianがPOSIX互換層を用意してくれたからできた&#8230;」とあるのでこの POSIX互換層を使うといいのか。</p>
+<p>*1) 調べたのがかなり昔なので今はどうなっているのかわからないけど、昔は C++ の new ですらメモリ枯渇でクリティカルな問題が発生するので使っちゃいけないということになっていた。で、独自な方法でメモリを確保して Class を作成し、独自な方法でメモリを解放しなければいけない</p>
+<p>⇒ <a href="http://developer.symbian.com/main/tools/opensrc/ruby/index.jsp" target="_blank" rel="noopener">Ruby for Symbian OS</a>（Symbian Developer Network）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/11/23/ruby-for-symbian-os/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ruby の構文図</title>
+		<link>/gnue/2006/11/19/ruby-%e3%81%ae%e6%a7%8b%e6%96%87%e5%9b%b3/</link>
+					<comments>/gnue/2006/11/19/ruby-%e3%81%ae%e6%a7%8b%e6%96%87%e5%9b%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 19 Nov 2006 08:39:36 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/11/19/ruby-%e3%81%ae%e6%a7%8b%e6%96%87%e5%9b%b3/</guid>
+
+					<description><![CDATA[Ruby の構文図を ANTLRWorks と GraphViz を使って描いた人がいるそうです。なるほどなかなかグラフが込み入ってます。Java 1.5 や JavaScript(ECMAScript) の構文図もあり [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				Ruby の構文図を ANTLRWorks と GraphViz を使って描いた人がいるそうです。なるほどなかなかグラフが込み入ってます。Java 1.5 や JavaScript(ECMAScript) の構文図もありますが Java 1.5 もなかなか複雑、JavaScript は奇麗ですね。</p>
+<p><strike>個人的には Ruby がそれほど複雑な構文だとは思わないのだけど確かに yacc とかの　BNF を使う構文解析ジェネレータとは相性が悪そう。</p>
+<p>構文的（BNF的）に奇麗なプログラミング言語としては Pascal が有名だけど、Pascal に影響を受けている後発の C言語が必ずしも Pascal 型の構文を踏襲せず比較的使いやすい構文を築きあげたことを考えると BNF的に奇麗であることがすべてではないということだろう(*1)</p>
+<p>いい加減 BNF(EBNF) もここ数十年全然進歩していないし、ここは Ruby のための新しいBNF記法と構文解析ジェネレータを発明したほうがいいのかもしれない。</strike></p>
+<p>追記 11/20：どうも Ruby　が実装レベルの parse.y を使っているのに対して Java 1.5 と JavaScript はおもちゃのような ANTLR のサンプルコードを使っているのでこれで比べるのは意味がありませんね。</p>
+<p>*1) C言語は Pascal よりも構文的には汚い（曖昧性がある）と言われるが、全体的に見ると奇麗な構文の部類に入る</p>
+<p>⇒ <a href="http://blog.nicksieger.com/articles/2006/10/27/visualization-of-rubys-grammar" target="_blank" rel="noopener">Visualization of Ruby&#8217;s Grammar</a>（Nick Sieger）<br />
+⇒ <a href="http://www.rubyist.net/~matz/20061030.html#p02" target="_blank" rel="noopener">Visualization of Ruby&#8217;s Grammar</a>（Matzにっき）		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/11/19/ruby-%e3%81%ae%e6%a7%8b%e6%96%87%e5%9b%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>「日本Rubyカンファレンス2006」聞き終わった</title>
+		<link>/gnue/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/</link>
+					<comments>/gnue/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/#comments</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 23 Sep 2006 05:39:18 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/</guid>
+
+					<description><![CDATA[「日本Rubyカンファレンス2006」の音声ファイル、ようやく聞き終えました。まぁ、ボリュームが多いのでながらとはいえ全部聞くのってかなり大変でした。 率直な感想としてなかなか面白かったです。○○カンファレンスとかの内容 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				「日本Rubyカンファレンス2006」の音声ファイル、ようやく聞き終えました。まぁ、ボリュームが多いのでながらとはいえ全部聞くのってかなり大変でした。</p>
+<p>率直な感想としてなかなか面白かったです。○○カンファレンスとかの内容がこういうふうに配信されるのっていいですよね。これからもこういう音声配信は是非続けて欲しいものです。</p>
+<p>今回の音声ファイルでちょっと残念だったのが全体的に録音レベルが小さくて、MacBook または iPod nano + <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000BNBTC4/gnue-22" target="_blank">mm50</a> でボリュームを最大にしても聞き取りづらかったことです(*1)。私も <a href="http://newton.so-kukan.com/gravity/Podcast/Podcast.html" target="_blank" rel="noopener">Newton Einstein Night</a> のビデオを編集したときにも録音レベルの低さに苦労したけど何かいい方法（ツール）がないものでしょうか。</p>
+<p>あと贅沢な注文をするとすれば、（編集するほうは大変なのだけど）エンハンスドポッドキャスティング形式でスライド画像も入っているともっといいのだけど。</p>
+<p>*1) 最初は MacBook で聞いていたけどさすがにがまんできなくなって iPod nano + mm50 にしました。それでもそれほど最大音量が大きくならなかったんですけどね</p>
+<p>⇒ <a href="http://jp.rubyist.net/RubyKaigi2006/audio/" target="_blank" rel="noopener">日本Rubyカンファレンス2006 &#8211; 音声ファイル</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/09/23/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e8%81%9e%e3%81%8d%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>「日本Rubyカンファレンス2006」の音声ファイル</title>
+		<link>/gnue/2006/08/30/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e3%81%ae%e9%9f%b3%e5%a3%b0%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2006 23:11:13 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[podcasting]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/08/30/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e3%81%ae%e9%9f%b3%e5%a3%b0%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab</guid>
+
+					<description><![CDATA[「日本Rubyカンファレンス2006 」の音声ファイルが公開されています。Podcasting 対応。 lame というコマンドツールで MP3 に変換しているようですが&#160;Mac OS X の iTunes で [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>「日本Rubyカンファレンス2006 」の音声ファイルが公開されています。Podcasting 対応。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div><span class="Apple-style-span">lame というコマンドツールで MP3 に変換しているようですが&#160;</span>Mac OS X の iTunes ではアーティスト名が文字化けするようです。<a href="http://kazuhiko.tdiary.net/20060830.html#p01">ふぇみにん</a>さんが対策を探しています。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>⇒ <a href="http://jp.rubyist.net/RubyKaigi2006/audio/">日本Rubyカンファレンス2006 &#8211; 音声ファイル</a>（日本Rubyの会）</div>
+<div><br class="khtml-block-placeholder" /></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

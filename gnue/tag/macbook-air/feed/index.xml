@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MacBook Air &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/macbook-air/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Jan 2008 07:40:34 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>MacBook Air</title>
+		<link>/gnue/2008/01/17/macbook-air/</link>
+					<comments>/gnue/2008/01/17/macbook-air/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2008 07:40:34 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2008/01/macbook-air/</guid>
+
+					<description><![CDATA[ほぼ事前の噂通りでしたね。価格が安ければ欲しいところなのだけれど今回はスルーでしょうか。とりあえず次は MacBook の LEDディスプレイ搭載バージョンを待つことにします。]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0012NBJ7M/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B0012NBJ7M.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>ほぼ事前の噂通りでしたね。価格が安ければ欲しいところなのだけれど今回はスルーでしょうか。とりあえず次は MacBook の LEDディスプレイ搭載バージョンを待つことにします。</p>
+<p>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/01/17/macbook-air/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

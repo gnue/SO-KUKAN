@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AirMac Extreme &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/airmac-extreme/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Thu, 15 Mar 2007 08:55:39 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Nokia N800 と AirMac Extreme Base Station</title>
+		<link>/gnue/2007/03/15/nokia-n800-%e3%81%a8-airmac-extreme-base-station/</link>
+					<comments>/gnue/2007/03/15/nokia-n800-%e3%81%a8-airmac-extreme-base-station/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2007 08:55:39 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[AirMac Extreme]]></category>
+		<category><![CDATA[N800]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1184</guid>
+
+					<description><![CDATA[ようやくFedEx の荷物を受け取りました。そう、Nokia N800 です。 ところがさっそく壁にぶちあたってます。表題にあるとおり AirMac Extreme Base Station（IEEE802.11n対応） [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				ようやくFedEx の荷物を受け取りました。そう、Nokia N800 です。</p>
+<p>ところがさっそく壁にぶちあたってます。表題にあるとおり AirMac Extreme Base Station（IEEE802.11n対応）経由でインターネットに繋がらない&#8230;orz</p>
+<p>まず、最初にひっかかったのが WDS によるネットワーク拡張。こいつが ON になっていると N800 が Base Station を見つけてくれません。こいつは何とか気がついて解決した（OFF にするようにした）のですが、こんどは Base Station に接続できているのにインターネットにアクセスできません。状況としては LAN 側にはアクセスできているのに WAN側にアクセスできてません。手動でルータ（つまり Base Station 自身）の IPアドレスを入れたにも関わらず接続時の表示は (none) のまま。うーん、行き詰まってしまった。</p>
+<p>誰かこの辺の情報を持っている人がいたらタレコミよろしく。</p>
+<p>さてと、せっかくのインターネットタブレットがインーネットに繋がらないって、、、とほほ。</p>
+<p>追記 3/23：なんとか解決しました<br />
+⇒ <a href="/gnue/?p=1186">「インターネットに繋がらない N800（解決編）」</a>		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/03/15/nokia-n800-%e3%81%a8-airmac-extreme-base-station/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>新 AirMac Extremeベースステーション・インプレッション</title>
+		<link>/gnue/2007/02/09/%e6%96%b0-airmac-extreme%e3%83%99%e3%83%bc%e3%82%b9%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%bb%e3%82%a4%e3%83%b3%e3%83%97%e3%83%ac%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+					<comments>/gnue/2007/02/09/%e6%96%b0-airmac-extreme%e3%83%99%e3%83%bc%e3%82%b9%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%bb%e3%82%a4%e3%83%b3%e3%83%97%e3%83%ac%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Fri, 09 Feb 2007 11:43:18 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[AirMac Extreme]]></category>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/2007/02/09/%e6%96%b0-airmac-extreme%e3%83%99%e3%83%bc%e3%82%b9%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%bb%e3%82%a4%e3%83%b3%e3%83%97%e3%83%ac%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3/</guid>
+
+					<description><![CDATA[新しい AirMac Extremeベースステーションのインプレッションです。 以前は AirMac Express を使っていたのでその設定ファイルを読込んで簡単に再設定ができました。なお「AirMac 管理ユーティリ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				新しい AirMac Extremeベースステーションのインプレッションです。</p>
+<p>以前は AirMac Express を使っていたのでその設定ファイルを読込んで簡単に再設定ができました。なお「AirMac 管理ユーティリティ」は「AirMac ユーティリティ」に置き換えになったので、CD-ROM 内のソフトウェアは必ずインストールする必要があります。「AirMac ユーティリティ」はユーザインタフェースも変わり機能強化がされてます。</p>
+<p>あと、以前の設定ファイルを読込んでもデフォルトパスワードはそのままなので再設定をしないとエラー表示がつきっぱなしになります。まずはベースステーションのパスワードを再設定しましょう。</p>
+<p>とりあえず、気になったところだけをちょっと抜出してみると</p>
+<p>&#8211; 無線モードは「802.11n（802.11b/g互換）」or「802.11n（802.11a互換）」<br />
+&#8211; CD-ROM からユーティリティを要インストール（AirMac ユーティリティ、AirMac ディスクユーティリティ）<br />
+&#8211; 外付け USB HDD は USBバスパワーでも動作<br />
+&#8211; 共有ディスクの実体は「/ボリューム名」「/Users/ユーザ名」のフォルダ<br />
+&#8211; 共有ディスクのアクセス制御は「アカウント」「ディスクパスワード」「ベースステーションのパスワード」の３種類のうちひとつ<br />
+&#8211; Windowsファイル共有にも対応<br />
+&#8211; Bonjour のワイドエリアホスト名</p>
+<p>無線モードは「802.11n（802.11b/g互換）」と「802.11n（802.11a互換）」で切換えて使用。あとあまり使わないと思うけど 「802.11nのみ（2.4GHz）」と「802.11nのみ（5GHz）」もある。</p>
+<p>だめもとで USBバスパワーの外付け HDD をつけてみましたが問題なく動作しました。NAS 製品で USBバスパワーは非対応という製品が多いのでどうかなと思ったけど大丈夫そう。</p>
+<p>興味深いのが Bonjour のワイドエリアホスト名。インターネットからもこのホスト名でアクセスできるようになるみたいですがどういう仕組みなんでしょう。<strike>Apple 内に専用のダイナミックDNSサーバが動いているということなんでしょうか。</strike>何はともあれ固定IPでなくてもインターネット経由でアクセスできるようになるというのはいいですね。</p>
+<p><strike>追記：ワイドエリアホスト名はどうやら単なる DDNS サービスへのアップデート機能（Bonjour 用の名前を流用する？）のようです。で、どの DDNS サービス（プロトコル）に対応しているのかまったく書いてない&#8230;.orz　あるいはこれから Apple 独自の DDNS更新プロトコルを公開して ISP に対応してもらおうということなのか？</strike></p>
+<p>追記：なんのことはない DNS サーバに <a href="http://www.ietf.org/rfc/rfc2136.txt" target="_blank" rel="noopener">DNS Update(RFC2136)</a> を送るだけっぽい。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/02/09/%e6%96%b0-airmac-extreme%e3%83%99%e3%83%bc%e3%82%b9%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%bb%e3%82%a4%e3%83%b3%e3%83%97%e3%83%ac%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>新 Apple AirMac Extremeベースステーションを予約</title>
+		<link>/gnue/2007/01/20/%e6%96%b0-apple-airmac-extreme%e3%83%99%e3%83%bc%e3%82%b9%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e4%ba%88%e7%b4%84/</link>
+					<comments>/gnue/2007/01/20/%e6%96%b0-apple-airmac-extreme%e3%83%99%e3%83%bc%e3%82%b9%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e4%ba%88%e7%b4%84/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 20 Jan 2007 05:51:40 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[AirMac Extreme]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2007/01/20/%e6%96%b0-apple-airmac-extreme%e3%83%99%e3%83%bc%e3%82%b9%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e4%ba%88%e7%b4%84/</guid>
+
+					<description><![CDATA[２月発売予定の　IEEE 802.11n対応 Apple AirMac Extremeベースステーションをビックカメラ.comで予約オーダー。ビックカメラ.com にしたのはポイントが 10%つくから（ヨドバシ.com  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000MGBPOW/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/B000MGBPOW.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>２月発売予定の　IEEE 802.11n対応 Apple AirMac Extremeベースステーションをビックカメラ.comで予約オーダー。ビックカメラ.com にしたのはポイントが 10%つくから（ヨドバシ.com は 5%だった）。</p>
+<p></p>
+<p>それにしても ビックカメラ.com のシステムはいまいちだな。三井住友VISA でない VISA カードは UCカードを選択するってどういうことよ。ヨドバシ.com もよく使うけどやっぱり使いやすさ・わかりやすさ・洗練度だと Amazon が１歩も２歩も抜きん出ているなぁ。</p>
+<p>追記 01/27：領収書だけ届く<br />
+追記 02/07：出荷されましたのメールが届く<br />
+追記 02/08：モノが到着、セットアップ完了。木馬と命名。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/01/20/%e6%96%b0-apple-airmac-extreme%e3%83%99%e3%83%bc%e3%82%b9%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e4%ba%88%e7%b4%84/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OS自作入門 &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/os%E8%87%AA%E4%BD%9C%E5%85%A5%E9%96%80/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Jul 2006 00:50:45 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Mac で OS をつくる（31日目）最終日</title>
+		<link>/gnue/2006/07/19/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8831%e6%97%a5%e7%9b%ae%ef%bc%89%e6%9c%80%e7%b5%82%e6%97%a5/</link>
+					<comments>/gnue/2006/07/19/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8831%e6%97%a5%e7%9b%ae%ef%bc%89%e6%9c%80%e7%b5%82%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2006 00:50:45 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/19/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8831%e6%97%a5%e7%9b%ae%ef%bc%89%e6%9c%80%e7%b5%82%e6%97%a5/</guid>
+
+					<description><![CDATA[31日目、あとがき他。 とりあえず読了。 [この書籍のいいところ] &#8211; とりあえず「とっかかり」にはなる &#8211; 実際にクラックしてみせてその対策としてコードを変更するところ（筆者な妙なノリはちょっと [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4839919844/gnue-22" target="_blank"><div class="asin"><img decoding="async" src="http://images-jp.amazon.com/images/P/4839919844.09.MZZZZZZZ.jpg"  /></div></a></p>
+<p>31日目、あとがき他。<br />
+とりあえず読了。</p>
+<p></p>
+<p>[この書籍のいいところ]<br />
+&#8211; とりあえず「とっかかり」にはなる<br />
+&#8211; 実際にクラックしてみせてその対策としてコードを変更するところ（筆者な妙なノリはちょっと趣味ではないけれど）<br />
+&#8211; 反面教師的に「俺だったらこうはしないぞ」というモチベーションを与えてくれる。これが MINIX の教本だったら「お説御もっとも」とお腹いっぱいになって終わりになってしまうところだろう</p>
+<p>[この書籍の悪いところ]<br />
+&#8211; 本来 APPENDIX で掲載すべき情報をウェブサイトの紹介ですませてしまっている<br />
+&#8211; 一次資料へのリンクがない<br />
+&#8211; 読者ターゲットが微妙。あとがきにもあるように意図的なものであることはわかるのだが、初心者向けに書かれた C言語のソースコードは中級者以上にはストレスがたまり過ぎ</p>
+<p>[この書籍では教えてくれないこと]<br />
+&#8211; 仮想記憶<br />
+&#8211; アクセス競合<br />
+&#8211; HDD, CD-ROMアクセス<br />
+&#8211; ドライバ<br />
+&#8211; main 関数を使った普通の実行プログラム<br />
+&#8211; EFI<br />
+&#8211; x86(IA32)以外の CPU<br />
+&#8211; ほか、いろいろ</p>
+<p>[いまさらだけど]<br />
+&#8211; PC互換機の仕様って古くさい<br />
+&#8211; x86(IA32) の建て増しを繰り返した構造は汚い		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/19/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8831%e6%97%a5%e7%9b%ae%ef%bc%89%e6%9c%80%e7%b5%82%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（30日目）</title>
+		<link>/gnue/2006/07/19/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8830%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/19/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8830%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2006 16:51:03 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/19/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8830%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[30日目、終了。高度（？）なアプリ、IPL の改良、CD-ROM 起動。 アプリはコマンドライン計算機、テキストビューア、MMLプレイヤ、画像ビューア。BMP や JPEG のコードはよそからの流用だしとりあえず軽く流し [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				30日目、終了。高度（？）なアプリ、IPL の改良、CD-ROM 起動。</p>
+<p>アプリはコマンドライン計算機、テキストビューア、MMLプレイヤ、画像ビューア。BMP や JPEG のコードはよそからの流用だしとりあえず軽く流し読み。</p>
+<p>IPL の改良はセクタの読込み単位を変えて高速化。この本の著者は読込みセクタの数を気にしているけど、通常は FDD の中身を全部メモリにロードするなんてアプローチは取らないから、こんなところで１セクタ気にしてもなんだかなぁという感じ。ちなみにうちのクロスコンパイル環境だとサイズがちょっと大きくなって CD-ROM のコードでは不具合がでるので１セクタ余分に読込むようにコードを修正。</p>
+<p>CD-ROM 起動は CD-ROM を直接ハンドリングするのではなく El Torito フォーマットで FDD をエミュレート。毎度のことながら Windows のツールしか紹介されていない。Mac OS X の場合、hdiutil コマンドの -eltorito-boot オプションでなんとかなりそうな気がするのだけれど、どういうわけか -no-emul-boot をつけないと IPL が読込めない。-no-emul-boot だと当然 FDD をエミュレートしてくれないので IPL が FDD のイメージにアクセスできない、、、ってだめじゃん。しょうがないので DarwinPort で cdrecord をインストールして、それに含まれる mkisofs を使用した。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/19/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8830%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（29日目）</title>
+		<link>/gnue/2006/07/18/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8829%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/18/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8829%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2006 15:25:46 +0000</pubDate>
+				<category><![CDATA[SIDE-B]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/18/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8829%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[29日目、終了。圧縮ファイルの解凍、C言語の標準関数、アプリいろいろ。 圧縮アルゴリズムの説明はないけど独自形式の圧縮ファイル（アプリとかフォントとか）を読込んでアプリの実行できるようにする。この本の著者のこだわりは別に [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				29日目、終了。圧縮ファイルの解凍、C言語の標準関数、アプリいろいろ。</p>
+<p>圧縮アルゴリズムの説明はないけど独自形式の圧縮ファイル（アプリとかフォントとか）を読込んでアプリの実行できるようにする。この本の著者のこだわりは別にして、現在のような高速 CPU から低速デバイス（FDD, CD-ROM それにインターネット）にアクセスする場合には圧縮技術を使うのは非常に有効な手段である。</p>
+<p>C言語の標準関数については「こうやって標準関数を追加していきましょう」というさわりだけなので特にコメントなし。ひとつ言うとすれば一覧リストぐらいつけてほしい。</p>
+<p>アプリは非矩形ウィンドウと bball という線図形、それとインベーダーもどき。</p>
+<p>あと、圧縮ファイルかどうかのヘッダ（途中に 0x00 が入っているバイナリ）のチェックに strncmp を使用するのはまずいっしょ。っていうか、バグ！　memcmp を使用すべき。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/18/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8829%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（28日目）</title>
+		<link>/gnue/2006/07/16/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8828%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/16/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8828%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 16 Jul 2006 04:22:45 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/16/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8828%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[28日目、終了。今回は __alloca、ファイルAPI、日本語表示。 この本ではスタックが 4K 以上の場合は __alloca が呼ばれるということなのだが、私が使っているクロスコンパイル環境では違うようでエラーが発 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				28日目、終了。今回は __alloca、ファイルAPI、日本語表示。</p>
+<p>この本ではスタックが 4K 以上の場合は __alloca が呼ばれるということなのだが、私が使っているクロスコンパイル環境では違うようでエラーが発生しない。まぁ、とりあえずシンプルな __alloca の作成。</p>
+<p>ファイルAPI は open, seek, read, write, close をアプリから呼び出せるようにするだけ。</p>
+<p>日本語表示はファイルから日本語フォント（独自形式）を読込んで ShiftJIS や EUC のテキストを表示できるようにする。独自形式というのは個人的に好かないのだけどこの本の中でやろうと思うとしょうがないかな。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/16/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8828%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（27日目）</title>
+		<link>/gnue/2006/07/09/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8827%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/09/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8827%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 08 Jul 2006 17:57:13 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/09/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8827%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[27日目、終了。今回のメインは「アプリを守ろう」ということで LDT の導入、それと API のライブラリ化、あと前回のつづきと make 環境の整理。 いままでアプリを GDT(Global segment Descr [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				27日目、終了。今回のメインは「アプリを守ろう」ということで LDT の導入、それと API のライブラリ化、あと前回のつづきと make 環境の整理。</p>
+<p>いままでアプリを GDT(Global segment Descripor Table) で実行していたところを LDT(Local segment Descripor Table) で実行するように変更。この辺、重要。</p>
+<p>ライブラリ化では binutils のクロス環境だとうまく動作しなかったので(*1)、書籍付属の CD-ROM に入っていた golib00.c を単体でさくっとコンパイル（Intel Mac でも　PPC Mac でも大丈夫）。</p>
+<p>make 環境の整理により Makefile が複数になってしまった。Mac の環境に合わせて Makefile を手作業で書き換えているのでちょっとつらい。ま、あと３日分だから何とかなるか。</p>
+<p>*1) エラーは出ないのだけど、実際に Haribote OS でアプリを動かすとうまく動かない。何が原因？？？		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/09/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8827%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（26日目）</title>
+		<link>/gnue/2006/07/08/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8826%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/08/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8826%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 08 Jul 2006 14:30:09 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/08/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8826%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[26日目、終了。ウィンドウ移動の高速化、コンソールをいくつでもオープン・クローズ、start コマンドとコンソールを表示しない ncstコマンド。 start コマンドって何よ、Windows をお手本（？）にしてもうれ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				26日目、終了。ウィンドウ移動の高速化、コンソールをいくつでもオープン・クローズ、start コマンドとコンソールを表示しない ncstコマンド。</p>
+<p>start コマンドって何よ、Windows をお手本（？）にしてもうれしくない。コンソールの設計にもいろいろと問題あるし、とりあえずこんなもんということでスルー。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/08/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8826%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（25日目）</title>
+		<link>/gnue/2006/07/05/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8825%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/05/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8825%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2006 00:03:01 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/05/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8825%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[25日目、終了。コンソールを増やす。あと BEEP サウンド。 コンソールを増やすといっても２つだけ。タスクが fork できないのが痛い。]]></description>
+										<content:encoded><![CDATA[<p>				25日目、終了。コンソールを増やす。あと BEEP サウンド。</p>
+<p>コンソールを増やすといっても２つだけ。タスクが fork できないのが痛い。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/05/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8825%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（24日目）</title>
+		<link>/gnue/2006/07/05/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8824%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/05/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8824%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2006 21:04:39 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/05/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8824%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[24日目、終了。ウィンドウの切換え、移動ができるようになる。おまけとしてアプリ側からタイマーの使用。 ウィンドウに関してはちゃんとしたウィンドウシステムを設計しているわけではないので「とりあえずそれっぽく動くようになって [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				24日目、終了。ウィンドウの切換え、移動ができるようになる。おまけとしてアプリ側からタイマーの使用。</p>
+<p>ウィンドウに関してはちゃんとしたウィンドウシステムを設計しているわけではないので「とりあえずそれっぽく動くようになってよかったね。以上」という感じ。</p>
+<p>アプリ側のタイマーの使用では、アプリが終了したときにタイマーを解放しているのだが、、、、<strike>それだと他のアプリのタイマーも解放しちゃってまずいだろ(^^;　まぁ、もしかしたらいつものごとく後で直すのかもしれないけど。</strike>（現在はアプリが１つしか動かないのでこれでいいということみたい）</p>
+<p>ところで、ウィンドウやタイマーなどシステムコールが OS 側で確保しているリソースの管理は一考の余地あり。タスクが終了（正常もしくは異常）したときに安全かつ迅速に解放できるように管理すべし。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/05/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8824%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（23日目）</title>
+		<link>/gnue/2006/07/04/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8823%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/04/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8823%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Mon, 03 Jul 2006 16:18:05 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/04/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8823%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[23日目、終了。アプリ側で使える malloc、描画（点と線）とリフレッシュ、キー入力。 アプリ側で使える malloc はシステム側で使っているルーチンの流用だが粒度は細かくなっている。malloc があるのだったら  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>				23日目、終了。アプリ側で使える malloc、描画（点と線）とリフレッシュ、キー入力。</p>
+<p>アプリ側で使える malloc はシステム側で使っているルーチンの流用だが粒度は細かくなっている。malloc があるのだったら alloca も欲しいところだがまだない。</p>
+<p>点と線の描画はまんま。もっとも線の描画というと Bresenham のアルゴリズムぐらい紹介してほしいところ（OS には直接関係ないけど）。</p>
+<p>ところで、MacBook が修理から返ってきたので iBook G4 で動かしていたのを MacBook にしたら harib19g 以降がうまく動かないことを発見。MacBook と iBook G4 でクロスコンパイラのバージョンが違うので、もしかしたら最適化の関係かなと -O2 を -O1 に変更したらビンゴだった。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/04/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8823%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mac で OS をつくる（22日目）</title>
+		<link>/gnue/2006/07/03/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8822%e6%97%a5%e7%9b%ae%ef%bc%89/</link>
+					<comments>/gnue/2006/07/03/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8822%e6%97%a5%e7%9b%ae%ef%bc%89/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sun, 02 Jul 2006 23:34:37 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[OS自作入門]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2006/07/03/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8822%e6%97%a5%e7%9b%ae%ef%bc%89/</guid>
+
+					<description><![CDATA[22日目、終了。アプリ側（C言語）で文字列表示やウィンドウ表示を行う。 オブジェクトファイルのデータセグメントを利用できるようにするのが肝。ここでようやく .hrb ファイルの詳しい説明が出てくる。]]></description>
+										<content:encoded><![CDATA[<p>				22日目、終了。アプリ側（C言語）で文字列表示やウィンドウ表示を行う。</p>
+<p>オブジェクトファイルのデータセグメントを利用できるようにするのが肝。ここでようやく .hrb ファイルの詳しい説明が出てくる。		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2006/07/03/mac-%e3%81%a7-os-%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%ef%bc%8822%e6%97%a5%e7%9b%ae%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

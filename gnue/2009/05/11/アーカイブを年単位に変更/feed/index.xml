@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	アーカイブを年単位に変更 へのコメント	</title>
+	<atom:link href="/gnue/2009/05/11/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%82%92%E5%B9%B4%E5%8D%98%E4%BD%8D%E3%81%AB%E5%A4%89%E6%9B%B4/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2009/05/11/%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96%e3%82%92%e5%b9%b4%e5%8d%98%e4%bd%8d%e3%81%ab%e5%a4%89%e6%9b%b4/</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 May 2009 12:42:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		yaris より		</title>
+		<link>/gnue/2009/05/11/%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96%e3%82%92%e5%b9%b4%e5%8d%98%e4%bd%8d%e3%81%ab%e5%a4%89%e6%9b%b4/#comment-884</link>
+
+		<dc:creator><![CDATA[yaris]]></dc:creator>
+		<pubDate>Mon, 11 May 2009 12:42:21 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/gnue/?p=2202#comment-884</guid>
+
+					<description><![CDATA[お、いいアイデアですね。
+ボクも更新頻度が低いので、年単位で十分かも。
+しばらくしたらいじってみます。]]></description>
+			<content:encoded><![CDATA[<p>お、いいアイデアですね。<br />
+ボクも更新頻度が低いので、年単位で十分かも。<br />
+しばらくしたらいじってみます。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

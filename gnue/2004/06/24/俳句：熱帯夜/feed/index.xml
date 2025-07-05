@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	俳句：熱帯夜 へのコメント	</title>
+	<atom:link href="/gnue/2004/06/24/%E4%BF%B3%E5%8F%A5%EF%BC%9A%E7%86%B1%E5%B8%AF%E5%A4%9C/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2004/06/24/%e4%bf%b3%e5%8f%a5%ef%bc%9a%e7%86%b1%e5%b8%af%e5%a4%9c/</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Jun 2004 05:57:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

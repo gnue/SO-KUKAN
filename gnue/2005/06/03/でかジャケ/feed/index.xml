@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	でかジャケ へのコメント	</title>
+	<atom:link href="/gnue/2005/06/03/%E3%81%A7%E3%81%8B%E3%82%B8%E3%83%A3%E3%82%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2005/06/03/%e3%81%a7%e3%81%8b%e3%82%b8%e3%83%a3%e3%82%b1/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Jun 2005 15:14:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

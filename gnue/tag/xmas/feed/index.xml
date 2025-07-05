@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Xmas &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/xmas/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Dec 2008 16:18:09 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Xmas イブ</title>
+		<link>/gnue/2008/12/25/xmas-%e3%82%a4%e3%83%96/</link>
+					<comments>/gnue/2008/12/25/xmas-%e3%82%a4%e3%83%96/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 24 Dec 2008 16:18:09 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Xmas]]></category>
+		<category><![CDATA[俳句]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/?p=1571</guid>
+
+					<description><![CDATA[あ、明石家サンタが始まった。 ここで一首。 クリスマス ひとの不幸は 蜜の味　今夜も独り 明石家サンタ　（真魚） 二〇〇八　師走：クリスマスによせて]]></description>
+										<content:encoded><![CDATA[<p>				あ、明石家サンタが始まった。<br />
+ここで一首。</p>
+<p>クリスマス ひとの不幸は 蜜の味　今夜も独り 明石家サンタ　（真魚）</p>
+<p>二〇〇八　師走：クリスマスによせて		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2008/12/25/xmas-%e3%82%a4%e3%83%96/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>おばサンタ</title>
+		<link>/gnue/2007/12/22/%e3%81%8a%e3%81%b0%e3%82%b5%e3%83%b3%e3%82%bf/</link>
+					<comments>/gnue/2007/12/22/%e3%81%8a%e3%81%b0%e3%82%b5%e3%83%b3%e3%82%bf/#respond</comments>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Sat, 22 Dec 2007 13:35:50 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Xmas]]></category>
+		<guid isPermaLink="false">http://www.so-kukan.com/gnue/2007/12/%e3%81%8a%e3%81%b0%e3%82%b5%e3%83%b3%e3%82%bf/</guid>
+
+					<description><![CDATA[近くの西友に買い物に行ったら季節がらレジの人がサンタ帽を被っていた。若い娘やあんちゃんならまだいいのだけどおばさんはちょっとキツい。別におばさんを差別するわけじゃないけど、似合う似合わないというのはあると思う(^^;]]></description>
+										<content:encoded><![CDATA[<p>				近くの西友に買い物に行ったら季節がらレジの人がサンタ帽を被っていた。若い娘やあんちゃんならまだいいのだけどおばさんはちょっとキツい。別におばさんを差別するわけじゃないけど、似合う似合わないというのはあると思う(^^;		</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gnue/2007/12/22/%e3%81%8a%e3%81%b0%e3%82%b5%e3%83%b3%e3%82%bf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

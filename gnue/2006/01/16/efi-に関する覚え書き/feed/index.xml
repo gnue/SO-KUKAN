@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	EFI に関する覚え書き へのコメント	</title>
+	<atom:link href="/gnue/2006/01/16/efi-%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A6%9A%E3%81%88%E6%9B%B8%E3%81%8D/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue/2006/01/16/efi-%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e8%a6%9a%e3%81%88%e6%9b%b8%e3%81%8d/</link>
+	<description></description>
+	<lastBuildDate>Sun, 15 Jan 2006 15:15:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+</channel>
+</rss>

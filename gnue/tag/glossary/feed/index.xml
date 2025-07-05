@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Glossary &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/glossary/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Aug 2004 12:25:30 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>トレたま</title>
+		<link>/gnue/2004/08/18/%e3%83%88%e3%83%ac%e3%81%9f%e3%81%be/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2004 12:25:30 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Glossary]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/08/18/%e3%83%88%e3%83%ac%e3%81%9f%e3%81%be/</guid>
+
+					<description><![CDATA[テレビ東京「WBS」の人気コーナー「トレンドたまご」のこと。今後ヒットしそうな新商品や新サービスを紹介するコーナーで新し物好きにおすすめ。]]></description>
+										<content:encoded><![CDATA[<p>				テレビ東京「WBS」の人気コーナー「トレンドたまご」のこと。今後ヒットしそうな新商品や新サービスを紹介するコーナーで新し物好きにおすすめ。		</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WBS</title>
+		<link>/gnue/2004/08/18/wbs/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2004 12:17:47 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<category><![CDATA[Glossary]]></category>
+		<guid isPermaLink="false">http://221x249x57x13.ap221.ftth.ucom.ne.jp/wp/2004/08/18/wbs/</guid>
+
+					<description><![CDATA[東京ローカル（テレビ東京）のニュース番組「ワールドビジネスサテライト」のこと。日経がスポンサーで経済よりのニュースが多いのが特徴。 ⇒ ワールドビジネスサテライト]]></description>
+										<content:encoded><![CDATA[<p>				東京ローカル（テレビ東京）のニュース番組「ワールドビジネスサテライト」のこと。日経がスポンサーで経済よりのニュースが多いのが特徴。</p>
+<p>⇒ <a href="http://www.tv-tokyo.co.jp/wbs/" target="_blank" rel="noopener">ワールドビジネスサテライト</a>		</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

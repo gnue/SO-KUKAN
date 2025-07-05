@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>podcasting &#8211; 鵺的：想空間</title>
+	<atom:link href="/gnue/tag/podcasting/feed/" rel="self" type="application/rss+xml" />
+	<link>/gnue</link>
+	<description></description>
+	<lastBuildDate>Tue, 29 Aug 2006 23:11:13 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>「日本Rubyカンファレンス2006」の音声ファイル</title>
+		<link>/gnue/2006/08/30/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e3%81%ae%e9%9f%b3%e5%a3%b0%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab/</link>
+		
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2006 23:11:13 +0000</pubDate>
+				<category><![CDATA[VOX]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[podcasting]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<guid isPermaLink="false">http://gnue.wordpress.com/2006/08/30/%e3%80%8c%e6%97%a5%e6%9c%acruby%e3%82%ab%e3%83%b3%e3%83%95%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%b92006%e3%80%8d%e3%81%ae%e9%9f%b3%e5%a3%b0%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab</guid>
+
+					<description><![CDATA[「日本Rubyカンファレンス2006 」の音声ファイルが公開されています。Podcasting 対応。 lame というコマンドツールで MP3 に変換しているようですが&#160;Mac OS X の iTunes で [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>「日本Rubyカンファレンス2006 」の音声ファイルが公開されています。Podcasting 対応。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div><span class="Apple-style-span">lame というコマンドツールで MP3 に変換しているようですが&#160;</span>Mac OS X の iTunes ではアーティスト名が文字化けするようです。<a href="http://kazuhiko.tdiary.net/20060830.html#p01">ふぇみにん</a>さんが対策を探しています。</div>
+<div><br class="khtml-block-placeholder" /></div>
+<div>⇒ <a href="http://jp.rubyist.net/RubyKaigi2006/audio/">日本Rubyカンファレンス2006 &#8211; 音声ファイル</a>（日本Rubyの会）</div>
+<div><br class="khtml-block-placeholder" /></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

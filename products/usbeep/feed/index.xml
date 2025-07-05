@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	USBeep へのコメント	</title>
+	<atom:link href="/products/usbeep/feed/" rel="self" type="application/rss+xml" />
+	<link>/products</link>
+	<description>Are Your Lights On?</description>
+	<lastBuildDate>Thu, 21 Feb 2013 04:20:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		gnue より		</title>
+		<link>/products/usbeep/#comment-219</link>
+
+		<dc:creator><![CDATA[gnue]]></dc:creator>
+		<pubDate>Thu, 21 Feb 2013 04:20:44 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-219</guid>
+
+					<description><![CDATA[Hi, John.
+
+Yes, USBeep is background application.
+Using OS X Speech Synthesis framework.]]></description>
+			<content:encoded><![CDATA[<p>Hi, John.</p>
+<p>Yes, USBeep is background application.<br />
+Using OS X Speech Synthesis framework.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		John より		</title>
+		<link>/products/usbeep/#comment-218</link>
+
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2013 19:42:48 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-218</guid>
+
+					<description><![CDATA[hello, is it just a software application? When the alarm rings does it come from the cumputer itself?
+
+Grtz]]></description>
+			<content:encoded><![CDATA[<p>hello, is it just a software application? When the alarm rings does it come from the cumputer itself?</p>
+<p>Grtz</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Mac App Store に再提出 &#171; 鵺的：想空間 より		</title>
+		<link>/products/usbeep/#comment-217</link>
+
+		<dc:creator><![CDATA[Mac App Store に再提出 &#171; 鵺的：想空間]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2011 05:14:01 +0000</pubDate>
+		<guid isPermaLink="false">http://so-kukan.com/products/#comment-217</guid>
+
+					<description><![CDATA[[...] Apple からリジェクトされたこいつとこいつを再提出しました。今度は通ってくれるといいな&#8230; [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Apple からリジェクトされたこいつとこいつを再提出しました。今度は通ってくれるといいな&#8230; [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
